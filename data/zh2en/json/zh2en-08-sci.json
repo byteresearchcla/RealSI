@@ -1,0 +1,918 @@
+{
+    "vid": "zh2en-08-sci",
+    "duration": 286120,
+    "segment": [
+        {
+            "start_time": 880,
+            "end_time": 11000,
+            "src_text": "好。除了这个以外，还有一个，太阳的大小问题。太阳半径。看得出来吗？",
+            "trg_text": "OK. Apart from that, there is another question: the size of the sun, or the radius of the sun. Can you see it?",
+            "utterance": [
+                {
+                    "sub_start_time": 880,
+                    "sub_end_time": 7960,
+                    "sub_src_text": "好。除了这个以外，还有一个，太阳的大小问题。",
+                    "sub_trg_text": "OK. Apart from that, there is another question: the size of the sun,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 8600,
+                    "sub_end_time": 9630,
+                    "sub_src_text": "太阳半径。",
+                    "sub_trg_text": "or the radius of the sun.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 10080,
+                    "sub_end_time": 11000,
+                    "sub_src_text": "看得出来吗？",
+                    "sub_trg_text": "Can you see it?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 11730,
+            "end_time": 18530,
+            "src_text": "太阳半径，笼统地说不需要那么多小数点，七十万公里。",
+            "trg_text": "For the radius of the sun, generally speaking, we don't need many decimal points. 700,000 kilometers.",
+            "utterance": [
+                {
+                    "sub_start_time": 11730,
+                    "sub_end_time": 16390,
+                    "sub_src_text": "太阳半径，笼统地说不需要那么多小数点，",
+                    "sub_trg_text": "For the radius of the sun, generally speaking, we don't need many decimal points.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 16970,
+                    "sub_end_time": 18530,
+                    "sub_src_text": "七十万公里。",
+                    "sub_trg_text": "700,000 kilometers.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 19850,
+            "end_time": 24970,
+            "src_text": "太阳的半径就是七十万公里，核算过来它的直径就是一百四十万公里。",
+            "trg_text": "The radius of the sun is 700,000 kilometers, and after calculation, its diameter is 1,400,000 kilometers.",
+            "utterance": [
+                {
+                    "sub_start_time": 19850,
+                    "sub_end_time": 21550,
+                    "sub_src_text": "太阳的半径就是七十万公里，",
+                    "sub_trg_text": "The radius of the sun is 700,000 kilometers,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 22290,
+                    "sub_end_time": 24970,
+                    "sub_src_text": "核算过来它的直径就是一百四十万公里。",
+                    "sub_trg_text": "and after calculation, its diameter is 1,400,000 kilometers.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 25520,
+            "end_time": 27570,
+            "src_text": "这就是太阳的大小，是吧？",
+            "trg_text": "This is the size of the sun, right?",
+            "utterance": [
+                {
+                    "sub_start_time": 25520,
+                    "sub_end_time": 27570,
+                    "sub_src_text": "这就是太阳的大小，是吧？",
+                    "sub_trg_text": "This is the size of the sun, right?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 28660,
+            "end_time": 39530,
+            "src_text": "第三个，太阳质量。二乘十的三十次方千克。我们在看这个图上面看得很清楚。",
+            "trg_text": "The third one, the mass of the sun. 2×10^30 kilograms. It's very clear on this picture.",
+            "utterance": [
+                {
+                    "sub_start_time": 28660,
+                    "sub_end_time": 30790,
+                    "sub_src_text": "第三个，太阳质量。",
+                    "sub_trg_text": "The third one, the mass of the sun.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 31820,
+                    "sub_end_time": 34370,
+                    "sub_src_text": "二乘十的三十次方千克。",
+                    "sub_trg_text": "2×10^30 kilograms.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 35460,
+                    "sub_end_time": 39530,
+                    "sub_src_text": "我们在看这个图上面看得很清楚。",
+                    "sub_trg_text": "It's very clear on this picture.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 40200,
+            "end_time": 46370,
+            "src_text": "这里面有个标记，M、R都有个下标，一个圈圈点。",
+            "trg_text": "There is a mark here. Both M and R have a subscript after them - a circle with a dot.",
+            "utterance": [
+                {
+                    "sub_start_time": 40200,
+                    "sub_end_time": 41390,
+                    "sub_src_text": "这里面有个标记，",
+                    "sub_trg_text": "There is a mark here.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 42040,
+                    "sub_end_time": 45240,
+                    "sub_src_text": "M、R都有个下标，",
+                    "sub_trg_text": "Both M and R have a subscript after them",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 45520,
+                    "sub_end_time": 46370,
+                    "sub_src_text": "一个圈圈点。",
+                    "sub_trg_text": "- a circle with a dot.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 47610,
+            "end_time": 52550,
+            "src_text": "请大家注意，这个下波标是专用符号，仅仅是指太阳，",
+            "trg_text": "Please note that this subscript is a specialized symbol, only referring to the sun.",
+            "utterance": [
+                {
+                    "sub_start_time": 47610,
+                    "sub_end_time": 48360,
+                    "sub_src_text": "请大家注意，",
+                    "sub_trg_text": "Please note that",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 48360,
+                    "sub_end_time": 50750,
+                    "sub_src_text": "这个下波标是专用符号，",
+                    "sub_trg_text": "this subscript is a specialized symbol,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 51200,
+                    "sub_end_time": 52550,
+                    "sub_src_text": "仅仅是指太阳，",
+                    "sub_trg_text": "only referring to the sun.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 52840,
+            "end_time": 58270,
+            "src_text": "啊，你如果去称质量，称完了就行了，你不要在你的质量下面加这个，",
+            "trg_text": "If you are referring to the mass of other stuff, just refer to it. But don't put this symbol under the mass.",
+            "utterance": [
+                {
+                    "sub_start_time": 52840,
+                    "sub_end_time": 56240,
+                    "sub_src_text": "啊，你如果去称质量，称完了就行了，",
+                    "sub_trg_text": "If you are referring to the mass of other stuff, just refer to it.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 56240,
+                    "sub_end_time": 58270,
+                    "sub_src_text": "你不要在你的质量下面加这个，",
+                    "sub_trg_text": "But don't put this symbol under the mass.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 58600,
+            "end_time": 64430,
+            "src_text": "这个仅指太阳质量，太阳半径，不能挪作坨，它用，啊。专用符号。",
+            "trg_text": "It only refers to the mass and radius of the sun and cannot be used elsewhere. It's a specialized symbol.",
+            "utterance": [
+                {
+                    "sub_start_time": 58600,
+                    "sub_end_time": 60210,
+                    "sub_src_text": "这个仅指太阳质量，",
+                    "sub_trg_text": "It only refers to the mass",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 60480,
+                    "sub_end_time": 61330,
+                    "sub_src_text": "太阳半径，",
+                    "sub_trg_text": "and radius of the sun",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 61520,
+                    "sub_end_time": 63530,
+                    "sub_src_text": "不能挪作坨，它用，啊。",
+                    "sub_trg_text": "and cannot be used elsewhere.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 63630,
+                    "sub_end_time": 64430,
+                    "sub_src_text": "专用符号。",
+                    "sub_trg_text": "It's a specialized symbol.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 66080,
+            "end_time": 73870,
+            "src_text": "太阳的位置。距离银河系中心，刚才说了三点二六万光年的一个旋臂内。银河系是漩涡星系。",
+            "trg_text": "As to the position of the sun, it's, as just mentioned, within a spiral arm 32,600 light years away from the center of the Milky Way. The Milky Way is a spiral galaxy.",
+            "utterance": [
+                {
+                    "sub_start_time": 66080,
+                    "sub_end_time": 66800,
+                    "sub_src_text": "太阳的位置。",
+                    "sub_trg_text": "As to the position of the sun,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 67830,
+                    "sub_end_time": 72240,
+                    "sub_src_text": "距离银河系中心，刚才说了三点二六万光年的一个旋臂内。",
+                    "sub_trg_text": "it's, as just mentioned, within a spiral arm 32,600 light years away from the center of the Milky Way.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 72510,
+                    "sub_end_time": 73870,
+                    "sub_src_text": "银河系是漩涡星系。",
+                    "sub_trg_text": "The Milky Way is a spiral galaxy.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 74680,
+            "end_time": 82450,
+            "src_text": "距银面以北约二十六光年处。什么意思？我们知道按照通常的法则，上北下南，",
+            "trg_text": "It's about 26 light years north of the galactic plane. What does it mean? We know that according to the usual rule of up north and down south.",
+            "utterance": [
+                {
+                    "sub_start_time": 74680,
+                    "sub_end_time": 77930,
+                    "sub_src_text": "距银面以北约二十六光年处。",
+                    "sub_trg_text": "It's about 26 light years north of the galactic plane.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 78039,
+                    "sub_end_time": 78750,
+                    "sub_src_text": "什么意思？",
+                    "sub_trg_text": "What does it mean?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 79610,
+                    "sub_end_time": 82450,
+                    "sub_src_text": "我们知道按照通常的法则，上北下南，",
+                    "sub_trg_text": "We know that according to the usual rule of up north and down south.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 82720,
+            "end_time": 92450,
+            "src_text": "如果把太，银河系的中心平面找到，在中心平面上方，啊，就是北二十六光年处，太阳在那个位置。",
+            "trg_text": "If you find the central plane of the Milky Way, 26 light years north above the central plane, the sun is there.",
+            "utterance": [
+                {
+                    "sub_start_time": 82720,
+                    "sub_end_time": 85970,
+                    "sub_src_text": "如果把太，银河系的中心平面找到，",
+                    "sub_trg_text": "If you find the central plane of the Milky Way,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 86240,
+                    "sub_end_time": 90950,
+                    "sub_src_text": "在中心平面上方，啊，就是北二十六光年处，",
+                    "sub_trg_text": "26 light years north above the central plane,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 91440,
+                    "sub_end_time": 92450,
+                    "sub_src_text": "太阳在那个位置。",
+                    "sub_trg_text": "the sun is there.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 93350,
+            "end_time": 100670,
+            "src_text": "研究发现，太阳在银河系中的位置，非常的普通，没有任何特殊性。",
+            "trg_text": "Studies have found that the position of the sun in the Milky Way is very ordinary and nothing special.",
+            "utterance": [
+                {
+                    "sub_start_time": 93350,
+                    "sub_end_time": 94310,
+                    "sub_src_text": "研究发现，",
+                    "sub_trg_text": "Studies have found that",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 94430,
+                    "sub_end_time": 98960,
+                    "sub_src_text": "太阳在银河系中的位置，非常的普通，",
+                    "sub_trg_text": "the position of the sun in the Milky Way is very ordinary",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 99229,
+                    "sub_end_time": 100670,
+                    "sub_src_text": "没有任何特殊性。",
+                    "sub_trg_text": "and nothing special.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 100670,
+            "end_time": 105380,
+            "src_text": "它不既在既不在中心平面上，也不在一个特定的重要位置上。",
+            "trg_text": "It is neither on the central plane nor at a certain important position.",
+            "utterance": [
+                {
+                    "sub_start_time": 100670,
+                    "sub_end_time": 102740,
+                    "sub_src_text": "它不既在既不在中心平面上，",
+                    "sub_trg_text": "It is neither on the central plane",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 102789,
+                    "sub_end_time": 105380,
+                    "sub_src_text": "也不在一个特定的重要位置上。",
+                    "sub_trg_text": "nor at a certain important position.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 105630,
+            "end_time": 111880,
+            "src_text": "所以像这种天体在太，银河系当中太多了，不足为奇，是吧？",
+            "trg_text": "There are so many such celestial bodies in the Milky Way that even the sun is no surprise, right?",
+            "utterance": [
+                {
+                    "sub_start_time": 105630,
+                    "sub_end_time": 110550,
+                    "sub_src_text": "所以像这种天体在太，银河系当中太多了，",
+                    "sub_trg_text": "There are so many such celestial bodies in the Milky Way",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 110550,
+                    "sub_end_time": 111880,
+                    "sub_src_text": "不足为奇，是吧？",
+                    "sub_trg_text": "that even the sun is no surprise, right?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 111880,
+            "end_time": 118720,
+            "src_text": "银河系中有多少银河，恒星啊？我们也不知道，没人能数得出来。",
+            "trg_text": "How many stars are there in the Milky Way? We don't know. No one can count that.",
+            "utterance": [
+                {
+                    "sub_start_time": 111880,
+                    "sub_end_time": 115090,
+                    "sub_src_text": "银河系中有多少银河，恒星啊？",
+                    "sub_trg_text": "How many stars are there in the Milky Way?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 116509,
+                    "sub_end_time": 117430,
+                    "sub_src_text": "我们也不知道，",
+                    "sub_trg_text": "We don't know.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 117430,
+                    "sub_end_time": 118720,
+                    "sub_src_text": "没人能数得出来。",
+                    "sub_trg_text": "No one can count that.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 119190,
+            "end_time": 123630,
+            "src_text": "如果你说个大概数字，一千亿颗吧，就是这个样子。",
+            "trg_text": "If you just want a rough number: it's about one hundred billion,",
+            "utterance": [
+                {
+                    "sub_start_time": 119190,
+                    "sub_end_time": 121160,
+                    "sub_src_text": "如果你说个大概数字，",
+                    "sub_trg_text": "If you just want a rough number:",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 121390,
+                    "sub_end_time": 123630,
+                    "sub_src_text": "一千亿颗吧，就是这个样子。",
+                    "sub_trg_text": "it's about one hundred billion,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 124190,
+            "end_time": 133140,
+            "src_text": "那如果我要问你，宇宙当中到底有多少恒星啊？我想这个问题一般人是回答不了的。",
+            "trg_text": "then if you were to ask, how many stars are there in the universe exactly? This is a question that most people can't answer.",
+            "utterance": [
+                {
+                    "sub_start_time": 124190,
+                    "sub_end_time": 130229,
+                    "sub_src_text": "那如果我要问你，宇宙当中到底有多少恒星啊？",
+                    "sub_trg_text": "then if you were to ask, how many stars are there in the universe exactly?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 130729,
+                    "sub_end_time": 133140,
+                    "sub_src_text": "我想这个问题一般人是回答不了的。",
+                    "sub_trg_text": "This is a question that most people can't answer.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 134090,
+            "end_time": 143920,
+            "src_text": "通常我们认为每一个银，星系有一千亿颗恒星。而我们现在已经发现的多少星系有多少呢？大概上百亿个。",
+            "trg_text": "As a rule, we suppose that each galaxy has one hundred billion stars. And how many galaxies have we discovered now? About tens of billions.",
+            "utterance": [
+                {
+                    "sub_start_time": 134090,
+                    "sub_end_time": 137930,
+                    "sub_src_text": "通常我们认为每一个银，星系有一千亿颗恒星。",
+                    "sub_trg_text": "As a rule, we suppose that each galaxy has one hundred billion stars.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 138170,
+                    "sub_end_time": 141340,
+                    "sub_src_text": "而我们现在已经发现的多少星系有多少呢？",
+                    "sub_trg_text": "And how many galaxies have we discovered now?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 141630,
+                    "sub_end_time": 143920,
+                    "sub_src_text": "大概上百亿个。",
+                    "sub_trg_text": "About tens of billions.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 144360,
+            "end_time": 149210,
+            "src_text": "这样一算的话，没法，呃，没法进行具体的数字的描绘。",
+            "trg_text": "As such, it's impossible to describe it with a specific figure.",
+            "utterance": [
+                {
+                    "sub_start_time": 144360,
+                    "sub_end_time": 149210,
+                    "sub_src_text": "这样一算的话，没法，呃，没法进行具体的数字的描绘。",
+                    "sub_trg_text": "As such, it's impossible to describe it with a specific figure.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 149550,
+            "end_time": 152720,
+            "src_text": "有人做了一个比喻，这个比喻还是可以的，",
+            "trg_text": "Someone has made an appropriate metaphor.",
+            "utterance": [
+                {
+                    "sub_start_time": 149550,
+                    "sub_end_time": 152720,
+                    "sub_src_text": "有人做了一个比喻，这个比喻还是可以的，",
+                    "sub_trg_text": "Someone has made an appropriate metaphor.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 153190,
+            "end_time": 161890,
+            "src_text": "就是你在，你去地球上找，地球上，你只要找到一颗沙子，说明在宇宙中对应一百万颗恒星。",
+            "trg_text": "That is, if a grain of sand on the earth corresponds to one million stars in the universe,",
+            "utterance": [
+                {
+                    "sub_start_time": 153190,
+                    "sub_end_time": 158970,
+                    "sub_src_text": "就是你在，你去地球上找，地球上，你只要找到一颗沙子，",
+                    "sub_trg_text": "That is, if a grain of sand on the earth",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 159600,
+                    "sub_end_time": 161890,
+                    "sub_src_text": "说明在宇宙中对应一百万颗恒星。",
+                    "sub_trg_text": "corresponds to one million stars in the universe,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 162400,
+            "end_time": 169360,
+            "src_text": "你看看地球上到底有多少颗沙子，你就可以算出来宇宙当中到底有多少的恒星了。",
+            "trg_text": "you just need to see how many grains of sand there are on the earth to calculate how many stars there are in the universe.",
+            "utterance": [
+                {
+                    "sub_start_time": 162400,
+                    "sub_end_time": 164550,
+                    "sub_src_text": "你看看地球上到底有多少颗沙子，",
+                    "sub_trg_text": "you just need to see how many grains of sand there are on the earth",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 164680,
+                    "sub_end_time": 169360,
+                    "sub_src_text": "你就可以算出来宇宙当中到底有多少的恒星了。",
+                    "sub_trg_text": "to calculate how many stars there are in the universe.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 170710,
+            "end_time": 181510,
+            "src_text": "运动。太阳的运动除了在旋臂中和其他恒星一起绕银河中心运动以外，相对周围的恒星还做每秒大概二十公里的一个平动。",
+            "trg_text": "Motion. Besides moving with other stars in the spiral arm around the center of the Milky Way, the sun also makes a translational motion of about 20 kilometers per second relative to the surrounding stars.",
+            "utterance": [
+                {
+                    "sub_start_time": 170710,
+                    "sub_end_time": 171350,
+                    "sub_src_text": "运动。",
+                    "sub_trg_text": "Motion.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 171630,
+                    "sub_end_time": 176410,
+                    "sub_src_text": "太阳的运动除了在旋臂中和其他恒星一起绕银河中心运动以外，",
+                    "sub_trg_text": "Besides moving with other stars in the spiral arm around the center of the Milky Way,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 176630,
+                    "sub_end_time": 181510,
+                    "sub_src_text": "相对周围的恒星还做每秒大概二十公里的一个平动。",
+                    "sub_trg_text": "the sun also makes a translational motion of about 20 kilometers per second relative to the surrounding stars.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 182170,
+            "end_time": 187350,
+            "src_text": "好我们再来看看，非常重要的一个太阳参数，叫太阳常数。",
+            "trg_text": "OK, let's take a look at a very important solar parameter, called solar constant.",
+            "utterance": [
+                {
+                    "sub_start_time": 182170,
+                    "sub_end_time": 185850,
+                    "sub_src_text": "好我们再来看看，非常重要的一个太阳参数，",
+                    "sub_trg_text": "OK, let's take a look at a very important solar parameter,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 186010,
+                    "sub_end_time": 187350,
+                    "sub_src_text": "叫太阳常数。",
+                    "sub_trg_text": "called solar constant.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 187600,
+            "end_time": 197650,
+            "src_text": "我们第一，太阳常数是指单位时间垂直射入地球大气层外单位面积上的能量，用小f表示。",
+            "trg_text": "First, the solar constant refers to the amount of energy per unit time, per unit area, that is vertically incident on the earth's atmosphere from outside. It is represented by a lowercase f.",
+            "utterance": [
+                {
+                    "sub_start_time": 187600,
+                    "sub_end_time": 196040,
+                    "sub_src_text": "我们第一，太阳常数是指单位时间垂直射入地球大气层外单位面积上的能量，",
+                    "sub_trg_text": "First, the solar constant refers to the amount of energy per unit time, per unit area, that is vertically incident on the earth's atmosphere from outside.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 196360,
+                    "sub_end_time": 197650,
+                    "sub_src_text": "用小f表示。",
+                    "sub_trg_text": "It is represented by a lowercase f.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 198300,
+            "end_time": 206210,
+            "src_text": "同样，由于这个小f是太阳的专用常数，所以用f太阳。",
+            "trg_text": "Similarly, since this lowercase f is a special constant of the sun, it is denoted as f☉.",
+            "utterance": [
+                {
+                    "sub_start_time": 198300,
+                    "sub_end_time": 206210,
+                    "sub_src_text": "同样，由于这个小f是太阳的专用常数，所以用f太阳。",
+                    "sub_trg_text": "Similarly, since this lowercase f is a special constant of the sun, it is denoted as f☉.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 207160,
+            "end_time": 216770,
+            "src_text": "它的大小你不用去管它，无所谓，大小无所谓。但是这个数据非常非常重要。",
+            "trg_text": "Neglect its magnitude. It doesn't matter. But this figure is extremely, extremely important.",
+            "utterance": [
+                {
+                    "sub_start_time": 207160,
+                    "sub_end_time": 210480,
+                    "sub_src_text": "它的大小你不用去管它，无所谓，",
+                    "sub_trg_text": "Neglect its magnitude.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 210730,
+                    "sub_end_time": 211910,
+                    "sub_src_text": "大小无所谓。",
+                    "sub_trg_text": "It doesn't matter.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 212720,
+                    "sub_end_time": 216770,
+                    "sub_src_text": "但是这个数据非常非常重要。",
+                    "sub_trg_text": "But this figure is extremely, extremely important.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 217410,
+            "end_time": 230660,
+            "src_text": "我不知道你看到这个数据以后有没有想法。如果是很久以前啊，你第一个获取了这个数据，地球上你第一个获取这个数据，你会干嘛？",
+            "trg_text": "I don't know if you have any thoughts after seeing this figure. If it was a long time ago, and you were the first one on earth to obtain this data, what would you do?",
+            "utterance": [
+                {
+                    "sub_start_time": 217410,
+                    "sub_end_time": 219770,
+                    "sub_src_text": "我不知道你看到这个数据以后有没有想法。",
+                    "sub_trg_text": "I don't know if you have any thoughts after seeing this figure.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 221070,
+                    "sub_end_time": 222610,
+                    "sub_src_text": "如果是很久以前啊，",
+                    "sub_trg_text": "If it was a long time ago,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 222910,
+                    "sub_end_time": 225710,
+                    "sub_src_text": "你第一个获取了这个数据，",
+                    "sub_trg_text": "and you were the first one",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 226590,
+                    "sub_end_time": 228710,
+                    "sub_src_text": "地球上你第一个获取这个数据，",
+                    "sub_trg_text": "on earth to obtain this data,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 229710,
+                    "sub_end_time": 230660,
+                    "sub_src_text": "你会干嘛？",
+                    "sub_trg_text": "what would you do?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 231100,
+            "end_time": 237700,
+            "src_text": "啊，就拿这个数据在那里看。哎呀，好，好厉害，我可以写一篇文章在Nature上面了，是不是啊，",
+            "trg_text": "You will stare at the figure and think to yourself, \"Incredible! Now I can write an article to be published in Nature,\" isn't it?",
+            "utterance": [
+                {
+                    "sub_start_time": 231100,
+                    "sub_end_time": 233460,
+                    "sub_src_text": "啊，就拿这个数据在那里看。",
+                    "sub_trg_text": "You will stare at the figure and think to yourself,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 233460,
+                    "sub_end_time": 234740,
+                    "sub_src_text": "哎呀，好，好厉害，",
+                    "sub_trg_text": "\"Incredible!",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 234740,
+                    "sub_end_time": 236770,
+                    "sub_src_text": "我可以写一篇文章在Nature上面了，",
+                    "sub_trg_text": "Now I can write an article to be published in Nature,\"",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 237060,
+                    "sub_end_time": 237700,
+                    "sub_src_text": "是不是啊，",
+                    "sub_trg_text": "isn't it?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 237700,
+            "end_time": 241610,
+            "src_text": "我发现了一个新的东西，你有没有，会不会是这样，沾沾自喜啊？",
+            "trg_text": "\"I discovered something new.\" Will you be this complacent?",
+            "utterance": [
+                {
+                    "sub_start_time": 237700,
+                    "sub_end_time": 238860,
+                    "sub_src_text": "我发现了一个新的东西，",
+                    "sub_trg_text": "\"I discovered something new.\"",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 238860,
+                    "sub_end_time": 241610,
+                    "sub_src_text": "你有没有，会不会是这样，沾沾自喜啊？",
+                    "sub_trg_text": "Will you be this complacent?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 242070,
+            "end_time": 247730,
+            "src_text": "你其实从这个数据里面你可以得出来很多东西啊。有没有想过啊？",
+            "trg_text": "In fact, you can obtain a lot from this figure. Have you ever thought about it?",
+            "utterance": [
+                {
+                    "sub_start_time": 242070,
+                    "sub_end_time": 245600,
+                    "sub_src_text": "你其实从这个数据里面你可以得出来很多东西啊。",
+                    "sub_trg_text": "In fact, you can obtain a lot from this figure.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 246640,
+                    "sub_end_time": 247730,
+                    "sub_src_text": "有没有想过啊？",
+                    "sub_trg_text": "Have you ever thought about it?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 247870,
+            "end_time": 250950,
+            "src_text": "我再看看，我们再看看。什么叫太阳常数？",
+            "trg_text": "Let's take a look again. What is the solar constant?",
+            "utterance": [
+                {
+                    "sub_start_time": 247870,
+                    "sub_end_time": 249350,
+                    "sub_src_text": "我再看看，我们再看看。",
+                    "sub_trg_text": "Let's take a look again.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 249670,
+                    "sub_end_time": 250950,
+                    "sub_src_text": "什么叫太阳常数？",
+                    "sub_trg_text": "What is the solar constant?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 251320,
+            "end_time": 257480,
+            "src_text": "单位时间垂直射入地球大气层外单位面积上的能量。",
+            "trg_text": "The amount of energy perpendicularly incident on a unit area outside the earth's atmosphere per unit time,",
+            "utterance": [
+                {
+                    "sub_start_time": 251320,
+                    "sub_end_time": 257480,
+                    "sub_src_text": "单位时间垂直射入地球大气层外单位面积上的能量。",
+                    "sub_trg_text": "The amount of energy perpendicularly incident on a unit area outside the earth's atmosphere per unit time,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 257899,
+            "end_time": 270150,
+            "src_text": "诶，你可不可以做这样一个考量，以太阳的中心为中心，以太阳到地球大气层外为半径做一个大球，可以吗？",
+            "trg_text": "Picture this in your mind: visualize a large sphere, taking the center of the sun as the center and the distance from the sun to outer edge of the earth's atmosphere as its radius, alright?",
+            "utterance": [
+                {
+                    "sub_start_time": 257899,
+                    "sub_end_time": 260029,
+                    "sub_src_text": "诶，你可不可以做这样一个考量，",
+                    "sub_trg_text": "Picture this in your mind:",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 260820,
+                    "sub_end_time": 262570,
+                    "sub_src_text": "以太阳的中心为中心，",
+                    "sub_trg_text": "visualize a large sphere, taking the center of the sun as the center",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 263220,
+                    "sub_end_time": 270150,
+                    "sub_src_text": "以太阳到地球大气层外为半径做一个大球，可以吗？",
+                    "sub_trg_text": "and the distance from the sun to outer edge of the earth's atmosphere as its radius, alright?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 271520,
+            "end_time": 277810,
+            "src_text": "那么这个大球上，如果我们认为太阳的辐射是均匀的，各项同性的，",
+            "trg_text": "Then on this large sphere, if we assume that the radiation of the sun is uniform and isotropic,",
+            "utterance": [
+                {
+                    "sub_start_time": 271520,
+                    "sub_end_time": 277810,
+                    "sub_src_text": "那么这个大球上，如果我们认为太阳的辐射是均匀的，各项同性的，",
+                    "sub_trg_text": "Then on this large sphere, if we assume that the radiation of the sun is uniform and isotropic,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 278280,
+            "end_time": 287000,
+            "src_text": "那么这个大球上每个单位面积上面每秒钟通过的能量就知道了。是不是这个概念？",
+            "trg_text": "the energy passing through each unit area on this large sphere per second would be revealed, isn't it?",
+            "utterance": [
+                {
+                    "sub_start_time": 278280,
+                    "sub_end_time": 285909,
+                    "sub_src_text": "那么这个大球上每个单位面积上面每秒钟通过的能量就知道了。",
+                    "sub_trg_text": "the energy passing through each unit area on this large sphere per second would be revealed,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 286280,
+                    "sub_end_time": 287000,
+                    "sub_src_text": "是不是这个概念？",
+                    "sub_trg_text": "isn't it?",
+                    "term": []
+                }
+            ]
+        }
+    ]
+}

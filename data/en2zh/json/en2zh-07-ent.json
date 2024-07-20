@@ -1,0 +1,1200 @@
+{
+    "vid": "en2zh-07-ent",
+    "duration": 312000,
+    "segment": [
+        {
+            "start_time": 0,
+            "end_time": 8900,
+            "src_text": "Yeah. I think I think the only argument that I that that is kind of valid in this instance,at least for me personally, is the comparison between Pokémon games, right?",
+            "trg_text": "我觉得这种情况唯一可能有意义的论点是 与精灵宝可梦游戏之间的比较，至少我是这么觉得的，对吧？",
+            "utterance": [
+                {
+                    "sub_start_time": 0,
+                    "sub_end_time": 5410,
+                    "sub_src_text": "Yeah. I think I think the only argument that I that that is kind of valid in this instance,",
+                    "sub_trg_text": "我觉得这种情况唯一可能有意义的论点是",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 5430,
+                    "sub_end_time": 8900,
+                    "sub_src_text": "at least for me personally, is the comparison between Pokémon games, right?",
+                    "sub_trg_text": "与精灵宝可梦游戏之间的比较，至少我是这么觉得的，对吧？",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 8900,
+            "end_time": 19170,
+            "src_text": "Yeah, yeah.In the sense that like, you know, as a Pokémon fan myself,I think this game being so successful and it being compared to Pokémon,I think it's a good wake up call for Nintendo.",
+            "trg_text": "对的。 我自己就是个精灵宝可梦粉丝， 我觉得这个游戏这么成功，能够与精灵宝可梦做比较， 对任天堂来说是敲响了警钟。",
+            "utterance": [
+                {
+                    "sub_start_time": 8900,
+                    "sub_end_time": 9280,
+                    "sub_src_text": "Yeah, yeah.",
+                    "sub_trg_text": "对的。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 9280,
+                    "sub_end_time": 12150,
+                    "sub_src_text": "In the sense that like, you know, as a Pokémon fan myself,",
+                    "sub_trg_text": "我自己就是个精灵宝可梦粉丝，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 12150,
+                    "sub_end_time": 16590,
+                    "sub_src_text": "I think this game being so successful and it being compared to Pokémon,",
+                    "sub_trg_text": "我觉得这个游戏这么成功，能够与精灵宝可梦做比较，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 16880,
+                    "sub_end_time": 19170,
+                    "sub_src_text": "I think it's a good wake up call for Nintendo.",
+                    "sub_trg_text": "对任天堂来说是敲响了警钟。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 19170,
+            "end_time": 25210,
+            "src_text": "That's what a lot of people are arguing.Yeah. But a lot of people like, yeah you can, you can say that without arguing,Dude, like. No, you can't,because this is Nintendo we're talking about.",
+            "trg_text": "很多人都这样说。 很多人说，这一点无可争议。 不是的， 因为我们说的可是任天堂。",
+            "utterance": [
+                {
+                    "sub_start_time": 19170,
+                    "sub_end_time": 20070,
+                    "sub_src_text": "That's what a lot of people are arguing.",
+                    "sub_trg_text": "很多人都这样说。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 20070,
+                    "sub_end_time": 22550,
+                    "sub_src_text": "Yeah. But a lot of people like, yeah you can, you can say that without arguing,",
+                    "sub_trg_text": "很多人说，这一点无可争议。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 22550,
+                    "sub_end_time": 23700,
+                    "sub_src_text": "Dude, like. No, you can't,",
+                    "sub_trg_text": "不是的，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 23700,
+                    "sub_end_time": 25210,
+                    "sub_src_text": "because this is Nintendo we're talking about.",
+                    "sub_trg_text": "因为我们说的可是任天堂。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 25210,
+            "end_time": 39990,
+            "src_text": "Would you would you say the, let's say, the feel and the, you know, feeling of plagiarism or like,cause there's always a question.Oh, yeah, yeah uncomfortable. Between plagiarism and inspiration.Yeah, it's, I'm I'm, I'm playing it and it feels uncomfortably close.Right, right. Like you even like, Breath of the Wild.",
+            "trg_text": "就说这种感觉，这种抄袭感或者，因为是抄袭还是借鉴 这个问题总会存在。 是的，不舒服。介于抄袭和借鉴之间。 是的，我玩的时候会觉得游戏太像了，让人感到不适。 对。就像荒野之息。",
+            "utterance": [
+                {
+                    "sub_start_time": 25210,
+                    "sub_end_time": 31680,
+                    "sub_src_text": "Would you would you say the, let's say, the feel and the, you know, feeling of plagiarism or like,",
+                    "sub_trg_text": "就说这种感觉，这种抄袭感或者，因为是抄袭还是借鉴",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 32250,
+                    "sub_end_time": 33030,
+                    "sub_src_text": "cause there's always a question.",
+                    "sub_trg_text": "这个问题总会存在。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 33030,
+                    "sub_end_time": 36040,
+                    "sub_src_text": "Oh, yeah, yeah uncomfortable. Between plagiarism and inspiration.",
+                    "sub_trg_text": "是的，不舒服。介于抄袭和借鉴之间。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 36040,
+                    "sub_end_time": 38150,
+                    "sub_src_text": "Yeah, it's, I'm I'm, I'm playing it and it feels uncomfortably close.",
+                    "sub_trg_text": "是的，我玩的时候会觉得游戏太像了，让人感到不适。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 38150,
+                    "sub_end_time": 39990,
+                    "sub_src_text": "Right, right. Like you even like, Breath of the Wild.",
+                    "sub_trg_text": "对。就像荒野之息。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 40190,
+            "end_time": 48540,
+            "src_text": "Right. But then again, it's the same question of...Cause I I remember this.Is it plagiarism or is it inspiration?No. Cause I I remember this kind of discussion happening when Genshin first released.",
+            "trg_text": "话说回来，这是同一个问题…… 因为我记得这个。 它到底是抄袭还是借鉴呢？ 不是。我记得原神首次发布的时候也有这种讨论。",
+            "utterance": [
+                {
+                    "sub_start_time": 40190,
+                    "sub_end_time": 42280,
+                    "sub_src_text": "Right. But then again, it's the same question of...",
+                    "sub_trg_text": "话说回来，这是同一个问题……",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 42500,
+                    "sub_end_time": 43810,
+                    "sub_src_text": "Cause I I remember this.",
+                    "sub_trg_text": "因为我记得这个。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 43790,
+                    "sub_end_time": 45590,
+                    "sub_src_text": "Is it plagiarism or is it inspiration?",
+                    "sub_trg_text": "它到底是抄袭还是借鉴呢？",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 45590,
+                    "sub_end_time": 48540,
+                    "sub_src_text": "No. Cause I I remember this kind of discussion happening when Genshin first released.",
+                    "sub_trg_text": "不是。我记得原神首次发布的时候也有这种讨论。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 48540,
+            "end_time": 58210,
+            "src_text": "If you, if you, it's, it's, if if you think that this is like plagiarizing,for example, like Breath of the Wild,then I guess you, it would have to be the same,it's the same level as Genshin of like.Right.",
+            "trg_text": "如果你觉得这是抄袭， 比如抄袭了荒野之息， 那得是一模一样的， 得像原神那种程度。 对。",
+            "utterance": [
+                {
+                    "sub_start_time": 48540,
+                    "sub_end_time": 52350,
+                    "sub_src_text": "If you, if you, it's, it's, if if you think that this is like plagiarizing,",
+                    "sub_trg_text": "如果你觉得这是抄袭，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 52350,
+                    "sub_end_time": 53830,
+                    "sub_src_text": "for example, like Breath of the Wild,",
+                    "sub_trg_text": "比如抄袭了荒野之息，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 54030,
+                    "sub_end_time": 56000,
+                    "sub_src_text": "then I guess you, it would have to be the same,",
+                    "sub_trg_text": "那得是一模一样的，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 56000,
+                    "sub_end_time": 57810,
+                    "sub_src_text": "it's the same level as Genshin of like.",
+                    "sub_trg_text": "得像原神那种程度。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 57820,
+                    "sub_end_time": 58210,
+                    "sub_src_text": "Right.",
+                    "sub_trg_text": "对。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 58700,
+            "end_time": 68070,
+            "src_text": "But then like open world games that you can explore.That's not something you can plagiarize.Right. Is it like a very similar style and approach to how Breath of the Wild did it?",
+            "trg_text": "但像那种可以探索的开放世界游戏， 这就不是你能抄袭的了。 对。它是否和荒野之息的风格及实现途径非常相似？",
+            "utterance": [
+                {
+                    "sub_start_time": 58700,
+                    "sub_end_time": 61910,
+                    "sub_src_text": "But then like open world games that you can explore.",
+                    "sub_trg_text": "但像那种可以探索的开放世界游戏，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 62020,
+                    "sub_end_time": 63900,
+                    "sub_src_text": "That's not something you can plagiarize.",
+                    "sub_trg_text": "这就不是你能抄袭的了。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 63900,
+                    "sub_end_time": 68070,
+                    "sub_src_text": "Right. Is it like a very similar style and approach to how Breath of the Wild did it?",
+                    "sub_trg_text": "对。它是否和荒野之息的风格及实现途径非常相似？",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 68210,
+            "end_time": 73250,
+            "src_text": "Yes, I think so.But the same way the Genshin is.And again, I'm I'm not trying to defend this.But there were open world games before Breath of the Wild.",
+            "trg_text": "我认为答案是肯定的。 但是原神也是这样。 再次申明，我不是在维护这个游戏。 但荒野之息出现之前就有开放世界游戏了。",
+            "utterance": [
+                {
+                    "sub_start_time": 68210,
+                    "sub_end_time": 68890,
+                    "sub_src_text": "Yes, I think so.",
+                    "sub_trg_text": "我认为答案是肯定的。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 68920,
+                    "sub_end_time": 69960,
+                    "sub_src_text": "But the same way the Genshin is.",
+                    "sub_trg_text": "但是原神也是这样。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 70080,
+                    "sub_end_time": 71430,
+                    "sub_src_text": "And again, I'm I'm not trying to defend this.",
+                    "sub_trg_text": "再次申明，我不是在维护这个游戏。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 71430,
+                    "sub_end_time": 73250,
+                    "sub_src_text": "But there were open world games before Breath of the Wild.",
+                    "sub_trg_text": "但荒野之息出现之前就有开放世界游戏了。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 73250,
+            "end_time": 80039,
+            "src_text": "Yeah, I don't know. I'm not trying to defend this game,but, um, I like, I think cause it's the Pokémon club is way too close.",
+            "trg_text": "我不清楚。我不是在维护这个游戏， 但是我觉得它太像精灵宝可梦了。",
+            "utterance": [
+                {
+                    "sub_start_time": 73250,
+                    "sub_end_time": 74920,
+                    "sub_src_text": "Yeah, I don't know. I'm not trying to defend this game,",
+                    "sub_trg_text": "我不清楚。我不是在维护这个游戏，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 75130,
+                    "sub_end_time": 80039,
+                    "sub_src_text": "but, um, I like, I think cause it's the Pokémon club is way too close.",
+                    "sub_trg_text": "但是我觉得它太像精灵宝可梦了。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 80039,
+            "end_time": 86850,
+            "src_text": "It's way, way, way, way too close.Yeah, cause like, I'm looking just, like, at some of these picturesand I'm looking at some of these monsters and I'm like, oh, that looks like that Pokémon,",
+            "trg_text": "真的太像了。还有一个像拉鲁拉丝。 我在看这些图片， 看有些怪物。我觉得，这个像精灵宝可梦，",
+            "utterance": [
+                {
+                    "sub_start_time": 80039,
+                    "sub_end_time": 81310,
+                    "sub_src_text": "It's way, way, way, way too close.",
+                    "sub_trg_text": "真的太像了。还有一个像拉鲁拉丝。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 81330,
+                    "sub_end_time": 83910,
+                    "sub_src_text": "Yeah, cause like, I'm looking just, like, at some of these pictures",
+                    "sub_trg_text": "我在看这些图片，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 83910,
+                    "sub_end_time": 86850,
+                    "sub_src_text": "and I'm looking at some of these monsters and I'm like, oh, that looks like that Pokémon,",
+                    "sub_trg_text": "看有些怪物。我觉得，这个像精灵宝可梦，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 86850,
+            "end_time": 94910,
+            "src_text": "that looks like that, looks like Lucario.The fuck, there's the one that looks like Ralts up there.There's just some things that they did that just baffles me why they did the exact...",
+            "trg_text": "那个像路卡利欧， 还有一个像拉鲁拉丝。 我不懂为什么他们为什么这样做。",
+            "utterance": [
+                {
+                    "sub_start_time": 86850,
+                    "sub_end_time": 88490,
+                    "sub_src_text": "that looks like that, looks like Lucario.",
+                    "sub_trg_text": "那个像路卡利欧，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 88490,
+                    "sub_end_time": 90810,
+                    "sub_src_text": "The fuck, there's the one that looks like Ralts up there.",
+                    "sub_trg_text": "还有一个像拉鲁拉丝。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 90810,
+                    "sub_end_time": 94910,
+                    "sub_src_text": "There's just some things that they did that just baffles me why they did the exact...",
+                    "sub_trg_text": "我不懂为什么他们为什么这样做。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 94910,
+            "end_time": 106930,
+            "src_text": "That looks like Leafeon.Do you do you know what this looks like?Um, like, you know sometimes you'll browsing on YouTube or some fucking site you shouldn't be on.Yeah. You see this ad of this weird mobile game.",
+            "trg_text": "那个看起来像叶伊布。 你知道这像什么吗？ 就像你在 YouTube 上看片或者在看某个不该看的网站的时候， 就会看到这种广告或者奇奇怪怪的手机游戏推广。",
+            "utterance": [
+                {
+                    "sub_start_time": 94910,
+                    "sub_end_time": 95750,
+                    "sub_src_text": "That looks like Leafeon.",
+                    "sub_trg_text": "那个看起来像叶伊布。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 95750,
+                    "sub_end_time": 96970,
+                    "sub_src_text": "Do you do you know what this looks like?",
+                    "sub_trg_text": "你知道这像什么吗？",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 97550,
+                    "sub_end_time": 103890,
+                    "sub_src_text": "Um, like, you know sometimes you'll browsing on YouTube or some fucking site you shouldn't be on.",
+                    "sub_trg_text": "就像你在 YouTube 上看片或者在看某个不该看的网站的时候，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 103890,
+                    "sub_end_time": 106930,
+                    "sub_src_text": "Yeah. You see this ad of this weird mobile game.",
+                    "sub_trg_text": "就会看到这种广告或者奇奇怪怪的手机游戏推广。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 106930,
+            "end_time": 114610,
+            "src_text": "Yeah, yeah, yeah. That gets advertised.Yeah. Yeah, yeah. You know, you know what I mean.The one that looks like a Pokémon game, right?No, no, it could be like any mobile, like any weird mobile game of,",
+            "trg_text": "对。 你知道我在说什么。 像精灵宝可梦的游戏，对吧？ 不，可以是任何奇奇怪怪的手机游戏。",
+            "utterance": [
+                {
+                    "sub_start_time": 106930,
+                    "sub_end_time": 108330,
+                    "sub_src_text": "Yeah, yeah, yeah. That gets advertised.",
+                    "sub_trg_text": "对。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 108330,
+                    "sub_end_time": 109470,
+                    "sub_src_text": "Yeah. Yeah, yeah. You know, you know what I mean.",
+                    "sub_trg_text": "你知道我在说什么。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 109470,
+                    "sub_end_time": 110970,
+                    "sub_src_text": "The one that looks like a Pokémon game, right?",
+                    "sub_trg_text": "像精灵宝可梦的游戏，对吧？",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 111250,
+                    "sub_end_time": 114610,
+                    "sub_src_text": "No, no, it could be like any mobile, like any weird mobile game of,",
+                    "sub_trg_text": "不，可以是任何奇奇怪怪的手机游戏。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 114610,
+            "end_time": 119479,
+            "src_text": "it's like a fucking, maybe it's a League ripoff or maybe it's a Pokémon ripoff.Yeah. Or some big ripoff,",
+            "trg_text": "可能是英雄联盟的翻版或精灵宝可梦的翻版。 对。或者其他游戏的翻版。",
+            "utterance": [
+                {
+                    "sub_start_time": 114610,
+                    "sub_end_time": 118350,
+                    "sub_src_text": "it's like a fucking, maybe it's a League ripoff or maybe it's a Pokémon ripoff.",
+                    "sub_trg_text": "可能是英雄联盟的翻版或精灵宝可梦的翻版。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 118350,
+                    "sub_end_time": 119479,
+                    "sub_src_text": "Yeah. Or some big ripoff,",
+                    "sub_trg_text": "对。或者其他游戏的翻版。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 119479,
+            "end_time": 124830,
+            "src_text": "and you're like, there is no way this game exists.And then you look into it and it's just like, oh, this is just a fake build or whatever.",
+            "trg_text": "你会想这种游戏是怎么存在的。 你了解一下就会发现，它只是个假的改版。",
+            "utterance": [
+                {
+                    "sub_start_time": 119479,
+                    "sub_end_time": 121730,
+                    "sub_src_text": "and you're like, there is no way this game exists.",
+                    "sub_trg_text": "你会想这种游戏是怎么存在的。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 121740,
+                    "sub_end_time": 124830,
+                    "sub_src_text": "And then you look into it and it's just like, oh, this is just a fake build or whatever.",
+                    "sub_trg_text": "你了解一下就会发现，它只是个假的改版。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 124830,
+            "end_time": 132400,
+            "src_text": "But it kind of feels like the creators just looked at all the games they like,and just taken every single aspect from every game they likeand shoved it into one.",
+            "trg_text": "但感觉创建者参考了所有他们喜欢的游戏， 从各个方面抄他们喜欢的游戏， 然后拼成一个游戏。",
+            "utterance": [
+                {
+                    "sub_start_time": 124830,
+                    "sub_end_time": 127670,
+                    "sub_src_text": "But it kind of feels like the creators just looked at all the games they like,",
+                    "sub_trg_text": "但感觉创建者参考了所有他们喜欢的游戏，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 128020,
+                    "sub_end_time": 131140,
+                    "sub_src_text": "and just taken every single aspect from every game they like",
+                    "sub_trg_text": "从各个方面抄他们喜欢的游戏，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 131140,
+                    "sub_end_time": 132400,
+                    "sub_src_text": "and shoved it into one.",
+                    "sub_trg_text": "然后拼成一个游戏。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 132620,
+            "end_time": 142560,
+            "src_text": "But also maybe kind of copy the style of all those things a little too much.Like, like I was mentioning earlier,there's some things they copy too much,which I think were just completely unnecessary to copy.",
+            "trg_text": "但可能这些东西的风格抄袭有点过头了。 像我之前提到的， 他们有些东西抄得太多， 我觉得根本没必要。",
+            "utterance": [
+                {
+                    "sub_start_time": 132620,
+                    "sub_end_time": 137880,
+                    "sub_src_text": "But also maybe kind of copy the style of all those things a little too much.",
+                    "sub_trg_text": "但可能这些东西的风格抄袭有点过头了。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 138170,
+                    "sub_end_time": 139040,
+                    "sub_src_text": "Like, like I was mentioning earlier,",
+                    "sub_trg_text": "像我之前提到的，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 139050,
+                    "sub_end_time": 140329,
+                    "sub_src_text": "there's some things they copy too much,",
+                    "sub_trg_text": "他们有些东西抄得太多，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 140329,
+                    "sub_end_time": 142560,
+                    "sub_src_text": "which I think were just completely unnecessary to copy.",
+                    "sub_trg_text": "我觉得根本没必要。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 143000,
+            "end_time": 151550,
+            "src_text": "Um, like when you when you catch a a a mon or pal or whatever you wanna call them.A mon?I I call them mons,cause I refuse to call them pal.It reminds me too much of Christian.",
+            "trg_text": "当你抓了一只宝可梦或者帕鲁，喜欢叫什么就叫什么吧。 一只宝可梦？ 我称它们为宝可梦。 我不想叫帕鲁。 这让我想到了基督教。",
+            "utterance": [
+                {
+                    "sub_start_time": 143000,
+                    "sub_end_time": 147680,
+                    "sub_src_text": "Um, like when you when you catch a a a mon or pal or whatever you wanna call them.",
+                    "sub_trg_text": "当你抓了一只宝可梦或者帕鲁，喜欢叫什么就叫什么吧。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 147690,
+                    "sub_end_time": 148290,
+                    "sub_src_text": "A mon?",
+                    "sub_trg_text": "一只宝可梦？",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 148290,
+                    "sub_end_time": 149220,
+                    "sub_src_text": "I I call them mons,",
+                    "sub_trg_text": "我称它们为宝可梦。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 149220,
+                    "sub_end_time": 150320,
+                    "sub_src_text": "cause I refuse to call them pal.",
+                    "sub_trg_text": "我不想叫帕鲁。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 150360,
+                    "sub_end_time": 151550,
+                    "sub_src_text": "It reminds me too much of Christian.",
+                    "sub_trg_text": "这让我想到了基督教。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 151560,
+            "end_time": 157050,
+            "src_text": "And I don't like calling them because I won't pals, um.I mean, that's a you problem.Yeah, it is actually me problem.",
+            "trg_text": "我不想这样叫，因为我才不会和它们做朋友。 我觉得那是你的问题。 对，是我的问题。",
+            "utterance": [
+                {
+                    "sub_start_time": 151560,
+                    "sub_end_time": 154240,
+                    "sub_src_text": "And I don't like calling them because I won't pals, um.",
+                    "sub_trg_text": "我不想这样叫，因为我才不会和它们做朋友。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 154750,
+                    "sub_end_time": 155710,
+                    "sub_src_text": "I mean, that's a you problem.",
+                    "sub_trg_text": "我觉得那是你的问题。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 155710,
+                    "sub_end_time": 157050,
+                    "sub_src_text": "Yeah, it is actually me problem.",
+                    "sub_trg_text": "对，是我的问题。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 157540,
+            "end_time": 166329,
+            "src_text": "Like the ball, when you throw it,it wiggles three times.You could have just not done that,like, why did you, it's like if you wanted to avoid the plagiarism accusations,",
+            "trg_text": "就像这个球，你一扔， 它会弹 3 次。 你不用非得这样做。 如果你不希望别人控诉你抄袭，",
+            "utterance": [
+                {
+                    "sub_start_time": 157540,
+                    "sub_end_time": 158540,
+                    "sub_src_text": "Like the ball, when you throw it,",
+                    "sub_trg_text": "就像这个球，你一扔，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 158540,
+                    "sub_end_time": 159710,
+                    "sub_src_text": "it wiggles three times.",
+                    "sub_trg_text": "它会弹 3 次。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 159880,
+                    "sub_end_time": 160950,
+                    "sub_src_text": "You could have just not done that,",
+                    "sub_trg_text": "你不用非得这样做。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 161160,
+                    "sub_end_time": 166329,
+                    "sub_src_text": "like, why did you, it's like if you wanted to avoid the plagiarism accusations,",
+                    "sub_trg_text": "如果你不希望别人控诉你抄袭，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 166520,
+            "end_time": 174060,
+            "src_text": "why would you make it so that so many little things?Even just the fact you have to throw a ball-shaped thing in order to catch it as well, I think...",
+            "trg_text": "那你为什么做这么多小东西？ 即使你必须扔个球状的东西来抓怪，我觉得也……",
+            "utterance": [
+                {
+                    "sub_start_time": 166520,
+                    "sub_end_time": 169840,
+                    "sub_src_text": "why would you make it so that so many little things?",
+                    "sub_trg_text": "那你为什么做这么多小东西？",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 170190,
+                    "sub_end_time": 174060,
+                    "sub_src_text": "Even just the fact you have to throw a ball-shaped thing in order to catch it as well, I think...",
+                    "sub_trg_text": "即使你必须扔个球状的东西来抓怪，我觉得也……",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 174060,
+            "end_time": 186710,
+            "src_text": "I mean, it's kind of, it's kind of hard, and I get that's kind of unavoidable,but uh... At least change the shape, you know,make it a cube or something.And like, I don't think little things like that would been badif they hadn't had so many designs that are too closely inspired.Sure.",
+            "trg_text": "我觉得这有点难避免， 但是……至少要改变形状吧， 做成立方体之类的。 我觉得这些小东西不一定是坏事， 如果它们很多设计灵感来源都不是非常相似的话。 的确。",
+            "utterance": [
+                {
+                    "sub_start_time": 174060,
+                    "sub_end_time": 176730,
+                    "sub_src_text": "I mean, it's kind of, it's kind of hard, and I get that's kind of unavoidable,",
+                    "sub_trg_text": "我觉得这有点难避免，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 176900,
+                    "sub_end_time": 178600,
+                    "sub_src_text": "but uh... At least change the shape, you know,",
+                    "sub_trg_text": "但是……至少要改变形状吧，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 178600,
+                    "sub_end_time": 179840,
+                    "sub_src_text": "make it a cube or something.",
+                    "sub_trg_text": "做成立方体之类的。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 180560,
+                    "sub_end_time": 183050,
+                    "sub_src_text": "And like, I don't think little things like that would been bad",
+                    "sub_trg_text": "我觉得这些小东西不一定是坏事，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 183060,
+                    "sub_end_time": 186300,
+                    "sub_src_text": "if they hadn't had so many designs that are too closely inspired.",
+                    "sub_trg_text": "如果它们很多设计灵感来源都不是非常相似的话。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 186300,
+                    "sub_end_time": 186710,
+                    "sub_src_text": "Sure.",
+                    "sub_trg_text": "的确。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 186710,
+            "end_time": 198190,
+            "src_text": "But then a lot of people argued that the designs are inspired.Pokémon designs inspired from Yokai,or mythology and dragon.Real animals. Or real animals, even.Like, people arguing that the sheeps look too same to the Pokémon sheep,",
+            "trg_text": "但很多人会说这些设计是借鉴的。 精灵宝可梦设计借鉴了日本妖怪、 或者神话传说和龙， 甚至真实的动物。 有人说这头羊太像精灵宝可梦里的羊了。",
+            "utterance": [
+                {
+                    "sub_start_time": 186710,
+                    "sub_end_time": 189620,
+                    "sub_src_text": "But then a lot of people argued that the designs are inspired.",
+                    "sub_trg_text": "但很多人会说这些设计是借鉴的。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 189620,
+                    "sub_end_time": 191620,
+                    "sub_src_text": "Pokémon designs inspired from Yokai,",
+                    "sub_trg_text": "精灵宝可梦设计借鉴了日本妖怪、",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 191620,
+                    "sub_end_time": 193190,
+                    "sub_src_text": "or mythology and dragon.",
+                    "sub_trg_text": "或者神话传说和龙，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 193220,
+                    "sub_end_time": 195300,
+                    "sub_src_text": "Real animals. Or real animals, even.",
+                    "sub_trg_text": "甚至真实的动物。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 195300,
+                    "sub_end_time": 198190,
+                    "sub_src_text": "Like, people arguing that the sheeps look too same to the Pokémon sheep,",
+                    "sub_trg_text": "有人说这头羊太像精灵宝可梦里的羊了。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 198190,
+            "end_time": 205880,
+            "src_text": "people like, it's a fucking sheep dolls.Yes, which I agree with.Yeah. Um. And I think that I think you could have the same conversation of...",
+            "trg_text": "大家就说，这只是只羊玩偶呀。 我也这样认为。 我觉得你可能会说同样的话，",
+            "utterance": [
+                {
+                    "sub_start_time": 198190,
+                    "sub_end_time": 199850,
+                    "sub_src_text": "people like, it's a fucking sheep dolls.",
+                    "sub_trg_text": "大家就说，这只是只羊玩偶呀。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 199850,
+                    "sub_end_time": 201050,
+                    "sub_src_text": "Yes, which I agree with.",
+                    "sub_trg_text": "我也这样认为。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 201050,
+                    "sub_end_time": 205880,
+                    "sub_src_text": "Yeah. Um. And I think that I think you could have the same conversation of...",
+                    "sub_trg_text": "我觉得你可能会说同样的话，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 206810,
+            "end_time": 212320,
+            "src_text": "The sheeps don't aren't a fucking copy.Yeah. But hey, that Lucario looks awfully a lot like the Lucario.",
+            "trg_text": "羊又不是抄的。 但是，那个路卡利欧也太像这个路卡利欧了。",
+            "utterance": [
+                {
+                    "sub_start_time": 206810,
+                    "sub_end_time": 208770,
+                    "sub_src_text": "The sheeps don't aren't a fucking copy.",
+                    "sub_trg_text": "羊又不是抄的。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 208770,
+                    "sub_end_time": 212320,
+                    "sub_src_text": "Yeah. But hey, that Lucario looks awfully a lot like the Lucario.",
+                    "sub_trg_text": "但是，那个路卡利欧也太像这个路卡利欧了。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 212370,
+            "end_time": 218800,
+            "src_text": "Well, I mean, I'm, I'm, I'm just looking at this, right?To go to the top image.Like that third one there.That straight up looks like Leafeon.Yeah, absolutely.",
+            "trg_text": "我在看这个。 最上面那个图片。 那边第三个。 那个一看就像叶伊布。 确实。",
+            "utterance": [
+                {
+                    "sub_start_time": 212370,
+                    "sub_end_time": 214130,
+                    "sub_src_text": "Well, I mean, I'm, I'm, I'm just looking at this, right?",
+                    "sub_trg_text": "我在看这个。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 214130,
+                    "sub_end_time": 215450,
+                    "sub_src_text": "To go to the top image.",
+                    "sub_trg_text": "最上面那个图片。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 215450,
+                    "sub_end_time": 216570,
+                    "sub_src_text": "Like that third one there.",
+                    "sub_trg_text": "那边第三个。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 216570,
+                    "sub_end_time": 218120,
+                    "sub_src_text": "That straight up looks like Leafeon.",
+                    "sub_trg_text": "那个一看就像叶伊布。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 218170,
+                    "sub_end_time": 218800,
+                    "sub_src_text": "Yeah, absolutely.",
+                    "sub_trg_text": "确实。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 218810,
+            "end_time": 226150,
+            "src_text": "Like, it's not even...Like I think, I think you can say that they copy, they're not copied, but...Even the color palette is exactly the same as Leafeon.",
+            "trg_text": "甚至 都没有……我觉得你可以说他们没有抄袭，但是…… 甚至连配色都和叶伊布一样。",
+            "utterance": [
+                {
+                    "sub_start_time": 218810,
+                    "sub_end_time": 219810,
+                    "sub_src_text": "Like, it's not even...",
+                    "sub_trg_text": "甚至",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 219920,
+                    "sub_end_time": 223800,
+                    "sub_src_text": "Like I think, I think you can say that they copy, they're not copied, but...",
+                    "sub_trg_text": "都没有……我觉得你可以说他们没有抄袭，但是……",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 223800,
+                    "sub_end_time": 226150,
+                    "sub_src_text": "Even the color palette is exactly the same as Leafeon.",
+                    "sub_trg_text": "甚至连配色都和叶伊布一样。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 226150,
+            "end_time": 234640,
+            "src_text": "Some of the things are, I, I think even if it there is no legal battle here right?I think as a as a consumer,you can be like, yeah, there's sure a little too close.",
+            "trg_text": "我觉得就算没有法律纠纷，对吧？ 作为消费者， 你也会觉得，它们确实太像了。",
+            "utterance": [
+                {
+                    "sub_start_time": 226150,
+                    "sub_end_time": 230610,
+                    "sub_src_text": "Some of the things are, I, I think even if it there is no legal battle here right?",
+                    "sub_trg_text": "我觉得就算没有法律纠纷，对吧？",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 230610,
+                    "sub_end_time": 232070,
+                    "sub_src_text": "I think as a as a consumer,",
+                    "sub_trg_text": "作为消费者，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 232070,
+                    "sub_end_time": 234640,
+                    "sub_src_text": "you can be like, yeah, there's sure a little too close.",
+                    "sub_trg_text": "你也会觉得，它们确实太像了。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 234640,
+            "end_time": 245870,
+            "src_text": "Yeah. But at the same time,Pokémon fans are so starved for a good fucking gamethat I think they are just rejoicing at the fact that they basically get the game they wanted.No. I I agree, look as... Which is weird.",
+            "trg_text": "但同时， 精灵宝可梦粉丝太渴望一款好游戏了， 我觉得他们都在为获得自己想要的游戏欢欣鼓舞。 不是这样的。我也认为它们很相似，这有点奇怪。",
+            "utterance": [
+                {
+                    "sub_start_time": 234640,
+                    "sub_end_time": 236040,
+                    "sub_src_text": "Yeah. But at the same time,",
+                    "sub_trg_text": "但同时，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 236320,
+                    "sub_end_time": 239840,
+                    "sub_src_text": "Pokémon fans are so starved for a good fucking game",
+                    "sub_trg_text": "精灵宝可梦粉丝太渴望一款好游戏了，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 240000,
+                    "sub_end_time": 243630,
+                    "sub_src_text": "that I think they are just rejoicing at the fact that they basically get the game they wanted.",
+                    "sub_trg_text": "我觉得他们都在为获得自己想要的游戏欢欣鼓舞。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 243630,
+                    "sub_end_time": 245870,
+                    "sub_src_text": "No. I I agree, look as... Which is weird.",
+                    "sub_trg_text": "不是这样的。我也认为它们很相似，这有点奇怪。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 245880,
+            "end_time": 257600,
+            "src_text": "Yeah, I think as a Pokémon fan,I think this game becoming successful is great for the Pokémon communitybecause it is putting pressure, I think, or like to hope,it is putting pressure until Nintendo sues.",
+            "trg_text": "我觉得作为一个精灵宝可梦粉丝，这款游戏的成功对精灵宝可梦社群来说是好消息，因为它会施加压力， 这款游戏的成功对精灵宝可梦社群来说是好消息， 因为它会施加压力，我希望， 它施加压力，直到任天堂起诉。",
+            "utterance": [
+                {
+                    "sub_start_time": 245880,
+                    "sub_end_time": 247560,
+                    "sub_src_text": "Yeah, I think as a Pokémon fan,",
+                    "sub_trg_text": "我觉得作为一个精灵宝可梦粉丝，这款游戏的成功对精灵宝可梦社群来说是好消息，因为它会施加压力，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 247560,
+                    "sub_end_time": 251680,
+                    "sub_src_text": "I think this game becoming successful is great for the Pokémon community",
+                    "sub_trg_text": "这款游戏的成功对精灵宝可梦社群来说是好消息，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 251680,
+                    "sub_end_time": 255760,
+                    "sub_src_text": "because it is putting pressure, I think, or like to hope,",
+                    "sub_trg_text": "因为它会施加压力，我希望，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 255760,
+                    "sub_end_time": 257600,
+                    "sub_src_text": "it is putting pressure until Nintendo sues.",
+                    "sub_trg_text": "它施加压力，直到任天堂起诉。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 257600,
+            "end_time": 270820,
+            "src_text": "But I think it's putting pressure on Nintendo to be like,hey, make a fucking good game.But I don't think that that has to mean that the company success is,uh, we should be super, uh, so tough.",
+            "trg_text": "但我认为它在给任天堂施加压力， 提醒任天堂做款好游戏。 但我觉得这并不一定意味着公司的成功…… 我们应该非常……艰难。",
+            "utterance": [
+                {
+                    "sub_start_time": 257600,
+                    "sub_end_time": 259800,
+                    "sub_src_text": "But I think it's putting pressure on Nintendo to be like,",
+                    "sub_trg_text": "但我认为它在给任天堂施加压力，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 259800,
+                    "sub_end_time": 261920,
+                    "sub_src_text": "hey, make a fucking good game.",
+                    "sub_trg_text": "提醒任天堂做款好游戏。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 261920,
+                    "sub_end_time": 266800,
+                    "sub_src_text": "But I don't think that that has to mean that the company success is,",
+                    "sub_trg_text": "但我觉得这并不一定意味着公司的成功……",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 266960,
+                    "sub_end_time": 270820,
+                    "sub_src_text": "uh, we should be super, uh, so tough.",
+                    "sub_trg_text": "我们应该非常……艰难。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 270820,
+            "end_time": 276370,
+            "src_text": "Cause I think that statement can exist,whilst also being like hey,you guys took a little too much.",
+            "trg_text": "我认为这个说法也有道理， 但与此同时， 你们也抄得太多了点。",
+            "utterance": [
+                {
+                    "sub_start_time": 270820,
+                    "sub_end_time": 272659,
+                    "sub_src_text": "Cause I think that statement can exist,",
+                    "sub_trg_text": "我认为这个说法也有道理，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 272690,
+                    "sub_end_time": 274370,
+                    "sub_src_text": "whilst also being like hey,",
+                    "sub_trg_text": "但与此同时，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 274530,
+                    "sub_end_time": 276370,
+                    "sub_src_text": "you guys took a little too much.",
+                    "sub_trg_text": "你们也抄得太多了点。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 276370,
+            "end_time": 283890,
+            "src_text": "Right. I think, like, objectively, yeah, like what this proved, uh, you know, is, there is a huge gap in the market,",
+            "trg_text": "是的。我认为客观上，这件事证明了市场上有一个巨大的缺口。",
+            "utterance": [
+                {
+                    "sub_start_time": 276370,
+                    "sub_end_time": 283890,
+                    "sub_src_text": "Right. I think, like, objectively, yeah, like what this proved, uh, you know, is, there is a huge gap in the market,",
+                    "sub_trg_text": "是的。我认为客观上，这件事证明了市场上有一个巨大的缺口。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 283890,
+            "end_time": 290850,
+            "src_text": "you know, there is, Yeah. I I don't think, I mean I mean, okay, people are getting mad because this game got popular. Of course, and.Yeah.",
+            "trg_text": "我觉得有人愤怒是因为这个游戏火了。 对。",
+            "utterance": [
+                {
+                    "sub_start_time": 283890,
+                    "sub_end_time": 290470,
+                    "sub_src_text": "you know, there is, Yeah. I I don't think, I mean I mean, okay, people are getting mad because this game got popular. Of course, and.",
+                    "sub_trg_text": "我觉得有人愤怒是因为这个游戏火了。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 290470,
+                    "sub_end_time": 290850,
+                    "sub_src_text": "Yeah.",
+                    "sub_trg_text": "对。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 291060,
+            "end_time": 295670,
+            "src_text": "I don't think there would be this entire discourse around it if this game wasn't breaking records left right and center...",
+            "trg_text": "我觉得如果这个游戏没有在各方面打破记录，就不会有那么多关于它的争论。",
+            "utterance": [
+                {
+                    "sub_start_time": 291060,
+                    "sub_end_time": 295670,
+                    "sub_src_text": "I don't think there would be this entire discourse around it if this game wasn't breaking records left right and center...",
+                    "sub_trg_text": "我觉得如果这个游戏没有在各方面打破记录，就不会有那么多关于它的争论。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 295670,
+            "end_time": 298360,
+            "src_text": "Oh, yeah, yeah.This, if this had fed into security,no one would give a fuck.",
+            "trg_text": "对。 这个游戏要是没出名， 没人会在意。",
+            "utterance": [
+                {
+                    "sub_start_time": 295670,
+                    "sub_end_time": 296220,
+                    "sub_src_text": "Oh, yeah, yeah.",
+                    "sub_trg_text": "对。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 296220,
+                    "sub_end_time": 297670,
+                    "sub_src_text": "This, if this had fed into security,",
+                    "sub_trg_text": "这个游戏要是没出名，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 297700,
+                    "sub_end_time": 298360,
+                    "sub_src_text": "no one would give a fuck.",
+                    "sub_trg_text": "没人会在意。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 298360,
+            "end_time": 306920,
+            "src_text": "Yeah, and I think the reason this is breaking that records left right and center is because there is a clear gap in the marketof what people want in their video games.",
+            "trg_text": "对，我觉得这个游戏在各个方面打破记录的原因是市场上有一个明显的缺口， 人们想要在视频游戏上得到的东西并没有得到。",
+            "utterance": [
+                {
+                    "sub_start_time": 298360,
+                    "sub_end_time": 304880,
+                    "sub_src_text": "Yeah, and I think the reason this is breaking that records left right and center is because there is a clear gap in the market",
+                    "sub_trg_text": "对，我觉得这个游戏在各个方面打破记录的原因是市场上有一个明显的缺口，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 304880,
+                    "sub_end_time": 306920,
+                    "sub_src_text": "of what people want in their video games.",
+                    "sub_trg_text": "人们想要在视频游戏上得到的东西并没有得到。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 306920,
+            "end_time": 309570,
+            "src_text": "We just want, we just want a Pokémon game in Unreal Engine Five.",
+            "trg_text": "我们只想在虚拟引擎 5 中开发一款精灵宝可梦游戏。",
+            "utterance": [
+                {
+                    "sub_start_time": 306920,
+                    "sub_end_time": 309570,
+                    "sub_src_text": "We just want, we just want a Pokémon game in Unreal Engine Five.",
+                    "sub_trg_text": "我们只想在虚拟引擎 5 中开发一款精灵宝可梦游戏。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 309620,
+            "end_time": 312000,
+            "src_text": "Yeah, that's what we've been longing for.It was, it was like put together by a bunch of Jap...",
+            "trg_text": "对，这是我们一直期盼做的。 就像是由几个日本的拼凑到一起的……",
+            "utterance": [
+                {
+                    "sub_start_time": 309620,
+                    "sub_end_time": 310330,
+                    "sub_src_text": "Yeah, that's what we've been longing for.",
+                    "sub_trg_text": "对，这是我们一直期盼做的。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 310330,
+                    "sub_end_time": 312000,
+                    "sub_src_text": "It was, it was like put together by a bunch of Jap...",
+                    "sub_trg_text": "就像是由几个日本的拼凑到一起的……",
+                    "term": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,688 @@
+{
+    "vid": "en2zh-06-env",
+    "duration": 263490,
+    "segment": [
+        {
+            "start_time": 150,
+            "end_time": 4240,
+            "src_text": "Let let me just start by saying two things about that.I think the comment is spot on,",
+            "trg_text": "我想先谈两点。 我认为这一评价很确切。",
+            "utterance": [
+                {
+                    "sub_start_time": 150,
+                    "sub_end_time": 2440,
+                    "sub_src_text": "Let let me just start by saying two things about that.",
+                    "sub_trg_text": "我想先谈两点。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 2440,
+                    "sub_end_time": 4240,
+                    "sub_src_text": "I think the comment is spot on,",
+                    "sub_trg_text": "我认为这一评价很确切。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 4580,
+            "end_time": 13450,
+            "src_text": "um, the, you can talk about the stone house,but the stone house, I think, has been flooded twice, uh, in the last three years.And they've rebuilt twice",
+            "trg_text": "你可以谈谈石屋， 但是石屋在过去三年也被洪水淹了两次。 重建了两次，",
+            "utterance": [
+                {
+                    "sub_start_time": 4580,
+                    "sub_end_time": 7900,
+                    "sub_src_text": "um, the, you can talk about the stone house,",
+                    "sub_trg_text": "你可以谈谈石屋，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 7900,
+                    "sub_end_time": 12130,
+                    "sub_src_text": "but the stone house, I think, has been flooded twice, uh, in the last three years.",
+                    "sub_trg_text": "但是石屋在过去三年也被洪水淹了两次。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 12130,
+                    "sub_end_time": 13450,
+                    "sub_src_text": "And they've rebuilt twice",
+                    "sub_trg_text": "重建了两次，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 13640,
+            "end_time": 24270,
+            "src_text": "or done substantial renovations twice,and it's going again,uh, and clearly that was paid for in part by some pretty, you know, substantial insurance returns, um.",
+            "trg_text": "或者说进行了两次重大整修， 而今又要开始了。 显然，有一部分钱是由大额保险理赔收益支付的。",
+            "utterance": [
+                {
+                    "sub_start_time": 13640,
+                    "sub_end_time": 16250,
+                    "sub_src_text": "or done substantial renovations twice,",
+                    "sub_trg_text": "或者说进行了两次重大整修，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 16250,
+                    "sub_end_time": 17960,
+                    "sub_src_text": "and it's going again,",
+                    "sub_trg_text": "而今又要开始了。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 17960,
+                    "sub_end_time": 24270,
+                    "sub_src_text": "uh, and clearly that was paid for in part by some pretty, you know, substantial insurance returns, um.",
+                    "sub_trg_text": "显然，有一部分钱是由大额保险理赔收益支付的。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 24270,
+            "end_time": 36500,
+            "src_text": "That being said, uh as of maybe a month or two ago,when I was in Milford for a similar event,there were still a thousand people who had not gotten back into their homes,",
+            "trg_text": "然而，大概一两个月前， 我在米尔福德参加一场类似活动的时候， 仍然有一千人尚未回到自己的房子，",
+            "utterance": [
+                {
+                    "sub_start_time": 24270,
+                    "sub_end_time": 29470,
+                    "sub_src_text": "That being said, uh as of maybe a month or two ago,",
+                    "sub_trg_text": "然而，大概一两个月前，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 29470,
+                    "sub_end_time": 32479,
+                    "sub_src_text": "when I was in Milford for a similar event,",
+                    "sub_trg_text": "我在米尔福德参加一场类似活动的时候，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 32479,
+                    "sub_end_time": 36500,
+                    "sub_src_text": "there were still a thousand people who had not gotten back into their homes,",
+                    "sub_trg_text": "仍然有一千人尚未回到自己的房子，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 36500,
+            "end_time": 44190,
+            "src_text": "because it's some level the new FEMA building standards has actually become a barrier to people getting back in their homes",
+            "trg_text": "因为在某种程度上，新的 FEMA 建筑标准实际上阻碍了人们回到自己的房子，",
+            "utterance": [
+                {
+                    "sub_start_time": 36500,
+                    "sub_end_time": 44190,
+                    "sub_src_text": "because it's some level the new FEMA building standards has actually become a barrier to people getting back in their homes",
+                    "sub_trg_text": "因为在某种程度上，新的 FEMA 建筑标准实际上阻碍了人们回到自己的房子，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 44190,
+            "end_time": 50580,
+            "src_text": "because the insurance proceeds don't meet the costs of actually rebuilding a home up to the current standards.",
+            "trg_text": "因为根据现在的标准，保险达不到重建房子的成本。",
+            "utterance": [
+                {
+                    "sub_start_time": 44190,
+                    "sub_end_time": 50580,
+                    "sub_src_text": "because the insurance proceeds don't meet the costs of actually rebuilding a home up to the current standards.",
+                    "sub_trg_text": "因为根据现在的标准，保险达不到重建房子的成本。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 50580,
+            "end_time": 59550,
+            "src_text": "And so to some extent, if we're smart about new building standards,though, with there will be some, uh, level of building and rebuilding,it won't occur after these storms.",
+            "trg_text": "因此从某种程度上来说，如果我们在新建筑标准上灵活一点， 尽管存在一些级别的建设和重建， 但它不会出现在暴风雨之后。",
+            "utterance": [
+                {
+                    "sub_start_time": 50580,
+                    "sub_end_time": 53640,
+                    "sub_src_text": "And so to some extent, if we're smart about new building standards,",
+                    "sub_trg_text": "因此从某种程度上来说，如果我们在新建筑标准上灵活一点，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 53640,
+                    "sub_end_time": 57520,
+                    "sub_src_text": "though, with there will be some, uh, level of building and rebuilding,",
+                    "sub_trg_text": "尽管存在一些级别的建设和重建，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 57520,
+                    "sub_end_time": 59550,
+                    "sub_src_text": "it won't occur after these storms.",
+                    "sub_trg_text": "但它不会出现在暴风雨之后。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 59800,
+            "end_time": 67270,
+            "src_text": "Um, let me give you, there are a million barriers,and I think we've talked a lot about just some of the the social and psychological barriers.",
+            "trg_text": "有无数重阻碍， 我们谈了很多社会和心理阻碍的例子。",
+            "utterance": [
+                {
+                    "sub_start_time": 59800,
+                    "sub_end_time": 62070,
+                    "sub_src_text": "Um, let me give you, there are a million barriers,",
+                    "sub_trg_text": "有无数重阻碍，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 62080,
+                    "sub_end_time": 67270,
+                    "sub_src_text": "and I think we've talked a lot about just some of the the social and psychological barriers.",
+                    "sub_trg_text": "我们谈了很多社会和心理阻碍的例子。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 67270,
+            "end_time": 72700,
+            "src_text": "We love the shoreline.It is the identity of this state in a lot of ways.But, um, here's another one.",
+            "trg_text": "海岸线人人都喜欢。 它在很多方面是这个州的象征。 但还有一个。",
+            "utterance": [
+                {
+                    "sub_start_time": 67270,
+                    "sub_end_time": 68240,
+                    "sub_src_text": "We love the shoreline.",
+                    "sub_trg_text": "海岸线人人都喜欢。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 68240,
+                    "sub_end_time": 71190,
+                    "sub_src_text": "It is the identity of this state in a lot of ways.",
+                    "sub_trg_text": "它在很多方面是这个州的象征。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 71190,
+                    "sub_end_time": 72700,
+                    "sub_src_text": "But, um, here's another one.",
+                    "sub_trg_text": "但还有一个。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 72910,
+            "end_time": 83940,
+            "src_text": "Our system of local taxation is a barrier to policy changebecause these are expensive properties on the shorelineand they make a lot of money for municipalities.",
+            "trg_text": "我们当地的税收系统是政策改革的阻碍， 因为这些海岸线上的贵重房产 为市政府创造了大量税收。",
+            "utterance": [
+                {
+                    "sub_start_time": 72910,
+                    "sub_end_time": 77270,
+                    "sub_src_text": "Our system of local taxation is a barrier to policy change",
+                    "sub_trg_text": "我们当地的税收系统是政策改革的阻碍，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 77410,
+                    "sub_end_time": 81030,
+                    "sub_src_text": "because these are expensive properties on the shoreline",
+                    "sub_trg_text": "因为这些海岸线上的贵重房产",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 81030,
+                    "sub_end_time": 83940,
+                    "sub_src_text": "and they make a lot of money for municipalities.",
+                    "sub_trg_text": "为市政府创造了大量税收。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 83940,
+            "end_time": 99310,
+            "src_text": "And without anywhere else to go for towns other than the property tax,and with really no ability to regionally plan in this state,so as to make a deal with Milford that if you have more restrictive zoning on your shoreline,",
+            "trg_text": "除了房产税，城镇其他地方没有税收， 也没有能力对这个州进行区域规划， 从而跟米尔福德达成一个交易，如果你加强对海岸线区域划分的限制，",
+            "utterance": [
+                {
+                    "sub_start_time": 83940,
+                    "sub_end_time": 88710,
+                    "sub_src_text": "And without anywhere else to go for towns other than the property tax,",
+                    "sub_trg_text": "除了房产税，城镇其他地方没有税收，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 88920,
+                    "sub_end_time": 93509,
+                    "sub_src_text": "and with really no ability to regionally plan in this state,",
+                    "sub_trg_text": "也没有能力对这个州进行区域规划，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 93770,
+                    "sub_end_time": 99310,
+                    "sub_src_text": "so as to make a deal with Milford that if you have more restrictive zoning on your shoreline,",
+                    "sub_trg_text": "从而跟米尔福德达成一个交易，如果你加强对海岸线区域划分的限制，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 99570,
+            "end_time": 104910,
+            "src_text": "um, and you lose all the property tax revenue associated with big, expensive hou- uh homes around those roads,",
+            "trg_text": "你就会失去路旁跟贵重房屋相关的房产税收。",
+            "utterance": [
+                {
+                    "sub_start_time": 99570,
+                    "sub_end_time": 104910,
+                    "sub_src_text": "um, and you lose all the property tax revenue associated with big, expensive hou- uh homes around those roads,",
+                    "sub_trg_text": "你就会失去路旁跟贵重房屋相关的房产税收。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 105060,
+            "end_time": 115720,
+            "src_text": "we'll make up for that by giving you a little bit of the revenue that comes from the new factory that gets located inlands, um, a town, uh, up into the state.",
+            "trg_text": "我们可以用位于州内陆城镇的新工厂的税收给你一点补偿。",
+            "utterance": [
+                {
+                    "sub_start_time": 105060,
+                    "sub_end_time": 115720,
+                    "sub_src_text": "we'll make up for that by giving you a little bit of the revenue that comes from the new factory that gets located inlands, um, a town, uh, up into the state.",
+                    "sub_trg_text": "我们可以用位于州内陆城镇的新工厂的税收给你一点补偿。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 115729,
+            "end_time": 125540,
+            "src_text": "Without the ability to do that, um towns on the shoreline aren't left with any real incentive structure to do restrictive zoning,because that's where their bread is is buttered,",
+            "trg_text": "但如果没有这个能力，海岸线上的城镇就没有任何激励机制来限制区域划分， 因为这是他们的利益所在。",
+            "utterance": [
+                {
+                    "sub_start_time": 115729,
+                    "sub_end_time": 122360,
+                    "sub_src_text": "Without the ability to do that, um towns on the shoreline aren't left with any real incentive structure to do restrictive zoning,",
+                    "sub_trg_text": "但如果没有这个能力，海岸线上的城镇就没有任何激励机制来限制区域划分，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 122360,
+                    "sub_end_time": 125540,
+                    "sub_src_text": "because that's where their bread is is buttered,",
+                    "sub_trg_text": "因为这是他们的利益所在。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 125810,
+            "end_time": 128770,
+            "src_text": "um and their schools don't run unless you have homes there.",
+            "trg_text": "如果附近没有房屋，学校就办不了。",
+            "utterance": [
+                {
+                    "sub_start_time": 125810,
+                    "sub_end_time": 128770,
+                    "sub_src_text": "um and their schools don't run unless you have homes there.",
+                    "sub_trg_text": "如果附近没有房屋，学校就办不了。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 128770,
+            "end_time": 136690,
+            "src_text": "So we've got to have a statewide conversation,not simply about um, regional land use planning,but around the way in which we tax,",
+            "trg_text": "所以我们应该开展全州范围的对话， 不能简单局限于区域土地使用规划， 而要围绕税收方式展开。",
+            "utterance": [
+                {
+                    "sub_start_time": 128770,
+                    "sub_end_time": 131290,
+                    "sub_src_text": "So we've got to have a statewide conversation,",
+                    "sub_trg_text": "所以我们应该开展全州范围的对话，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 131290,
+                    "sub_end_time": 134370,
+                    "sub_src_text": "not simply about um, regional land use planning,",
+                    "sub_trg_text": "不能简单局限于区域土地使用规划，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 134370,
+                    "sub_end_time": 136690,
+                    "sub_src_text": "but around the way in which we tax,",
+                    "sub_trg_text": "而要围绕税收方式展开。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 136690,
+            "end_time": 145370,
+            "src_text": "because if we do a better job of sharing tax revenues um,then there'll be less pressure on those municipalities to continue to build and rebuild and rebuild along the shoreline.",
+            "trg_text": "因为如果我们改善税收分配机制， 市政府在海岸线上继续进行建设和重建的压力就会小很多。",
+            "utterance": [
+                {
+                    "sub_start_time": 136690,
+                    "sub_end_time": 140210,
+                    "sub_src_text": "because if we do a better job of sharing tax revenues um,",
+                    "sub_trg_text": "因为如果我们改善税收分配机制，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 140210,
+                    "sub_end_time": 145370,
+                    "sub_src_text": "then there'll be less pressure on those municipalities to continue to build and rebuild and rebuild along the shoreline.",
+                    "sub_trg_text": "市政府在海岸线上继续进行建设和重建的压力就会小很多。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 149079,
+            "end_time": 163450,
+            "src_text": "Well, yeah, I was gonna agree with the the Senator here.Uh when you're in working in these small townsuh and and you start realizing that essentially they are, um, you know, over twenty thirty percent of their uh tax base is made up of these, some of these uh large, uh, coastal dwellers.",
+            "trg_text": "我赞同参议员的话。 如果你在小城镇工作， 你就会意识到有超过 20% ～30% 的税基来自沿海居民。",
+            "utterance": [
+                {
+                    "sub_start_time": 149079,
+                    "sub_end_time": 151560,
+                    "sub_src_text": "Well, yeah, I was gonna agree with the the Senator here.",
+                    "sub_trg_text": "我赞同参议员的话。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 151560,
+                    "sub_end_time": 153650,
+                    "sub_src_text": "Uh when you're in working in these small towns",
+                    "sub_trg_text": "如果你在小城镇工作，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 153720,
+                    "sub_end_time": 163450,
+                    "sub_src_text": "uh and and you start realizing that essentially they are, um, you know, over twenty thirty percent of their uh tax base is made up of these, some of these uh large, uh, coastal dwellers.",
+                    "sub_trg_text": "你就会意识到有超过 20% ～30% 的税基来自沿海居民。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 163480,
+            "end_time": 171680,
+            "src_text": "And and also when part of it is that, um, many of these houses aren't in locations that are necessarily in harm's way.They're they're high up,uh a lot of them are,",
+            "trg_text": "此外，还有一点，许多房屋所在的地方并不一定会受损， 它们地势较高， 很多这样的房子",
+            "utterance": [
+                {
+                    "sub_start_time": 163480,
+                    "sub_end_time": 169490,
+                    "sub_src_text": "And and also when part of it is that, um, many of these houses aren't in locations that are necessarily in harm's way.",
+                    "sub_trg_text": "此外，还有一点，许多房屋所在的地方并不一定会受损，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 169520,
+                    "sub_end_time": 170480,
+                    "sub_src_text": "They're they're high up,",
+                    "sub_trg_text": "它们地势较高，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 170680,
+                    "sub_end_time": 171680,
+                    "sub_src_text": "uh a lot of them are,",
+                    "sub_trg_text": "很多这样的房子",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 171680,
+            "end_time": 184520,
+            "src_text": "um, you know, part of the the bigger issue becomes uh egress and some of the infrastructure concerns and the cost for, um, maintaining road and and access.Uh so the the prob-, the problems that these face are not so simple.",
+            "trg_text": "更大的问题部分在于疏散通道，以及一些基础设施的考虑，和维护道路和通道的成本。 问题并没有那么简单。",
+            "utterance": [
+                {
+                    "sub_start_time": 171680,
+                    "sub_end_time": 180500,
+                    "sub_src_text": "um, you know, part of the the bigger issue becomes uh egress and some of the infrastructure concerns and the cost for, um, maintaining road and and access.",
+                    "sub_trg_text": "更大的问题部分在于疏散通道，以及一些基础设施的考虑，和维护道路和通道的成本。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 181050,
+                    "sub_end_time": 184520,
+                    "sub_src_text": "Uh so the the prob-, the problems that these face are not so simple.",
+                    "sub_trg_text": "问题并没有那么简单。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 184520,
+            "end_time": 194160,
+            "src_text": "It's not, it's not just, um, the idea of, uh, establishing a method of retreat,uh has major implications on the towns and the coast,not to mention the infrastructure on the coast.",
+            "trg_text": "不仅是制定撤退措施 对海岸的城镇有重大影响， 更不用说海岸上的基础设施了。",
+            "utterance": [
+                {
+                    "sub_start_time": 184520,
+                    "sub_end_time": 188970,
+                    "sub_src_text": "It's not, it's not just, um, the idea of, uh, establishing a method of retreat,",
+                    "sub_trg_text": "不仅是制定撤退措施",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 189510,
+                    "sub_end_time": 192180,
+                    "sub_src_text": "uh has major implications on the towns and the coast,",
+                    "sub_trg_text": "对海岸的城镇有重大影响，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 192180,
+                    "sub_end_time": 194160,
+                    "sub_src_text": "not to mention the infrastructure on the coast.",
+                    "sub_trg_text": "更不用说海岸上的基础设施了。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 194790,
+            "end_time": 199470,
+            "src_text": "It's a it's a much bigger deal than making choices about, um, about immediate retreat.",
+            "trg_text": "问题远不只是决定紧急撤离通道那么简单。",
+            "utterance": [
+                {
+                    "sub_start_time": 194790,
+                    "sub_end_time": 199470,
+                    "sub_src_text": "It's a it's a much bigger deal than making choices about, um, about immediate retreat.",
+                    "sub_trg_text": "问题远不只是决定紧急撤离通道那么简单。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 199470,
+            "end_time": 205240,
+            "src_text": "On the other hand, I think there's there is opportunity to think strategically around land planning on these coastal areas.",
+            "trg_text": "另一方面，对这些沿海地区的土地规划还有战略构想空间。",
+            "utterance": [
+                {
+                    "sub_start_time": 199470,
+                    "sub_end_time": 205240,
+                    "sub_src_text": "On the other hand, I think there's there is opportunity to think strategically around land planning on these coastal areas.",
+                    "sub_trg_text": "另一方面，对这些沿海地区的土地规划还有战略构想空间。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 205250,
+            "end_time": 218060,
+            "src_text": "So we've started to look at ways of connecting roads,uh where there's maybe a small um um barrier between road, one road and another;where you could bypass uh um roads along the coast.",
+            "trg_text": "因此，我们已经着手寻找联通道路的方式， 可能一条道路跟另一条道路之间会有小障碍， 你可以绕过海岸线上的道路。",
+            "utterance": [
+                {
+                    "sub_start_time": 205250,
+                    "sub_end_time": 209079,
+                    "sub_src_text": "So we've started to look at ways of connecting roads,",
+                    "sub_trg_text": "因此，我们已经着手寻找联通道路的方式，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 209130,
+                    "sub_end_time": 214660,
+                    "sub_src_text": "uh where there's maybe a small um um barrier between road, one road and another;",
+                    "sub_trg_text": "可能一条道路跟另一条道路之间会有小障碍，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 214850,
+                    "sub_end_time": 218060,
+                    "sub_src_text": "where you could bypass uh um roads along the coast.",
+                    "sub_trg_text": "你可以绕过海岸线上的道路。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 218460,
+            "end_time": 225060,
+            "src_text": "Uh um Soundview, for example, in Gilford, uh, it's interesting cause it's actually where much of the industry is located.",
+            "trg_text": "例如，吉尔福德的 Soundview 路，有趣的是，这是工业聚集地，",
+            "utterance": [
+                {
+                    "sub_start_time": 218460,
+                    "sub_end_time": 225060,
+                    "sub_src_text": "Uh um Soundview, for example, in Gilford, uh, it's interesting cause it's actually where much of the industry is located.",
+                    "sub_trg_text": "例如，吉尔福德的 Soundview 路，有趣的是，这是工业聚集地，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 225060,
+            "end_time": 232000,
+            "src_text": "But but, um, but it floods, uh, periodically, and so we're thinking about, uh, how you might be able to bypass some of the roadways,",
+            "trg_text": "但是洪水会定期侵袭，所以我们在想怎么绕过一些道路，",
+            "utterance": [
+                {
+                    "sub_start_time": 225060,
+                    "sub_end_time": 232000,
+                    "sub_src_text": "But but, um, but it floods, uh, periodically, and so we're thinking about, uh, how you might be able to bypass some of the roadways,",
+                    "sub_trg_text": "但是洪水会定期侵袭，所以我们在想怎么绕过一些道路，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 232470,
+            "end_time": 242220,
+            "src_text": "uh, but then you get into the question of where do you locate um in your industrial corridors.And if not there, the people inland are nec- are not necessarily interested in that, having that industrial corridor in their backyard.",
+            "trg_text": "随后就会遇到这个问题：工业走廊应该位于哪里。 如果不在那里，内陆的人们可能不喜欢把工业走廊放在他们后院。",
+            "utterance": [
+                {
+                    "sub_start_time": 232470,
+                    "sub_end_time": 236660,
+                    "sub_src_text": "uh, but then you get into the question of where do you locate um in your industrial corridors.",
+                    "sub_trg_text": "随后就会遇到这个问题：工业走廊应该位于哪里。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 236690,
+                    "sub_end_time": 242220,
+                    "sub_src_text": "And if not there, the people inland are nec- are not necessarily interested in that, having that industrial corridor in their backyard.",
+                    "sub_trg_text": "如果不在那里，内陆的人们可能不喜欢把工业走廊放在他们后院。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 242530,
+            "end_time": 250310,
+            "src_text": "So you get into a whole discussion across the town about larger land use, uh, negotiations that are, you know, fairly complex.",
+            "trg_text": "所以你得跟整个城镇的人在大范围土地使用方面进行商量，这相当复杂。",
+            "utterance": [
+                {
+                    "sub_start_time": 242530,
+                    "sub_end_time": 250310,
+                    "sub_src_text": "So you get into a whole discussion across the town about larger land use, uh, negotiations that are, you know, fairly complex.",
+                    "sub_trg_text": "所以你得跟整个城镇的人在大范围土地使用方面进行商量，这相当复杂。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 250840,
+            "end_time": 256750,
+            "src_text": "Uh meanwhile, if we remove these large homeowners or create a situation where their property value goes down,",
+            "trg_text": "同时，如果我们让这些大业主搬走，让他们房地产的价值下降，",
+            "utterance": [
+                {
+                    "sub_start_time": 250840,
+                    "sub_end_time": 256750,
+                    "sub_src_text": "Uh meanwhile, if we remove these large homeowners or create a situation where their property value goes down,",
+                    "sub_trg_text": "同时，如果我们让这些大业主搬走，让他们房地产的价值下降，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 257230,
+            "end_time": 261200,
+            "src_text": "that then you lose funding that's going into the schools,that supporting your children,",
+            "trg_text": "那你就会失去资助学校 和资助儿童的资金。",
+            "utterance": [
+                {
+                    "sub_start_time": 257230,
+                    "sub_end_time": 259990,
+                    "sub_src_text": "that then you lose funding that's going into the schools,",
+                    "sub_trg_text": "那你就会失去资助学校",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 259990,
+                    "sub_end_time": 261200,
+                    "sub_src_text": "that supporting your children,",
+                    "sub_trg_text": "和资助儿童的资金。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 261510,
+            "end_time": 263640,
+            "src_text": "uh so it's it's all interconnected.",
+            "trg_text": "一切都是相互关联的。",
+            "utterance": [
+                {
+                    "sub_start_time": 261510,
+                    "sub_end_time": 263640,
+                    "sub_src_text": "uh so it's it's all interconnected.",
+                    "sub_trg_text": "一切都是相互关联的。",
+                    "term": []
+                }
+            ]
+        }
+    ]
+}

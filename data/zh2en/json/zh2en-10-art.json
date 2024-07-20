@@ -1,0 +1,1442 @@
+{
+    "vid": "zh2en-10-art",
+    "duration": 473280,
+    "segment": [
+        {
+            "start_time": 350,
+            "end_time": 6580,
+            "src_text": "那么其实这个这种这种背景性的让你忽视了这种感受，其实就是它所谓的原始感受。",
+            "trg_text": "So in fact, this kind of background senses that make you ignore this sense, is the so-called prime sensibility.",
+            "utterance": [
+                {
+                    "sub_start_time": 350,
+                    "sub_end_time": 3990,
+                    "sub_src_text": "那么其实这个这种这种背景性的让你忽视了这种感受，",
+                    "sub_trg_text": "So in fact, this kind of background senses that make you ignore this sense,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 4430,
+                    "sub_end_time": 6580,
+                    "sub_src_text": "其实就是它所谓的原始感受。",
+                    "sub_trg_text": "is the so-called prime sensibility.",
+                    "term": [
+                        {
+                            "src": "原始感受",
+                            "trg": "prime sensibility"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 7050,
+            "end_time": 12330,
+            "src_text": "那么我们进一步的这种啊，有愉悦、有痛苦这个维度上的身体感受，",
+            "trg_text": "Further physical senses like pleasure and pain,",
+            "utterance": [
+                {
+                    "sub_start_time": 7050,
+                    "sub_end_time": 12330,
+                    "sub_src_text": "那么我们进一步的这种啊，有愉悦、有痛苦这个维度上的身体感受，",
+                    "sub_trg_text": "Further physical senses like pleasure and pain,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 12330,
+            "end_time": 21310,
+            "src_text": "以及更进一步的，假如说关于这个触觉的呀，视觉的这些感受，其实都是发端于这种原始感受之上的。",
+            "trg_text": "and even further, senses related to touch and vision, are actually all originated from the prime sensibility.",
+            "utterance": [
+                {
+                    "sub_start_time": 12330,
+                    "sub_end_time": 17900,
+                    "sub_src_text": "以及更进一步的，假如说关于这个触觉的呀，视觉的这些感受，",
+                    "sub_trg_text": "and even further, senses related to touch and vision,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 18230,
+                    "sub_end_time": 21310,
+                    "sub_src_text": "其实都是发端于这种原始感受之上的。",
+                    "sub_trg_text": "are actually all originated from the prime sensibility.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 21640,
+            "end_time": 30580,
+            "src_text": "而这种原始感受，首先就是对于一个躯体内部状态的表征所同时形成的，呃，类似于伴随性的副产品。",
+            "trg_text": "And this prime sensibility is first formed simultaneously with the representation of the internal state of a body, something like a concomitant by-product.",
+            "utterance": [
+                {
+                    "sub_start_time": 21640,
+                    "sub_end_time": 27510,
+                    "sub_src_text": "而这种原始感受，首先就是对于一个躯体内部状态的表征所同时形成的，",
+                    "sub_trg_text": "And this prime sensibility is first formed simultaneously with the representation of the internal state of a body,",
+                    "term": [
+                        {
+                            "src": "表征",
+                            "trg": "representation"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 28020,
+                    "sub_end_time": 30580,
+                    "sub_src_text": "呃，类似于伴随性的副产品。",
+                    "sub_trg_text": "something like a concomitant by-product.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 31140,
+            "end_time": 38320,
+            "src_text": "所以，呃，我们的感受呢，呃，以及更进一步的高阶的感受，包括我们对艺术作品的感受，",
+            "trg_text": "So, our senses, as well as the higher-order feelings, including our feelings towards artworks, actually have a",
+            "utterance": [
+                {
+                    "sub_start_time": 31140,
+                    "sub_end_time": 36260,
+                    "sub_src_text": "所以，呃，我们的感受呢，呃，以及更进一步的高阶的感受，",
+                    "sub_trg_text": "So, our senses, as well as the higher-order feelings,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 36500,
+                    "sub_end_time": 38320,
+                    "sub_src_text": "包括我们对艺术作品的感受，",
+                    "sub_trg_text": "including our feelings towards artworks, actually have a",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 38600,
+            "end_time": 47230,
+            "src_text": "它其实有一个非常根源性的，这个在生理学上的发端，其实就是对于躯体内部状态的一种一种感受。",
+            "trg_text": "deep-rooted physiological origin. It is actually a kind of sense towards the internal state of the body.",
+            "utterance": [
+                {
+                    "sub_start_time": 38600,
+                    "sub_end_time": 43360,
+                    "sub_src_text": "它其实有一个非常根源性的，这个在生理学上的发端，",
+                    "sub_trg_text": "deep-rooted physiological origin.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 43690,
+                    "sub_end_time": 47230,
+                    "sub_src_text": "其实就是对于躯体内部状态的一种一种感受。",
+                    "sub_trg_text": "It is actually a kind of sense towards the internal state of the body.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 48580,
+            "end_time": 57460,
+            "src_text": "呃，这种感受呢，它有一个特点。当然就是很简单，就是它，它就是你的呗，就是有身体的你的，这个感受，",
+            "trg_text": "There is a characteristic of this sense. Of course, it's very simple. It's yours. It's the feeling of your body.",
+            "utterance": [
+                {
+                    "sub_start_time": 48580,
+                    "sub_end_time": 51230,
+                    "sub_src_text": "呃，这种感受呢，它有一个特点。",
+                    "sub_trg_text": "There is a characteristic of this sense.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 51700,
+                    "sub_end_time": 53040,
+                    "sub_src_text": "当然就是很简单，",
+                    "sub_trg_text": "Of course, it's very simple.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 53040,
+                    "sub_end_time": 54610,
+                    "sub_src_text": "就是它，它就是你的呗，",
+                    "sub_trg_text": "It's yours.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 54610,
+                    "sub_end_time": 57460,
+                    "sub_src_text": "就是有身体的你的，这个感受，",
+                    "sub_trg_text": "It's the feeling of your body.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 57910,
+            "end_time": 66600,
+            "src_text": "所以它只能够由你所获得，对吧？它具有私人性，而且第三人称是无法获得的。我只能获得我的感受。",
+            "trg_text": "So it can only be obtained by you, right? It is private and cannot be obtained by a third person. I can only obtain my feelings.",
+            "utterance": [
+                {
+                    "sub_start_time": 57910,
+                    "sub_end_time": 61090,
+                    "sub_src_text": "所以它只能够由你所获得，对吧？",
+                    "sub_trg_text": "So it can only be obtained by you, right?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 61380,
+                    "sub_end_time": 64940,
+                    "sub_src_text": "它具有私人性，而且第三人称是无法获得的。",
+                    "sub_trg_text": "It is private and cannot be obtained by a third person.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 65400,
+                    "sub_end_time": 66600,
+                    "sub_src_text": "我只能获得我的感受。",
+                    "sub_trg_text": "I can only obtain my feelings.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 67110,
+            "end_time": 76450,
+            "src_text": "所以这个也是后来就是说，呃，我们讨论感受质这个概念的时候，可能会引入的这样一种，非常令人头疼的。",
+            "trg_text": "This can be rather a headache when we discuss the concept of qualia.",
+            "utterance": [
+                {
+                    "sub_start_time": 67110,
+                    "sub_end_time": 76450,
+                    "sub_src_text": "所以这个也是后来就是说，呃，我们讨论感受质这个概念的时候，可能会引入的这样一种，非常令人头疼的。",
+                    "sub_trg_text": "This can be rather a headache when we discuss the concept of qualia.",
+                    "term": [
+                        {
+                            "src": "感受质",
+                            "trg": "qualia"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 76900,
+            "end_time": 82990,
+            "src_text": "当然我觉得其实也是非常呃，具有这个阐释空间的，",
+            "trg_text": "Of course, I think it's actually really up to interpretation,",
+            "utterance": [
+                {
+                    "sub_start_time": 76900,
+                    "sub_end_time": 82990,
+                    "sub_src_text": "当然我觉得其实也是非常呃，具有这个阐释空间的，",
+                    "sub_trg_text": "Of course, I think it's actually really up to interpretation,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 83120,
+            "end_time": 88600,
+            "src_text": "尤其是对于艺术作品欣赏非常具有阐释空间的这种，啊，私人性的感受。",
+            "trg_text": "especially for the private feelings for appreciation of artworks.",
+            "utterance": [
+                {
+                    "sub_start_time": 83120,
+                    "sub_end_time": 88600,
+                    "sub_src_text": "尤其是对于艺术作品欣赏非常具有阐释空间的这种，啊，私人性的感受。",
+                    "sub_trg_text": "especially for the private feelings for appreciation of artworks.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 90030,
+            "end_time": 95410,
+            "src_text": "呃，总之吧，我想做一个简单的这个小结，就是关于达马西奥的这个概念。",
+            "trg_text": "Anyway, let me make a simple summary about this concept by Damasio.",
+            "utterance": [
+                {
+                    "sub_start_time": 90030,
+                    "sub_end_time": 93680,
+                    "sub_src_text": "呃，总之吧，我想做一个简单的这个小结，",
+                    "sub_trg_text": "Anyway, let me make a simple summary",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 93680,
+                    "sub_end_time": 95410,
+                    "sub_src_text": "就是关于达马西奥的这个概念。",
+                    "sub_trg_text": "about this concept by Damasio.",
+                    "term": [
+                        {
+                            "src": "达马西奥",
+                            "trg": "Damasio"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 95960,
+            "end_time": 105520,
+            "src_text": "首先呢，就是身体在各个阶段上都伴随着心智和自我的形成，所以说身体它有一个非常根本性的作用，",
+            "trg_text": "First of all, the body is accompanied by the formation of the mind and the self at various stages. So the body plays a fundamental role.",
+            "utterance": [
+                {
+                    "sub_start_time": 95960,
+                    "sub_end_time": 100840,
+                    "sub_src_text": "首先呢，就是身体在各个阶段上都伴随着心智和自我的形成，",
+                    "sub_trg_text": "First of all, the body is accompanied by the formation of the mind and the self at various stages.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 101150,
+                    "sub_end_time": 105520,
+                    "sub_src_text": "所以说身体它有一个非常根本性的作用，",
+                    "sub_trg_text": "So the body plays a fundamental role.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 106009,
+            "end_time": 111780,
+            "src_text": "可以说在这个意义上，身体它本身就是携带着一种，一种原始性的意义，",
+            "trg_text": "In this sense, the body itself carries a kind of original meaning.",
+            "utterance": [
+                {
+                    "sub_start_time": 106009,
+                    "sub_end_time": 107390,
+                    "sub_src_text": "可以说在这个意义上，",
+                    "sub_trg_text": "In this sense,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 107390,
+                    "sub_end_time": 111780,
+                    "sub_src_text": "身体它本身就是携带着一种，一种原始性的意义，",
+                    "sub_trg_text": "the body itself carries a kind of original meaning.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 112130,
+            "end_time": 117410,
+            "src_text": "它有它的目的，它有它的意图对吧？它首先它要活下来，并且它要维持你的内稳态。",
+            "trg_text": "It has its own purpose and intention, right? First of all, it has to survive and maintain your homeostasis.",
+            "utterance": [
+                {
+                    "sub_start_time": 112130,
+                    "sub_end_time": 114680,
+                    "sub_src_text": "它有它的目的，它有它的意图对吧？",
+                    "sub_trg_text": "It has its own purpose and intention, right?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 114680,
+                    "sub_end_time": 117410,
+                    "sub_src_text": "它首先它要活下来，并且它要维持你的内稳态。",
+                    "sub_trg_text": "First of all, it has to survive and maintain your homeostasis.",
+                    "term": [
+                        {
+                            "src": "内稳态",
+                            "trg": "homeostasis"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 118050,
+            "end_time": 124010,
+            "src_text": "啊，其次呢，它才能够在更高阶的这个心理和意识层面上产生影响。",
+            "trg_text": "Only then can it have an impact on the higher-order psychological and conscious levels.",
+            "utterance": [
+                {
+                    "sub_start_time": 118050,
+                    "sub_end_time": 124010,
+                    "sub_src_text": "啊，其次呢，它才能够在更高阶的这个心理和意识层面上产生影响。",
+                    "sub_trg_text": "Only then can it have an impact on the higher-order psychological and conscious levels.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 124550,
+            "end_time": 131750,
+            "src_text": "并且呢就是，呃，之前我记得藏老师也提到那个就是，呃，移步换景的这样一个概念。",
+            "trg_text": "And, I remember Teacher Zang mentioned the concept of shift of scenes as one moves along.",
+            "utterance": [
+                {
+                    "sub_start_time": 124550,
+                    "sub_end_time": 131750,
+                    "sub_src_text": "并且呢就是，呃，之前我记得藏老师也提到那个就是，呃，移步换景的这样一个概念。",
+                    "sub_trg_text": "And, I remember Teacher Zang mentioned the concept of shift of scenes as one moves along.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 131750,
+            "end_time": 143410,
+            "src_text": "其实，呃，这种，视角，也是身体原初地给予我们的，因为我们我们的感官，其实身体同时会对我们的感官形成一个表征。",
+            "trg_text": "In fact, this kind of perspective is given to us by the primordial body, because in fact, the body simultaneously forms a representation of our senses.",
+            "utterance": [
+                {
+                    "sub_start_time": 131750,
+                    "sub_end_time": 138300,
+                    "sub_src_text": "其实，呃，这种，视角，也是身体原初地给予我们的，",
+                    "sub_trg_text": "In fact, this kind of perspective is given to us by the primordial body,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 138590,
+                    "sub_end_time": 143410,
+                    "sub_src_text": "因为我们我们的感官，其实身体同时会对我们的感官形成一个表征。",
+                    "sub_trg_text": "because in fact, the body simultaneously forms a representation of our senses.",
+                    "term": [
+                        {
+                            "src": "表征",
+                            "trg": "representation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 143840,
+            "end_time": 152690,
+            "src_text": "因此呢，我们不会错以为我们在用，假如说在眼、在用眼睛听、在用耳朵看，或者在用，在用皮肤品尝等等，",
+            "trg_text": "Therefore, we won't mistakenly think that we are, say, listening with our eyes, looking with our ears, or tasting with our skin, etc.",
+            "utterance": [
+                {
+                    "sub_start_time": 143840,
+                    "sub_end_time": 146680,
+                    "sub_src_text": "因此呢，我们不会错以为我们在用，",
+                    "sub_trg_text": "Therefore, we won't mistakenly think that we are,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 146680,
+                    "sub_end_time": 152690,
+                    "sub_src_text": "假如说在眼、在用眼睛听、在用耳朵看，或者在用，在用皮肤品尝等等，",
+                    "sub_trg_text": "say, listening with our eyes, looking with our ears, or tasting with our skin, etc.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 152910,
+            "end_time": 156290,
+            "src_text": "就是这说起来很荒诞，但其实为什么不可以呢，对吧？",
+            "trg_text": "It sounds absurd, but actually... Why not, right?",
+            "utterance": [
+                {
+                    "sub_start_time": 152910,
+                    "sub_end_time": 154220,
+                    "sub_src_text": "就是这说起来很荒诞，",
+                    "sub_trg_text": "It sounds absurd,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 154220,
+                    "sub_end_time": 156290,
+                    "sub_src_text": "但其实为什么不可以呢，对吧？",
+                    "sub_trg_text": "but actually... Why not, right?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 156630,
+            "end_time": 166980,
+            "src_text": "这是根本上是因为大脑在对这个，我们的感官信息加工的同时，也对这个感官活动本身有一个加工。",
+            "trg_text": "This is fundamentally because while the brain is processing the sensory information of ours, it also processes the sensory activity itself.",
+            "utterance": [
+                {
+                    "sub_start_time": 156630,
+                    "sub_end_time": 163480,
+                    "sub_src_text": "这是根本上是因为大脑在对这个，我们的感官信息加工的同时，",
+                    "sub_trg_text": "This is fundamentally because while the brain is processing the sensory information of ours,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 163800,
+                    "sub_end_time": 166980,
+                    "sub_src_text": "也对这个感官活动本身有一个加工。",
+                    "sub_trg_text": "it also processes the sensory activity itself.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 167370,
+            "end_time": 178880,
+            "src_text": "所以这两种信这两种加工结合在一起，我们便能够知道，我们看到的，是我们用眼睛看到。这个，这个根本上是视角的一个来源之一吧。",
+            "trg_text": "So when these two processings are combined together, we can tell that what we see is what we see with our eyes. This is fundamentally one of the sources of perspectives.",
+            "utterance": [
+                {
+                    "sub_start_time": 167370,
+                    "sub_end_time": 170020,
+                    "sub_src_text": "所以这两种信这两种加工结合在一起，",
+                    "sub_trg_text": "So when these two processings are combined together,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 170880,
+                    "sub_end_time": 174450,
+                    "sub_src_text": "我们便能够知道，我们看到的，是我们用眼睛看到。",
+                    "sub_trg_text": "we can tell that what we see is what we see with our eyes.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 175030,
+                    "sub_end_time": 178880,
+                    "sub_src_text": "这个，这个根本上是视角的一个来源之一吧。",
+                    "sub_trg_text": "This is fundamentally one of the sources of perspectives.",
+                    "term": [
+                        {
+                            "src": "视角",
+                            "trg": "perspective"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 179370,
+            "end_time": 183600,
+            "src_text": "所以说这也是我们视角性的一个身体，构成了我们的一个视角性。",
+            "trg_text": "So body constitutes our perspectival nature.",
+            "utterance": [
+                {
+                    "sub_start_time": 179370,
+                    "sub_end_time": 183600,
+                    "sub_src_text": "所以说这也是我们视角性的一个身体，构成了我们的一个视角性。",
+                    "sub_trg_text": "So body constitutes our perspectival nature.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 184430,
+            "end_time": 192030,
+            "src_text": "不过呢，这个常常被忽视。所以呢，身体常常成为一种沉默的对象。它似乎，呃，非常的不重要，对吧？",
+            "trg_text": "However, it is often overlooked. So the body often becomes a silent object. It seems very unimportant, right?",
+            "utterance": [
+                {
+                    "sub_start_time": 184430,
+                    "sub_end_time": 185730,
+                    "sub_src_text": "不过呢，这个常常被忽视。",
+                    "sub_trg_text": "However, it is often overlooked.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 185770,
+                    "sub_end_time": 188700,
+                    "sub_src_text": "所以呢，身体常常成为一种沉默的对象。",
+                    "sub_trg_text": "So the body often becomes a silent object.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 189000,
+                    "sub_end_time": 192030,
+                    "sub_src_text": "它似乎，呃，非常的不重要，对吧？",
+                    "sub_trg_text": "It seems very unimportant, right?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 192260,
+            "end_time": 197300,
+            "src_text": "然后第二个呢，就是说身体表征，它有一种张力，一方面它要维持内部稳定，",
+            "trg_text": "Secondly, the body representation has a tension. On the one hand, it has to maintain internal stability,",
+            "utterance": [
+                {
+                    "sub_start_time": 192260,
+                    "sub_end_time": 194840,
+                    "sub_src_text": "然后第二个呢，就是说身体表征，它有一种张力，",
+                    "sub_trg_text": "Secondly, the body representation has a tension.",
+                    "term": [
+                        {
+                            "src": "身体表征",
+                            "trg": "body representation"
+                        },
+                        {
+                            "src": "张力",
+                            "trg": "tension"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 194840,
+                    "sub_end_time": 197300,
+                    "sub_src_text": "一方面它要维持内部稳定，",
+                    "sub_trg_text": "On the one hand, it has to maintain internal stability,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 197370,
+            "end_time": 201590,
+            "src_text": "但是另一方面，它又要接受大量的外部的变动的信息。",
+            "trg_text": "and on the other hand, it has to receive a large amount of changing external information.",
+            "utterance": [
+                {
+                    "sub_start_time": 197370,
+                    "sub_end_time": 201590,
+                    "sub_src_text": "但是另一方面，它又要接受大量的外部的变动的信息。",
+                    "sub_trg_text": "and on the other hand, it has to receive a large amount of changing external information.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 201950,
+            "end_time": 207690,
+            "src_text": "所以呢，呃，封闭和开放可以说都是身体凝视的这种两种倾向，",
+            "trg_text": "So, closure and openness are the two tendencies of the bodily gaze,",
+            "utterance": [
+                {
+                    "sub_start_time": 201950,
+                    "sub_end_time": 207690,
+                    "sub_src_text": "所以呢，呃，封闭和开放可以说都是身体凝视的这种两种倾向，",
+                    "sub_trg_text": "So, closure and openness are the two tendencies of the bodily gaze,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 208040,
+            "end_time": 212160,
+            "src_text": "或者说身体原初意义的两种，表达的倾向，它在这种张力之中。",
+            "trg_text": "or the two tendencies of expression of the primordial bodily significance. It is within this tension.",
+            "utterance": [
+                {
+                    "sub_start_time": 208040,
+                    "sub_end_time": 210730,
+                    "sub_src_text": "或者说身体原初意义的两种，表达的倾向，",
+                    "sub_trg_text": "or the two tendencies of expression of the primordial bodily significance.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 210730,
+                    "sub_end_time": 212160,
+                    "sub_src_text": "它在这种张力之中。",
+                    "sub_trg_text": "It is within this tension.",
+                    "term": [
+                        {
+                            "src": "张力",
+                            "trg": "tension"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 212730,
+            "end_time": 220660,
+            "src_text": "那么最后呢，就是达马西奥他说的这句话。就是如果我们要去重视身体，并不会像直觉带给我们的感受一样，",
+            "trg_text": "Finally, what Damasio said is that if we are to value the body, it won't be like the feeling that our intuition brings to us,",
+            "utterance": [
+                {
+                    "sub_start_time": 212730,
+                    "sub_end_time": 215140,
+                    "sub_src_text": "那么最后呢，就是达马西奥他说的这句话。",
+                    "sub_trg_text": "Finally, what Damasio said",
+                    "term": [
+                        {
+                            "src": "达马西奥",
+                            "trg": "Damasio"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 215530,
+                    "sub_end_time": 220660,
+                    "sub_src_text": "就是如果我们要去重视身体，并不会像直觉带给我们的感受一样，",
+                    "sub_trg_text": "is that if we are to value the body, it won't be like the feeling that our intuition brings to us,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 220670,
+            "end_time": 226140,
+            "src_text": "说好像啊，我们不是动物是吧？反而是其实对身体的重视，",
+            "trg_text": "saying like, we are not animals, right? Instead, the valuation of the body",
+            "utterance": [
+                {
+                    "sub_start_time": 220670,
+                    "sub_end_time": 223410,
+                    "sub_src_text": "说好像啊，我们不是动物是吧？",
+                    "sub_trg_text": "saying like, we are not animals, right?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 223710,
+                    "sub_end_time": 226140,
+                    "sub_src_text": "反而是其实对身体的重视，",
+                    "sub_trg_text": "Instead, the valuation of the body",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 226520,
+            "end_time": 232140,
+            "src_text": "其实是对这个人性以及我们人的价值的一种更高层面的这种理解。",
+            "trg_text": "is actually a higher-level understanding of human nature and our human value.",
+            "utterance": [
+                {
+                    "sub_start_time": 226520,
+                    "sub_end_time": 232140,
+                    "sub_src_text": "其实是对这个人性以及我们人的价值的一种更高层面的这种理解。",
+                    "sub_trg_text": "is actually a higher-level understanding of human nature and our human value.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 232630,
+            "end_time": 236660,
+            "src_text": "好，我就先分享到这里。好的，谢谢路文老师。",
+            "trg_text": "Okay, that's all for my part. OK, thank you, Mr. Lu Wen.",
+            "utterance": [
+                {
+                    "sub_start_time": 232630,
+                    "sub_end_time": 234460,
+                    "sub_src_text": "好，我就先分享到这里。",
+                    "sub_trg_text": "Okay, that's all for my part.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 235160,
+                    "sub_end_time": 236660,
+                    "sub_src_text": "好的，谢谢路文老师。",
+                    "sub_trg_text": "OK, thank you, Mr. Lu Wen.",
+                    "term": [
+                        {
+                            "src": "路文老师",
+                            "trg": "Mr. Lu Wen"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 236829,
+            "end_time": 241550,
+            "src_text": "这个我问一下儿。就是这个，以前呢，我记得有这个一个说法，",
+            "trg_text": "I have a question. In the past, I remember there was a statement,",
+            "utterance": [
+                {
+                    "sub_start_time": 236829,
+                    "sub_end_time": 237970,
+                    "sub_src_text": "这个我问一下儿。",
+                    "sub_trg_text": "I have a question.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 238470,
+                    "sub_end_time": 241550,
+                    "sub_src_text": "就是这个，以前呢，我记得有这个一个说法，",
+                    "sub_trg_text": "In the past, I remember there was a statement,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 241630,
+            "end_time": 247140,
+            "src_text": "说这个人的大脑呢，就是从，因为人是从这个也是一点点这个演化过来的嘛。",
+            "trg_text": "which said as human beings have evolved gradually from this,",
+            "utterance": [
+                {
+                    "sub_start_time": 241630,
+                    "sub_end_time": 247140,
+                    "sub_src_text": "说这个人的大脑呢，就是从，因为人是从这个也是一点点这个演化过来的嘛。",
+                    "sub_trg_text": "which said as human beings have evolved gradually from this,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 247400,
+            "end_time": 251970,
+            "src_text": "说这个有叫原始脑、情绪脑和理理性脑。",
+            "trg_text": "there are the primitive brain, the emotional brain and the rational brain.",
+            "utterance": [
+                {
+                    "sub_start_time": 247400,
+                    "sub_end_time": 251970,
+                    "sub_src_text": "说这个有叫原始脑、情绪脑和理理性脑。",
+                    "sub_trg_text": "there are the primitive brain, the emotional brain and the rational brain.",
+                    "term": [
+                        {
+                            "src": "原始脑",
+                            "trg": "primitive brain"
+                        },
+                        {
+                            "src": "情绪脑",
+                            "trg": "emotional brain"
+                        },
+                        {
+                            "src": "理性脑",
+                            "trg": "rational brain"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 252340,
+            "end_time": 260500,
+            "src_text": "那这三个是不是对应了刚才的那个达马西奥讲的那个，呃，那个原始自我，那个核心自我和那个自传自我。",
+            "trg_text": "Then do these three correspond to the original self, the core self and the autobiographical self that Damasio has defined?",
+            "utterance": [
+                {
+                    "sub_start_time": 252340,
+                    "sub_end_time": 260500,
+                    "sub_src_text": "那这三个是不是对应了刚才的那个达马西奥讲的那个，呃，那个原始自我，那个核心自我和那个自传自我。",
+                    "sub_trg_text": "Then do these three correspond to the original self, the core self and the autobiographical self that Damasio has defined?",
+                    "term": [
+                        {
+                            "src": "达马西奥",
+                            "trg": "Damasio"
+                        },
+                        {
+                            "src": "原始自我",
+                            "trg": "original self"
+                        },
+                        {
+                            "src": "核心自我",
+                            "trg": "core self"
+                        },
+                        {
+                            "src": "自传自我",
+                            "trg": "autobiographical self"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 260709,
+            "end_time": 264540,
+            "src_text": "呃，它们是不是有一种，呃，大约的一种，一一种，对应关系？",
+            "trg_text": "Do they have a correspondence relationship?",
+            "utterance": [
+                {
+                    "sub_start_time": 260709,
+                    "sub_end_time": 264540,
+                    "sub_src_text": "呃，它们是不是有一种，呃，大约的一种，一一种，对应关系？",
+                    "sub_trg_text": "Do they have a correspondence relationship?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 265490,
+            "end_time": 268440,
+            "src_text": "对对对。其实在功能上是有这种对应关系的，",
+            "trg_text": "Yes. Actually there is such a correspondence in function.",
+            "utterance": [
+                {
+                    "sub_start_time": 265490,
+                    "sub_end_time": 268440,
+                    "sub_src_text": "对对对。其实在功能上是有这种对应关系的，",
+                    "sub_trg_text": "Yes. Actually there is such a correspondence in function.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 268480,
+            "end_time": 275130,
+            "src_text": "那种由脑干负责的调节机体稳态的，其实就是原始脑工作，它根本就不受我们的控制。",
+            "trg_text": "The regulation of the body's homeostasis by the brainstem is actually the work of the primitive brain, which is completely out of our control.",
+            "utterance": [
+                {
+                    "sub_start_time": 268480,
+                    "sub_end_time": 273870,
+                    "sub_src_text": "那种由脑干负责的调节机体稳态的，其实就是原始脑工作，",
+                    "sub_trg_text": "The regulation of the body's homeostasis by the brainstem is actually the work of the primitive brain,",
+                    "term": [
+                        {
+                            "src": "脑干",
+                            "trg": "brainstem"
+                        },
+                        {
+                            "src": "稳态",
+                            "trg": "homeostasis"
+                        },
+                        {
+                            "src": "原始脑",
+                            "trg": "primitive brain"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 273870,
+                    "sub_end_time": 275130,
+                    "sub_src_text": "它根本就不受我们的控制。",
+                    "sub_trg_text": "which is completely out of our control.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 275130,
+            "end_time": 278890,
+            "src_text": "我们对，假如我们的肠道蠕动啊，就是温度调节，我们完全没有意识。",
+            "trg_text": "For example, our intestinal peristalsis or temperature regulation. We have no consciousness about those.",
+            "utterance": [
+                {
+                    "sub_start_time": 275130,
+                    "sub_end_time": 278040,
+                    "sub_src_text": "我们对，假如我们的肠道蠕动啊，就是温度调节，",
+                    "sub_trg_text": "For example, our intestinal peristalsis or temperature regulation.",
+                    "term": [
+                        {
+                            "src": "肠道蠕动",
+                            "trg": "intestinal peristalsis"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 278040,
+                    "sub_end_time": 278890,
+                    "sub_src_text": "我们完全没有意识。",
+                    "sub_trg_text": "We have no consciousness about those.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 279530,
+            "end_time": 288460,
+            "src_text": "对。对。这个，你刚才说那个非常有意思，就是这个，呃，让我马上就想到摄影了。马，马上就想到摄影了。",
+            "trg_text": "Yeah. What you just said is quite interesting. It immediately reminded me of photography.",
+            "utterance": [
+                {
+                    "sub_start_time": 279530,
+                    "sub_end_time": 280000,
+                    "sub_src_text": "对。对。",
+                    "sub_trg_text": "Yeah.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 280920,
+                    "sub_end_time": 283240,
+                    "sub_src_text": "这个，你刚才说那个非常有意思，",
+                    "sub_trg_text": "What you just said is quite interesting.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 283240,
+                    "sub_end_time": 288460,
+                    "sub_src_text": "就是这个，呃，让我马上就想到摄影了。马，马上就想到摄影了。",
+                    "sub_trg_text": "It immediately reminded me of photography.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 288520,
+            "end_time": 299620,
+            "src_text": "对，这个你比如说呢，这个身体，身体呢，在这个它是一个，这个就是在你这个身体没有状况的时候，",
+            "trg_text": "For example, when there is nothing wrong with your body,",
+            "utterance": [
+                {
+                    "sub_start_time": 288520,
+                    "sub_end_time": 299620,
+                    "sub_src_text": "对，这个你比如说呢，这个身体，身体呢，在这个它是一个，这个就是在你这个身体没有状况的时候，",
+                    "sub_trg_text": "For example, when there is nothing wrong with your body,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 299940,
+            "end_time": 304180,
+            "src_text": "你是，一般是，它是个背景，啊，它不是前景，它不是你的注意力，",
+            "trg_text": "it's usually in the background, instead of in the foreground. It won't attract attention",
+            "utterance": [
+                {
+                    "sub_start_time": 299940,
+                    "sub_end_time": 303050,
+                    "sub_src_text": "你是，一般是，它是个背景，啊，它不是前景，",
+                    "sub_trg_text": "it's usually in the background, instead of in the foreground.",
+                    "term": [
+                        {
+                            "src": "前景",
+                            "trg": "foreground"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 303120,
+                    "sub_end_time": 304180,
+                    "sub_src_text": "它不是你的注意力，",
+                    "sub_trg_text": "It won't attract attention",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 304240,
+            "end_time": 318260,
+            "src_text": "因为你不会对，因为这个，因为人的眼睛，耳朵，呃，这个包括皮肤的触觉，它呢，在人的大脑里是被完全是统一的。对，是，完全是一个统一的。",
+            "trg_text": "because human eyes, ears, including the sense of touch of the skin, it is completely unified in the human brain.",
+            "utterance": [
+                {
+                    "sub_start_time": 304240,
+                    "sub_end_time": 318260,
+                    "sub_src_text": "因为你不会对，因为这个，因为人的眼睛，耳朵，呃，这个包括皮肤的触觉，它呢，在人的大脑里是被完全是统一的。对，是，完全是一个统一的。",
+                    "sub_trg_text": "because human eyes, ears, including the sense of touch of the skin, it is completely unified in the human brain.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 318730,
+            "end_time": 321810,
+            "src_text": "只有这个某一个器官出了问题，对，",
+            "trg_text": "Only when something goes wrong with a particular organ,",
+            "utterance": [
+                {
+                    "sub_start_time": 318730,
+                    "sub_end_time": 321810,
+                    "sub_src_text": "只有这个某一个器官出了问题，对，",
+                    "sub_trg_text": "Only when something goes wrong with a particular organ,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 322040,
+            "end_time": 328420,
+            "src_text": "呃它才会，它才会，这个彰显，它会，呃，它会觉得，噢，这个，呃，你比如说我看到了没听到，对吧？",
+            "trg_text": "it reveals itself. For example, I saw something but didn't hear it, right?",
+            "utterance": [
+                {
+                    "sub_start_time": 322040,
+                    "sub_end_time": 328420,
+                    "sub_src_text": "呃它才会，它才会，这个彰显，它会，呃，它会觉得，噢，这个，呃，你比如说我看到了没听到，对吧？",
+                    "sub_trg_text": "it reveals itself. For example, I saw something but didn't hear it, right?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 328420,
+            "end_time": 337000,
+            "src_text": "或者听到了没看到，呃，或者，或者我看到了，你比如说这个，呃，这个虚拟的空间我看到了，我一摸没，没有，对吧？",
+            "trg_text": "Or I heard it but didn't see it, or I saw a virtual space, but when I touched it, there was nothing, right?",
+            "utterance": [
+                {
+                    "sub_start_time": 328420,
+                    "sub_end_time": 329610,
+                    "sub_src_text": "或者听到了没看到，",
+                    "sub_trg_text": "Or I heard it but didn't see it,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 329860,
+                    "sub_end_time": 334540,
+                    "sub_src_text": "呃，或者，或者我看到了，你比如说这个，呃，这个虚拟的空间",
+                    "sub_trg_text": "or I saw a virtual space,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 334740,
+                    "sub_end_time": 337000,
+                    "sub_src_text": "我看到了，我一摸没，没有，对吧？",
+                    "sub_trg_text": "but when I touched it, there was nothing, right?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 337000,
+            "end_time": 343280,
+            "src_text": "这个时候才会出现这种，对，这种，这种才有这个所谓的统一的，这种幻觉才会断裂。",
+            "trg_text": "Only at this time will this kind of so-called unified illusion break.",
+            "utterance": [
+                {
+                    "sub_start_time": 337000,
+                    "sub_end_time": 343280,
+                    "sub_src_text": "这个时候才会出现这种，对，这种，这种才有这个所谓的统一的，这种幻觉才会断裂。",
+                    "sub_trg_text": "Only at this time will this kind of so-called unified illusion break.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 343390,
+            "end_time": 349310,
+            "src_text": "对。然后呢，当你的身体健康的时候呢，你也不你要，你不会注意到自己的呼吸和心跳。",
+            "trg_text": "Yes. And then, when you are healthy, you won't notice your breathing and heartbeats.",
+            "utterance": [
+                {
+                    "sub_start_time": 343390,
+                    "sub_end_time": 346080,
+                    "sub_src_text": "对。然后呢，当你的身体健康的时候呢，",
+                    "sub_trg_text": "Yes. And then, when you are healthy,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 346080,
+                    "sub_end_time": 349310,
+                    "sub_src_text": "你也不你要，你不会注意到自己的呼吸和心跳。",
+                    "sub_trg_text": "you won't notice your breathing and heartbeats.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 349820,
+            "end_time": 357080,
+            "src_text": "呃，当你那个心慌的时候，对吧，这时候你才会注意到这个，呃，它就，它就成了你的，它就从背景就出来了。",
+            "trg_text": "But when you feel flustered, you will notice this. It pops out of the background",
+            "utterance": [
+                {
+                    "sub_start_time": 349820,
+                    "sub_end_time": 357080,
+                    "sub_src_text": "呃，当你那个心慌的时候，对吧，这时候你才会注意到这个，呃，它就，它就成了你的，它就从背景就出来了。",
+                    "sub_trg_text": "But when you feel flustered, you will notice this. It pops out of the background",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 357220,
+            "end_time": 364630,
+            "src_text": "对，呃，它就这个就就就，就显现了，于是你才能注意到这个，呃，自己的这个心，心慌啊，什么心跳啊之类的。",
+            "trg_text": "and just appears, and then you will notice your own flustered feeling, heartbeats, etc.",
+            "utterance": [
+                {
+                    "sub_start_time": 357220,
+                    "sub_end_time": 360160,
+                    "sub_src_text": "对，呃，它就这个就就就，就显现了，",
+                    "sub_trg_text": "and just appears,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 360160,
+                    "sub_end_time": 364630,
+                    "sub_src_text": "于是你才能注意到这个，呃，自己的这个心，心慌啊，什么心跳啊之类的。",
+                    "sub_trg_text": "and then you will notice your own flustered feeling, heartbeats, etc.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 365580,
+            "end_time": 369830,
+            "src_text": "这里头有一个问，问这一个让我想到一个事，特别有意思的事儿就是这个摄影。",
+            "trg_text": "It reminds me of a very interesting thing: photography.",
+            "utterance": [
+                {
+                    "sub_start_time": 365580,
+                    "sub_end_time": 369830,
+                    "sub_src_text": "这里头有一个问，问这一个让我想到一个事，特别有意思的事儿就是这个摄影。",
+                    "sub_trg_text": "It reminds me of a very interesting thing: photography.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 370380,
+            "end_time": 376750,
+            "src_text": "摄影呢，前前些期呢，我们讨论过这个，这个是斯蒂芬·肖尔。",
+            "trg_text": "In terms of photography, in the previous seminars, we talked about Stephen Shore,",
+            "utterance": [
+                {
+                    "sub_start_time": 370380,
+                    "sub_end_time": 372370,
+                    "sub_src_text": "摄影呢，前前些期呢，",
+                    "sub_trg_text": "In terms of photography, in the previous seminars,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 372370,
+                    "sub_end_time": 376750,
+                    "sub_src_text": "我们讨论过这个，这个是斯蒂芬·肖尔。",
+                    "sub_trg_text": "we talked about Stephen Shore,",
+                    "term": [
+                        {
+                            "src": "斯蒂芬·肖尔",
+                            "trg": "Stephen Shore"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 378440,
+            "end_time": 383000,
+            "src_text": "斯蒂芬·肖尔呢，提出来一个非常的重要的概念，就叫结构透明化。",
+            "trg_text": "who proposed a very important concept, called structural transparency.",
+            "utterance": [
+                {
+                    "sub_start_time": 378440,
+                    "sub_end_time": 383000,
+                    "sub_src_text": "斯蒂芬·肖尔呢，提出来一个非常的重要的概念，就叫结构透明化。",
+                    "sub_trg_text": "who proposed a very important concept, called structural transparency.",
+                    "term": [
+                        {
+                            "src": "结构透明化",
+                            "trg": "structural transparency"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 384340,
+            "end_time": 392210,
+            "src_text": "就说让这个，它的这种，这照片，这种，这种视觉的结构，呃，让你注意不到它的这个结构。",
+            "trg_text": "It makes the visual structure of a photo inconspicuous.",
+            "utterance": [
+                {
+                    "sub_start_time": 384340,
+                    "sub_end_time": 392210,
+                    "sub_src_text": "就说让这个，它的这种，这照片，这种，这种视觉的结构，呃，让你注意不到它的这个结构。",
+                    "sub_trg_text": "It makes the visual structure of a photo inconspicuous.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 393150,
+            "end_time": 405050,
+            "src_text": "那么如果我们把照片也认为这个它也是一种身体，我们也用身体来理解它的话，恰恰那个结构透明化的照片是健康的身体。",
+            "trg_text": "Then if we consider the photo as a kind of body, the photo with structural transparency is precisely a healthy body.",
+            "utterance": [
+                {
+                    "sub_start_time": 393150,
+                    "sub_end_time": 399980,
+                    "sub_src_text": "那么如果我们把照片也认为这个它也是一种身体，我们也用身体来理解它的话，",
+                    "sub_trg_text": "Then if we consider the photo as a kind of body,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 400330,
+                    "sub_end_time": 405050,
+                    "sub_src_text": "恰恰那个结构透明化的照片是健康的身体。",
+                    "sub_trg_text": "the photo with structural transparency is precisely a healthy body.",
+                    "term": [
+                        {
+                            "src": "结构透明化",
+                            "trg": "structural transparency"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 405820,
+            "end_time": 414210,
+            "src_text": "因为这个对，因为它让你无，就是放，就是它那个它那个它所谓那个形式达到了最高的境界的时候，",
+            "trg_text": "Because when this form reaches the highest level,",
+            "utterance": [
+                {
+                    "sub_start_time": 405820,
+                    "sub_end_time": 414210,
+                    "sub_src_text": "因为这个对，因为它让你无，就是放，就是它那个它那个它所谓那个形式达到了最高的境界的时候，",
+                    "sub_trg_text": "Because when this form reaches the highest level,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 414510,
+            "end_time": 418780,
+            "src_text": "它隐它自动隐身了，它透明化了，让你看不到它了。",
+            "trg_text": "it automatically hides itself; it becomes transparent, and you can't see it.",
+            "utterance": [
+                {
+                    "sub_start_time": 414510,
+                    "sub_end_time": 417550,
+                    "sub_src_text": "它隐它自动隐身了，它透明化了，",
+                    "sub_trg_text": "it automatically hides itself; it becomes transparent,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 417720,
+                    "sub_end_time": 418780,
+                    "sub_src_text": "让你看不到它了。",
+                    "sub_trg_text": "and you can't see it.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 418840,
+            "end_time": 429620,
+            "src_text": "对，反而你的注意力呢，都注意到它，那个，呃，图像里面儿的所呈现的东西，而不是那种，呃，而不是那个形式和结构本身。",
+            "trg_text": "Instead, your attention is all on the things presented in the photo, rather than the form or structure itself.",
+            "utterance": [
+                {
+                    "sub_start_time": 418840,
+                    "sub_end_time": 424680,
+                    "sub_src_text": "对，反而你的注意力呢，都注意到它，那个，呃，图像里面儿的所呈现的东西，",
+                    "sub_trg_text": "Instead, your attention is all on the things presented in the photo,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 424900,
+                    "sub_end_time": 429620,
+                    "sub_src_text": "而不是那种，呃，而不是那个形式和结构本身。",
+                    "sub_trg_text": "rather than the form or structure itself.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 430170,
+            "end_time": 439050,
+            "src_text": "呃，恰恰是那种所谓的不成熟的，或者说是那那种，呃，简单的那种不是最高的那种形，那种所谓的形式主义的东西，",
+            "trg_text": "It is the immature or simple stuff not of the highest level of form",
+            "utterance": [
+                {
+                    "sub_start_time": 430170,
+                    "sub_end_time": 439050,
+                    "sub_src_text": "呃，恰恰是那种所谓的不成熟的，或者说是那那种，呃，简单的那种不是最高的那种形，那种所谓的形式主义的东西，",
+                    "sub_trg_text": "It is the immature or simple stuff not of the highest level of form",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 439360,
+            "end_time": 444940,
+            "src_text": "才让你停留在那个视觉的结构，那种形式本身，",
+            "trg_text": "that makes you linger on the visual structure, on the form itself,",
+            "utterance": [
+                {
+                    "sub_start_time": 439360,
+                    "sub_end_time": 444940,
+                    "sub_src_text": "才让你停留在那个视觉的结构，那种形式本身，",
+                    "sub_trg_text": "that makes you linger on the visual structure, on the form itself,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 445160,
+            "end_time": 449960,
+            "src_text": "啊，才让你觉得这个东西啊，好像这个，呃，非常酷，如何如何。",
+            "trg_text": "and makes you think this stuff very cool and all.",
+            "utterance": [
+                {
+                    "sub_start_time": 445160,
+                    "sub_end_time": 449960,
+                    "sub_src_text": "啊，才让你觉得这个东西啊，好像这个，呃，非常酷，如何如何。",
+                    "sub_trg_text": "and makes you think this stuff very cool and all.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 450490,
+            "end_time": 457130,
+            "src_text": "但是如果用这个，刚才路文老师讲到的这个，这恰恰是这个照片作为一个身体来讲，",
+            "trg_text": "But like what Mr. Lu just talked about, this is precisely when the photo, as a body,",
+            "utterance": [
+                {
+                    "sub_start_time": 450490,
+                    "sub_end_time": 457130,
+                    "sub_src_text": "但是如果用这个，刚才路文老师讲到的这个，这恰恰是这个照片作为一个身体来讲，",
+                    "sub_trg_text": "But like what Mr. Lu just talked about, this is precisely when the photo, as a body,",
+                    "term": [
+                        {
+                            "src": "路文老师",
+                            "trg": "Mr. Lu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 457130,
+            "end_time": 460909,
+            "src_text": "它生病了，哈哈哈，对，所以这个结构才不透明，",
+            "trg_text": "is sick, so the structure is not transparent.",
+            "utterance": [
+                {
+                    "sub_start_time": 457130,
+                    "sub_end_time": 457780,
+                    "sub_src_text": "它生病了，",
+                    "sub_trg_text": "is sick,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 457820,
+                    "sub_end_time": 460909,
+                    "sub_src_text": "哈哈哈，对，所以这个结构才不透明，",
+                    "sub_trg_text": "so the structure is not transparent.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 460909,
+            "end_time": 464820,
+            "src_text": "对。所以这个你刚讲这个让我想到一个非常有有意思的事儿。",
+            "trg_text": "Yes. What you just said reminds me of something really interesting.",
+            "utterance": [
+                {
+                    "sub_start_time": 460909,
+                    "sub_end_time": 464820,
+                    "sub_src_text": "对。所以这个你刚讲这个让我想到一个非常有有意思的事儿。",
+                    "sub_trg_text": "Yes. What you just said reminds me of something really interesting.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 464990,
+            "end_time": 470270,
+            "src_text": "假如说我们把身体的概念拓展到图到影，影像的这种结构里去，",
+            "trg_text": "If we expand the concept of the body to the structure of images and videos,",
+            "utterance": [
+                {
+                    "sub_start_time": 464990,
+                    "sub_end_time": 470270,
+                    "sub_src_text": "假如说我们把身体的概念拓展到图到影，影像的这种结构里去，",
+                    "sub_trg_text": "If we expand the concept of the body to the structure of images and videos,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 470460,
+            "end_time": 473630,
+            "src_text": "对，它也是有这种背景和这种前景的。",
+            "trg_text": "there is also the background and the foreground.",
+            "utterance": [
+                {
+                    "sub_start_time": 470460,
+                    "sub_end_time": 473630,
+                    "sub_src_text": "对，它也是有这种背景和这种前景的。",
+                    "sub_trg_text": "there is also the background and the foreground.",
+                    "term": [
+                        {
+                            "src": "前景",
+                            "trg": "foreground"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

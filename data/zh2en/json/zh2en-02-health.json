@@ -1,0 +1,597 @@
+{
+    "vid": "zh2en-02-health",
+    "duration": 195830,
+    "segment": [
+        {
+            "start_time": 50,
+            "end_time": 3230,
+            "src_text": "好的，现在的话呢，我们先进入了这个电影的章节。",
+            "trg_text": "Now let's move on to the part of the film,",
+            "utterance": [
+                {
+                    "sub_start_time": 50,
+                    "sub_end_time": 3230,
+                    "sub_src_text": "好的，现在的话呢，我们先进入了这个电影的章节。",
+                    "sub_trg_text": "Now let's move on to the part of the film,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 3650,
+            "end_time": 10400,
+            "src_text": "非常有意思啊，它说，就是我们其实在讨论，就是电影它是不是会影响到一些，呃，不同年龄段的人。",
+            "trg_text": "which is quite interesting. What we are discussing is whether movies can influence people of different ages.",
+            "utterance": [
+                {
+                    "sub_start_time": 3650,
+                    "sub_end_time": 4300,
+                    "sub_src_text": "非常有意思啊，",
+                    "sub_trg_text": "which is quite interesting.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 4300,
+                    "sub_end_time": 10400,
+                    "sub_src_text": "它说，就是我们其实在讨论，就是电影它是不是会影响到一些，呃，不同年龄段的人。",
+                    "sub_trg_text": "What we are discussing is whether movies can influence people of different ages.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 10730,
+            "end_time": 17200,
+            "src_text": "就比如说就是现在的话，互联网不是所有人都可以，就是接触的一个啊，就是媒体的形式。",
+            "trg_text": "The Internet, for example, is accessible to everyone.",
+            "utterance": [
+                {
+                    "sub_start_time": 10730,
+                    "sub_end_time": 17200,
+                    "sub_src_text": "就比如说就是现在的话，互联网不是所有人都可以，就是接触的一个啊，就是媒体的形式。",
+                    "sub_trg_text": "The Internet, for example, is accessible to everyone.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 17530,
+            "end_time": 24110,
+            "src_text": "那很多时候呢，可能一些未，未成熟的儿童，大家可能就小小年龄掌握了很强劲的上网技术，开始网上冲浪。",
+            "trg_text": "Therefore, at times, some young children may have mastered robust digital skills and started to browse online at a very young age.",
+            "utterance": [
+                {
+                    "sub_start_time": 17530,
+                    "sub_end_time": 24110,
+                    "sub_src_text": "那很多时候呢，可能一些未，未成熟的儿童，大家可能就小小年龄掌握了很强劲的上网技术，开始网上冲浪。",
+                    "sub_trg_text": "Therefore, at times, some young children may have mastered robust digital skills and started to browse online at a very young age.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 24530,
+            "end_time": 28000,
+            "src_text": "但是可能那些YouTube上面的话呢，是没有YouTube for kids，",
+            "trg_text": "But in YouTube, there isn't a \"YouTube for Kids\" channel,",
+            "utterance": [
+                {
+                    "sub_start_time": 24530,
+                    "sub_end_time": 28000,
+                    "sub_src_text": "但是可能那些YouTube上面的话呢，是没有YouTube for kids，",
+                    "sub_trg_text": "But in YouTube, there isn't a \"YouTube for Kids\" channel,",
+                    "term": [
+                        {
+                            "src": "YouTube",
+                            "trg": "YouTube"
+                        },
+                        {
+                            "src": "YouTube for kids",
+                            "trg": "YouTube for kids"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 28010,
+            "end_time": 31350,
+            "src_text": "或者他们不会去选择自己去YouTube for kids这种频道。",
+            "trg_text": "or they simply won't choose a channel of this kind by themselves.",
+            "utterance": [
+                {
+                    "sub_start_time": 28010,
+                    "sub_end_time": 31350,
+                    "sub_src_text": "或者他们不会去选择自己去YouTube for kids这种频道。",
+                    "sub_trg_text": "or they simply won't choose a channel of this kind by themselves.",
+                    "term": [
+                        {
+                            "src": "YouTube for kids",
+                            "trg": "YouTube for kids"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 31810,
+            "end_time": 36670,
+            "src_text": "那会不会使得他们会看到一些不宜他们身心健康的内容呢？",
+            "trg_text": "So, will they see something detrimental to their mental and physical health as a result?",
+            "utterance": [
+                {
+                    "sub_start_time": 31810,
+                    "sub_end_time": 36670,
+                    "sub_src_text": "那会不会使得他们会看到一些不宜他们身心健康的内容呢？",
+                    "sub_trg_text": "So, will they see something detrimental to their mental and physical health as a result?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 36670,
+            "end_time": 45680,
+            "src_text": "我我觉得是肯定会的。所以所以在这种情况之下，啊家长呢应该可以去采取哪些行动去保护小孩受到伤害？",
+            "trg_text": "I'm sure it will. So, in this case, what actions can parents take to protect their children from harm?",
+            "utterance": [
+                {
+                    "sub_start_time": 36670,
+                    "sub_end_time": 38070,
+                    "sub_src_text": "我我觉得是肯定会的。",
+                    "sub_trg_text": "I'm sure it will.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 38500,
+                    "sub_end_time": 40930,
+                    "sub_src_text": "所以所以在这种情况之下，",
+                    "sub_trg_text": "So, in this case,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 40930,
+                    "sub_end_time": 45680,
+                    "sub_src_text": "啊家长呢应该可以去采取哪些行动去保护小孩受到伤害？",
+                    "sub_trg_text": "what actions can parents take to protect their children from harm?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 46220,
+            "end_time": 53940,
+            "src_text": "嗯，很有意思，就是可以去设置，呃，screen share或者screen， screen protect on some something，",
+            "trg_text": "This is an interesting topic. We may set up a feature called \"screen share\" or \"screen protect on something.\"",
+            "utterance": [
+                {
+                    "sub_start_time": 46220,
+                    "sub_end_time": 48020,
+                    "sub_src_text": "嗯，很有意思，",
+                    "sub_trg_text": "This is an interesting topic.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 48020,
+                    "sub_end_time": 53940,
+                    "sub_src_text": "就是可以去设置，呃，screen share或者screen， screen protect on some something，",
+                    "sub_trg_text": "We may set up a feature called \"screen share\" or \"screen protect on something.\"",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 53960,
+            "end_time": 63630,
+            "src_text": "然后或者是可以看他们的一些啊，就是比较极端的话，有可能家长会去看一些他们的，啊，这个呃，history，小小朋友他们的history。",
+            "trg_text": "Or, some radical parents will check their child's browsing history.",
+            "utterance": [
+                {
+                    "sub_start_time": 53960,
+                    "sub_end_time": 63630,
+                    "sub_src_text": "然后或者是可以看他们的一些啊，就是比较极端的话，有可能家长会去看一些他们的，啊，这个呃，history，小小朋友他们的history。",
+                    "sub_trg_text": "Or, some radical parents will check their child's browsing history.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 63790,
+            "end_time": 68590,
+            "src_text": "我觉得这个其实本身的话可能说到底还是建立在孩子和家长的一个信任程度上面，",
+            "trg_text": "At the end of the day, I suppose it's about the trust between parents and their children,",
+            "utterance": [
+                {
+                    "sub_start_time": 63790,
+                    "sub_end_time": 68590,
+                    "sub_src_text": "我觉得这个其实本身的话可能说到底还是建立在孩子和家长的一个信任程度上面，",
+                    "sub_trg_text": "At the end of the day, I suppose it's about the trust between parents and their children,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 68590,
+            "end_time": 78090,
+            "src_text": "包括孩子他，他有多大程度上就是有那个逆叛的心理，就想去看一些他觉得会，啊，他不能被看，不被允许看，但他很想看的东西。",
+            "trg_text": "and to what extent a child is rebellious to view content that is forbidden but they are curious about?",
+            "utterance": [
+                {
+                    "sub_start_time": 68590,
+                    "sub_end_time": 71780,
+                    "sub_src_text": "包括孩子他，他有多大程度上就是有那个逆叛的心理，",
+                    "sub_trg_text": "and to what extent a child is rebellious to",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 71780,
+                    "sub_end_time": 78090,
+                    "sub_src_text": "就想去看一些他觉得会，啊，他不能被看，不被允许看，但他很想看的东西。",
+                    "sub_trg_text": "view content that is forbidden but they are curious about?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 78440,
+            "end_time": 83870,
+            "src_text": "嗯，所以说就感觉是会，需，需要去有这个家长和孩子方面两方的一个权衡。",
+            "trg_text": "Therefore, there needs to be a balance set by both the parents and the children.",
+            "utterance": [
+                {
+                    "sub_start_time": 78440,
+                    "sub_end_time": 83870,
+                    "sub_src_text": "嗯，所以说就感觉是会，需，需要去有这个家长和孩子方面两方的一个权衡。",
+                    "sub_trg_text": "Therefore, there needs to be a balance set by both the parents and the children.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 85160,
+            "end_time": 93729,
+            "src_text": "Yep。可以。嗯，对，就很有意思一点，就是当家长和孩子他们这个争论变得激烈的时候，",
+            "trg_text": "Yep. It's quite interesting to note that when the debate between a parent and a child gets intense,",
+            "utterance": [
+                {
+                    "sub_start_time": 85160,
+                    "sub_end_time": 87360,
+                    "sub_src_text": "Yep。可以。",
+                    "sub_trg_text": "Yep.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 88200,
+                    "sub_end_time": 93729,
+                    "sub_src_text": "嗯，对，就很有意思一点，就是当家长和孩子他们这个争论变得激烈的时候，",
+                    "sub_trg_text": "It's quite interesting to note that when the debate between a parent and a child gets intense,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 93880,
+            "end_time": 100410,
+            "src_text": "那可能家长和孩子他们会有很多的分歧。那哈哈，很多时候呢，诶有个建议就是说哈哈，",
+            "trg_text": "a lot of conflicts arise. But there is a good suggestion.",
+            "utterance": [
+                {
+                    "sub_start_time": 93880,
+                    "sub_end_time": 96410,
+                    "sub_src_text": "那可能家长和孩子他们会有很多的分歧。",
+                    "sub_trg_text": "a lot of conflicts arise.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 96640,
+                    "sub_end_time": 100410,
+                    "sub_src_text": "那哈哈，很多时候呢，诶有个建议就是说哈哈，",
+                    "sub_trg_text": "But there is a good suggestion.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 100800,
+            "end_time": 109070,
+            "src_text": "如果孩子们他们没有办法通过一些比较正常的渠道，或者是没有办法，因为家长的限制没有办法去看到一些啊比较有限制性的YouTube，",
+            "trg_text": "When a child fails to access restricted YouTube videos through normal channels or they cannot do this due to their parents' constraint,",
+            "utterance": [
+                {
+                    "sub_start_time": 100800,
+                    "sub_end_time": 104270,
+                    "sub_src_text": "如果孩子们他们没有办法通过一些比较正常的渠道，",
+                    "sub_trg_text": "When a child fails to access restricted YouTube videos through normal channels",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 104280,
+                    "sub_end_time": 109070,
+                    "sub_src_text": "或者是没有办法，因为家长的限制没有办法去看到一些啊比较有限制性的YouTube，",
+                    "sub_trg_text": "or they cannot do this due to their parents' constraint,",
+                    "term": [
+                        {
+                            "src": "YouTube",
+                            "trg": "YouTube"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 109440,
+            "end_time": 114870,
+            "src_text": "那就家长就有的时候就会说，就是你想看YouTube视频，你想看这种限制级别的视频，做梦去吧。",
+            "trg_text": "the parent might say, \"You wanna see the restricted video? Dream on!\"",
+            "utterance": [
+                {
+                    "sub_start_time": 109440,
+                    "sub_end_time": 114070,
+                    "sub_src_text": "那就家长就有的时候就会说，就是你想看YouTube视频，你想看这种限制级别的视频，",
+                    "sub_trg_text": "the parent might say, \"You wanna see the restricted video?",
+                    "term": [
+                        {
+                            "src": "YouTube",
+                            "trg": "YouTube"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 114070,
+                    "sub_end_time": 114870,
+                    "sub_src_text": "做梦去吧。",
+                    "sub_trg_text": "Dream on!\"",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 115070,
+            "end_time": 117979,
+            "src_text": "那孩子说，那好吧，那就只能睡觉了，这样的话梦里什么都有。",
+            "trg_text": "And the child will be like: \"Alright.\" And then the child has no choice but to go to sleep, hoping that there is everything in dream.",
+            "utterance": [
+                {
+                    "sub_start_time": 115070,
+                    "sub_end_time": 116880,
+                    "sub_src_text": "那孩子说，那好吧，那就只能睡觉了，",
+                    "sub_trg_text": "And the child will be like: \"Alright.\" And then the child has no choice but to go to sleep,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 116880,
+                    "sub_end_time": 117979,
+                    "sub_src_text": "这样的话梦里什么都有。",
+                    "sub_trg_text": "hoping that there is everything in dream.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 118310,
+            "end_time": 121230,
+            "src_text": "对，我用我的想，我用我的创造力去想象这样的一个世界。",
+            "trg_text": "And they can build a world with their creativity and imagination.",
+            "utterance": [
+                {
+                    "sub_start_time": 118310,
+                    "sub_end_time": 121230,
+                    "sub_src_text": "对，我用我的想，我用我的创造力去想象这样的一个世界。",
+                    "sub_trg_text": "And they can build a world with their creativity and imagination.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 122130,
+            "end_time": 134500,
+            "src_text": "OK，下一页。对，这，这些，这，这个就是跟上面的一样的。就是说，呃，就有点像为什么大家一直说就是要限制一些儿童去观看，",
+            "trg_text": "OK, next page. It's the same as above. Why is it constantly promoted that children should be prohibited from watching videos?",
+            "utterance": [
+                {
+                    "sub_start_time": 122130,
+                    "sub_end_time": 123000,
+                    "sub_src_text": "OK，下一页。",
+                    "sub_trg_text": "OK, next page.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 125510,
+                    "sub_end_time": 128300,
+                    "sub_src_text": "对，这，这些，这，这个就是跟上面的一样的。",
+                    "sub_trg_text": "It's the same as above.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 128300,
+                    "sub_end_time": 134500,
+                    "sub_src_text": "就是说，呃，就有点像为什么大家一直说就是要限制一些儿童去观看，",
+                    "sub_trg_text": "Why is it constantly promoted that children should be prohibited from watching videos?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 134500,
+            "end_time": 138770,
+            "src_text": "不只是因为限制级的一些，呃，影片，它可能会影响孩子的健康。",
+            "trg_text": "It's not only restricted videos that are included. Restricted videos may affect children's health and wellbeing.",
+            "utterance": [
+                {
+                    "sub_start_time": 134500,
+                    "sub_end_time": 137130,
+                    "sub_src_text": "不只是因为限制级的一些，呃，影片，",
+                    "sub_trg_text": "It's not only restricted videos that are included.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 137140,
+                    "sub_end_time": 138770,
+                    "sub_src_text": "它可能会影响孩子的健康。",
+                    "sub_trg_text": "Restricted videos may affect children's health and wellbeing.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 139020,
+            "end_time": 148520,
+            "src_text": "那另外的话呢，可能是就是看电影影片，尤其是一些比较toxic的视频，它其实本身会激发人们的一些呃，独特的欲望。",
+            "trg_text": "Additionally, watching films or videos, especially some toxic videos, can trigger a unique desire among humans.",
+            "utterance": [
+                {
+                    "sub_start_time": 139020,
+                    "sub_end_time": 144540,
+                    "sub_src_text": "那另外的话呢，可能是就是看电影影片，尤其是一些比较toxic的视频，",
+                    "sub_trg_text": "Additionally, watching films or videos, especially some toxic videos,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 144540,
+                    "sub_end_time": 148520,
+                    "sub_src_text": "它其实本身会激发人们的一些呃，独特的欲望。",
+                    "sub_trg_text": "can trigger a unique desire among humans.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 148660,
+            "end_time": 153150,
+            "src_text": "那这种时候呢，就是大脑受到了刺激以后呢，就会特别容易兴奋，特别容易亢奋，",
+            "trg_text": "When the brain receives stimulation, it tends to be exited, even hyper.",
+            "utterance": [
+                {
+                    "sub_start_time": 148660,
+                    "sub_end_time": 153150,
+                    "sub_src_text": "那这种时候呢，就是大脑受到了刺激以后呢，就会特别容易兴奋，特别容易亢奋，",
+                    "sub_trg_text": "When the brain receives stimulation, it tends to be exited, even hyper.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 153329,
+            "end_time": 157000,
+            "src_text": "那就很难想要在晚上，啊该睡眠的时候继续睡眠。",
+            "trg_text": "Then people at night will find it hard to fall asleep when they are supposed to.",
+            "utterance": [
+                {
+                    "sub_start_time": 153329,
+                    "sub_end_time": 157000,
+                    "sub_src_text": "那就很难想要在晚上，啊该睡眠的时候继续睡眠。",
+                    "sub_trg_text": "Then people at night will find it hard to fall asleep when they are supposed to.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 157570,
+            "end_time": 165890,
+            "src_text": "嗯，这也是为什么我觉得，呃，可能影片不只是对于，啊未成年人来说或者是儿童来说，是一个非常，呃，toxic的东西，",
+            "trg_text": "That's why I believe videos can be rather toxic not only to juniors or children;",
+            "utterance": [
+                {
+                    "sub_start_time": 157570,
+                    "sub_end_time": 165890,
+                    "sub_src_text": "嗯，这也是为什么我觉得，呃，可能影片不只是对于，啊未成年人来说或者是儿童来说，是一个非常，呃，toxic的东西，",
+                    "sub_trg_text": "That's why I believe videos can be rather toxic not only to juniors or children;",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 166050,
+            "end_time": 172440,
+            "src_text": "甚至一些限制级的一些，比如说暴力、血腥，啊，一些色情的一些东西，它对于就成人来说也是影响很大的。",
+            "trg_text": "ome R-rated videos, like the violent, bloody, and erotic ones, also have significant negative effects on adults.",
+            "utterance": [
+                {
+                    "sub_start_time": 166050,
+                    "sub_end_time": 169970,
+                    "sub_src_text": "甚至一些限制级的一些，比如说暴力、血腥，啊，一些色情的一些东西，",
+                    "sub_trg_text": "ome R-rated videos, like the violent, bloody, and erotic ones,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 169970,
+                    "sub_end_time": 172440,
+                    "sub_src_text": "它对于就成人来说也是影响很大的。",
+                    "sub_trg_text": "also have significant negative effects on adults.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 172579,
+            "end_time": 177280,
+            "src_text": "那就会造成这种现象，然后晚上的时候，就是说我是夜的精灵，没有人可以让我睡觉，",
+            "trg_text": "This will lead to this phenomenon: At night, I become an owl. Nothing can make me asleep.",
+            "utterance": [
+                {
+                    "sub_start_time": 172579,
+                    "sub_end_time": 177280,
+                    "sub_src_text": "那就会造成这种现象，然后晚上的时候，就是说我是夜的精灵，没有人可以让我睡觉，",
+                    "sub_trg_text": "This will lead to this phenomenon: At night, I become an owl. Nothing can make me asleep.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 177280,
+            "end_time": 180560,
+            "src_text": "那白天的时候呢，就是哈哈，不要让我起来，否则我跟你对着干。",
+            "trg_text": "But during the day, it will be like: Don't wake me up, or I'll bite anyone who does.",
+            "utterance": [
+                {
+                    "sub_start_time": 177280,
+                    "sub_end_time": 180560,
+                    "sub_src_text": "那白天的时候呢，就是哈哈，不要让我起来，否则我跟你对着干。",
+                    "sub_trg_text": "But during the day, it will be like: Don't wake me up, or I'll bite anyone who does.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 180560,
+            "end_time": 190520,
+            "src_text": "这个这样最后理解哈哈，非常了解，对的。然后我就觉得啊，在这种情况下，呃这个对于YouTube， YouTube的影片的类型的筛选，",
+            "trg_text": "Therefore, I think screening YouTube videos",
+            "utterance": [
+                {
+                    "sub_start_time": 180560,
+                    "sub_end_time": 190520,
+                    "sub_src_text": "这个这样最后理解哈哈，非常了解，对的。然后我就觉得啊，在这种情况下，呃这个对于YouTube， YouTube的影片的类型的筛选，",
+                    "sub_trg_text": "Therefore, I think screening YouTube videos",
+                    "term": [
+                        {
+                            "src": "YouTube",
+                            "trg": "YouTube"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 190520,
+            "end_time": 195880,
+            "src_text": "其实是不只是对于，啊未成年的儿童，而是对于我觉得所有人都可以去做的一个功课。",
+            "trg_text": "is an conducive practice not only for young children, but for everyone's benefit.",
+            "utterance": [
+                {
+                    "sub_start_time": 190520,
+                    "sub_end_time": 193160,
+                    "sub_src_text": "其实是不只是对于，啊未成年的儿童，",
+                    "sub_trg_text": "is an conducive practice not only for young children,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 193360,
+                    "sub_end_time": 195880,
+                    "sub_src_text": "而是对于我觉得所有人都可以去做的一个功课。",
+                    "sub_trg_text": "but for everyone's benefit.",
+                    "term": []
+                }
+            ]
+        }
+    ]
+}

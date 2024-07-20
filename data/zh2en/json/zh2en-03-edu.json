@@ -1,0 +1,1115 @@
+{
+    "vid": "zh2en-03-edu",
+    "duration": 294930,
+    "segment": [
+        {
+            "start_time": 620,
+            "end_time": 4390,
+            "src_text": "教师的角色，最传统的角色，就是像这样一个角色，",
+            "trg_text": "The most traditional role of teachers was like this,",
+            "utterance": [
+                {
+                    "sub_start_time": 620,
+                    "sub_end_time": 2710,
+                    "sub_src_text": "教师的角色，最传统的角色，",
+                    "sub_trg_text": "The most traditional role of teachers",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 3190,
+                    "sub_end_time": 4390,
+                    "sub_src_text": "就是像这样一个角色，",
+                    "sub_trg_text": "was like this,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 4790,
+            "end_time": 10000,
+            "src_text": "叫，讲坛上的圣者，the sage on the stage，就像这样。",
+            "trg_text": "which is called \"the sage on the stage\".",
+            "utterance": [
+                {
+                    "sub_start_time": 4790,
+                    "sub_end_time": 10000,
+                    "sub_src_text": "叫，讲坛上的圣者，the sage on the stage，就像这样。",
+                    "sub_trg_text": "which is called \"the sage on the stage\".",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 11350,
+            "end_time": 19200,
+            "src_text": "现在变成了，学生身旁的指引者，the guide on the side，或者说学习的促进者，就像这样。",
+            "trg_text": "Now it has turned to \"the guide on the side\" for students or a facilitator of learning, just like this.",
+            "utterance": [
+                {
+                    "sub_start_time": 11350,
+                    "sub_end_time": 15920,
+                    "sub_src_text": "现在变成了，学生身旁的指引者，the guide on the side，",
+                    "sub_trg_text": "Now it has turned to \"the guide on the side\" for students",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 16170,
+                    "sub_end_time": 17850,
+                    "sub_src_text": "或者说学习的促进者，",
+                    "sub_trg_text": "or a facilitator of learning,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 18390,
+                    "sub_end_time": 19200,
+                    "sub_src_text": "就像这样。",
+                    "sub_trg_text": "just like this.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 19720,
+            "end_time": 27400,
+            "src_text": "那么现在呢，疫情发生之后，其实促进了这样一个东西，叫做混合式教学，线上教学。",
+            "trg_text": "Currently, after the outbreak of the epidemic, what has been promoted is something called blended online learning.",
+            "utterance": [
+                {
+                    "sub_start_time": 19720,
+                    "sub_end_time": 20610,
+                    "sub_src_text": "那么现在呢，",
+                    "sub_trg_text": "Currently,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 20970,
+                    "sub_end_time": 22030,
+                    "sub_src_text": "疫情发生之后，",
+                    "sub_trg_text": "after the outbreak of the epidemic,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 22350,
+                    "sub_end_time": 27400,
+                    "sub_src_text": "其实促进了这样一个东西，叫做混合式教学，线上教学。",
+                    "sub_trg_text": "what has been promoted is something called blended online learning.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 27590,
+            "end_time": 31640,
+            "src_text": "所以当老师不容易，他还要具备一些教育技术方面的一些知识了。",
+            "trg_text": "So to be a teacher is not easy. It entails some knowledge in educational technology.",
+            "utterance": [
+                {
+                    "sub_start_time": 27590,
+                    "sub_end_time": 28910,
+                    "sub_src_text": "所以当老师不容易，",
+                    "sub_trg_text": "So to be a teacher is not easy.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 29040,
+                    "sub_end_time": 31640,
+                    "sub_src_text": "他还要具备一些教育技术方面的一些知识了。",
+                    "sub_trg_text": "It entails some knowledge in educational technology.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 33630,
+            "end_time": 41790,
+            "src_text": "更加，这个，比较极端的一个角色，叫做the mind in the machine，叫机器中的灵魂，",
+            "trg_text": "An even more extreme role is called \"the mind in the machine\", that is, we teachers now should also learn to teach remotely.",
+            "utterance": [
+                {
+                    "sub_start_time": 33630,
+                    "sub_end_time": 38350,
+                    "sub_src_text": "更加，这个，比较极端的一个角色，",
+                    "sub_trg_text": "An even more extreme role",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 38350,
+                    "sub_end_time": 40390,
+                    "sub_src_text": "叫做the mind in the machine，",
+                    "sub_trg_text": "is called \"the mind in the machine\",",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 40390,
+                    "sub_end_time": 41790,
+                    "sub_src_text": "叫机器中的灵魂，",
+                    "sub_trg_text": "that is, we teachers now should also learn to teach remotely.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 42520,
+            "end_time": 48160,
+            "src_text": "就是我们老师啊，现在还要学会在远程进行教育了，所以现在当老师的角色也开始变化了。",
+            "trg_text": "that is, we teachers now should also learn to teach remotely. As a result, the role of teachers is also changing now.",
+            "utterance": [
+                {
+                    "sub_start_time": 42520,
+                    "sub_end_time": 45830,
+                    "sub_src_text": "就是我们老师啊，现在还要学会在远程进行教育了，",
+                    "sub_trg_text": "that is, we teachers now should also learn to teach remotely.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 46030,
+                    "sub_end_time": 48160,
+                    "sub_src_text": "所以现在当老师的角色也开始变化了。",
+                    "sub_trg_text": "As a result, the role of teachers is also changing now.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 48440,
+            "end_time": 51330,
+            "src_text": "我用一个虚线框起来，这是个虚拟的一个，",
+            "trg_text": "I enclose it with a dotted line. This is a virtual one.",
+            "utterance": [
+                {
+                    "sub_start_time": 48440,
+                    "sub_end_time": 49850,
+                    "sub_src_text": "我用一个虚线框起来，",
+                    "sub_trg_text": "I enclose it with a dotted line.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 50290,
+                    "sub_end_time": 51330,
+                    "sub_src_text": "这是个虚拟的一个，",
+                    "sub_trg_text": "This is a virtual one.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 51730,
+            "end_time": 56210,
+            "src_text": "所以当老师呢，他的角色是四重角色，都要有了。",
+            "trg_text": "So for teachers, they have four roles.",
+            "utterance": [
+                {
+                    "sub_start_time": 51730,
+                    "sub_end_time": 52670,
+                    "sub_src_text": "所以当老师呢，",
+                    "sub_trg_text": "So for teachers,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 53750,
+                    "sub_end_time": 56210,
+                    "sub_src_text": "他的角色是四重角色，都要有了。",
+                    "sub_trg_text": "they have four roles.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 56560,
+            "end_time": 62170,
+            "src_text": "这个在，蛮荒时代，从原始时代，教育的角色可能不是这样的吧。",
+            "trg_text": "In the barbaric era or from the primitive era, the role of education might not be like this.",
+            "utterance": [
+                {
+                    "sub_start_time": 56560,
+                    "sub_end_time": 58900,
+                    "sub_src_text": "这个在，蛮荒时代，",
+                    "sub_trg_text": "In the barbaric era or from the primitive era,",
+                    "term": [
+                        {
+                            "src": "蛮荒时代",
+                            "trg": "the barbaric era"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 59030,
+                    "sub_end_time": 59850,
+                    "sub_src_text": "从原始时代，",
+                    "sub_trg_text": "the role of education",
+                    "term": [
+                        {
+                            "src": "原始时代",
+                            "trg": "the primitive era"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 60230,
+                    "sub_end_time": 62170,
+                    "sub_src_text": "教育的角色可能不是这样的吧。",
+                    "sub_trg_text": "might not be like this.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 62630,
+            "end_time": 66490,
+            "src_text": "所以呢，最早的叫做言传身教。言传身教，",
+            "trg_text": "The earliest one was called \"teaching by words and deeds\".",
+            "utterance": [
+                {
+                    "sub_start_time": 62630,
+                    "sub_end_time": 66490,
+                    "sub_src_text": "所以呢，最早的叫做言传身教。言传身教，",
+                    "sub_trg_text": "The earliest one was called \"teaching by words and deeds\".",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 66490,
+            "end_time": 71289,
+            "src_text": "但是连纸都没有，对不对？手把手地教，然后有了教书。",
+            "trg_text": "There was not even paper, so teachers had to teach hand in hand, so teachers had to teach hand in hand, and then there occured teaching.",
+            "utterance": [
+                {
+                    "sub_start_time": 66490,
+                    "sub_end_time": 68410,
+                    "sub_src_text": "但是连纸都没有，对不对？",
+                    "sub_trg_text": "There was not even paper, so teachers had to teach hand in hand,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 68690,
+                    "sub_end_time": 69430,
+                    "sub_src_text": "手把手地教，",
+                    "sub_trg_text": "so teachers had to teach hand in hand,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 69770,
+                    "sub_end_time": 71289,
+                    "sub_src_text": "然后有了教书。",
+                    "sub_trg_text": "and then there occured teaching.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 72770,
+            "end_time": 83880,
+            "src_text": "接下来有了教学，叫teach to learn。教，学，teach to learn，to learn，教会学生学习。",
+            "trg_text": "Later, it evolved to \"teach to learn\". \"Teach to learn\", meaning teaching students to learn.",
+            "utterance": [
+                {
+                    "sub_start_time": 72770,
+                    "sub_end_time": 77030,
+                    "sub_src_text": "接下来有了教学，叫teach to learn。",
+                    "sub_trg_text": "Later, it evolved to \"teach to learn\".",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 77640,
+                    "sub_end_time": 83880,
+                    "sub_src_text": "教，学，teach to learn，to learn，教会学生学习。",
+                    "sub_trg_text": "\"Teach to learn\", meaning teaching students to learn.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 84730,
+            "end_time": 91350,
+            "src_text": "现在，还有个词叫做 empowerment，叫赋能。就是让我们学生的能力得到提高，",
+            "trg_text": "Now, there is also a term known as \"empowerment\", which means to enhance students's abilities.",
+            "utterance": [
+                {
+                    "sub_start_time": 84730,
+                    "sub_end_time": 85200,
+                    "sub_src_text": "现在，",
+                    "sub_trg_text": "Now,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 85870,
+                    "sub_end_time": 88830,
+                    "sub_src_text": "还有个词叫做 empowerment，叫赋能。",
+                    "sub_trg_text": "there is also a term known as \"empowerment\",",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 89330,
+                    "sub_end_time": 91350,
+                    "sub_src_text": "就是让我们学生的能力得到提高，",
+                    "sub_trg_text": "which means to enhance students's abilities.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 91560,
+            "end_time": 96720,
+            "src_text": "知识教授已经不再那么重要了，能力的提升，核心素养的提升更重要，",
+            "trg_text": "The imparting of knowledge becomes less important. The improvement of abilities and core qualities are much more important.",
+            "utterance": [
+                {
+                    "sub_start_time": 91560,
+                    "sub_end_time": 93800,
+                    "sub_src_text": "知识教授已经不再那么重要了，",
+                    "sub_trg_text": "The imparting of knowledge becomes less important.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 93800,
+                    "sub_end_time": 96720,
+                    "sub_src_text": "能力的提升，核心素养的提升更重要，",
+                    "sub_trg_text": "The improvement of abilities and core qualities are much more important.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 97210,
+            "end_time": 99160,
+            "src_text": "我把它称作叫赋能empowerment。",
+            "trg_text": "So, I call it \"empowerment\".",
+            "utterance": [
+                {
+                    "sub_start_time": 97210,
+                    "sub_end_time": 99160,
+                    "sub_src_text": "我把它称作叫赋能empowerment。",
+                    "sub_trg_text": "So, I call it \"empowerment\".",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 99800,
+            "end_time": 103660,
+            "src_text": "那教育，什么是教育学呢？我觉得应该是这，最后的是这个。",
+            "trg_text": "Then, what is education? I think it should be the last one.",
+            "utterance": [
+                {
+                    "sub_start_time": 99800,
+                    "sub_end_time": 101910,
+                    "sub_src_text": "那教育，什么是教育学呢？",
+                    "sub_trg_text": "Then, what is education?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 102170,
+                    "sub_end_time": 103660,
+                    "sub_src_text": "我觉得应该是这，最后的是这个。",
+                    "sub_trg_text": "I think it should be the last one.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 104330,
+            "end_time": 108300,
+            "src_text": "教育生活，教育即生活，生活即教育。",
+            "trg_text": "Education is life, and life is education.",
+            "utterance": [
+                {
+                    "sub_start_time": 104330,
+                    "sub_end_time": 108300,
+                    "sub_src_text": "教育生活，教育即生活，生活即教育。",
+                    "sub_trg_text": "Education is life, and life is education.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 108770,
+            "end_time": 117400,
+            "src_text": "我们从幼儿园到中小学，到大学，研究生，博士生，博士后，",
+            "trg_text": "From kindergarten to primary and secondary schools, to universities, postgraduate students, doctoral students, and postdoctoral students,",
+            "utterance": [
+                {
+                    "sub_start_time": 108770,
+                    "sub_end_time": 117400,
+                    "sub_src_text": "我们从幼儿园到中小学，到大学，研究生，博士生，博士后，",
+                    "sub_trg_text": "From kindergarten to primary and secondary schools, to universities, postgraduate students, doctoral students, and postdoctoral students,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 118130,
+            "end_time": 122530,
+            "src_text": "其实这个教育就是我们生活的一个非常非常大的一段生活。",
+            "trg_text": "in fact, education is a very large part of our life.",
+            "utterance": [
+                {
+                    "sub_start_time": 118130,
+                    "sub_end_time": 122530,
+                    "sub_src_text": "其实这个教育就是我们生活的一个非常非常大的一段生活。",
+                    "sub_trg_text": "in fact, education is a very large part of our life.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 123010,
+            "end_time": 125090,
+            "src_text": "如果这段生活是为未来做准备，",
+            "trg_text": "If this period of life is to prepare for the future,",
+            "utterance": [
+                {
+                    "sub_start_time": 123010,
+                    "sub_end_time": 125090,
+                    "sub_src_text": "如果这段生活是为未来做准备，",
+                    "sub_trg_text": "If this period of life is to prepare for the future,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 125370,
+            "end_time": 128039,
+            "src_text": "这个教育有啥意义？所以没有意义了。",
+            "trg_text": "then what is the significance of education? It will be meaningless.",
+            "utterance": [
+                {
+                    "sub_start_time": 125370,
+                    "sub_end_time": 126750,
+                    "sub_src_text": "这个教育有啥意义？",
+                    "sub_trg_text": "then what is the significance of education?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 127280,
+                    "sub_end_time": 128039,
+                    "sub_src_text": "所以没有意义了。",
+                    "sub_trg_text": "It will be meaningless.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 128370,
+            "end_time": 132540,
+            "src_text": "所以什么是教育学？从这样一个过程，教育学，",
+            "trg_text": "So what is education? From such a process, in terms of education,",
+            "utterance": [
+                {
+                    "sub_start_time": 128370,
+                    "sub_end_time": 129910,
+                    "sub_src_text": "所以什么是教育学？",
+                    "sub_trg_text": "So what is education?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 130610,
+                    "sub_end_time": 131660,
+                    "sub_src_text": "从这样一个过程，",
+                    "sub_trg_text": "From such a process,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 131660,
+                    "sub_end_time": 132540,
+                    "sub_src_text": "教育学，",
+                    "sub_trg_text": "in terms of education,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 132570,
+            "end_time": 139510,
+            "src_text": "刚才我非常，这个欣赏我们金教授讲的一句话，就是教育的实践不变呢，那就是恶化。",
+            "trg_text": "I really appreciated a sentence said by Professor Jin, that is, if the practice of education remains unchanged, it will deteriorate.",
+            "utterance": [
+                {
+                    "sub_start_time": 132570,
+                    "sub_end_time": 136510,
+                    "sub_src_text": "刚才我非常，这个欣赏我们金教授讲的一句话，",
+                    "sub_trg_text": "I really appreciated a sentence said by Professor Jin,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 136920,
+                    "sub_end_time": 139510,
+                    "sub_src_text": "就是教育的实践不变呢，那就是恶化。",
+                    "sub_trg_text": "that is, if the practice of education remains unchanged, it will deteriorate.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 139890,
+            "end_time": 146440,
+            "src_text": "所以教育学其实也是在不断地在发展的。教学方法也在改变。",
+            "trg_text": "So education is actually constantly developing, so do teaching methods.",
+            "utterance": [
+                {
+                    "sub_start_time": 139890,
+                    "sub_end_time": 143170,
+                    "sub_src_text": "所以教育学其实也是在不断地在发展的。",
+                    "sub_trg_text": "So education is actually constantly developing,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 144910,
+                    "sub_end_time": 146440,
+                    "sub_src_text": "教学方法也在改变。",
+                    "sub_trg_text": "so do teaching methods.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 147590,
+            "end_time": 153870,
+            "src_text": "这种传统的嚼饭喂人的方式叫filling the baby满堂灌，就像这样。",
+            "trg_text": "Such traditional way of chewing food and feeding it to students is called \"filling the baby\", just like this.",
+            "utterance": [
+                {
+                    "sub_start_time": 147590,
+                    "sub_end_time": 152520,
+                    "sub_src_text": "这种传统的嚼饭喂人的方式叫filling the baby满堂灌，",
+                    "sub_trg_text": "Such traditional way of chewing food and feeding it to students is called \"filling the baby\",",
+                    "term": [
+                        {
+                            "src": "满堂灌",
+                            "trg": "filling the baby"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 153290,
+                    "sub_end_time": 153870,
+                    "sub_src_text": "就像这样。",
+                    "sub_trg_text": "just like this.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 154890,
+            "end_time": 163740,
+            "src_text": "现在我们都想要变，变成主动进食，active learning主动性学习。这样一个过程，",
+            "trg_text": "Now we all want to switch to active learning. Amid such a process,",
+            "utterance": [
+                {
+                    "sub_start_time": 154890,
+                    "sub_end_time": 161600,
+                    "sub_src_text": "现在我们都想要变，变成主动进食，active learning主动性学习。",
+                    "sub_trg_text": "Now we all want to switch to active learning.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 162420,
+                    "sub_end_time": 163740,
+                    "sub_src_text": "这样一个过程，",
+                    "sub_trg_text": "Amid such a process,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 163880,
+            "end_time": 172630,
+            "src_text": "教师的角色，那个妈妈的角色，大家看第一个，妈妈在，第二个，妈妈都看不到了。",
+            "trg_text": "the role of the teacher and that of the mother, let's look at the first picture, the mother is here, while in the second one, the mother disappears.",
+            "utterance": [
+                {
+                    "sub_start_time": 163880,
+                    "sub_end_time": 165740,
+                    "sub_src_text": "教师的角色，那个妈妈的角色，",
+                    "sub_trg_text": "the role of the teacher and that of the mother,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 165880,
+                    "sub_end_time": 167120,
+                    "sub_src_text": "大家看第一个，",
+                    "sub_trg_text": "let's look at the first picture,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 169310,
+                    "sub_end_time": 169920,
+                    "sub_src_text": "妈妈在，",
+                    "sub_trg_text": "the mother is here,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 170640,
+                    "sub_end_time": 171070,
+                    "sub_src_text": "第二个，",
+                    "sub_trg_text": "while in the second one,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 171670,
+                    "sub_end_time": 172630,
+                    "sub_src_text": "妈妈都看不到了。",
+                    "sub_trg_text": "the mother disappears.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 173230,
+            "end_time": 180320,
+            "src_text": "那妈妈是不是不要了，就没做事了？其实不是。做了很多很多的事。做了很多的事。",
+            "trg_text": "Does this mean the mother is no longer needed and has nothing to do? Actually, it's not. She has done many things.",
+            "utterance": [
+                {
+                    "sub_start_time": 173230,
+                    "sub_end_time": 174560,
+                    "sub_src_text": "那妈妈是不是不要了，",
+                    "sub_trg_text": "Does this mean the mother is no longer needed",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 174980,
+                    "sub_end_time": 175829,
+                    "sub_src_text": "就没做事了？",
+                    "sub_trg_text": "and has nothing to do?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 175829,
+                    "sub_end_time": 176670,
+                    "sub_src_text": "其实不是。",
+                    "sub_trg_text": "Actually, it's not.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 177010,
+                    "sub_end_time": 180320,
+                    "sub_src_text": "做了很多很多的事。做了很多的事。",
+                    "sub_trg_text": "She has done many things.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 180640,
+            "end_time": 184760,
+            "src_text": "那这样一种，教师的角色，教学的角色，",
+            "trg_text": "Then with such a role of the teacher, the role of teaching,",
+            "utterance": [
+                {
+                    "sub_start_time": 180640,
+                    "sub_end_time": 183640,
+                    "sub_src_text": "那这样一种，教师的角色，",
+                    "sub_trg_text": "Then with such a role of the teacher,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 183770,
+                    "sub_end_time": 184760,
+                    "sub_src_text": "教学的角色，",
+                    "sub_trg_text": "the role of teaching,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 185400,
+            "end_time": 189850,
+            "src_text": "那，我们来理解什么是教育学，什么是教学，",
+            "trg_text": ", let's learn what education is and what teaching is.",
+            "utterance": [
+                {
+                    "sub_start_time": 185400,
+                    "sub_end_time": 188870,
+                    "sub_src_text": "那，我们来理解什么是教育学，",
+                    "sub_trg_text": ", let's learn what education is",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 189130,
+                    "sub_end_time": 189850,
+                    "sub_src_text": "什么是教学，",
+                    "sub_trg_text": "and what teaching is.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 190320,
+            "end_time": 193870,
+            "src_text": "可以再展开来看它的独特性究竟在什么地方。",
+            "trg_text": "We can further explore where its uniqueness lies.",
+            "utterance": [
+                {
+                    "sub_start_time": 190320,
+                    "sub_end_time": 193870,
+                    "sub_src_text": "可以再展开来看它的独特性究竟在什么地方。",
+                    "sub_trg_text": "We can further explore where its uniqueness lies.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 194700,
+            "end_time": 197329,
+            "src_text": "教学的方法也在发生改变。",
+            "trg_text": "Teaching methods are also changing.",
+            "utterance": [
+                {
+                    "sub_start_time": 194700,
+                    "sub_end_time": 197329,
+                    "sub_src_text": "教学的方法也在发生改变。",
+                    "sub_trg_text": "Teaching methods are also changing.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 198010,
+            "end_time": 202910,
+            "src_text": "这是一个非常有趣的一个叫做贝尔学习金字塔的实验，",
+            "trg_text": "This is a very interesting experiment called the Bell Learning Pyramid.",
+            "utterance": [
+                {
+                    "sub_start_time": 198010,
+                    "sub_end_time": 202910,
+                    "sub_src_text": "这是一个非常有趣的一个叫做贝尔学习金字塔的实验，",
+                    "sub_trg_text": "This is a very interesting experiment called the Bell Learning Pyramid.",
+                    "term": [
+                        {
+                            "src": "贝尔学习金字塔",
+                            "trg": "the Bell Learning Pyramid"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 203290,
+            "end_time": 207890,
+            "src_text": "就是同一种教材，用不同的学、不同的学习方法去教授，",
+            "trg_text": "That is, with the same teaching materials, students were taught by different learning methods.",
+            "utterance": [
+                {
+                    "sub_start_time": 203290,
+                    "sub_end_time": 204680,
+                    "sub_src_text": "就是同一种教材，",
+                    "sub_trg_text": "That is, with the same teaching materials,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 205370,
+                    "sub_end_time": 207890,
+                    "sub_src_text": "用不同的学、不同的学习方法去教授，",
+                    "sub_trg_text": "students were taught by different learning methods.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 208170,
+            "end_time": 211930,
+            "src_text": "二十四小时之后，再看学生的学习的保有率。",
+            "trg_text": "Twenty-four hours later, the retention rate of students' learning was was checked.",
+            "utterance": [
+                {
+                    "sub_start_time": 208170,
+                    "sub_end_time": 209420,
+                    "sub_src_text": "二十四小时之后，",
+                    "sub_trg_text": "Twenty-four hours later,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 209420,
+                    "sub_end_time": 211930,
+                    "sub_src_text": "再看学生的学习的保有率。",
+                    "sub_trg_text": "the retention rate of students' learning was was checked.",
+                    "term": [
+                        {
+                            "src": "保有率",
+                            "trg": "retention rate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 212310,
+            "end_time": 225510,
+            "src_text": "结果我们发现呢，讲授、阅读、视听结合、示范、小组讨论，然后实践练习，向其他人传授，并且立即去运用所学的知识。",
+            "trg_text": "As a result, we find that by applying the method of lecturing, reading, audio-visual combination, demonstration, group discussion, then practical exercises, teaching to others, and immediately applying the learned knowledge,",
+            "utterance": [
+                {
+                    "sub_start_time": 212310,
+                    "sub_end_time": 213240,
+                    "sub_src_text": "结果我们发现呢，",
+                    "sub_trg_text": "As a result, we find that",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 213570,
+                    "sub_end_time": 225510,
+                    "sub_src_text": "讲授、阅读、视听结合、示范、小组讨论，然后实践练习，向其他人传授，并且立即去运用所学的知识。",
+                    "sub_trg_text": "by applying the method of lecturing, reading, audio-visual combination, demonstration, group discussion, then practical exercises, teaching to others, and immediately applying the learned knowledge,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 225930,
+            "end_time": 230840,
+            "src_text": "结果发现大家看，这里的学习效果，啊这是百分之五，",
+            "trg_text": "let's have a look at the retention rate of learning here, it's five percent.",
+            "utterance": [
+                {
+                    "sub_start_time": 225930,
+                    "sub_end_time": 228829,
+                    "sub_src_text": "结果发现大家看，这里的学习效果，",
+                    "sub_trg_text": "let's have a look at the retention rate of learning here,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 229610,
+                    "sub_end_time": 230840,
+                    "sub_src_text": "啊这是百分之五，",
+                    "sub_trg_text": "it's five percent.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 231210,
+            "end_time": 233920,
+            "src_text": "那么下面呢，最高能达到百分之九十。",
+            "trg_text": "While the highest rate can reach ninety percent.",
+            "utterance": [
+                {
+                    "sub_start_time": 231210,
+                    "sub_end_time": 233920,
+                    "sub_src_text": "那么下面呢，最高能达到百分之九十。",
+                    "sub_trg_text": "While the highest rate can reach ninety percent.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 234430,
+            "end_time": 237140,
+            "src_text": "其实啊，但这个不是绝对的，不是绝对的。",
+            "trg_text": "But this is not absolute.",
+            "utterance": [
+                {
+                    "sub_start_time": 234430,
+                    "sub_end_time": 237140,
+                    "sub_src_text": "其实啊，但这个不是绝对的，不是绝对的。",
+                    "sub_trg_text": "But this is not absolute.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 237140,
+            "end_time": 243650,
+            "src_text": "讲授真的是有很好，很很多的一些好的地方，我们在听一些优秀教师、老师，特级教师的课，",
+            "trg_text": "Lecturing surely shows many advantages. When we listen to the classes of some excellent teachers or special-grade teachers,",
+            "utterance": [
+                {
+                    "sub_start_time": 237140,
+                    "sub_end_time": 240310,
+                    "sub_src_text": "讲授真的是有很好，很很多的一些好的地方，",
+                    "sub_trg_text": "Lecturing surely shows many advantages.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 240810,
+                    "sub_end_time": 243650,
+                    "sub_src_text": "我们在听一些优秀教师、老师，特级教师的课，",
+                    "sub_trg_text": "When we listen to the classes of some excellent teachers or special-grade teachers,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 244050,
+            "end_time": 250400,
+            "src_text": "他就一个人，讲下来，当然有一些偶尔的一些互动，但是他能够也能够发生很大的效果。",
+            "trg_text": "they just imparting alone, of course there are some interactions, but this can also make a great effect.",
+            "utterance": [
+                {
+                    "sub_start_time": 244050,
+                    "sub_end_time": 245750,
+                    "sub_src_text": "他就一个人，讲下来，",
+                    "sub_trg_text": "they just imparting alone,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 246210,
+                    "sub_end_time": 247740,
+                    "sub_src_text": "当然有一些偶尔的一些互动，",
+                    "sub_trg_text": "of course there are some interactions,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 247770,
+                    "sub_end_time": 250400,
+                    "sub_src_text": "但是他能够也能够发生很大的效果。",
+                    "sub_trg_text": "but this can also make a great effect.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 251140,
+            "end_time": 262960,
+            "src_text": "那，这个，但是至少教学方法让我们想到上面的几个教授、阅读、视听结合、示范，",
+            "trg_text": "According to this, at least we can come up with the teaching methods like the above lecturing, reading, audio-visual combination, and demonstration.",
+            "utterance": [
+                {
+                    "sub_start_time": 251140,
+                    "sub_end_time": 253640,
+                    "sub_src_text": "那，这个，",
+                    "sub_trg_text": "According to this,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 257360,
+                    "sub_end_time": 262960,
+                    "sub_src_text": "但是至少教学方法让我们想到上面的几个教授、阅读、视听结合、示范，",
+                    "sub_trg_text": "at least we can come up with the teaching methods like the above lecturing, reading, audio-visual combination, and demonstration.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 264100,
+            "end_time": 271720,
+            "src_text": "下面是不要动的，就像这样，就像这样。这是一种被动式学习。",
+            "trg_text": "The following ones are not active ones, just like this, which is a kind of passive learning. which is a kind of passive learning.",
+            "utterance": [
+                {
+                    "sub_start_time": 264100,
+                    "sub_end_time": 265190,
+                    "sub_src_text": "下面是不要动的，",
+                    "sub_trg_text": "The following ones are not active ones,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 266160,
+                    "sub_end_time": 269450,
+                    "sub_src_text": "就像这样，就像这样。",
+                    "sub_trg_text": "just like this, which is a kind of passive learning.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 270190,
+                    "sub_end_time": 271720,
+                    "sub_src_text": "这是一种被动式学习。",
+                    "sub_trg_text": "which is a kind of passive learning.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 272190,
+            "end_time": 277570,
+            "src_text": "被动式学习呢，二十分钟是一个极限。再讲下去大家就睡觉了，",
+            "trg_text": "For such kind of learning, one can insist twenty minutes at most. If teachers continue lecturing, everyone will fall asleep.",
+            "utterance": [
+                {
+                    "sub_start_time": 272190,
+                    "sub_end_time": 273170,
+                    "sub_src_text": "被动式学习呢，",
+                    "sub_trg_text": "For such kind of learning,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 273570,
+                    "sub_end_time": 274960,
+                    "sub_src_text": "二十分钟是一个极限。",
+                    "sub_trg_text": "one can insist twenty minutes at most.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 276000,
+                    "sub_end_time": 276659,
+                    "sub_src_text": "再讲下去",
+                    "sub_trg_text": "If teachers continue lecturing,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 276770,
+                    "sub_end_time": 277570,
+                    "sub_src_text": "大家就睡觉了，",
+                    "sub_trg_text": "everyone will fall asleep.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 278150,
+            "end_time": 285770,
+            "src_text": "那么下面的，就像这样，像这样。我们叫做主动性学习。",
+            "trg_text": "Then, for the following one like this, we call it active learning.",
+            "utterance": [
+                {
+                    "sub_start_time": 278150,
+                    "sub_end_time": 282880,
+                    "sub_src_text": "那么下面的，就像这样，像这样。",
+                    "sub_trg_text": "Then, for the following one like this,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 284090,
+                    "sub_end_time": 285770,
+                    "sub_src_text": "我们叫做主动性学习。",
+                    "sub_trg_text": "we call it active learning.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 286150,
+            "end_time": 289880,
+            "src_text": "主动性学习。那么教师在干嘛呢？",
+            "trg_text": "For active learning, what is the teacher doing?",
+            "utterance": [
+                {
+                    "sub_start_time": 286150,
+                    "sub_end_time": 287680,
+                    "sub_src_text": "主动性学习。",
+                    "sub_trg_text": "For active learning,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 288200,
+                    "sub_end_time": 289880,
+                    "sub_src_text": "那么教师在干嘛呢？",
+                    "sub_trg_text": "what is the teacher doing?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 290750,
+            "end_time": 295550,
+            "src_text": "教育里面的教师这个主要的角色在干嘛呢？这也是我们要思考的问题。",
+            "trg_text": "What is the main role of the teacher in education? This is also a question we need to think about.",
+            "utterance": [
+                {
+                    "sub_start_time": 290750,
+                    "sub_end_time": 293710,
+                    "sub_src_text": "教育里面的教师这个主要的角色在干嘛呢？",
+                    "sub_trg_text": "What is the main role of the teacher in education?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 294290,
+                    "sub_end_time": 295550,
+                    "sub_src_text": "这也是我们要思考的问题。",
+                    "sub_trg_text": "This is also a question we need to think about.",
+                    "term": []
+                }
+            ]
+        }
+    ]
+}

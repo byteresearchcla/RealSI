@@ -1,0 +1,1020 @@
+{
+    "vid": "en2zh-03-edu",
+    "duration": 299760,
+    "segment": [
+        {
+            "start_time": 70,
+            "end_time": 4860,
+            "src_text": "Listen, uh elementary, uh high school, Pre-K, higher education,whatever you choose.",
+            "trg_text": "小学、中学、学前教育、高等教育， 无论选择哪个，",
+            "utterance": [
+                {
+                    "sub_start_time": 70,
+                    "sub_end_time": 4250,
+                    "sub_src_text": "Listen, uh elementary, uh high school, Pre-K, higher education,",
+                    "sub_trg_text": "小学、中学、学前教育、高等教育，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 4250,
+                    "sub_end_time": 4860,
+                    "sub_src_text": "whatever you choose.",
+                    "sub_trg_text": "无论选择哪个，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 4860,
+            "end_time": 8570,
+            "src_text": "Post-K, detention,uh lemme lemme ask you this, Secretary,",
+            "trg_text": "还包括学龄后教育和留校察看。 我想问问您，部长，",
+            "utterance": [
+                {
+                    "sub_start_time": 4860,
+                    "sub_end_time": 6750,
+                    "sub_src_text": "Post-K, detention,",
+                    "sub_trg_text": "还包括学龄后教育和留校察看。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 6750,
+                    "sub_end_time": 8570,
+                    "sub_src_text": "uh lemme lemme ask you this, Secretary,",
+                    "sub_trg_text": "我想问问您，部长，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 8590,
+            "end_time": 18720,
+            "src_text": "we have desperately tried to fix an education systemthat basically was designed for literacy for the masses",
+            "trg_text": "我们正在极力修复教育体系， 这个体系基本上是为了教育普及而设计的，",
+            "utterance": [
+                {
+                    "sub_start_time": 8590,
+                    "sub_end_time": 13720,
+                    "sub_src_text": "we have desperately tried to fix an education system",
+                    "sub_trg_text": "我们正在极力修复教育体系，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 13950,
+                    "sub_end_time": 18720,
+                    "sub_src_text": "that basically was designed for literacy for the masses",
+                    "sub_trg_text": "这个体系基本上是为了教育普及而设计的，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 18720,
+            "end_time": 23160,
+            "src_text": "and has been incredibly successful uh on on that goal.",
+            "trg_text": "在达成这个目标上它已经做得极其成功了。",
+            "utterance": [
+                {
+                    "sub_start_time": 18720,
+                    "sub_end_time": 23160,
+                    "sub_src_text": "and has been incredibly successful uh on on that goal.",
+                    "sub_trg_text": "在达成这个目标上它已经做得极其成功了。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 23880,
+            "end_time": 36840,
+            "src_text": "Uh, but it seems as though it's a bit stagnantand and hasn't been able to be as agile as maybe uh society now would would need it to be.",
+            "trg_text": "但似乎还是有点儿滞后， 可能还不够灵活，无法达到社会的要求。",
+            "utterance": [
+                {
+                    "sub_start_time": 23880,
+                    "sub_end_time": 28750,
+                    "sub_src_text": "Uh, but it seems as though it's a bit stagnant",
+                    "sub_trg_text": "但似乎还是有点儿滞后，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 29420,
+                    "sub_end_time": 36840,
+                    "sub_src_text": "and and hasn't been able to be as agile as maybe uh society now would would need it to be.",
+                    "sub_trg_text": "可能还不够灵活，无法达到社会的要求。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 37020,
+            "end_time": 42760,
+            "src_text": "What would your diagnosis befor what you would change about it?",
+            "trg_text": "您觉得问题出在哪儿？ 您会做哪些调整？",
+            "utterance": [
+                {
+                    "sub_start_time": 37020,
+                    "sub_end_time": 40840,
+                    "sub_src_text": "What would your diagnosis be",
+                    "sub_trg_text": "您觉得问题出在哪儿？",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 40840,
+                    "sub_end_time": 42760,
+                    "sub_src_text": "for what you would change about it?",
+                    "sub_trg_text": "您会做哪些调整？",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 42760,
+            "end_time": 46840,
+            "src_text": "Where do you where do you see it workingand and where do you see it wanting?",
+            "trg_text": "您觉得它哪些地方行得通， 哪些地方不足？",
+            "utterance": [
+                {
+                    "sub_start_time": 42760,
+                    "sub_end_time": 44220,
+                    "sub_src_text": "Where do you where do you see it working",
+                    "sub_trg_text": "您觉得它哪些地方行得通，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 44220,
+                    "sub_end_time": 46840,
+                    "sub_src_text": "and and where do you see it wanting?",
+                    "sub_trg_text": "哪些地方不足？",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 47640,
+            "end_time": 51160,
+            "src_text": "Sure, sure, you look, I'm happy to be here,love this topic right?",
+            "trg_text": "当然，看，我很乐意来这儿， 挺喜欢这个话题的，对吧？",
+            "utterance": [
+                {
+                    "sub_start_time": 47640,
+                    "sub_end_time": 49780,
+                    "sub_src_text": "Sure, sure, you look, I'm happy to be here,",
+                    "sub_trg_text": "当然，看，我很乐意来这儿，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 49780,
+                    "sub_end_time": 51160,
+                    "sub_src_text": "love this topic right?",
+                    "sub_trg_text": "挺喜欢这个话题的，对吧？",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 51500,
+            "end_time": 57940,
+            "src_text": "Um, I I think in general, look,education has to evolve.Uh-huh. Or become irrelevant in in our country",
+            "trg_text": "我觉得总体来说， 教育要不断发展， 否则就会在我国变得无关紧要，",
+            "utterance": [
+                {
+                    "sub_start_time": 51500,
+                    "sub_end_time": 53380,
+                    "sub_src_text": "Um, I I think in general, look,",
+                    "sub_trg_text": "我觉得总体来说，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 53380,
+                    "sub_end_time": 55380,
+                    "sub_src_text": "education has to evolve.",
+                    "sub_trg_text": "教育要不断发展，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 55380,
+                    "sub_end_time": 57940,
+                    "sub_src_text": "Uh-huh. Or become irrelevant in in our country",
+                    "sub_trg_text": "否则就会在我国变得无关紧要，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 57940,
+            "end_time": 63720,
+            "src_text": "and we're not evolving at the pace that we need to evolve.Right.To compete internationally,",
+            "trg_text": "可我国教育的发展速度尚未达到所需水平。 确实。 要在国际上有竞争力，",
+            "utterance": [
+                {
+                    "sub_start_time": 57940,
+                    "sub_end_time": 61460,
+                    "sub_src_text": "and we're not evolving at the pace that we need to evolve.",
+                    "sub_trg_text": "可我国教育的发展速度尚未达到所需水平。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 61460,
+                    "sub_end_time": 61910,
+                    "sub_src_text": "Right.",
+                    "sub_trg_text": "确实。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 62060,
+                    "sub_end_time": 63720,
+                    "sub_src_text": "To compete internationally,",
+                    "sub_trg_text": "要在国际上有竞争力，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 64019,
+            "end_time": 68670,
+            "src_text": "to make sure that our students have access and opportunity,all students not just some.",
+            "trg_text": "要确保我们的学生都有机会上学， 是所有学生，而非部分。",
+            "utterance": [
+                {
+                    "sub_start_time": 64019,
+                    "sub_end_time": 67250,
+                    "sub_src_text": "to make sure that our students have access and opportunity,",
+                    "sub_trg_text": "要确保我们的学生都有机会上学，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 67250,
+                    "sub_end_time": 68670,
+                    "sub_src_text": "all students not just some.",
+                    "sub_trg_text": "是所有学生，而非部分。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 69340,
+            "end_time": 78310,
+            "src_text": "Um, so you know, it does work in in many in many waysI mean we have, uh, some of the best higher education institutions in the world.",
+            "trg_text": "所以，这个教育体系在很多方面确实是行得通的。 我的意思是我们有全球最好的高等教育机构。",
+            "utterance": [
+                {
+                    "sub_start_time": 69340,
+                    "sub_end_time": 73539,
+                    "sub_src_text": "Um, so you know, it does work in in many in many ways",
+                    "sub_trg_text": "所以，这个教育体系在很多方面确实是行得通的。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 73539,
+                    "sub_end_time": 78310,
+                    "sub_src_text": "I mean we have, uh, some of the best higher education institutions in the world.",
+                    "sub_trg_text": "我的意思是我们有全球最好的高等教育机构。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 78620,
+            "end_time": 83090,
+            "src_text": "Um, the challenge is it's not really openand they're not pathways for all students.",
+            "trg_text": "但问题在于，这些院校并不是完全开放的， 不是所有学生都可以企及。",
+            "utterance": [
+                {
+                    "sub_start_time": 78620,
+                    "sub_end_time": 81460,
+                    "sub_src_text": "Um, the challenge is it's not really open",
+                    "sub_trg_text": "但问题在于，这些院校并不是完全开放的，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 81460,
+                    "sub_end_time": 83090,
+                    "sub_src_text": "and they're not pathways for all students.",
+                    "sub_trg_text": "不是所有学生都可以企及。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 83420,
+            "end_time": 86270,
+            "src_text": "So what we need to do ismake sure that we're providing better pathways.",
+            "trg_text": "所以我们要做的是 确保能提供更好的途径。",
+            "utterance": [
+                {
+                    "sub_start_time": 83420,
+                    "sub_end_time": 84330,
+                    "sub_src_text": "So what we need to do is",
+                    "sub_trg_text": "所以我们要做的是",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 84340,
+                    "sub_end_time": 86270,
+                    "sub_src_text": "make sure that we're providing better pathways.",
+                    "sub_trg_text": "确保能提供更好的途径。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 86500,
+            "end_time": 95610,
+            "src_text": "And I'm gonna expand that a little bit,not only higher education,exactly there's a mentality in this countryof four-years or bust four-year colleges or bust. Uh-huh.",
+            "trg_text": "我再稍微展开说一说。 不只是高等教育， 实际上在咱们国家有一种观念， 就是非上四年制大学不可。",
+            "utterance": [
+                {
+                    "sub_start_time": 86500,
+                    "sub_end_time": 87730,
+                    "sub_src_text": "And I'm gonna expand that a little bit,",
+                    "sub_trg_text": "我再稍微展开说一说。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 87740,
+                    "sub_end_time": 88980,
+                    "sub_src_text": "not only higher education,",
+                    "sub_trg_text": "不只是高等教育，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 88980,
+                    "sub_end_time": 91250,
+                    "sub_src_text": "exactly there's a mentality in this country",
+                    "sub_trg_text": "实际上在咱们国家有一种观念，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 92020,
+                    "sub_end_time": 95610,
+                    "sub_src_text": "of four-years or bust four-year colleges or bust. Uh-huh.",
+                    "sub_trg_text": "就是非上四年制大学不可。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 95610,
+            "end_time": 102470,
+            "src_text": "There are so many opportunities now in our two-year schools,and even in our K-twelve system or Pre-K-twelve system,",
+            "trg_text": "可现在我们的两年制学校有很多机会， 甚至在 K-12 教育或 PreK-12 教育体系中，",
+            "utterance": [
+                {
+                    "sub_start_time": 95610,
+                    "sub_end_time": 98890,
+                    "sub_src_text": "There are so many opportunities now in our two-year schools,",
+                    "sub_trg_text": "可现在我们的两年制学校有很多机会，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 98890,
+                    "sub_end_time": 102470,
+                    "sub_src_text": "and even in our K-twelve system or Pre-K-twelve system,",
+                    "sub_trg_text": "甚至在 K-12 教育或 PreK-12 教育体系中，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 102810,
+            "end_time": 108330,
+            "src_text": "uh getting credentials or micro credentialsand joining the workforceand high skill high paying jobs.",
+            "trg_text": "都有很多机会能获取证书或微证书， 然后进入劳动力市场， 获得高技能高薪酬的工作。",
+            "utterance": [
+                {
+                    "sub_start_time": 102810,
+                    "sub_end_time": 105090,
+                    "sub_src_text": "uh getting credentials or micro credentials",
+                    "sub_trg_text": "都有很多机会能获取证书或微证书，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 105090,
+                    "sub_end_time": 106360,
+                    "sub_src_text": "and joining the workforce",
+                    "sub_trg_text": "然后进入劳动力市场，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 106710,
+                    "sub_end_time": 108330,
+                    "sub_src_text": "and high skill high paying jobs.",
+                    "sub_trg_text": "获得高技能高薪酬的工作。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 109009,
+            "end_time": 115289,
+            "src_text": "So when I say we need to evolve,I think our Pre-K-twelve system needs to evolve,our higher education system needs to evolve,",
+            "trg_text": "所以我所谓的我们需要发展， 是我认为我们的 PreK-12 教育体系有待改进， 高等教育体系也有待完善，",
+            "utterance": [
+                {
+                    "sub_start_time": 109009,
+                    "sub_end_time": 110490,
+                    "sub_src_text": "So when I say we need to evolve,",
+                    "sub_trg_text": "所以我所谓的我们需要发展，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 110490,
+                    "sub_end_time": 113039,
+                    "sub_src_text": "I think our Pre-K-twelve system needs to evolve,",
+                    "sub_trg_text": "是我认为我们的 PreK-12 教育体系有待改进，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 113289,
+                    "sub_end_time": 115289,
+                    "sub_src_text": "our higher education system needs to evolve,",
+                    "sub_trg_text": "高等教育体系也有待完善，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 115530,
+            "end_time": 120340,
+            "src_text": "to be more connected to the opportunities that exist in this country and beyonduh for all of our students.",
+            "trg_text": "要与国内外的机遇更紧密地接轨， 为所有学生提供机会。",
+            "utterance": [
+                {
+                    "sub_start_time": 115530,
+                    "sub_end_time": 119070,
+                    "sub_src_text": "to be more connected to the opportunities that exist in this country and beyond",
+                    "sub_trg_text": "要与国内外的机遇更紧密地接轨，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 119390,
+                    "sub_end_time": 120340,
+                    "sub_src_text": "uh for all of our students.",
+                    "sub_trg_text": "为所有学生提供机会。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 120430,
+            "end_time": 131270,
+            "src_text": "I li- I like the idea of micro credentials.I I think I think I think mini credentials,micro credentials, whatever, whatever, tiny credentialsyou could have and you could even make tiny diplomas for everybody,you get some like little stamps.",
+            "trg_text": "我喜欢“微证书”这个概念。 我觉得不论是“迷你证书”， “微证书”还是“小证书”，无论什么， 我们甚至可以为每个人制作一份小型文凭， 在上面印上微型印章。",
+            "utterance": [
+                {
+                    "sub_start_time": 120430,
+                    "sub_end_time": 122370,
+                    "sub_src_text": "I li- I like the idea of micro credentials.",
+                    "sub_trg_text": "我喜欢“微证书”这个概念。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 122370,
+                    "sub_end_time": 124940,
+                    "sub_src_text": "I I think I think I think mini credentials,",
+                    "sub_trg_text": "我觉得不论是“迷你证书”，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 124940,
+                    "sub_end_time": 127420,
+                    "sub_src_text": "micro credentials, whatever, whatever, tiny credentials",
+                    "sub_trg_text": "“微证书”还是“小证书”，无论什么，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 127420,
+                    "sub_end_time": 130400,
+                    "sub_src_text": "you could have and you could even make tiny diplomas for everybody,",
+                    "sub_trg_text": "我们甚至可以为每个人制作一份小型文凭，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 130400,
+                    "sub_end_time": 131270,
+                    "sub_src_text": "you get some like little stamps.",
+                    "sub_trg_text": "在上面印上微型印章。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 131270,
+            "end_time": 134200,
+            "src_text": "Yeah. That's the plan. Get a little small printers. That that that you put on.",
+            "trg_text": "是的，我们也计划这么做，购买一些小型打印机。",
+            "utterance": [
+                {
+                    "sub_start_time": 131270,
+                    "sub_end_time": 134200,
+                    "sub_src_text": "Yeah. That's the plan. Get a little small printers. That that that you put on.",
+                    "sub_trg_text": "是的，我们也计划这么做，购买一些小型打印机。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 134440,
+            "end_time": 140780,
+            "src_text": "So let me tell you so,my my kids are, uh a senior in high schooland a and a junior in high school,",
+            "trg_text": "我跟您说， 我的两个小孩，一个在读高中高年级， 另一个在读高中低年级，",
+            "utterance": [
+                {
+                    "sub_start_time": 134440,
+                    "sub_end_time": 135310,
+                    "sub_src_text": "So let me tell you so,",
+                    "sub_trg_text": "我跟您说，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 135360,
+                    "sub_end_time": 139270,
+                    "sub_src_text": "my my kids are, uh a senior in high school",
+                    "sub_trg_text": "我的两个小孩，一个在读高中高年级，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 139280,
+                    "sub_end_time": 140780,
+                    "sub_src_text": "and a and a junior in high school,",
+                    "sub_trg_text": "另一个在读高中低年级，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 140780,
+            "end_time": 145510,
+            "src_text": "and and they're very fortunate to go to a a really nice schooland a really nice placeand all those different things.",
+            "trg_text": "他们很幸运能去很好的学校， 很好的地方， 体验不同的事物。",
+            "utterance": [
+                {
+                    "sub_start_time": 140780,
+                    "sub_end_time": 143520,
+                    "sub_src_text": "and and they're very fortunate to go to a a really nice school",
+                    "sub_trg_text": "他们很幸运能去很好的学校，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 143520,
+                    "sub_end_time": 144300,
+                    "sub_src_text": "and a really nice place",
+                    "sub_trg_text": "很好的地方，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 144329,
+                    "sub_end_time": 145510,
+                    "sub_src_text": "and all those different things.",
+                    "sub_trg_text": "体验不同的事物。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 146210,
+            "end_time": 150970,
+            "src_text": "Uh, and my mother was a teacherfor I think a hundred and eighty-six years.",
+            "trg_text": "我母亲是一名教师， 在我看来她教了足有 186 年书。",
+            "utterance": [
+                {
+                    "sub_start_time": 146210,
+                    "sub_end_time": 147890,
+                    "sub_src_text": "Uh, and my mother was a teacher",
+                    "sub_trg_text": "我母亲是一名教师，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 147890,
+                    "sub_end_time": 150970,
+                    "sub_src_text": "for I think a hundred and eighty-six years.",
+                    "sub_trg_text": "在我看来她教了足有 186 年书。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 152090,
+            "end_time": 157690,
+            "src_text": "Uh, she taught uh and she reminds me of that, uh on almost every on a daily basis.",
+            "trg_text": "她几乎每天都跟我提这个事儿。",
+            "utterance": [
+                {
+                    "sub_start_time": 152090,
+                    "sub_end_time": 157690,
+                    "sub_src_text": "Uh, she taught uh and she reminds me of that, uh on almost every on a daily basis.",
+                    "sub_trg_text": "她几乎每天都跟我提这个事儿。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 159130,
+            "end_time": 171190,
+            "src_text": "What's interesting to me about education is the teachers, I think, feel disassociated from it in that they're, the ideasin that they're, the ideas they're teaching to kind of standardized testing",
+            "trg_text": "于我而言，教育有意思的地方在于教师，我觉得教师跟教育脱节了， 因为他们是为了应对标准化考试而教学，",
+            "utterance": [
+                {
+                    "sub_start_time": 159130,
+                    "sub_end_time": 166010,
+                    "sub_src_text": "What's interesting to me about education is the teachers, I think, feel disassociated from it in that they're, the ideas",
+                    "sub_trg_text": "于我而言，教育有意思的地方在于教师，我觉得教师跟教育脱节了，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 166460,
+                    "sub_end_time": 171190,
+                    "sub_src_text": "in that they're, the ideas they're teaching to kind of standardized testing",
+                    "sub_trg_text": "因为他们是为了应对标准化考试而教学，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 171190,
+            "end_time": 183100,
+            "src_text": "that so much of of what they have to do is based on a testing regimentthat's attempting to uh assess students on certain standardizations,",
+            "trg_text": "很多时候不得不遵循考试制度， 这种考试制度会以一些特定标准评估学生，",
+            "utterance": [
+                {
+                    "sub_start_time": 171190,
+                    "sub_end_time": 176670,
+                    "sub_src_text": "that so much of of what they have to do is based on a testing regiment",
+                    "sub_trg_text": "很多时候不得不遵循考试制度，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 176670,
+                    "sub_end_time": 183100,
+                    "sub_src_text": "that's attempting to uh assess students on certain standardizations,",
+                    "sub_trg_text": "这种考试制度会以一些特定标准评估学生，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 183100,
+            "end_time": 187140,
+            "src_text": "but I think, as you know,that doesn't work for all students in all communities.",
+            "trg_text": "但我觉得，您也知道， 这并不适用于所有社群中的所有学生。",
+            "utterance": [
+                {
+                    "sub_start_time": 183100,
+                    "sub_end_time": 183890,
+                    "sub_src_text": "but I think, as you know,",
+                    "sub_trg_text": "但我觉得，您也知道，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 183890,
+                    "sub_end_time": 187140,
+                    "sub_src_text": "that doesn't work for all students in all communities.",
+                    "sub_trg_text": "这并不适用于所有社群中的所有学生。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 187220,
+            "end_time": 199210,
+            "src_text": "What I've noticed about their enthusiasm for learningis the more relevant subjects have to the actual world that they live in,",
+            "trg_text": "我注意到他们的学习热情在于， 学习与他们所在的现实世界更相关的科目，",
+            "utterance": [
+                {
+                    "sub_start_time": 187220,
+                    "sub_end_time": 190930,
+                    "sub_src_text": "What I've noticed about their enthusiasm for learning",
+                    "sub_trg_text": "我注意到他们的学习热情在于，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 190930,
+                    "sub_end_time": 199210,
+                    "sub_src_text": "is the more relevant subjects have to the actual world that they live in,",
+                    "sub_trg_text": "学习与他们所在的现实世界更相关的科目，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 200170,
+            "end_time": 203670,
+            "src_text": "but it's a really difficult thing for teachers to pull that off.",
+            "trg_text": "但对老师来说做到这点真的很难。",
+            "utterance": [
+                {
+                    "sub_start_time": 200170,
+                    "sub_end_time": 203670,
+                    "sub_src_text": "but it's a really difficult thing for teachers to pull that off.",
+                    "sub_trg_text": "但对老师来说做到这点真的很难。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 204380,
+            "end_time": 216970,
+            "src_text": "Because so much of their time has to be spenton boiling things down to this standardized box that everybody is placed in.",
+            "trg_text": "因为他们得花太多时间 将所有学生置于这个标准化的框框里。",
+            "utterance": [
+                {
+                    "sub_start_time": 204380,
+                    "sub_end_time": 208910,
+                    "sub_src_text": "Because so much of their time has to be spent",
+                    "sub_trg_text": "因为他们得花太多时间",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 209050,
+                    "sub_end_time": 216970,
+                    "sub_src_text": "on boiling things down to this standardized box that everybody is placed in.",
+                    "sub_trg_text": "将所有学生置于这个标准化的框框里。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 217650,
+            "end_time": 232390,
+            "src_text": "You know, we've had a fascination. Uh-huh. In this country with standardized assessments,and unfortunately in many places we lost our wayand we lost students in the process.",
+            "trg_text": "您知道，咱们国家一直对标准化评估很痴迷， 但不幸的是，很多情况下我们不仅迷失了方向， 而且还在此过程中失去了学生。",
+            "utterance": [
+                {
+                    "sub_start_time": 217650,
+                    "sub_end_time": 226600,
+                    "sub_src_text": "You know, we've had a fascination. Uh-huh. In this country with standardized assessments,",
+                    "sub_trg_text": "您知道，咱们国家一直对标准化评估很痴迷，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 226930,
+                    "sub_end_time": 230570,
+                    "sub_src_text": "and unfortunately in many places we lost our way",
+                    "sub_trg_text": "但不幸的是，很多情况下我们不仅迷失了方向，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 230610,
+                    "sub_end_time": 232390,
+                    "sub_src_text": "and we lost students in the process.",
+                    "sub_trg_text": "而且还在此过程中失去了学生。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 233210,
+            "end_time": 244180,
+            "src_text": "We're overly enamored with uh misusing those dataand labeling schoolsand putting scarlet letters on districts that are working twice as hard to meet the needs of students.",
+            "trg_text": "我们太痴迷于滥用那些数据， 给学校贴标签， 给那些加倍努力满足学生需求的地区贴上耻辱的标签。",
+            "utterance": [
+                {
+                    "sub_start_time": 233210,
+                    "sub_end_time": 237720,
+                    "sub_src_text": "We're overly enamored with uh misusing those data",
+                    "sub_trg_text": "我们太痴迷于滥用那些数据，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 238250,
+                    "sub_end_time": 239640,
+                    "sub_src_text": "and labeling schools",
+                    "sub_trg_text": "给学校贴标签，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 239640,
+                    "sub_end_time": 244180,
+                    "sub_src_text": "and putting scarlet letters on districts that are working twice as hard to meet the needs of students.",
+                    "sub_trg_text": "给那些加倍努力满足学生需求的地区贴上耻辱的标签。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 244640,
+            "end_time": 253480,
+            "src_text": "John, when I was a school principal,I had this young girl from Dominican Republic coming to the school,right, uh, where I was serving.",
+            "trg_text": "约翰，我做校长时， 有个来自多米尼加共和国的小女孩来我们学校， 就在我任职的那个学校。",
+            "utterance": [
+                {
+                    "sub_start_time": 244640,
+                    "sub_end_time": 246190,
+                    "sub_src_text": "John, when I was a school principal,",
+                    "sub_trg_text": "约翰，我做校长时，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 246560,
+                    "sub_end_time": 251520,
+                    "sub_src_text": "I had this young girl from Dominican Republic coming to the school,",
+                    "sub_trg_text": "有个来自多米尼加共和国的小女孩来我们学校，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 251520,
+                    "sub_end_time": 253480,
+                    "sub_src_text": "right, uh, where I was serving.",
+                    "sub_trg_text": "就在我任职的那个学校。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 254120,
+            "end_time": 259490,
+            "src_text": "She was about nine years old.Uh, she was learning English,very little English. Uh-huh.",
+            "trg_text": "她当时大概九岁。 她在学英语， 因为她几乎不懂英文。",
+            "utterance": [
+                {
+                    "sub_start_time": 254120,
+                    "sub_end_time": 255530,
+                    "sub_src_text": "She was about nine years old.",
+                    "sub_trg_text": "她当时大概九岁。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 256250,
+                    "sub_end_time": 257800,
+                    "sub_src_text": "Uh, she was learning English,",
+                    "sub_trg_text": "她在学英语，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 257970,
+                    "sub_end_time": 259490,
+                    "sub_src_text": "very little English. Uh-huh.",
+                    "sub_trg_text": "因为她几乎不懂英文。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 259490,
+            "end_time": 267570,
+            "src_text": "Um, she had exceptionality,so she had an IEP,uh, and I understand your mother was a special education.She was. Teacher.",
+            "trg_text": "她情况有点特殊， 因此参与了个别化教育计划（IEP）， 我知道你母亲也是从事特殊教育的。 是的，她是一名教师。",
+            "utterance": [
+                {
+                    "sub_start_time": 259490,
+                    "sub_end_time": 261720,
+                    "sub_src_text": "Um, she had exceptionality,",
+                    "sub_trg_text": "她情况有点特殊，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 261730,
+                    "sub_end_time": 263790,
+                    "sub_src_text": "so she had an IEP,",
+                    "sub_trg_text": "因此参与了个别化教育计划（IEP），",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 263790,
+                    "sub_end_time": 266530,
+                    "sub_src_text": "uh, and I understand your mother was a special education.",
+                    "sub_trg_text": "我知道你母亲也是从事特殊教育的。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 266530,
+                    "sub_end_time": 267570,
+                    "sub_src_text": "She was. Teacher.",
+                    "sub_trg_text": "是的，她是一名教师。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 267600,
+            "end_time": 271640,
+            "src_text": "So you know, it might have been a student that your mom might have supported.Right.",
+            "trg_text": "所以你也知道，你母亲可能会支持这样的学生。 对的。",
+            "utterance": [
+                {
+                    "sub_start_time": 267600,
+                    "sub_end_time": 271120,
+                    "sub_src_text": "So you know, it might have been a student that your mom might have supported.",
+                    "sub_trg_text": "所以你也知道，你母亲可能会支持这样的学生。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 271360,
+                    "sub_end_time": 271640,
+                    "sub_src_text": "Right.",
+                    "sub_trg_text": "对的。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 271640,
+            "end_time": 279850,
+            "src_text": "So the day of the assessment,I remember this young girl sobbing.I had to go visit hercause I was one of the few in the school that spoke Spanish. Uh-huh.",
+            "trg_text": "评估考试那天， 我记得这个小女孩在哭。 我得去看看她， 因为我算学校里为数不多会说西班牙语中的一个。",
+            "utterance": [
+                {
+                    "sub_start_time": 271640,
+                    "sub_end_time": 273400,
+                    "sub_src_text": "So the day of the assessment,",
+                    "sub_trg_text": "评估考试那天，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 273400,
+                    "sub_end_time": 276400,
+                    "sub_src_text": "I remember this young girl sobbing.",
+                    "sub_trg_text": "我记得这个小女孩在哭。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 276400,
+                    "sub_end_time": 277330,
+                    "sub_src_text": "I had to go visit her",
+                    "sub_trg_text": "我得去看看她，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 277330,
+                    "sub_end_time": 279850,
+                    "sub_src_text": "cause I was one of the few in the school that spoke Spanish. Uh-huh.",
+                    "sub_trg_text": "因为我算学校里为数不多会说西班牙语中的一个。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 279850,
+            "end_time": 290170,
+            "src_text": "She was sobbingin fear that this test in a foreign language has been put in front of herand those data were gonna be used to determine in many ways what she's capable of.",
+            "trg_text": "她在抽泣， 因为害怕眼前的这场用外语进行的考试， 而那些数据会在多方面用来判定她的能力。",
+            "utterance": [
+                {
+                    "sub_start_time": 279850,
+                    "sub_end_time": 280600,
+                    "sub_src_text": "She was sobbing",
+                    "sub_trg_text": "她在抽泣，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 280610,
+                    "sub_end_time": 284210,
+                    "sub_src_text": "in fear that this test in a foreign language has been put in front of her",
+                    "sub_trg_text": "因为害怕眼前的这场用外语进行的考试，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 284610,
+                    "sub_end_time": 290170,
+                    "sub_src_text": "and those data were gonna be used to determine in many ways what she's capable of.",
+                    "sub_trg_text": "而那些数据会在多方面用来判定她的能力。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 291360,
+            "end_time": 298670,
+            "src_text": "We've done that too much in this country.And what the school is capable of I mean, probably the the funding of the school was reliant on this.",
+            "trg_text": "我们国家这种事儿做得太多了。 学校的资金可能都依赖这个学校的能力。",
+            "utterance": [
+                {
+                    "sub_start_time": 291360,
+                    "sub_end_time": 293450,
+                    "sub_src_text": "We've done that too much in this country.",
+                    "sub_trg_text": "我们国家这种事儿做得太多了。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 293520,
+                    "sub_end_time": 298670,
+                    "sub_src_text": "And what the school is capable of I mean, probably the the funding of the school was reliant on this.",
+                    "sub_trg_text": "学校的资金可能都依赖这个学校的能力。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 298670,
+            "end_time": 299830,
+            "src_text": "I'll take this step further.Yep.",
+            "trg_text": "我再进一步谈一谈。 好的。",
+            "utterance": [
+                {
+                    "sub_start_time": 298670,
+                    "sub_end_time": 299570,
+                    "sub_src_text": "I'll take this step further.",
+                    "sub_trg_text": "我再进一步谈一谈。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 299570,
+                    "sub_end_time": 299830,
+                    "sub_src_text": "Yep.",
+                    "sub_trg_text": "好的。",
+                    "term": []
+                }
+            ]
+        }
+    ]
+}

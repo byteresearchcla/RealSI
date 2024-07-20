@@ -1,0 +1,756 @@
+{
+    "vid": "en2zh-01-tech",
+    "duration": 205000,
+    "segment": [
+        {
+            "start_time": 0,
+            "end_time": 5790,
+            "src_text": "Round-robin um um load balancing scheme,so I'm not sure if that's getting it what you're asking?",
+            "trg_text": "轮询负载均衡方案。 不知道这是不是你想要的答案。",
+            "utterance": [
+                {
+                    "sub_start_time": 0,
+                    "sub_end_time": 2810,
+                    "sub_src_text": "Round-robin um um load balancing scheme,",
+                    "sub_trg_text": "轮询负载均衡方案。",
+                    "term": [
+                        {
+                            "src": "Round-robin",
+                            "trg": "轮询"
+                        },
+                        {
+                            "src": "load balancing scheme",
+                            "trg": "负载均衡方案"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 3320,
+                    "sub_end_time": 5790,
+                    "sub_src_text": "so I'm not sure if that's getting it what you're asking?",
+                    "sub_trg_text": "不知道这是不是你想要的答案。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 6250,
+            "end_time": 8750,
+            "src_text": "Yeah, yeah, I think that answers my question.",
+            "trg_text": "是的，我认为这就是我想要的答案。",
+            "utterance": [
+                {
+                    "sub_start_time": 6250,
+                    "sub_end_time": 8750,
+                    "sub_src_text": "Yeah, yeah, I think that answers my question.",
+                    "sub_trg_text": "是的，我认为这就是我想要的答案。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 9790,
+            "end_time": 12090,
+            "src_text": "Load balancing is not a one size fits all.",
+            "trg_text": "负载均衡并不是通用方案。",
+            "utterance": [
+                {
+                    "sub_start_time": 9790,
+                    "sub_end_time": 12090,
+                    "sub_src_text": "Load balancing is not a one size fits all.",
+                    "sub_trg_text": "负载均衡并不是通用方案。",
+                    "term": [
+                        {
+                            "src": "Load balancing",
+                            "trg": "负载均衡"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 12310,
+            "end_time": 17840,
+            "src_text": "Mark mentioned looking at different metrics as a way to load balance across different servers,which was a clever approach.",
+            "trg_text": "马克谈到了用不同的指标对不同服务器进行负载均衡， 这个方法很巧妙。",
+            "utterance": [
+                {
+                    "sub_start_time": 12310,
+                    "sub_end_time": 16320,
+                    "sub_src_text": "Mark mentioned looking at different metrics as a way to load balance across different servers,",
+                    "sub_trg_text": "马克谈到了用不同的指标对不同服务器进行负载均衡，",
+                    "term": [
+                        {
+                            "src": "load balance",
+                            "trg": "负载均衡"
+                        },
+                        {
+                            "src": "Mark",
+                            "trg": "马克"
+                        },
+                        {
+                            "src": "servers",
+                            "trg": "服务器"
+                        },
+                        {
+                            "src": "metrics",
+                            "trg": "指标"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 16520,
+                    "sub_end_time": 17840,
+                    "sub_src_text": "which was a clever approach.",
+                    "sub_trg_text": "这个方法很巧妙。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 18250,
+            "end_time": 23030,
+            "src_text": "Mark was very open about the fact that load balancing isn't an area he's an expert onand this is okay.",
+            "trg_text": "马克坦诚地说他并不擅长负载均衡， 但没关系。",
+            "utterance": [
+                {
+                    "sub_start_time": 18250,
+                    "sub_end_time": 22000,
+                    "sub_src_text": "Mark was very open about the fact that load balancing isn't an area he's an expert on",
+                    "sub_trg_text": "马克坦诚地说他并不擅长负载均衡，",
+                    "term": [
+                        {
+                            "src": "load balancing",
+                            "trg": "负载均衡"
+                        },
+                        {
+                            "src": "Mark",
+                            "trg": "马克"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 22160,
+                    "sub_end_time": 23030,
+                    "sub_src_text": "and this is okay.",
+                    "sub_trg_text": "但没关系。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 23290,
+            "end_time": 26720,
+            "src_text": "It's fine to be honest when you are asked about things that are at the limits of your knowledge.",
+            "trg_text": "当问到你知识盲点的时候，诚实回答就好。",
+            "utterance": [
+                {
+                    "sub_start_time": 23290,
+                    "sub_end_time": 26720,
+                    "sub_src_text": "It's fine to be honest when you are asked about things that are at the limits of your knowledge.",
+                    "sub_trg_text": "当问到你知识盲点的时候，诚实回答就好。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 27720,
+            "end_time": 33000,
+            "src_text": "Okay, cool. Um, yeah, all right,are you are you are you done with your design,",
+            "trg_text": "好的。 你的设计部分介绍完了吗？",
+            "utterance": [
+                {
+                    "sub_start_time": 27720,
+                    "sub_end_time": 30720,
+                    "sub_src_text": "Okay, cool. Um, yeah, all right,",
+                    "sub_trg_text": "好的。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 30990,
+                    "sub_end_time": 33000,
+                    "sub_src_text": "are you are you are you done with your design,",
+                    "sub_trg_text": "你的设计部分介绍完了吗？",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 33210,
+            "end_time": 35710,
+            "src_text": "um or is there anything else that you want to add?",
+            "trg_text": "还有别的要补充吗？",
+            "utterance": [
+                {
+                    "sub_start_time": 33210,
+                    "sub_end_time": 35710,
+                    "sub_src_text": "um or is there anything else that you want to add?",
+                    "sub_trg_text": "还有别的要补充吗？",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 36910,
+            "end_time": 46040,
+            "src_text": "Yeah, let me think about that and gimme gimme just a moment like II mean it again it you know I've way oversimplified this but um, um...",
+            "trg_text": "我想想。 我把问题太过简单化了，但是……",
+            "utterance": [
+                {
+                    "sub_start_time": 36910,
+                    "sub_end_time": 39980,
+                    "sub_src_text": "Yeah, let me think about that and gimme gimme just a moment like I",
+                    "sub_trg_text": "我想想。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 39980,
+                    "sub_end_time": 46040,
+                    "sub_src_text": "I mean it again it you know I've way oversimplified this but um, um...",
+                    "sub_trg_text": "我把问题太过简单化了，但是……",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 47890,
+            "end_time": 53320,
+            "src_text": "Ah! I guess, I think if I were to also think about this at a global scale.",
+            "trg_text": "我想如果我也从全球范围去想，",
+            "utterance": [
+                {
+                    "sub_start_time": 47890,
+                    "sub_end_time": 53320,
+                    "sub_src_text": "Ah! I guess, I think if I were to also think about this at a global scale.",
+                    "sub_trg_text": "我想如果我也从全球范围去想，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 55190,
+            "end_time": 62750,
+            "src_text": "I mean Spotify is a global appand so, it's it's possible so uh replication,",
+            "trg_text": "Spotify 是个全球性软件， 有可能进行复制。",
+            "utterance": [
+                {
+                    "sub_start_time": 55190,
+                    "sub_end_time": 56770,
+                    "sub_src_text": "I mean Spotify is a global app",
+                    "sub_trg_text": "Spotify 是个全球性软件，",
+                    "term": [
+                        {
+                            "src": "Spotify",
+                            "trg": "Spotify"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 56770,
+                    "sub_end_time": 62750,
+                    "sub_src_text": "and so, it's it's possible so uh replication,",
+                    "sub_trg_text": "有可能进行复制。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 62750,
+            "end_time": 65970,
+            "src_text": "I didn't really talk about replication other than to do the math",
+            "trg_text": "除了计算以外，我没有讨论过复制的问题，",
+            "utterance": [
+                {
+                    "sub_start_time": 62750,
+                    "sub_end_time": 65970,
+                    "sub_src_text": "I didn't really talk about replication other than to do the math",
+                    "sub_trg_text": "除了计算以外，我没有讨论过复制的问题，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 65970,
+            "end_time": 71830,
+            "src_text": "to say hey, maybe three, three x replication and replication right,why do we do this?",
+            "trg_text": "比如三重复制。 为什么这样做呢？",
+            "utterance": [
+                {
+                    "sub_start_time": 65970,
+                    "sub_end_time": 71130,
+                    "sub_src_text": "to say hey, maybe three, three x replication and replication right,",
+                    "sub_trg_text": "比如三重复制。",
+                    "term": [
+                        {
+                            "src": "three x replication",
+                            "trg": "三重复制"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 71130,
+                    "sub_end_time": 71830,
+                    "sub_src_text": "why do we do this?",
+                    "sub_trg_text": "为什么这样做呢？",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 71830,
+            "end_time": 77910,
+            "src_text": "Well we do do it to make sure that we have, uh, data available um, when there's an outage",
+            "trg_text": "这样做是为了确保出现故障时数据依然可用。",
+            "utterance": [
+                {
+                    "sub_start_time": 71830,
+                    "sub_end_time": 77910,
+                    "sub_src_text": "Well we do do it to make sure that we have, uh, data available um, when there's an outage",
+                    "sub_trg_text": "这样做是为了确保出现故障时数据依然可用。",
+                    "term": [
+                        {
+                            "src": "outage",
+                            "trg": "故障"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 77910,
+            "end_time": 86580,
+            "src_text": "so if, so you know if I if I were to you know,I mean like, do this right to indicate three replicas but that's that's a little, naive,",
+            "trg_text": "但是如果我要是 做了这个，来显示它有三个副本，那有点小儿科了，",
+            "utterance": [
+                {
+                    "sub_start_time": 77910,
+                    "sub_end_time": 80830,
+                    "sub_src_text": "so if, so you know if I if I were to you know,",
+                    "sub_trg_text": "但是如果我要是",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 80830,
+                    "sub_end_time": 86580,
+                    "sub_src_text": "I mean like, do this right to indicate three replicas but that's that's a little, naive,",
+                    "sub_trg_text": "做了这个，来显示它有三个副本，那有点小儿科了，",
+                    "term": [
+                        {
+                            "src": "replicas",
+                            "trg": "副本"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 86789,
+            "end_time": 89210,
+            "src_text": "um and the same thing for the metadata of course.",
+            "trg_text": "对于元数据来说也是同理。",
+            "utterance": [
+                {
+                    "sub_start_time": 86789,
+                    "sub_end_time": 89210,
+                    "sub_src_text": "um and the same thing for the metadata of course.",
+                    "sub_trg_text": "对于元数据来说也是同理。",
+                    "term": [
+                        {
+                            "src": "metadata",
+                            "trg": "元数据"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 89770,
+            "end_time": 99590,
+            "src_text": "But, um, the, replicating the data is not just for availability and and downtime,",
+            "trg_text": "但是复制数据不只是因为可用性和宕机，",
+            "utterance": [
+                {
+                    "sub_start_time": 89770,
+                    "sub_end_time": 99590,
+                    "sub_src_text": "But, um, the, replicating the data is not just for availability and and downtime,",
+                    "sub_trg_text": "但是复制数据不只是因为可用性和宕机，",
+                    "term": [
+                        {
+                            "src": "availability",
+                            "trg": "可用性"
+                        },
+                        {
+                            "src": "downtime",
+                            "trg": "宕机"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 99590,
+            "end_time": 106810,
+            "src_text": "it's also, you would want to place those replicas, um, closer to where the users are",
+            "trg_text": "同时也是想将这些副本放到离用户更近的地方。",
+            "utterance": [
+                {
+                    "sub_start_time": 99590,
+                    "sub_end_time": 106810,
+                    "sub_src_text": "it's also, you would want to place those replicas, um, closer to where the users are",
+                    "sub_trg_text": "同时也是想将这些副本放到离用户更近的地方。",
+                    "term": [
+                        {
+                            "src": "replicas",
+                            "trg": "副本"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 106810,
+            "end_time": 113910,
+            "src_text": "and so from a global perspective,you might have music that is more local",
+            "trg_text": "从全球视野来看， 你就会有更加本地化的音乐，",
+            "utterance": [
+                {
+                    "sub_start_time": 106810,
+                    "sub_end_time": 108960,
+                    "sub_src_text": "and so from a global perspective,",
+                    "sub_trg_text": "从全球视野来看，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 109280,
+                    "sub_end_time": 113910,
+                    "sub_src_text": "you might have music that is more local",
+                    "sub_trg_text": "你就会有更加本地化的音乐，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 113910,
+            "end_time": 119979,
+            "src_text": "like, um maybe European punk rock is,you know, more, listened to more in Europe,",
+            "trg_text": "比如欧洲朋克音乐 在欧洲的听众可能更多，",
+            "utterance": [
+                {
+                    "sub_start_time": 113910,
+                    "sub_end_time": 118150,
+                    "sub_src_text": "like, um maybe European punk rock is,",
+                    "sub_trg_text": "比如欧洲朋克音乐",
+                    "term": [
+                        {
+                            "src": "punk rock",
+                            "trg": "朋克音乐"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 118150,
+                    "sub_end_time": 119979,
+                    "sub_src_text": "you know, more, listened to more in Europe,",
+                    "sub_trg_text": "在欧洲的听众可能更多，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 120200,
+            "end_time": 129240,
+            "src_text": "uh and maybe maybe BTS uh is,you know because it's Korean pop is maybe it's more popular actually in Korea, um or in Asia,",
+            "trg_text": "防弹少年团可能， 因为是韩国流行乐，所以可能在韩国更受欢迎，或者说在亚洲更受欢迎。",
+            "utterance": [
+                {
+                    "sub_start_time": 120200,
+                    "sub_end_time": 123920,
+                    "sub_src_text": "uh and maybe maybe BTS uh is,",
+                    "sub_trg_text": "防弹少年团可能，",
+                    "term": [
+                        {
+                            "src": "BTS",
+                            "trg": "防弹少年团"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 123920,
+                    "sub_end_time": 129240,
+                    "sub_src_text": "you know because it's Korean pop is maybe it's more popular actually in Korea, um or in Asia,",
+                    "sub_trg_text": "因为是韩国流行乐，所以可能在韩国更受欢迎，或者说在亚洲更受欢迎。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 129440,
+            "end_time": 140850,
+            "src_text": "and so you might want to have the replicas of those songs,uh and and maybe even the metadata, be more locally, uh, represented more more locally",
+            "trg_text": "所以你可能希望这些歌的副本， 甚至是元数据，更多地存储在本地，",
+            "utterance": [
+                {
+                    "sub_start_time": 129440,
+                    "sub_end_time": 133640,
+                    "sub_src_text": "and so you might want to have the replicas of those songs,",
+                    "sub_trg_text": "所以你可能希望这些歌的副本，",
+                    "term": [
+                        {
+                            "src": "replicas",
+                            "trg": "副本"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 133800,
+                    "sub_end_time": 140850,
+                    "sub_src_text": "uh and and maybe even the metadata, be more locally, uh, represented more more locally",
+                    "sub_trg_text": "甚至是元数据，更多地存储在本地，",
+                    "term": [
+                        {
+                            "src": "metadata",
+                            "trg": "元数据"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 140850,
+            "end_time": 149760,
+            "src_text": "so that um, you can get to it faster,you don't have to cross an ocean to get to the to the data,um and uh, you know to reach it.",
+            "trg_text": "以便更快访问。 这样就不用大费周折 去获取数据。",
+            "utterance": [
+                {
+                    "sub_start_time": 140850,
+                    "sub_end_time": 143360,
+                    "sub_src_text": "so that um, you can get to it faster,",
+                    "sub_trg_text": "以便更快访问。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 143360,
+                    "sub_end_time": 146290,
+                    "sub_src_text": "you don't have to cross an ocean to get to the to the data,",
+                    "sub_trg_text": "这样就不用大费周折",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 146720,
+                    "sub_end_time": 149760,
+                    "sub_src_text": "um and uh, you know to reach it.",
+                    "sub_trg_text": "去获取数据。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 149760,
+            "end_time": 155850,
+            "src_text": "So kind of a geo-aware strategy of data placement and possibly replication strategy",
+            "trg_text": "这算是一种考虑地理因素的数据存放策略和复制策略，",
+            "utterance": [
+                {
+                    "sub_start_time": 149760,
+                    "sub_end_time": 155850,
+                    "sub_src_text": "So kind of a geo-aware strategy of data placement and possibly replication strategy",
+                    "sub_trg_text": "这算是一种考虑地理因素的数据存放策略和复制策略，",
+                    "term": [
+                        {
+                            "src": "replication strategy",
+                            "trg": "复制策略"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 155850,
+            "end_time": 166710,
+            "src_text": "that might be a, um, a refinement I thinkthat I would might make to this design to make it just a little bit more um, uh, performant effective uh etc etc.",
+            "trg_text": "在我看来这可能是一种改进， 让这个设计更加高效能一点，等等。",
+            "utterance": [
+                {
+                    "sub_start_time": 155850,
+                    "sub_end_time": 159210,
+                    "sub_src_text": "that might be a, um, a refinement I think",
+                    "sub_trg_text": "在我看来这可能是一种改进，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 159210,
+                    "sub_end_time": 166710,
+                    "sub_src_text": "that I would might make to this design to make it just a little bit more um, uh, performant effective uh etc etc.",
+                    "sub_trg_text": "让这个设计更加高效能一点，等等。",
+                    "term": [
+                        {
+                            "src": "performant effective",
+                            "trg": "高效能"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 166710,
+            "end_time": 173440,
+            "src_text": "So, yeah, does that does that make sense?Yeah, yeah, I think that thing is just interesting point to add.",
+            "trg_text": "这样有意义吗？ 有的，我觉得添加的这个点很有意思。",
+            "utterance": [
+                {
+                    "sub_start_time": 166710,
+                    "sub_end_time": 169980,
+                    "sub_src_text": "So, yeah, does that does that make sense?",
+                    "sub_trg_text": "这样有意义吗？",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 169980,
+                    "sub_end_time": 173440,
+                    "sub_src_text": "Yeah, yeah, I think that thing is just interesting point to add.",
+                    "sub_trg_text": "有的，我觉得添加的这个点很有意思。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 174040,
+            "end_time": 180800,
+            "src_text": "It's a good idea to wrap up your answer by referring back to the requirements laid out at the beginning of the interview,and confirming that your design meets them.",
+            "trg_text": "通过对照面试开头提出的要求来总结回答是个不错的做法， 也可以确保你的设计符合要求。",
+            "utterance": [
+                {
+                    "sub_start_time": 174040,
+                    "sub_end_time": 178710,
+                    "sub_src_text": "It's a good idea to wrap up your answer by referring back to the requirements laid out at the beginning of the interview,",
+                    "sub_trg_text": "通过对照面试开头提出的要求来总结回答是个不错的做法，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 178950,
+                    "sub_end_time": 180800,
+                    "sub_src_text": "and confirming that your design meets them.",
+                    "sub_trg_text": "也可以确保你的设计符合要求。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 181430,
+            "end_time": 188040,
+            "src_text": "If you have time,it's always nice to think big and take a quick look at the problem from a different dimensionthat could make it more complex.",
+            "trg_text": "如果时间允许， 可以大胆设想，并从另一个维度快速审视问题， 这样可以让它更复合。",
+            "utterance": [
+                {
+                    "sub_start_time": 181430,
+                    "sub_end_time": 182250,
+                    "sub_src_text": "If you have time,",
+                    "sub_trg_text": "如果时间允许，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 182410,
+                    "sub_end_time": 186530,
+                    "sub_src_text": "it's always nice to think big and take a quick look at the problem from a different dimension",
+                    "sub_trg_text": "可以大胆设想，并从另一个维度快速审视问题，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 186690,
+                    "sub_end_time": 188040,
+                    "sub_src_text": "that could make it more complex.",
+                    "sub_trg_text": "这样可以让它更复合。",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 188570,
+            "end_time": 194520,
+            "src_text": "Mark did this with his geo-location idea.He didn't go into detail,but another interviewer might have explored this further",
+            "trg_text": "马克提出了关于地理位置的想法。 他没有具体阐述， 但另一位可能深入探索了，",
+            "utterance": [
+                {
+                    "sub_start_time": 188570,
+                    "sub_end_time": 190750,
+                    "sub_src_text": "Mark did this with his geo-location idea.",
+                    "sub_trg_text": "马克提出了关于地理位置的想法。",
+                    "term": [
+                        {
+                            "src": "Mark",
+                            "trg": "马克"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 191110,
+                    "sub_end_time": 192160,
+                    "sub_src_text": "He didn't go into detail,",
+                    "sub_trg_text": "他没有具体阐述，",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 192390,
+                    "sub_end_time": 194520,
+                    "sub_src_text": "but another interviewer might have explored this further",
+                    "sub_trg_text": "但另一位可能深入探索了，",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 194730,
+            "end_time": 200240,
+            "src_text": "and it could have opened up a whole new aspect to the design.Overall, an excellent answer from Mark.",
+            "trg_text": "而且可能为这个设计打开了全新的视角。 总之，马克的回答很精彩。",
+            "utterance": [
+                {
+                    "sub_start_time": 194730,
+                    "sub_end_time": 197360,
+                    "sub_src_text": "and it could have opened up a whole new aspect to the design.",
+                    "sub_trg_text": "而且可能为这个设计打开了全新的视角。",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 198030,
+                    "sub_end_time": 200240,
+                    "sub_src_text": "Overall, an excellent answer from Mark.",
+                    "sub_trg_text": "总之，马克的回答很精彩。",
+                    "term": [
+                        {
+                            "src": "Mark",
+                            "trg": "马克"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 200640,
+            "end_time": 205000,
+            "src_text": "Yeah, great job Mark,um, I think that was a a really good approach.",
+            "trg_text": "马克，做得好。 我觉得这个方法非常好。",
+            "utterance": [
+                {
+                    "sub_start_time": 200640,
+                    "sub_end_time": 201720,
+                    "sub_src_text": "Yeah, great job Mark,",
+                    "sub_trg_text": "马克，做得好。",
+                    "term": [
+                        {
+                            "src": "Mark",
+                            "trg": "马克"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 201910,
+                    "sub_end_time": 205000,
+                    "sub_src_text": "um, I think that was a a really good approach.",
+                    "sub_trg_text": "我觉得这个方法非常好。",
+                    "term": []
+                }
+            ]
+        }
+    ]
+}

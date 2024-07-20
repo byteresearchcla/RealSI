@@ -1,0 +1,801 @@
+{
+    "vid": "zh2en-06-env",
+    "duration": 257320,
+    "segment": [
+        {
+            "start_time": 0,
+            "end_time": 4580,
+            "src_text": "欢迎来到我们的联合国气候变化框架公约秘书处的访谈节目。",
+            "trg_text": "Welcome to the interview program of the Secretariat of the United Nations Framework Convention on Climate Change.",
+            "utterance": [
+                {
+                    "sub_start_time": 0,
+                    "sub_end_time": 4580,
+                    "sub_src_text": "欢迎来到我们的联合国气候变化框架公约秘书处的访谈节目。",
+                    "sub_trg_text": "Welcome to the interview program of the Secretariat of the United Nations Framework Convention on Climate Change.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 4920,
+            "end_time": 11810,
+            "src_text": "呃，那么呢，我想首先邀请你介绍一下，你这次是以什么样的一个身份来参加COP二十八的？",
+            "trg_text": "would like to first invite you to introduce in what in what capacity you are participating in COP28 this time?",
+            "utterance": [
+                {
+                    "sub_start_time": 4920,
+                    "sub_end_time": 8280,
+                    "sub_src_text": "呃，那么呢，我想首先邀请你介绍一下，",
+                    "sub_trg_text": "would like to first invite you to introduce in what",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 8280,
+                    "sub_end_time": 11810,
+                    "sub_src_text": "你这次是以什么样的一个身份来参加COP二十八的？",
+                    "sub_trg_text": "in what capacity you are participating in COP28 this time?",
+                    "term": [
+                        {
+                            "src": "COP二十八",
+                            "trg": "COP28"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 12170,
+            "end_time": 19440,
+            "src_text": "感谢你，然后呢，我这次呢是代表我们世界大学气候变化联盟，啊这个平台，",
+            "trg_text": "Thank you. This time, I represented the platform of University Alliance for Climate Change,",
+            "utterance": [
+                {
+                    "sub_start_time": 12170,
+                    "sub_end_time": 13400,
+                    "sub_src_text": "感谢你，",
+                    "sub_trg_text": "Thank you.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 13170,
+                    "sub_end_time": 19440,
+                    "sub_src_text": "然后呢，我这次呢是代表我们世界大学气候变化联盟，啊这个平台，",
+                    "sub_trg_text": "This time, I represented the platform of University Alliance for Climate Change,",
+                    "term": [
+                        {
+                            "src": "世界大学气候变化联盟",
+                            "trg": "Global Alliance of Universities on Climate (GAUC)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 19610,
+            "end_time": 24200,
+            "src_text": "带领了我们来自三十个啊来自世界各地的学生，",
+            "trg_text": "and led 30 students from all over the world,",
+            "utterance": [
+                {
+                    "sub_start_time": 19610,
+                    "sub_end_time": 24200,
+                    "sub_src_text": "带领了我们来自三十个啊来自世界各地的学生，",
+                    "sub_trg_text": "and led 30 students from all over the world,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 24370,
+            "end_time": 31800,
+            "src_text": "啊，作为团长的职责带着，带着大家来到第二十八次的这个缔约方会上。",
+            "trg_text": "and, in my capacity as the head of the delegation, brought everyone to the 28th Conference of the Parties.",
+            "utterance": [
+                {
+                    "sub_start_time": 24370,
+                    "sub_end_time": 31800,
+                    "sub_src_text": "啊，作为团长的职责带着，带着大家来到第二十八次的这个缔约方会上。",
+                    "sub_trg_text": "and, in my capacity as the head of the delegation, brought everyone to the 28th Conference of the Parties.",
+                    "term": [
+                        {
+                            "src": "第二十八次缔约方会",
+                            "trg": "the 28th Conference of the Parties"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 31270,
+            "end_time": 35730,
+            "src_text": "那我们也是，啊，非常荣幸地有不同的边会啊预约，",
+            "trg_text": "We are also extremely honored to participate in various side events and have appointments.",
+            "utterance": [
+                {
+                    "sub_start_time": 31270,
+                    "sub_end_time": 35730,
+                    "sub_src_text": "那我们也是，啊，非常荣幸地有不同的边会啊预约，",
+                    "sub_trg_text": "We are also extremely honored to participate in various side events and have appointments.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 35730,
+            "end_time": 44270,
+            "src_text": "啊我也是带着学生们让学生有更多的机会把他们的学习学员、成果带到国际的舞台，",
+            "trg_text": "I'm going to lead these students and provide them with more opportunities to showcase their learning and achievements on the international stage,",
+            "utterance": [
+                {
+                    "sub_start_time": 35730,
+                    "sub_end_time": 44270,
+                    "sub_src_text": "啊我也是带着学生们让学生有更多的机会把他们的学习学员、成果带到国际的舞台，",
+                    "sub_trg_text": "I'm going to lead these students and provide them with more opportunities to showcase their learning and achievements on the international stage,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 44270,
+            "end_time": 47830,
+            "src_text": "让更多的人能够看见他们的成果。那同时呢，",
+            "trg_text": "so that their accomplishments can be exposed to more people. Meanwhile,",
+            "utterance": [
+                {
+                    "sub_start_time": 44270,
+                    "sub_end_time": 46950,
+                    "sub_src_text": "让更多的人能够看见他们的成果。",
+                    "sub_trg_text": "so that their accomplishments can be exposed to more people.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 47130,
+                    "sub_end_time": 47830,
+                    "sub_src_text": "那同时呢，",
+                    "sub_trg_text": "Meanwhile,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 47830,
+            "end_time": 53770,
+            "src_text": "他们也是非常有幸地可以到不同的缔约方会上了解到谈谈判的现场，",
+            "trg_text": "it's fortunate for them to attend different Conference of the Parties to gain an insight into the negotiation scene,",
+            "utterance": [
+                {
+                    "sub_start_time": 47830,
+                    "sub_end_time": 53770,
+                    "sub_src_text": "他们也是非常有幸地可以到不同的缔约方会上了解到谈谈判的现场，",
+                    "sub_trg_text": "it's fortunate for them to attend different Conference of the Parties to gain an insight into the negotiation scene,",
+                    "term": [
+                        {
+                            "src": "缔约方会",
+                            "trg": "Conference of the Parties"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 53930,
+            "end_time": 66120,
+            "src_text": "了解到在国际舞台上大家是如何去交谈，如何去啊把气候这个议题展开，去把大家的成果分享、学习到的。",
+            "trg_text": "understand how people communicate on the international stage, how to expand the climate change issue, share and learn from other people's achievements.",
+            "utterance": [
+                {
+                    "sub_start_time": 53930,
+                    "sub_end_time": 57450,
+                    "sub_src_text": "了解到在国际舞台上大家是如何去交谈，",
+                    "sub_trg_text": "understand how people communicate on the international stage,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 57450,
+                    "sub_end_time": 61440,
+                    "sub_src_text": "如何去啊把气候这个议题展开，",
+                    "sub_trg_text": "how to expand the climate change issue,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 61600,
+                    "sub_end_time": 66120,
+                    "sub_src_text": "去把大家的成果分享、学习到的。",
+                    "sub_trg_text": "share and learn from other people's achievements.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 66240,
+            "end_time": 69869,
+            "src_text": "嗯，非常好，非常重要的这个一个角色。",
+            "trg_text": "Very good. It's a very important role.",
+            "utterance": [
+                {
+                    "sub_start_time": 66240,
+                    "sub_end_time": 67440,
+                    "sub_src_text": "嗯，非常好，",
+                    "sub_trg_text": "Very good.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 67690,
+                    "sub_end_time": 69869,
+                    "sub_src_text": "非常重要的这个一个角色。",
+                    "sub_trg_text": "It's a very important role.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 70100,
+            "end_time": 75250,
+            "src_text": "那么我们都知道你是世界大学气候变化联盟的首席青年官，",
+            "trg_text": "Since we all know that you are the Chief Youth Officer of the University Alliance for Climate Change,",
+            "utterance": [
+                {
+                    "sub_start_time": 70100,
+                    "sub_end_time": 75250,
+                    "sub_src_text": "那么我们都知道你是世界大学气候变化联盟的首席青年官，",
+                    "sub_trg_text": "Since we all know that you are the Chief Youth Officer of the University Alliance for Climate Change,",
+                    "term": [
+                        {
+                            "src": "世界大学气候变化联盟",
+                            "trg": "Global Alliance of Universities on Climate (GAUC)"
+                        },
+                        {
+                            "src": "首席青年官",
+                            "trg": "the Chief Youth Officer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 75490,
+            "end_time": 81689,
+            "src_text": "可否请你再给我们多介绍一下这个联盟，它的历史，还有一个定位和角色？",
+            "trg_text": "could you please provide more details about this alliance, such as its history, as well as its positioning and role?",
+            "utterance": [
+                {
+                    "sub_start_time": 75490,
+                    "sub_end_time": 78610,
+                    "sub_src_text": "可否请你再给我们多介绍一下这个联盟，",
+                    "sub_trg_text": "could you please provide more details about this alliance,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 78610,
+                    "sub_end_time": 79570,
+                    "sub_src_text": "它的历史，",
+                    "sub_trg_text": "such as its history,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 79570,
+                    "sub_end_time": 81689,
+                    "sub_src_text": "还有一个定位和角色？",
+                    "sub_trg_text": "as well as its positioning and role?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 81770,
+            "end_time": 95100,
+            "src_text": "是的，我们这个联盟呢，其实是在四年前在呃世界经济论坛坛上，首次由我们大概八个大学的校长在一个会议上共同敲定下来的。",
+            "trg_text": "Yes, our alliance was established four years ago at a meeting on the World Economic Forum by the presidents of about eight universities for the first time.",
+            "utterance": [
+                {
+                    "sub_start_time": 81770,
+                    "sub_end_time": 82160,
+                    "sub_src_text": "是的，",
+                    "sub_trg_text": "Yes,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 82210,
+                    "sub_end_time": 88400,
+                    "sub_src_text": "我们这个联盟呢，其实是在四年前在呃世界经济论坛坛上，",
+                    "sub_trg_text": "our alliance was established four years ago at a meeting on the World Economic Forum",
+                    "term": [
+                        {
+                            "src": "世界经济论坛",
+                            "trg": "World Economic Forum"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 88170,
+                    "sub_end_time": 95100,
+                    "sub_src_text": "首次由我们大概八个大学的校长在一个会议上共同敲定下来的。",
+                    "sub_trg_text": "by the presidents of about eight universities for the first time.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 95170,
+            "end_time": 103840,
+            "src_text": "我我们最初的初衷呢，就是认为气候变化这个议题其实非常的广大，而且需要多方的合作，",
+            "trg_text": "Our original aspiration was that the issue of climate change is actually very extensive and requires multi-party collaboration",
+            "utterance": [
+                {
+                    "sub_start_time": 95170,
+                    "sub_end_time": 97160,
+                    "sub_src_text": "我我们最初的初衷呢，",
+                    "sub_trg_text": "Our original aspiration was that",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 97160,
+                    "sub_end_time": 101300,
+                    "sub_src_text": "就是认为气候变化这个议题其实非常的广大，",
+                    "sub_trg_text": "the issue of climate change is actually very extensive",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 101530,
+                    "sub_end_time": 103840,
+                    "sub_src_text": "而且需要多方的合作，",
+                    "sub_trg_text": "and requires multi-party collaboration",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 103970,
+            "end_time": 109880,
+            "src_text": "需要来自全球不同的地大学、地方的人共同来协作。",
+            "trg_text": "and the joint efforts of people from different universities and regions around the world.",
+            "utterance": [
+                {
+                    "sub_start_time": 103970,
+                    "sub_end_time": 109880,
+                    "sub_src_text": "需要来自全球不同的地大学、地方的人共同来协作。",
+                    "sub_trg_text": "and the joint efforts of people from different universities and regions around the world.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 110130,
+            "end_time": 118600,
+            "src_text": "那所以说呢，在四年前的这一个会议上呢，大家就起草了这个联盟的呃初心成立。",
+            "trg_text": "So, at this meeting four years ago, the participants drafted to establish the alliance's original aspiration.",
+            "utterance": [
+                {
+                    "sub_start_time": 110130,
+                    "sub_end_time": 110900,
+                    "sub_src_text": "那所以说呢，",
+                    "sub_trg_text": "So,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 110900,
+                    "sub_end_time": 112880,
+                    "sub_src_text": "在四年前的这一个会议上呢，",
+                    "sub_trg_text": "at this meeting four years ago,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 113100,
+                    "sub_end_time": 118600,
+                    "sub_src_text": "大家就起草了这个联盟的呃初心成立。",
+                    "sub_trg_text": "the participants drafted to establish the alliance's original aspiration.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 118729,
+            "end_time": 129600,
+            "src_text": "那后后来呢，我们过去这两三年呢，也是扩充了把这个联盟现在是有十五个成员大学，都是来自六个大洲九个国家的。",
+            "trg_text": "Later, in the past two or three years, we have expanded the alliance. Now there are 15 member universities from nine countries on six continents,",
+            "utterance": [
+                {
+                    "sub_start_time": 118729,
+                    "sub_end_time": 119900,
+                    "sub_src_text": "那后后来呢，",
+                    "sub_trg_text": "Later,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 119900,
+                    "sub_end_time": 121280,
+                    "sub_src_text": "我们过去这两三年呢，",
+                    "sub_trg_text": "in the past two or three years,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 121280,
+                    "sub_end_time": 125890,
+                    "sub_src_text": "也是扩充了把这个联盟现在是有十五个成员大学，",
+                    "sub_trg_text": "we have expanded the alliance. Now there are 15 member universities",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 125890,
+                    "sub_end_time": 129600,
+                    "sub_src_text": "都是来自六个大洲九个国家的。",
+                    "sub_trg_text": "from nine countries on six continents,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 129210,
+            "end_time": 140160,
+            "src_text": "那包括像中国，我们这边也是呃联席主席，呃，清华大学和我们在英国的联席主席是啊伦敦啊政经学院LSE，",
+            "trg_text": "including China which is also the co-chair, Tsinghua University and the co-chair in the UK is the London School of Economics and Political Science (LSE).",
+            "utterance": [
+                {
+                    "sub_start_time": 129210,
+                    "sub_end_time": 135120,
+                    "sub_src_text": "那包括像中国，我们这边也是呃联席主席，呃，清华大学",
+                    "sub_trg_text": "including China which is also the co-chair, Tsinghua University",
+                    "term": [
+                        {
+                            "src": "联席主席",
+                            "trg": "the co-chair"
+                        },
+                        {
+                            "src": "清华大学",
+                            "trg": "Tsinghua University"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 135250,
+                    "sub_end_time": 140160,
+                    "sub_src_text": "和我们在英国的联席主席是啊伦敦啊政经学院LSE，",
+                    "sub_trg_text": "and the co-chair in the UK is the London School of Economics and Political Science (LSE).",
+                    "term": [
+                        {
+                            "src": "联席主席",
+                            "trg": "the co-chair"
+                        },
+                        {
+                            "src": "LSE",
+                            "trg": "LSE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 140450,
+            "end_time": 145460,
+            "src_text": "那我们这个联盟还有比如美国的哥伦比亚大学呀，啊，耶鲁大学啊，",
+            "trg_text": "The alliance is also supported by universities such as Columbia University, Yale University in the United States,",
+            "utterance": [
+                {
+                    "sub_start_time": 140450,
+                    "sub_end_time": 145460,
+                    "sub_src_text": "那我们这个联盟还有比如美国的哥伦比亚大学呀，啊，耶鲁大学啊，",
+                    "sub_trg_text": "The alliance is also supported by universities such as Columbia University, Yale University in the United States,",
+                    "term": [
+                        {
+                            "src": "哥伦比亚大学",
+                            "trg": "Columbia University"
+                        },
+                        {
+                            "src": "耶鲁大学",
+                            "trg": "Yale University"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 145610,
+            "end_time": 156730,
+            "src_text": "还有比如来自南美洲、非洲、澳洲，啊，甚至东京等等的这些国家我们都有啊其中啊成员校的支持。",
+            "trg_text": "and universities from South America, Africa, Australia and even Tokyo and other countries.",
+            "utterance": [
+                {
+                    "sub_start_time": 145610,
+                    "sub_end_time": 156730,
+                    "sub_src_text": "还有比如来自南美洲、非洲、澳洲，啊，甚至东京等等的这些国家我们都有啊其中啊成员校的支持。",
+                    "sub_trg_text": "and universities from South America, Africa, Australia and even Tokyo and other countries.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 157100,
+            "end_time": 163600,
+            "src_text": "那这个联盟呢，就是我们所有的这些大学会共同努力去做联合研究，",
+            "trg_text": "In this alliance all these universities will work together to conduct joint research,",
+            "utterance": [
+                {
+                    "sub_start_time": 157100,
+                    "sub_end_time": 163600,
+                    "sub_src_text": "那这个联盟呢，就是我们所有的这些大学会共同努力去做联合研究，",
+                    "sub_trg_text": "In this alliance all these universities will work together to conduct joint research,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 163800,
+            "end_time": 172560,
+            "src_text": "呃，公众呃了解、呃推广青年行动等等的这些工作呢，去让我们呃更加的团结，",
+            "trg_text": "public popularization and promotion of youth actions, etc., so that we can become more united",
+            "utterance": [
+                {
+                    "sub_start_time": 163800,
+                    "sub_end_time": 169780,
+                    "sub_src_text": "呃，公众呃了解、呃推广青年行动等等的这些工作呢，",
+                    "sub_trg_text": "public popularization and promotion of youth actions, etc.,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 169960,
+                    "sub_end_time": 172560,
+                    "sub_src_text": "去让我们呃更加的团结，",
+                    "sub_trg_text": "so that we can become more united",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 172680,
+            "end_time": 182380,
+            "src_text": "并且呢让更多的交流呃，跨元素、跨国界、跨学科、跨文化的种种交流能够呢呃比较顺畅。",
+            "trg_text": "and have more exchanges across elements, borders, disciplines, and cultures, and ensure that they are conducted smoothly.",
+            "utterance": [
+                {
+                    "sub_start_time": 172680,
+                    "sub_end_time": 182380,
+                    "sub_src_text": "并且呢让更多的交流呃，跨元素、跨国界、跨学科、跨文化的种种交流能够呢呃比较顺畅。",
+                    "sub_trg_text": "and have more exchanges across elements, borders, disciplines, and cultures, and ensure that they are conducted smoothly.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 183580,
+            "end_time": 191100,
+            "src_text": "好的，那么联盟今年已经进入了第五个年头，呃，以前也都是参加过，呃，往年的COP，",
+            "trg_text": "OK. This year marks the fifth year of the establishment of this alliance. It has also been engaged in previous COPs before.",
+            "utterance": [
+                {
+                    "sub_start_time": 183580,
+                    "sub_end_time": 184130,
+                    "sub_src_text": "好的，",
+                    "sub_trg_text": "OK.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 184300,
+                    "sub_end_time": 187720,
+                    "sub_src_text": "那么联盟今年已经进入了第五个年头，",
+                    "sub_trg_text": "This year marks the fifth year of the establishment of this alliance.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 188100,
+                    "sub_end_time": 191100,
+                    "sub_src_text": "呃，以前也都是参加过，呃，往年的COP，",
+                    "sub_trg_text": "It has also been engaged in previous COPs before.",
+                    "term": [
+                        {
+                            "src": "COP",
+                            "trg": "COP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 191300,
+            "end_time": 199460,
+            "src_text": "那么今年呃，联盟带了多少位青年来参加这一届的COP？在这一次大会上都举办了一些什么样的活动？",
+            "trg_text": "This year, how many young people are there in the alliance participating in COP28? What are the activities held at this conference?",
+            "utterance": [
+                {
+                    "sub_start_time": 191300,
+                    "sub_end_time": 192650,
+                    "sub_src_text": "那么今年呃，",
+                    "sub_trg_text": "This year,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 192660,
+                    "sub_end_time": 195800,
+                    "sub_src_text": "联盟带了多少位青年来参加这一届的COP？",
+                    "sub_trg_text": "how many young people are there in the alliance participating in COP28?",
+                    "term": [
+                        {
+                            "src": "COP",
+                            "trg": "COP28"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 195800,
+                    "sub_end_time": 199460,
+                    "sub_src_text": "在这一次大会上都举办了一些什么样的活动？",
+                    "sub_trg_text": "What are the activities held at this conference?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 199920,
+            "end_time": 207700,
+            "src_text": "我们呃联盟呢，算是第三次，呃带青年团来参加啊COP。",
+            "trg_text": "This is the third time for our alliance to bring the youth delegation to participate in COP.",
+            "utterance": [
+                {
+                    "sub_start_time": 199920,
+                    "sub_end_time": 207700,
+                    "sub_src_text": "我们呃联盟呢，算是第三次，呃带青年团来参加啊COP。",
+                    "sub_trg_text": "This is the third time for our alliance to bring the youth delegation to participate in COP.",
+                    "term": [
+                        {
+                            "src": "COP",
+                            "trg": "COP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 207700,
+            "end_time": 213120,
+            "src_text": "那，呃其实之前呢，我我去年也是我们二十第第二十COP二十七的这个团的团长，",
+            "trg_text": "Actually before, I was also the head of the delegation of the COP27 last year.",
+            "utterance": [
+                {
+                    "sub_start_time": 207700,
+                    "sub_end_time": 208880,
+                    "sub_src_text": "那，呃其实之前呢，",
+                    "sub_trg_text": "Actually before,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 208990,
+                    "sub_end_time": 213120,
+                    "sub_src_text": "我我去年也是我们二十第第二十COP二十七的这个团的团长，",
+                    "sub_trg_text": "I was also the head of the delegation of the COP27 last year.",
+                    "term": [
+                        {
+                            "src": "COP二十七",
+                            "trg": "COP27"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 213329,
+            "end_time": 218590,
+            "src_text": "可是去年确实就是其实还没有恢复到整个COP的这个整个氛围，",
+            "trg_text": "But at that time, the atmosphere of the COP didn't rebound yet.",
+            "utterance": [
+                {
+                    "sub_start_time": 213329,
+                    "sub_end_time": 218590,
+                    "sub_src_text": "可是去年确实就是其实还没有恢复到整个COP的这个整个氛围，",
+                    "sub_trg_text": "But at that time, the atmosphere of the COP didn't rebound yet.",
+                    "term": [
+                        {
+                            "src": "COP",
+                            "trg": "COP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 218590,
+            "end_time": 225940,
+            "src_text": "那其实今年还是非常不一样的。那我们今年呢，非常的荣幸能够受到UN这边的一个邀请，",
+            "trg_text": "In fact, this year is very different. This year, it's our honor to be invited by the UN",
+            "utterance": [
+                {
+                    "sub_start_time": 218590,
+                    "sub_end_time": 220690,
+                    "sub_src_text": "那其实今年还是非常不一样的。",
+                    "sub_trg_text": "In fact, this year is very different.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 220910,
+                    "sub_end_time": 222700,
+                    "sub_src_text": "那我们今年呢，",
+                    "sub_trg_text": "This year,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 222700,
+                    "sub_end_time": 225940,
+                    "sub_src_text": "非常的荣幸能够受到UN这边的一个邀请，",
+                    "sub_trg_text": "it's our honor to be invited by the UN",
+                    "term": [
+                        {
+                            "src": "UN",
+                            "trg": "UN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 225950,
+            "end_time": 232130,
+            "src_text": "我们呢在一个有自己的一个小角落，我们有一个GAUC角，就我们的联盟角，",
+            "trg_text": "and we also have our own small corner which is called the GAUC. The corner of our alliance.",
+            "utterance": [
+                {
+                    "sub_start_time": 225950,
+                    "sub_end_time": 229100,
+                    "sub_src_text": "我们呢在一个有自己的一个小角落，",
+                    "sub_trg_text": "and we also have our own small corner",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 229100,
+                    "sub_end_time": 232130,
+                    "sub_src_text": "我们有一个GAUC角，就我们的联盟角，",
+                    "sub_trg_text": "which is called the GAUC. The corner of our alliance.",
+                    "term": [
+                        {
+                            "src": "GAUC",
+                            "trg": "GAUC"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 232350,
+            "end_time": 239600,
+            "src_text": "那我们也是就是很很荣幸能够在这个角上把我们学生啊展示出来，",
+            "trg_text": "We are also very honored to have our students showcase themselves at this corner.",
+            "utterance": [
+                {
+                    "sub_start_time": 232350,
+                    "sub_end_time": 239600,
+                    "sub_src_text": "那我们也是就是很很荣幸能够在这个角上把我们学生啊展示出来，",
+                    "sub_trg_text": "We are also very honored to have our students showcase themselves at this corner.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 239240,
+            "end_time": 249000,
+            "src_text": "呃然后学生也是可以借此机会去在呃本地去和现场的其他来自各国各，各个界别的青年朋友，",
+            "trg_text": "They can also take this opportunity to discuss on the spot with other young friends from various countries and industries,",
+            "utterance": [
+                {
+                    "sub_start_time": 239240,
+                    "sub_end_time": 249000,
+                    "sub_src_text": "呃然后学生也是可以借此机会去在呃本地去和现场的其他来自各国各，各个界别的青年朋友，",
+                    "sub_trg_text": "They can also take this opportunity to discuss on the spot with other young friends from various countries and industries,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 249160,
+            "end_time": 257320,
+            "src_text": "或者是其他的商务的，或者是呃NGO的呃各位领导、大牛们去探讨。",
+            "trg_text": "or with other leaders and experts from the business sector or NGOs.",
+            "utterance": [
+                {
+                    "sub_start_time": 249160,
+                    "sub_end_time": 257320,
+                    "sub_src_text": "或者是其他的商务的，或者是呃NGO的呃各位领导、大牛们去探讨。",
+                    "sub_trg_text": "or with other leaders and experts from the business sector or NGOs.",
+                    "term": []
+                }
+            ]
+        }
+    ]
+}

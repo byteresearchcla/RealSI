@@ -1,0 +1,1293 @@
+{
+    "vid": "zh2en-09-sport",
+    "duration": 321560,
+    "segment": [
+        {
+            "start_time": 0,
+            "end_time": 5840,
+            "src_text": "呦，马奎尔这下。马奎尔这一下够狠的，这一下。他可是往下跺的。",
+            "trg_text": "Maguire’s move. What a move has Maguire made! He's literally stamping down.",
+            "utterance": [
+                {
+                    "sub_start_time": 0,
+                    "sub_end_time": 1380,
+                    "sub_src_text": "呦，马奎尔这下。",
+                    "sub_trg_text": "Maguire’s move.",
+                    "term": [
+                        {
+                            "src": "马奎尔",
+                            "trg": "Maguire"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 1380,
+                    "sub_end_time": 3850,
+                    "sub_src_text": "马奎尔这一下够狠的，这一下。",
+                    "sub_trg_text": "What a move has Maguire made!",
+                    "term": [
+                        {
+                            "src": "马奎尔",
+                            "trg": "Maguire"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 4620,
+                    "sub_end_time": 5840,
+                    "sub_src_text": "他可是往下跺的。",
+                    "sub_trg_text": "He's literally stamping down.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 5840,
+            "end_time": 15080,
+            "src_text": "跺，对，这是典型的蹬踏动作。还以为他用脚尖把球在德布劳内前面捅走了。",
+            "trg_text": "It's a typical stamping move. Thought he poked the ball in front of De Bruyne with his toes.",
+            "utterance": [
+                {
+                    "sub_start_time": 5840,
+                    "sub_end_time": 8860,
+                    "sub_src_text": "跺，对，这是典型的蹬踏动作。",
+                    "sub_trg_text": "It's a typical stamping move.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 11980,
+                    "sub_end_time": 15080,
+                    "sub_src_text": "还以为他用脚尖把球在德布劳内前面捅走了。",
+                    "sub_trg_text": "Thought he poked the ball in front of De Bruyne with his toes.",
+                    "term": [
+                        {
+                            "src": "德布劳内",
+                            "trg": "De Bruyne"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 15200,
+            "end_time": 25220,
+            "src_text": "对。德布劳内再打肋部。还是想打肋部。这次马奎尔堵住了。",
+            "trg_text": "Yes. De Bruyne is attacking the ribs again. He still wants to attack the ribs. But Maguire blocked it.",
+            "utterance": [
+                {
+                    "sub_start_time": 15200,
+                    "sub_end_time": 23170,
+                    "sub_src_text": "对。德布劳内再打肋部。",
+                    "sub_trg_text": "Yes. De Bruyne is attacking the ribs again.",
+                    "term": [
+                        {
+                            "src": "德布劳内",
+                            "trg": "De Bruyne"
+                        },
+                        {
+                            "src": "肋部",
+                            "trg": "the ribs"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 23170,
+                    "sub_end_time": 24080,
+                    "sub_src_text": "还是想打肋部。",
+                    "sub_trg_text": "He still wants to attack the ribs.",
+                    "term": [
+                        {
+                            "src": "肋部",
+                            "trg": "the ribs"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 24080,
+                    "sub_end_time": 25220,
+                    "sub_src_text": "这次马奎尔堵住了。",
+                    "sub_trg_text": "But Maguire blocked it.",
+                    "term": [
+                        {
+                            "src": "马奎尔",
+                            "trg": "Maguire"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 25730,
+            "end_time": 47880,
+            "src_text": "嗯。五后卫的好处。诶。这次坎塞洛出现了传球失误，想打万比萨卡的身后的。曼联队的反击，",
+            "trg_text": "Well, the advantage of having five defenders. Now Cancelo made a missed pass, trying to attack the space behind Wan-Bissaka. Man United's counterattack.",
+            "utterance": [
+                {
+                    "sub_start_time": 25730,
+                    "sub_end_time": 27330,
+                    "sub_src_text": "嗯。五后卫的好处。",
+                    "sub_trg_text": "Well, the advantage of having five defenders.",
+                    "term": [
+                        {
+                            "src": "后卫",
+                            "trg": "defender"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 27490,
+                    "sub_end_time": 45050,
+                    "sub_src_text": "诶。这次坎塞洛出现了传球失误，",
+                    "sub_trg_text": "Now Cancelo made a missed pass,",
+                    "term": [
+                        {
+                            "src": "坎塞洛",
+                            "trg": "Cancelo"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 45050,
+                    "sub_end_time": 46640,
+                    "sub_src_text": "想打万比萨卡的身后的。",
+                    "sub_trg_text": "trying to attack the space behind Wan-Bissaka.",
+                    "term": [
+                        {
+                            "src": "万比萨卡",
+                            "trg": "Wan-Bissaka"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 47120,
+                    "sub_end_time": 47880,
+                    "sub_src_text": "曼联队的反击，",
+                    "sub_trg_text": "Man United's counterattack.",
+                    "term": [
+                        {
+                            "src": "曼联队",
+                            "trg": "Man United/Manchester United"
+                        },
+                        {
+                            "src": "反击",
+                            "trg": "counterattack"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 47880,
+            "end_time": 63350,
+            "src_text": "看看速度能不能提上来。很难了。这一下儿就慢下来了。哎。坎塞洛。过掉了麦克托米奈。",
+            "trg_text": "Let's see if the they can pick up the speed. It'll be tough. They slow down right away. Cancelo got past McTominay.",
+            "utterance": [
+                {
+                    "sub_start_time": 47880,
+                    "sub_end_time": 49320,
+                    "sub_src_text": "看看速度能不能提上来。",
+                    "sub_trg_text": "Let's see if the they can pick up the speed.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 50360,
+                    "sub_end_time": 50880,
+                    "sub_src_text": "很难了。",
+                    "sub_trg_text": "It'll be tough.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 53840,
+                    "sub_end_time": 55130,
+                    "sub_src_text": "这一下儿就慢下来了。",
+                    "sub_trg_text": "They slow down right away.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 56960,
+                    "sub_end_time": 63350,
+                    "sub_src_text": "哎。坎塞洛。过掉了麦克托米奈。",
+                    "sub_trg_text": "Cancelo got past McTominay.",
+                    "term": [
+                        {
+                            "src": "坎塞洛",
+                            "trg": "Cancelo"
+                        },
+                        {
+                            "src": "麦克托米奈",
+                            "trg": "McTominay"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 64010,
+            "end_time": 74200,
+            "src_text": "京多安呐。中路。想是想找京多安。德布劳内！想打京多安，京多安那个位置是非常好的一个位置。",
+            "trg_text": "Gundogan's in the middle. He was looking for Gundogan. De Bruyne tried to play to Gundogan. That position of Gundogan is a very good one.",
+            "utterance": [
+                {
+                    "sub_start_time": 64010,
+                    "sub_end_time": 66430,
+                    "sub_src_text": "京多安呐。中路。",
+                    "sub_trg_text": "Gundogan's in the middle.",
+                    "term": [
+                        {
+                            "src": "京多安",
+                            "trg": "Gundogan"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 66880,
+                    "sub_end_time": 68280,
+                    "sub_src_text": "想是想找京多安。",
+                    "sub_trg_text": "He was looking for Gundogan.",
+                    "term": [
+                        {
+                            "src": "京多安",
+                            "trg": "Gundogan"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 68640,
+                    "sub_end_time": 71410,
+                    "sub_src_text": "德布劳内！想打京多安，",
+                    "sub_trg_text": "De Bruyne tried to play to Gundogan.",
+                    "term": [
+                        {
+                            "src": "德布劳内",
+                            "trg": "De Bruyne"
+                        },
+                        {
+                            "src": "京多安",
+                            "trg": "Gundogan"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 72120,
+                    "sub_end_time": 74200,
+                    "sub_src_text": "京多安那个位置是非常好的一个位置。",
+                    "sub_trg_text": "That position of Gundogan is a very good one.",
+                    "term": [
+                        {
+                            "src": "京多安",
+                            "trg": "Gundogan"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 77440,
+            "end_time": 85039,
+            "src_text": "嗯，高标准严要求，哎，不看比分的。哎，啊，瓜迪奥拉。哪怕二比零领先的话，在主场，",
+            "trg_text": "He's got high standards and strict requirements, regardless of the score. Even his team is leading 2-0 at home,",
+            "utterance": [
+                {
+                    "sub_start_time": 77440,
+                    "sub_end_time": 80080,
+                    "sub_src_text": "嗯，高标准严要求，",
+                    "sub_trg_text": "He's got high standards and strict requirements,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 80080,
+                    "sub_end_time": 81310,
+                    "sub_src_text": "哎，不看比分的。",
+                    "sub_trg_text": "regardless of the score.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 81360,
+                    "sub_end_time": 85039,
+                    "sub_src_text": "哎，啊，瓜迪奥拉。哪怕二比零领先的话，在主场，",
+                    "sub_trg_text": "Even his team is leading 2-0 at home,",
+                    "term": [
+                        {
+                            "src": "瓜迪奥拉",
+                            "trg": "Guardiola"
+                        },
+                        {
+                            "src": "主场",
+                            "trg": "home"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 85039,
+            "end_time": 89090,
+            "src_text": "嗯，依然是会对自己场上的球员呐大声的斥责。对，哈哈哈。",
+            "trg_text": "Guardiola's still shouting at his players on the field. Yeah.",
+            "utterance": [
+                {
+                    "sub_start_time": 85039,
+                    "sub_end_time": 88220,
+                    "sub_src_text": "嗯，依然是会对自己场上的球员呐大声的斥责。",
+                    "sub_trg_text": "Guardiola's still shouting at his players on the field.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 88220,
+                    "sub_end_time": 89090,
+                    "sub_src_text": "对，哈哈哈。",
+                    "sub_trg_text": "Yeah.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 90680,
+            "end_time": 101900,
+            "src_text": "上半场比赛的第一个角球是作客的曼城队拿到的。前场的左路。福登来处理。",
+            "trg_text": "The first corner kick of the first half was taken by the visiting Man City. The left side of the front field, Foden will take it.",
+            "utterance": [
+                {
+                    "sub_start_time": 90680,
+                    "sub_end_time": 93509,
+                    "sub_src_text": "上半场比赛的第一个角球是作客的曼城队拿到的。",
+                    "sub_trg_text": "The first corner kick of the first half was taken by the visiting Man City.",
+                    "term": [
+                        {
+                            "src": "角球",
+                            "trg": "corner kick"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 93560,
+                    "sub_end_time": 101900,
+                    "sub_src_text": "前场的左路。福登来处理。",
+                    "sub_trg_text": "The left side of the front field, Foden will take it.",
+                    "term": [
+                        {
+                            "src": "福登",
+                            "trg": "Foden"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 103080,
+            "end_time": 115830,
+            "src_text": "后点。争到第一落点。球在德布劳内的身后，选择直接回给门将。",
+            "trg_text": "At the far post. Competed for the first landing spot. The ball is behind De Bruyne and he chooses to pass it directly back to the goalkeeper.",
+            "utterance": [
+                {
+                    "sub_start_time": 103080,
+                    "sub_end_time": 103520,
+                    "sub_src_text": "后点。",
+                    "sub_trg_text": "At the far post.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 104200,
+                    "sub_end_time": 105070,
+                    "sub_src_text": "争到第一落点。",
+                    "sub_trg_text": "Competed for the first landing spot.",
+                    "term": [
+                        {
+                            "src": "落点",
+                            "trg": "landing spot"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 114479,
+                    "sub_end_time": 115830,
+                    "sub_src_text": "球在德布劳内的身后，选择直接回给门将。",
+                    "sub_trg_text": "The ball is behind De Bruyne and he chooses to pass it directly back to the goalkeeper.",
+                    "term": [
+                        {
+                            "src": "德布劳内",
+                            "trg": "De Bruyne"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 115880,
+            "end_time": 133250,
+            "src_text": "看看京多安，又是做一个无球情况下的空切。",
+            "trg_text": "Look at Gundogan. He made another off-the-ball run.",
+            "utterance": [
+                {
+                    "sub_start_time": 115880,
+                    "sub_end_time": 130100,
+                    "sub_src_text": "看看京多安，",
+                    "sub_trg_text": "Look at Gundogan.",
+                    "term": [
+                        {
+                            "src": "京多安",
+                            "trg": "Gundogan"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 130360,
+                    "sub_end_time": 133250,
+                    "sub_src_text": "又是做一个无球情况下的空切。",
+                    "sub_trg_text": "He made another off-the-ball run.",
+                    "term": [
+                        {
+                            "src": "空切",
+                            "trg": "off-the-ball run"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 145570,
+            "end_time": 149110,
+            "src_text": "斯通斯，这场比赛是他本赛季第二次在英超打首发。",
+            "trg_text": "This game is Stones' second start in the Premier League this season.",
+            "utterance": [
+                {
+                    "sub_start_time": 145570,
+                    "sub_end_time": 149110,
+                    "sub_src_text": "斯通斯，这场比赛是他本赛季第二次在英超打首发。",
+                    "sub_trg_text": "This game is Stones' second start in the Premier League this season.",
+                    "term": [
+                        {
+                            "src": "斯通斯",
+                            "trg": "Stones"
+                        },
+                        {
+                            "src": "英超",
+                            "trg": "the Premier League"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 149260,
+            "end_time": 154550,
+            "src_text": "嗯。上轮比赛拉波尔特的发挥啊，堪比马奎尔。",
+            "trg_text": "In the last round, Laporte's performed like he was Maguire.",
+            "utterance": [
+                {
+                    "sub_start_time": 149260,
+                    "sub_end_time": 154550,
+                    "sub_src_text": "嗯。上轮比赛拉波尔特的发挥啊，堪比马奎尔。",
+                    "sub_trg_text": "In the last round, Laporte's performed like he was Maguire.",
+                    "term": [
+                        {
+                            "src": "马奎尔",
+                            "trg": "Maguire"
+                        },
+                        {
+                            "src": "拉波尔特",
+                            "trg": "Laporte"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 154820,
+            "end_time": 160000,
+            "src_text": "哈哈，而且拿到了红牌哈哈，正好让斯通斯能够回到首发的位置。",
+            "trg_text": "And he got a red card, which just allowed Stones to return to the starting position.",
+            "utterance": [
+                {
+                    "sub_start_time": 154820,
+                    "sub_end_time": 157210,
+                    "sub_src_text": "哈哈，而且拿到了红牌哈哈，",
+                    "sub_trg_text": "And he got a red card,",
+                    "term": [
+                        {
+                            "src": "红牌",
+                            "trg": "red card"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 157210,
+                    "sub_end_time": 160000,
+                    "sub_src_text": "正好让斯通斯能够回到首发的位置。",
+                    "sub_trg_text": "which just allowed Stones to return to the starting position.",
+                    "term": [
+                        {
+                            "src": "斯通斯",
+                            "trg": "Stones"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 174690,
+            "end_time": 182100,
+            "src_text": "还是打回左路。曼联队。C罗。右边的万比萨卡已经上来了。",
+            "trg_text": "Man United's still playing back to the left. Ronaldo. Wan-Bissaka on the right has come up.",
+            "utterance": [
+                {
+                    "sub_start_time": 174690,
+                    "sub_end_time": 176200,
+                    "sub_src_text": "还是打回左路。曼联队。",
+                    "sub_trg_text": "Man United's still playing back to the left.",
+                    "term": [
+                        {
+                            "src": "曼联队",
+                            "trg": "Man United/Manchester United"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 179170,
+                    "sub_end_time": 179650,
+                    "sub_src_text": "C罗。",
+                    "sub_trg_text": "Ronaldo.",
+                    "term": [
+                        {
+                            "src": "C罗",
+                            "trg": "Ronaldo"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 180570,
+                    "sub_end_time": 182100,
+                    "sub_src_text": "右边的万比萨卡已经上来了。",
+                    "sub_trg_text": "Wan-Bissaka on the right has come up.",
+                    "term": [
+                        {
+                            "src": "万比萨卡",
+                            "trg": "Wan-Bissaka"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 183040,
+            "end_time": 193890,
+            "src_text": "没有给。边路上面左侧是卢克肖。马奎尔上来了。",
+            "trg_text": "He didn't pass. On the left side of the wing is Luke Shaw. Maguire has come up.",
+            "utterance": [
+                {
+                    "sub_start_time": 183040,
+                    "sub_end_time": 183610,
+                    "sub_src_text": "没有给。",
+                    "sub_trg_text": "He didn't pass.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 189720,
+                    "sub_end_time": 191910,
+                    "sub_src_text": "边路上面左侧是卢克肖。",
+                    "sub_trg_text": "On the left side of the wing is Luke Shaw.",
+                    "term": [
+                        {
+                            "src": "卢克肖",
+                            "trg": "Luke Shaw"
+                        },
+                        {
+                            "src": "边路",
+                            "trg": "wing"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 192960,
+                    "sub_end_time": 193890,
+                    "sub_src_text": "马奎尔上来了。",
+                    "sub_trg_text": "Maguire has come up.",
+                    "term": [
+                        {
+                            "src": "马奎尔",
+                            "trg": "Maguire"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 195640,
+            "end_time": 207829,
+            "src_text": "这就是打三中卫的时候，两侧的这个边中卫可以有比较多的在拥有控球权的情况下压到对方的半场。弗雷德。",
+            "trg_text": "When playing with three central defenders, the wing-backs on both sides can push up to the opponent's half, if they have more possession. Fred.",
+            "utterance": [
+                {
+                    "sub_start_time": 195640,
+                    "sub_end_time": 197170,
+                    "sub_src_text": "这就是打三中卫的时候，",
+                    "sub_trg_text": "When playing with three central defenders,",
+                    "term": [
+                        {
+                            "src": "中卫",
+                            "trg": "central defender"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 197820,
+                    "sub_end_time": 204200,
+                    "sub_src_text": "两侧的这个边中卫可以有比较多的在拥有控球权的情况下压到对方的半场。",
+                    "sub_trg_text": "the wing-backs on both sides can push up to the opponent's half, if they have more possession.",
+                    "term": [
+                        {
+                            "src": "边中卫",
+                            "trg": "wing-back"
+                        },
+                        {
+                            "src": "控球权",
+                            "trg": "possession"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 207320,
+                    "sub_end_time": 207829,
+                    "sub_src_text": "弗雷德。",
+                    "sub_trg_text": "Fred.",
+                    "term": [
+                        {
+                            "src": "弗雷德",
+                            "trg": "Fred"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 209700,
+            "end_time": 219610,
+            "src_text": "马奎尔，还是在左路。长驱直入。再分给了卢克肖。距离有点远，嗯，所以在边路拿球的时候不会轻易传中的。",
+            "trg_text": "Maguire's still on the left, advancing forward. He passes it to Luke Shaw again. The distance is a bit far, so when holding the ball on the wing, he won't easily opt for a cross.",
+            "utterance": [
+                {
+                    "sub_start_time": 209700,
+                    "sub_end_time": 213190,
+                    "sub_src_text": "马奎尔，还是在左路。长驱直入。",
+                    "sub_trg_text": "Maguire's still on the left, advancing forward.",
+                    "term": [
+                        {
+                            "src": "马奎尔",
+                            "trg": "Maguire"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 213579,
+                    "sub_end_time": 214720,
+                    "sub_src_text": "再分给了卢克肖。",
+                    "sub_trg_text": "He passes it to Luke Shaw again.",
+                    "term": [
+                        {
+                            "src": "卢克肖",
+                            "trg": "Luke Shaw"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 216540,
+                    "sub_end_time": 217260,
+                    "sub_src_text": "距离有点远，",
+                    "sub_trg_text": "The distance is a bit far,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 217260,
+                    "sub_end_time": 219610,
+                    "sub_src_text": "嗯，所以在边路拿球的时候不会轻易传中的。",
+                    "sub_trg_text": "so when holding the ball on the wing, he won't easily opt for a cross.",
+                    "term": [
+                        {
+                            "src": "传中",
+                            "trg": "cross"
+                        },
+                        {
+                            "src": "边路",
+                            "trg": "wing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 224310,
+            "end_time": 235960,
+            "src_text": "拜利。万比萨卡。哎，起球。对。哎，实际上曼联现在。刚才他也老尝试着想打反击，",
+            "trg_text": "Bailly. Wan-Bissaka. Lift the ball. That's it. Actually Man United now... Just now they have been trying to launch a counterattack,",
+            "utterance": [
+                {
+                    "sub_start_time": 224310,
+                    "sub_end_time": 224670,
+                    "sub_src_text": "拜利。",
+                    "sub_trg_text": "Bailly.",
+                    "term": [
+                        {
+                            "src": "拜利",
+                            "trg": "Bailly"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 227670,
+                    "sub_end_time": 228220,
+                    "sub_src_text": "万比萨卡。",
+                    "sub_trg_text": "Wan-Bissaka.",
+                    "term": [
+                        {
+                            "src": "万比萨卡",
+                            "trg": "Wan-Bissaka"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 228220,
+                    "sub_end_time": 229980,
+                    "sub_src_text": "哎，起球。对。哎，",
+                    "sub_trg_text": "Lift the ball. That's it.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 231829,
+                    "sub_end_time": 235960,
+                    "sub_src_text": "实际上曼联现在。刚才他也老尝试着想打反击，",
+                    "sub_trg_text": "Actually Man United now... Just now they have been trying to launch a counterattack,",
+                    "term": [
+                        {
+                            "src": "曼联",
+                            "trg": "Man United/Manchester United"
+                        },
+                        {
+                            "src": "反击",
+                            "trg": "counterattack"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 235970,
+            "end_time": 239230,
+            "src_text": "反击现在呢，打不起来，那么打一些阵地进攻。",
+            "trg_text": "but they can't, so they play positional attacks.",
+            "utterance": [
+                {
+                    "sub_start_time": 235970,
+                    "sub_end_time": 237630,
+                    "sub_src_text": "反击现在呢，打不起来，",
+                    "sub_trg_text": "but they can't,",
+                    "term": [
+                        {
+                            "src": "反击",
+                            "trg": "counterattack"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 237890,
+                    "sub_end_time": 239230,
+                    "sub_src_text": "那么打一些阵地进攻。",
+                    "sub_trg_text": "so they play positional attacks.",
+                    "term": [
+                        {
+                            "src": "阵地进攻",
+                            "trg": "positional attack"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 239230,
+            "end_time": 244430,
+            "src_text": "阵地进攻打哪？感觉呢，还是应该打到边路传中。",
+            "trg_text": "Where to play the positional attack? Seems like it should still be cross from the wing,",
+            "utterance": [
+                {
+                    "sub_start_time": 239230,
+                    "sub_end_time": 240480,
+                    "sub_src_text": "阵地进攻打哪？",
+                    "sub_trg_text": "Where to play the positional attack?",
+                    "term": [
+                        {
+                            "src": "阵地进攻",
+                            "trg": "positional attack"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 241610,
+                    "sub_end_time": 244430,
+                    "sub_src_text": "感觉呢，还是应该打到边路传中。",
+                    "sub_trg_text": "Seems like it should still be cross from the wing,",
+                    "term": [
+                        {
+                            "src": "边路",
+                            "trg": "wing"
+                        },
+                        {
+                            "src": "传中",
+                            "trg": "cross"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 244950,
+            "end_time": 250540,
+            "src_text": "是吧？这个，你想正路突破曼城这个，这个，这个中路防守不太容易，",
+            "trg_text": "right? If you want to break through the central defense of Man City, it won't be easy.",
+            "utterance": [
+                {
+                    "sub_start_time": 244950,
+                    "sub_end_time": 245230,
+                    "sub_src_text": "是吧？",
+                    "sub_trg_text": "right?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 245230,
+                    "sub_end_time": 250540,
+                    "sub_src_text": "这个，你想正路突破曼城这个，这个，这个中路防守不太容易，",
+                    "sub_trg_text": "If you want to break through the central defense of Man City, it won't be easy.",
+                    "term": [
+                        {
+                            "src": "曼城",
+                            "trg": "Man City"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 250550,
+            "end_time": 255340,
+            "src_text": "罗德里在那后腰一坐阵是吧？这个，鲁本·迪亚斯补位意识也很强。",
+            "trg_text": "Rodri anchors the midfield from a defensive position, right? And Ruben Dias has strong positioning awareness.",
+            "utterance": [
+                {
+                    "sub_start_time": 250550,
+                    "sub_end_time": 252300,
+                    "sub_src_text": "罗德里在那后腰一坐阵是吧？",
+                    "sub_trg_text": "Rodri anchors the midfield from a defensive position, right?",
+                    "term": [
+                        {
+                            "src": "罗德里",
+                            "trg": "Rodri"
+                        },
+                        {
+                            "src": "后腰",
+                            "trg": "defensive midfielder"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 252310,
+                    "sub_end_time": 255340,
+                    "sub_src_text": "这个，鲁本·迪亚斯补位意识也很强。",
+                    "sub_trg_text": "And Ruben Dias has strong positioning awareness.",
+                    "term": [
+                        {
+                            "src": "鲁本·迪亚斯",
+                            "trg": "Ruben Dias"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 255340,
+            "end_time": 265640,
+            "src_text": "嗯，所以你可以考虑从两个边路起球，因为C罗现在呢，基本上他，他争高球还是能力还是，还是挺强的嘛，你在用它这个。",
+            "trg_text": "True. You can consider lifting the ball from both wings, because Ronaldo's ability to compete for high balls is still quite strong. You'd better make use of this.",
+            "utterance": [
+                {
+                    "sub_start_time": 255340,
+                    "sub_end_time": 259000,
+                    "sub_src_text": "嗯，所以你可以考虑从两个边路起球，",
+                    "sub_trg_text": "True. You can consider lifting the ball from both wings,",
+                    "term": [
+                        {
+                            "src": "边路",
+                            "trg": "wing"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 259000,
+                    "sub_end_time": 264210,
+                    "sub_src_text": "因为C罗现在呢，基本上他，他争高球还是能力还是，还是挺强的嘛，",
+                    "sub_trg_text": "because Ronaldo's ability to compete for high balls is still quite strong.",
+                    "term": [
+                        {
+                            "src": "C罗",
+                            "trg": "Ronaldo"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 264600,
+                    "sub_end_time": 265640,
+                    "sub_src_text": "你在用它这个。",
+                    "sub_trg_text": "You'd better make use of this.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 266550,
+            "end_time": 269570,
+            "src_text": "看看这一次了。哎，现在C罗又到位了！",
+            "trg_text": "Look what happens this time. Ronaldo is in position again now!",
+            "utterance": [
+                {
+                    "sub_start_time": 266550,
+                    "sub_end_time": 267240,
+                    "sub_src_text": "看看这一次了。",
+                    "sub_trg_text": "Look what happens this time.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 267240,
+                    "sub_end_time": 269570,
+                    "sub_src_text": "哎，现在C罗又到位了！",
+                    "sub_trg_text": "Ronaldo is in position again now!",
+                    "term": [
+                        {
+                            "src": "C罗",
+                            "trg": "Ronaldo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 269710,
+            "end_time": 280060,
+            "src_text": "起！布鲁诺。再转边路。再转过来。中路正面想打透就不太容易，这时候应该往边路分一下。",
+            "trg_text": "Lift! Bruno switches to the wing again. He switches back. It's not easy to break through the central defense from the front. At this time, it should be passed to the wing.",
+            "utterance": [
+                {
+                    "sub_start_time": 269710,
+                    "sub_end_time": 270250,
+                    "sub_src_text": "起！",
+                    "sub_trg_text": "Lift!",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 270920,
+                    "sub_end_time": 273120,
+                    "sub_src_text": "布鲁诺。再转边路。",
+                    "sub_trg_text": "Bruno switches to the wing again.",
+                    "term": [
+                        {
+                            "src": "布鲁诺",
+                            "trg": "Bruno"
+                        },
+                        {
+                            "src": "边路",
+                            "trg": "wing"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 273120,
+                    "sub_end_time": 274070,
+                    "sub_src_text": "再转过来。",
+                    "sub_trg_text": "He switches back.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 276120,
+                    "sub_end_time": 278470,
+                    "sub_src_text": "中路正面想打透就不太容易，",
+                    "sub_trg_text": "It's not easy to break through the central defense from the front.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 278470,
+                    "sub_end_time": 280060,
+                    "sub_src_text": "这时候应该往边路分一下。",
+                    "sub_trg_text": "At this time, it should be passed to the wing.",
+                    "term": [
+                        {
+                            "src": "边路",
+                            "trg": "wing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 280430,
+            "end_time": 288560,
+            "src_text": "哎。等着卢克肖呢？对。这时候起球，左脚射门！你看就这就对了嘛！就对了嘛！",
+            "trg_text": "He's waiting for Luke Shaw. Yeah. Lift the ball now. Shoot with the left foot! Look, that's it! That's it!",
+            "utterance": [
+                {
+                    "sub_start_time": 280430,
+                    "sub_end_time": 283080,
+                    "sub_src_text": "哎。等着卢克肖呢？",
+                    "sub_trg_text": "He's waiting for Luke Shaw.",
+                    "term": [
+                        {
+                            "src": "卢克肖",
+                            "trg": "Luke Shaw"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 283190,
+                    "sub_end_time": 284790,
+                    "sub_src_text": "对。这时候起球，",
+                    "sub_trg_text": "Yeah. Lift the ball now.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 284909,
+                    "sub_end_time": 285830,
+                    "sub_src_text": "左脚射门！",
+                    "sub_trg_text": "Shoot with the left foot!",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 285830,
+                    "sub_end_time": 287610,
+                    "sub_src_text": "你看就这就对了嘛！",
+                    "sub_trg_text": "Look, that's it!",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 287790,
+                    "sub_end_time": 288560,
+                    "sub_src_text": "就对了嘛！",
+                    "sub_trg_text": "That's it!",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 288710,
+            "end_time": 293060,
+            "src_text": "C罗在中路，你边路一起球，C罗这就有威胁啊。",
+            "trg_text": "Ronaldo is in the middle, so if you lift the ball from the wing, Ronaldo can launch a threatening attack.",
+            "utterance": [
+                {
+                    "sub_start_time": 288710,
+                    "sub_end_time": 289620,
+                    "sub_src_text": "C罗在中路，",
+                    "sub_trg_text": "Ronaldo is in the middle,",
+                    "term": [
+                        {
+                            "src": "C罗",
+                            "trg": "Ronaldo"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 289620,
+                    "sub_end_time": 293060,
+                    "sub_src_text": "你边路一起球，C罗这就有威胁啊。",
+                    "sub_trg_text": "so if you lift the ball from the wing, Ronaldo can launch a threatening attack.",
+                    "term": [
+                        {
+                            "src": "C罗",
+                            "trg": "Ronaldo"
+                        },
+                        {
+                            "src": "边路",
+                            "trg": "wing"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 293090,
+            "end_time": 300890,
+            "src_text": "哇，这球其实不好打，不好打呀！但C罗扫的很漂亮。哎，而这时候你注意，曼城的防守，",
+            "trg_text": "Wow, it's actually not easy to shoot! Indeed. But Ronaldo made an incredible sweeping kick. Note that Man City's defense",
+            "utterance": [
+                {
+                    "sub_start_time": 293090,
+                    "sub_end_time": 294250,
+                    "sub_src_text": "哇，这球其实不好打，",
+                    "sub_trg_text": "Wow, it's actually not easy to shoot!",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 294250,
+                    "sub_end_time": 294860,
+                    "sub_src_text": "不好打呀！",
+                    "sub_trg_text": "Indeed.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 295510,
+                    "sub_end_time": 297159,
+                    "sub_src_text": "但C罗扫的很漂亮。",
+                    "sub_trg_text": "But Ronaldo made an incredible sweeping kick.",
+                    "term": [
+                        {
+                            "src": "C罗",
+                            "trg": "Ronaldo"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 297310,
+                    "sub_end_time": 300890,
+                    "sub_src_text": "哎，而这时候你注意，曼城的防守，",
+                    "sub_trg_text": "Note that Man City's defense",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 301030,
+            "end_time": 303250,
+            "src_text": "C罗落空了，C罗怎么空了？",
+            "trg_text": "left Ronaldo unmarked. How?",
+            "utterance": [
+                {
+                    "sub_start_time": 301030,
+                    "sub_end_time": 303250,
+                    "sub_src_text": "C罗落空了，C罗怎么空了？",
+                    "sub_trg_text": "left Ronaldo unmarked. How?",
+                    "term": [
+                        {
+                            "src": "C罗",
+                            "trg": "Ronaldo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 303410,
+            "end_time": 312780,
+            "src_text": "就在两个边后卫身前，两个后腰身后。就是中卫方面。哎，谁也盯不上他，他就他，他就有危险。",
+            "trg_text": "It's just in front of the two full-backs and behind the two defensive midfielders, the central defenders. No one can mark him. That makes him threatening.",
+            "utterance": [
+                {
+                    "sub_start_time": 303410,
+                    "sub_end_time": 306330,
+                    "sub_src_text": "就在两个边后卫身前，",
+                    "sub_trg_text": "It's just in front of the two full-backs",
+                    "term": [
+                        {
+                            "src": "边后卫",
+                            "trg": "full-back"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 306330,
+                    "sub_end_time": 308070,
+                    "sub_src_text": "两个后腰身后。",
+                    "sub_trg_text": "and behind the two defensive midfielders,",
+                    "term": [
+                        {
+                            "src": "后腰",
+                            "trg": "defensive midfielder"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 308250,
+                    "sub_end_time": 309450,
+                    "sub_src_text": "就是中卫方面。",
+                    "sub_trg_text": "the central defenders.",
+                    "term": [
+                        {
+                            "src": "中卫",
+                            "trg": "central defener"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 309450,
+                    "sub_end_time": 311010,
+                    "sub_src_text": "哎，谁也盯不上他，",
+                    "sub_trg_text": "No one can mark him.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 311250,
+                    "sub_end_time": 312780,
+                    "sub_src_text": "他就他，他就有危险。",
+                    "sub_trg_text": "That makes him threatening.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 313330,
+            "end_time": 316940,
+            "src_text": "所以曼联现在要想打，这就打边路，传中。",
+            "trg_text": "So if Man United wants to win, just play on the wing, cross,",
+            "utterance": [
+                {
+                    "sub_start_time": 313330,
+                    "sub_end_time": 315140,
+                    "sub_src_text": "所以曼联现在要想打，",
+                    "sub_trg_text": "So if Man United wants to win,",
+                    "term": [
+                        {
+                            "src": "曼联",
+                            "trg": "Man United/Manchester United"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 315140,
+                    "sub_end_time": 316940,
+                    "sub_src_text": "这就打边路，传中。",
+                    "sub_trg_text": "just play on the wing, cross,",
+                    "term": [
+                        {
+                            "src": "边路",
+                            "trg": "wing"
+                        },
+                        {
+                            "src": "传中",
+                            "trg": "cross"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 317610,
+            "end_time": 321560,
+            "src_text": "找C罗，这打的坚决果断一点也还是有机会的。",
+            "trg_text": "and pass to Ronaldo. They still stand a chance if they play with resolution.",
+            "utterance": [
+                {
+                    "sub_start_time": 317610,
+                    "sub_end_time": 318310,
+                    "sub_src_text": "找C罗，",
+                    "sub_trg_text": "and pass to Ronaldo.",
+                    "term": [
+                        {
+                            "src": "C罗",
+                            "trg": "Ronaldo"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 318450,
+                    "sub_end_time": 321560,
+                    "sub_src_text": "这打的坚决果断一点也还是有机会的。",
+                    "sub_trg_text": "They still stand a chance if they play with resolution.",
+                    "term": []
+                }
+            ]
+        }
+    ]
+}

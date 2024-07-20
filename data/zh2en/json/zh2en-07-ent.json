@@ -1,0 +1,1339 @@
+{
+    "vid": "zh2en-07-ent",
+    "duration": 315600,
+    "segment": [
+        {
+            "start_time": 170,
+            "end_time": 7670,
+            "src_text": "今天欢迎大家来到我们的节目。我们今天呢，主要给大家去讲一讲，在一部电影中，导演是地位最高的吗？",
+            "trg_text": "Hello, everyone, welcome to our program. Today's topic is: In a film production process, is director the most important person?",
+            "utterance": [
+                {
+                    "sub_start_time": 170,
+                    "sub_end_time": 1900,
+                    "sub_src_text": "今天欢迎大家来到我们的节目。",
+                    "sub_trg_text": "Hello, everyone, welcome to our program.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 1900,
+                    "sub_end_time": 7670,
+                    "sub_src_text": "我们今天呢，主要给大家去讲一讲，在一部电影中，导演是地位最高的吗？",
+                    "sub_trg_text": "Today's topic is: In a film production process, is director the most important person?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 7810,
+            "end_time": 13050,
+            "src_text": "很多人就是对这个问题比较好奇，就是在一部电影中，谁到底是，呃，第一负责人，",
+            "trg_text": "Many people are curious about this question. So in a film production process, who is the primary responsible person,",
+            "utterance": [
+                {
+                    "sub_start_time": 7810,
+                    "sub_end_time": 9810,
+                    "sub_src_text": "很多人就是对这个问题比较好奇，",
+                    "sub_trg_text": "Many people are curious about this question.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 9810,
+                    "sub_end_time": 13050,
+                    "sub_src_text": "就是在一部电影中，谁到底是，呃，第一负责人，",
+                    "sub_trg_text": "So in a film production process, who is the primary responsible person,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 13050,
+            "end_time": 16930,
+            "src_text": "或者说一部电影到底谁说了算？那导演是不是最高的呢？",
+            "trg_text": "or who exactly has the final say? Is the director the most important person?",
+            "utterance": [
+                {
+                    "sub_start_time": 13050,
+                    "sub_end_time": 15070,
+                    "sub_src_text": "或者说一部电影到底谁说了算？",
+                    "sub_trg_text": "or who exactly has the final say?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 15290,
+                    "sub_end_time": 16930,
+                    "sub_src_text": "那导演是不是最高的呢？",
+                    "sub_trg_text": "Is the director the most important person?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 16930,
+            "end_time": 22010,
+            "src_text": "答案是，不必然，或者说不一定。为什么会这样？",
+            "trg_text": "The answer is: not necessarily. Why?",
+            "utterance": [
+                {
+                    "sub_start_time": 16930,
+                    "sub_end_time": 20520,
+                    "sub_src_text": "答案是，不必然，或者说不一定。",
+                    "sub_trg_text": "The answer is: not necessarily.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 21050,
+                    "sub_end_time": 22010,
+                    "sub_src_text": "为什么会这样？",
+                    "sub_trg_text": "Why?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 22010,
+            "end_time": 27370,
+            "src_text": "那么我们还是要从整个电影工业的结构来给大家介绍，啊。",
+            "trg_text": "To answer this question, we need to have an overview of the framwork of the entire film industry.",
+            "utterance": [
+                {
+                    "sub_start_time": 22010,
+                    "sub_end_time": 27370,
+                    "sub_src_text": "那么我们还是要从整个电影工业的结构来给大家介绍，啊。",
+                    "sub_trg_text": "To answer this question, we need to have an overview of the framwork of the entire film industry.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 27370,
+            "end_time": 33730,
+            "src_text": "我们还是通过一个简单的一个类比的关系来给大家讲一下，一个电影剧组或者说一个电影它的大体的一个逻辑是什么样。",
+            "trg_text": "A simple analogy may help us grasp the underlying logic of a film crew or a film iteself.",
+            "utterance": [
+                {
+                    "sub_start_time": 27370,
+                    "sub_end_time": 30290,
+                    "sub_src_text": "我们还是通过一个简单的一个类比的关系来给大家讲一下，",
+                    "sub_trg_text": "A simple analogy may help us",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 30290,
+                    "sub_end_time": 33730,
+                    "sub_src_text": "一个电影剧组或者说一个电影它的大体的一个逻辑是什么样。",
+                    "sub_trg_text": "grasp the underlying logic of a film crew or a film iteself.",
+                    "term": [
+                        {
+                            "src": "剧组",
+                            "trg": "crew"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 33850,
+            "end_time": 43670,
+            "src_text": "首先呢，呃，由一个出品方出钱，但不一定是一个，可能是多个出品方出一笔钱，来去给一个制作公司，来去把一个电影生产出来。",
+            "trg_text": "At first, the film investor - note that there can be more than one investor - pays a sum of money to the film production company for the film production project.",
+            "utterance": [
+                {
+                    "sub_start_time": 33850,
+                    "sub_end_time": 36770,
+                    "sub_src_text": "首先呢，呃，由一个出品方出钱，",
+                    "sub_trg_text": "At first, the film investor",
+                    "term": [
+                        {
+                            "src": "出品方",
+                            "trg": "film investor"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 36770,
+                    "sub_end_time": 39330,
+                    "sub_src_text": "但不一定是一个，可能是多个出品方出一笔钱，",
+                    "sub_trg_text": "- note that there can be more than one investor",
+                    "term": [
+                        {
+                            "src": "出品方",
+                            "trg": "investor"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 39610,
+                    "sub_end_time": 43670,
+                    "sub_src_text": "来去给一个制作公司，来去把一个电影生产出来。",
+                    "sub_trg_text": "- pays a sum of money to the film production company for the film production project.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 43670,
+            "end_time": 54930,
+            "src_text": "而这个制作公司就会有一个制片人，来去负责整个电影的制作。而制片人其实就是这个电影的第一负责人。",
+            "trg_text": "There is a film producer in the production company, who takes charge of overseeing the production of the film. Actually, the film producer is the primary person-in-charge of the film.",
+            "utterance": [
+                {
+                    "sub_start_time": 43670,
+                    "sub_end_time": 47030,
+                    "sub_src_text": "而这个制作公司就会有一个制片人，",
+                    "sub_trg_text": "There is a film producer in the production company,",
+                    "term": [
+                        {
+                            "src": "制片人",
+                            "trg": "producer"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 47030,
+                    "sub_end_time": 49980,
+                    "sub_src_text": "来去负责整个电影的制作。",
+                    "sub_trg_text": "who takes charge of overseeing the production of the film.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 50310,
+                    "sub_end_time": 54930,
+                    "sub_src_text": "而制片人其实就是这个电影的第一负责人。",
+                    "sub_trg_text": "Actually, the film producer is the primary person-in-charge of the film.",
+                    "term": [
+                        {
+                            "src": "制片人",
+                            "trg": "producer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 54930,
+            "end_time": 63010,
+            "src_text": "那么其实你会发现，我们可以通过一个大家都熟悉的互联网公司的这么一个人员的一个配置的对比，",
+            "trg_text": "We can make a comparison between the staffing of an Internet company and that of a film production team",
+            "utterance": [
+                {
+                    "sub_start_time": 54930,
+                    "sub_end_time": 63010,
+                    "sub_src_text": "那么其实你会发现，我们可以通过一个大家都熟悉的互联网公司的这么一个人员的一个配置的对比，",
+                    "sub_trg_text": "We can make a comparison between the staffing of an Internet company and that of a film production team",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 63010,
+            "end_time": 66430,
+            "src_text": "我们可以来给大家解释一下这个电影到底是个什么关系。",
+            "trg_text": "to illustrate the different roles in a film.",
+            "utterance": [
+                {
+                    "sub_start_time": 63010,
+                    "sub_end_time": 66430,
+                    "sub_src_text": "我们可以来给大家解释一下这个电影到底是个什么关系。",
+                    "sub_trg_text": "to illustrate the different roles in a film.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 66430,
+            "end_time": 70610,
+            "src_text": "我们知道一个互联网产品，你会发现，首先它的第一负责人应该是产品经理，",
+            "trg_text": "As we all know, for an Internet product, the first person-in-charge is the product manager (PM),",
+            "utterance": [
+                {
+                    "sub_start_time": 66430,
+                    "sub_end_time": 70610,
+                    "sub_src_text": "我们知道一个互联网产品，你会发现，首先它的第一负责人应该是产品经理，",
+                    "sub_trg_text": "As we all know, for an Internet product, the first person-in-charge is the product manager (PM),",
+                    "term": [
+                        {
+                            "src": "产品经理",
+                            "trg": "product manager (PM)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 70800,
+            "end_time": 74050,
+            "src_text": "而产品经理下面会有几个不同的人来去支持他的工作，",
+            "trg_text": "who has several different subordinates under them for support.",
+            "utterance": [
+                {
+                    "sub_start_time": 70800,
+                    "sub_end_time": 74050,
+                    "sub_src_text": "而产品经理下面会有几个不同的人来去支持他的工作，",
+                    "sub_trg_text": "who has several different subordinates under them for support.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 74080,
+            "end_time": 80100,
+            "src_text": "一个是技术，技术总监或者技术负责人。第二个呢，会有个运营负责人。第三个呢，会有个市场负责人。",
+            "trg_text": "First is chief technology officier (CTO) or technical chief. Second is the chief operating officer (COO). Third is the chief marketing officer (CMO).",
+            "utterance": [
+                {
+                    "sub_start_time": 74080,
+                    "sub_end_time": 76900,
+                    "sub_src_text": "一个是技术，技术总监或者技术负责人。",
+                    "sub_trg_text": "First is chief technology officier (CTO) or technical chief.",
+                    "term": [
+                        {
+                            "src": "技术总监",
+                            "trg": "chief technology officier (CTO)"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 76900,
+                    "sub_end_time": 78470,
+                    "sub_src_text": "第二个呢，会有个运营负责人。",
+                    "sub_trg_text": "Second is the chief operating officer (COO).",
+                    "term": [
+                        {
+                            "src": "运营负责人",
+                            "trg": "chief operating officer (COO)"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 78500,
+                    "sub_end_time": 80100,
+                    "sub_src_text": "第三个呢，会有个市场负责人。",
+                    "sub_trg_text": "Third is the chief marketing officer (CMO).",
+                    "term": [
+                        {
+                            "src": "市场负责人",
+                            "trg": "chief marketing officer (CMO)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 80100,
+            "end_time": 83070,
+            "src_text": "而电影正好也有这三个对应的东西。",
+            "trg_text": "Coincidentally, there are three corresponding roles in film production.",
+            "utterance": [
+                {
+                    "sub_start_time": 80100,
+                    "sub_end_time": 83070,
+                    "sub_src_text": "而电影正好也有这三个对应的东西。",
+                    "sub_trg_text": "Coincidentally, there are three corresponding roles in film production.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 83180,
+            "end_time": 90440,
+            "src_text": "首先，这个产品经理PM就相当于电影中的制片人。他负责整个电影的把控。",
+            "trg_text": "Firstly, the PM is like the film producer, who is responsible for the overall development of the project.",
+            "utterance": [
+                {
+                    "sub_start_time": 83180,
+                    "sub_end_time": 87690,
+                    "sub_src_text": "首先，这个产品经理PM就相当于电影中的制片人。",
+                    "sub_trg_text": "Firstly, the PM is like the film producer,",
+                    "term": [
+                        {
+                            "src": "制片人",
+                            "trg": "producer"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 87860,
+                    "sub_end_time": 90440,
+                    "sub_src_text": "他负责整个电影的把控。",
+                    "sub_trg_text": "who is responsible for the overall development of the project.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 90630,
+            "end_time": 98360,
+            "src_text": "导演相当于技术总监。他负责整个电影技术层面、内容层面的一个展现的第一负责人。",
+            "trg_text": "And the director is like the CTO, who takes the lead in overseeing the tehnical and concent aspects of the film.",
+            "utterance": [
+                {
+                    "sub_start_time": 90630,
+                    "sub_end_time": 93229,
+                    "sub_src_text": "导演相当于技术总监。",
+                    "sub_trg_text": "And the director is like the CTO,",
+                    "term": [
+                        {
+                            "src": "技术总监",
+                            "trg": "CTO"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 93229,
+                    "sub_end_time": 98360,
+                    "sub_src_text": "他负责整个电影技术层面、内容层面的一个展现的第一负责人。",
+                    "sub_trg_text": "who takes the lead in overseeing the tehnical and concent aspects of the film.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 98670,
+            "end_time": 112180,
+            "src_text": "第二个，还有一个是制片主任。那么制片他是整个电影的运营协调各种东西的一个，包括包括钱的一种分配和使用等等，这都是制片部门他来进行协调。",
+            "trg_text": "Secondly, there's the production manager, who will coordinate various esources in the film production process, including the allocation and use of money. These are all handled by the production department.",
+            "utterance": [
+                {
+                    "sub_start_time": 98670,
+                    "sub_end_time": 100690,
+                    "sub_src_text": "第二个，还有一个是制片主任。",
+                    "sub_trg_text": "Secondly, there's the production manager,",
+                    "term": [
+                        {
+                            "src": "制片主任",
+                            "trg": "production manager"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 100830,
+                    "sub_end_time": 109830,
+                    "sub_src_text": "那么制片他是整个电影的运营协调各种东西的一个，包括包括钱的一种分配和使用等等，",
+                    "sub_trg_text": "who will coordinate various esources in the film production process, including the allocation and use of money.",
+                    "term": [
+                        {
+                            "src": "制片人",
+                            "trg": "producer"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 109830,
+                    "sub_end_time": 112180,
+                    "sub_src_text": "这都是制片部门他来进行协调。",
+                    "sub_trg_text": "These are all handled by the production department.",
+                    "term": [
+                        {
+                            "src": "制片人",
+                            "trg": "producer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 112590,
+            "end_time": 118030,
+            "src_text": "第三个呢，其实还会有发行和宣传部门。这有点像互联网公司中的这个市场。",
+            "trg_text": "Thirdly, there is the distribution and promotion department, which is kind of similar to the marketing department of an Internet company.",
+            "utterance": [
+                {
+                    "sub_start_time": 112590,
+                    "sub_end_time": 115190,
+                    "sub_src_text": "第三个呢，其实还会有发行和宣传部门。",
+                    "sub_trg_text": "Thirdly, there is the distribution and promotion department,",
+                    "term": [
+                        {
+                            "src": "发行和宣传部门",
+                            "trg": "distribution and promotion department"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 115190,
+                    "sub_end_time": 118030,
+                    "sub_src_text": "这有点像互联网公司中的这个市场。",
+                    "sub_trg_text": "which is kind of similar to the marketing department of an Internet company.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 118310,
+            "end_time": 123410,
+            "src_text": "那么当然也有可能这部电影它会把这个宣传和发行给另外一家公司去做，这也是有可能的。",
+            "trg_text": "Of course, the distribution and marketing can be handed over to another company. This is also possible.",
+            "utterance": [
+                {
+                    "sub_start_time": 118310,
+                    "sub_end_time": 122550,
+                    "sub_src_text": "那么当然也有可能这部电影它会把这个宣传和发行给另外一家公司去做，",
+                    "sub_trg_text": "Of course, the distribution and marketing can be handed over to another company.",
+                    "term": [
+                        {
+                            "src": "宣传和发行",
+                            "trg": "marketing and distribution"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 122550,
+                    "sub_end_time": 123410,
+                    "sub_src_text": "这也是有可能的。",
+                    "sub_trg_text": "This is also possible.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 123800,
+            "end_time": 127080,
+            "src_text": "好，所以的话你会发现这个电影中的三个部分，",
+            "trg_text": "Overall, there are three parts in a film production process.",
+            "utterance": [
+                {
+                    "sub_start_time": 123800,
+                    "sub_end_time": 127080,
+                    "sub_src_text": "好，所以的话你会发现这个电影中的三个部分，",
+                    "sub_trg_text": "Overall, there are three parts in a film production process.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 127080,
+            "end_time": 136840,
+            "src_text": "一个是导演负责的创作部门，制片负责的整个项目管理，以及宣传和发行，和互联网公司的技术、运营和市场，它的这个思路是一样的。",
+            "trg_text": "The creative department, run by the director, covers project management, marketing and distribution, like the technical, operation and marketing departments in an Internet company. The phylosophy is basically the same.",
+            "utterance": [
+                {
+                    "sub_start_time": 127080,
+                    "sub_end_time": 132770,
+                    "sub_src_text": "一个是导演负责的创作部门，制片负责的整个项目管理，以及宣传和发行，",
+                    "sub_trg_text": "The creative department, run by the director, covers project management, marketing and distribution,",
+                    "term": [
+                        {
+                            "src": "制片人",
+                            "trg": "producer"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 132880,
+                    "sub_end_time": 135520,
+                    "sub_src_text": "和互联网公司的技术、运营和市场，",
+                    "sub_trg_text": "like the technical, operation and marketing departments in an Internet company.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 135640,
+                    "sub_end_time": 136840,
+                    "sub_src_text": "它的这个思路是一样的。",
+                    "sub_trg_text": "The phylosophy is basically the same.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 136870,
+            "end_time": 142329,
+            "src_text": "那么如果这样来看，大家会发现导演并不是整个电影项目的第一负责人。",
+            "trg_text": "In this way, you'll find that the director is actually not the first person-in-charge of the film production project,",
+            "utterance": [
+                {
+                    "sub_start_time": 136870,
+                    "sub_end_time": 138510,
+                    "sub_src_text": "那么如果这样来看，",
+                    "sub_trg_text": "In this way,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 138510,
+                    "sub_end_time": 142329,
+                    "sub_src_text": "大家会发现导演并不是整个电影项目的第一负责人。",
+                    "sub_trg_text": "you'll find that the director is actually not the first person-in-charge of the film production project,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 142510,
+            "end_time": 147590,
+            "src_text": "他是艺术创作和技术制作这个方面的第一负责人。",
+            "trg_text": "but spearheads the artistic creation and technical production instead.",
+            "utterance": [
+                {
+                    "sub_start_time": 142510,
+                    "sub_end_time": 147590,
+                    "sub_src_text": "他是艺术创作和技术制作这个方面的第一负责人。",
+                    "sub_trg_text": "but spearheads the artistic creation and technical production instead.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 147590,
+            "end_time": 151240,
+            "src_text": "其实旁边还会有一个制片部门来去支持他，包括怎么运用钱。",
+            "trg_text": "And there is the production department there for his assitance, like how to spend the money.",
+            "utterance": [
+                {
+                    "sub_start_time": 147590,
+                    "sub_end_time": 150450,
+                    "sub_src_text": "其实旁边还会有一个制片部门来去支持他，",
+                    "sub_trg_text": "And there is the production department there for his assitance,",
+                    "term": [
+                        {
+                            "src": "制片部门",
+                            "trg": "production department"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 150450,
+                    "sub_end_time": 151240,
+                    "sub_src_text": "包括怎么运用钱。",
+                    "sub_trg_text": "like how to spend the money.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 151250,
+            "end_time": 155370,
+            "src_text": "所以你会发现这两个部门呢，有时候经常会这个，比如撕对吧？",
+            "trg_text": "Occasionaly, you may see the two departments at odds with each other, right?",
+            "utterance": [
+                {
+                    "sub_start_time": 151250,
+                    "sub_end_time": 155370,
+                    "sub_src_text": "所以你会发现这两个部门呢，有时候经常会这个，比如撕对吧？",
+                    "sub_trg_text": "Occasionaly, you may see the two departments at odds with each other, right?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 155370,
+            "end_time": 157530,
+            "src_text": "因为这个部门说他的预算不能用这么多，",
+            "trg_text": "One may contend that the budget is too high,",
+            "utterance": [
+                {
+                    "sub_start_time": 155370,
+                    "sub_end_time": 157530,
+                    "sub_src_text": "因为这个部门说他的预算不能用这么多，",
+                    "sub_trg_text": "One may contend that the budget is too high,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 157530,
+            "end_time": 164880,
+            "src_text": "导演会因为自己的艺术创作说，啊，这个道具就要用很厉害的，啊，这个场景就要用特别厉害的场景。",
+            "trg_text": "but the director, to defend his artistic creation, would claim that the props must be perfect, so are the settings.",
+            "utterance": [
+                {
+                    "sub_start_time": 157530,
+                    "sub_end_time": 159670,
+                    "sub_src_text": "导演会因为自己的艺术创作说，",
+                    "sub_trg_text": "but the director, to defend his artistic creation,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 159850,
+                    "sub_end_time": 161690,
+                    "sub_src_text": "啊，这个道具就要用很厉害的，",
+                    "sub_trg_text": "would claim that the props must be perfect,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 161690,
+                    "sub_end_time": 164880,
+                    "sub_src_text": "啊，这个场景就要用特别厉害的场景。",
+                    "sub_trg_text": "so are the settings.",
+                    "term": [
+                        {
+                            "src": "场景",
+                            "trg": "setting"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 165000,
+            "end_time": 169079,
+            "src_text": "但是制片会说，嗯，没有那么多钱，只有那么多钱。呃，你就拍吧。",
+            "trg_text": "But the producer would say, \"Well, we don't have that much money. It's all we've got. Just get it done.\"",
+            "utterance": [
+                {
+                    "sub_start_time": 165000,
+                    "sub_end_time": 166000,
+                    "sub_src_text": "但是制片会说，",
+                    "sub_trg_text": "But the producer would say,",
+                    "term": [
+                        {
+                            "src": "制片",
+                            "trg": "producer"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 166000,
+                    "sub_end_time": 167120,
+                    "sub_src_text": "嗯，没有那么多钱，",
+                    "sub_trg_text": "\"Well, we don't have that much money.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 167120,
+                    "sub_end_time": 167870,
+                    "sub_src_text": "只有那么多钱。",
+                    "sub_trg_text": "It's all we've got.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 168040,
+                    "sub_end_time": 169079,
+                    "sub_src_text": "呃，你就拍吧。",
+                    "sub_trg_text": "Just get it done.\"",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 169079,
+            "end_time": 177440,
+            "src_text": "你会发现就会产生这种各种各样的问题，所以你会发现他们负责的领域是不一样，那谁来去统领这个呢？就是制片人。",
+            "trg_text": "Various problems may occur in the process, as they are in charge of different aspects. So who will take the lead on all of it? It's the film producer.",
+            "utterance": [
+                {
+                    "sub_start_time": 169079,
+                    "sub_end_time": 171680,
+                    "sub_src_text": "你会发现就会产生这种各种各样的问题，",
+                    "sub_trg_text": "Various problems may occur in the process,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 171800,
+                    "sub_end_time": 174520,
+                    "sub_src_text": "所以你会发现他们负责的领域是不一样，",
+                    "sub_trg_text": "as they are in charge of different aspects.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 174520,
+                    "sub_end_time": 176400,
+                    "sub_src_text": "那谁来去统领这个呢？",
+                    "sub_trg_text": "So who will take the lead on all of it?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 176400,
+                    "sub_end_time": 177440,
+                    "sub_src_text": "就是制片人。",
+                    "sub_trg_text": "It's the film producer.",
+                    "term": [
+                        {
+                            "src": "制片人",
+                            "trg": "producer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 177440,
+            "end_time": 184670,
+            "src_text": "所以你会发现在奥斯卡颁奖典礼上，有一个最佳影片的领奖，是谁去领奖呢？并不是导演，而是制片人。",
+            "trg_text": "There is an Academy Award for Best Picture. Who will be the recipient? It's not the director, but the producer.",
+            "utterance": [
+                {
+                    "sub_start_time": 177440,
+                    "sub_end_time": 181640,
+                    "sub_src_text": "所以你会发现在奥斯卡颁奖典礼上，有一个最佳影片的领奖，",
+                    "sub_trg_text": "There is an Academy Award for Best Picture.",
+                    "term": [
+                        {
+                            "src": "奥斯卡",
+                            "trg": "Academy Awards"
+                        },
+                        {
+                            "src": "最佳影片奖",
+                            "trg": "Best Picture"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 181640,
+                    "sub_end_time": 182640,
+                    "sub_src_text": "是谁去领奖呢？",
+                    "sub_trg_text": "Who will be the recipient?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 182640,
+                    "sub_end_time": 183360,
+                    "sub_src_text": "并不是导演，",
+                    "sub_trg_text": "It's not the director,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 183560,
+                    "sub_end_time": 184670,
+                    "sub_src_text": "而是制片人。",
+                    "sub_trg_text": "but the producer.",
+                    "term": [
+                        {
+                            "src": "制片人",
+                            "trg": "producer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 184920,
+            "end_time": 190680,
+            "src_text": "所以制片人领了最佳影片奖，因为他才是电影的第一负责人。",
+            "trg_text": "The producer claims the Best Picture because they are the first person-in-charge of the film.",
+            "utterance": [
+                {
+                    "sub_start_time": 184920,
+                    "sub_end_time": 190680,
+                    "sub_src_text": "所以制片人领了最佳影片奖，因为他才是电影的第一负责人。",
+                    "sub_trg_text": "The producer claims the Best Picture because they are the first person-in-charge of the film.",
+                    "term": [
+                        {
+                            "src": "制片人",
+                            "trg": "producer"
+                        },
+                        {
+                            "src": "最佳影片奖",
+                            "trg": "Best Picture"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 191160,
+            "end_time": 198090,
+            "src_text": "但是你会发现，在奥斯卡中还有另外一个奖项是专门来去评价导演的，那就是最佳导演奖。",
+            "trg_text": "But you probably have noticed that there is another award, an award dedicated to the director - the Oscar for Best Director.",
+            "utterance": [
+                {
+                    "sub_start_time": 191160,
+                    "sub_end_time": 196079,
+                    "sub_src_text": "但是你会发现，在奥斯卡中还有另外一个奖项是专门来去评价导演的，",
+                    "sub_trg_text": "But you probably have noticed that there is another award, an award dedicated to the director",
+                    "term": [
+                        {
+                            "src": "奥斯卡",
+                            "trg": "Academy Awards"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 196079,
+                    "sub_end_time": 198090,
+                    "sub_src_text": "那就是最佳导演奖。",
+                    "sub_trg_text": "- the Oscar for Best Director.",
+                    "term": [
+                        {
+                            "src": "（奥斯卡）最佳导演奖",
+                            "trg": "Oscar for Best Director."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 198320,
+            "end_time": 202720,
+            "src_text": "所以你会发现它的这个结构和大家想象的可能会有一点不一样。",
+            "trg_text": "The framework is more or less different from what you have thought about.",
+            "utterance": [
+                {
+                    "sub_start_time": 198320,
+                    "sub_end_time": 202720,
+                    "sub_src_text": "所以你会发现它的这个结构和大家想象的可能会有一点不一样。",
+                    "sub_trg_text": "The framework is more or less different from what you have thought about.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 203040,
+            "end_time": 204920,
+            "src_text": "呃，为什么大家会觉得导演是最厉害？",
+            "trg_text": "Why do everyone deem the director the most important person?",
+            "utterance": [
+                {
+                    "sub_start_time": 203040,
+                    "sub_end_time": 204920,
+                    "sub_src_text": "呃，为什么大家会觉得导演是最厉害？",
+                    "sub_trg_text": "Why do everyone deem the director the most important person?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 204920,
+            "end_time": 212760,
+            "src_text": "其实我觉得这还是基于这个非工业的时代，因为在非工业的时候，导演什么东西都得去自己去做，",
+            "trg_text": "I think it lies in the inertia of the non-industrial age, during which the director had to do everything all alone,",
+            "utterance": [
+                {
+                    "sub_start_time": 204920,
+                    "sub_end_time": 208990,
+                    "sub_src_text": "其实我觉得这还是基于这个非工业的时代，",
+                    "sub_trg_text": "I think it lies in the inertia of the non-industrial age,",
+                    "term": [
+                        {
+                            "src": "非工业",
+                            "trg": "non-industrial"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 209150,
+                    "sub_end_time": 212760,
+                    "sub_src_text": "因为在非工业的时候，导演什么东西都得去自己去做，",
+                    "sub_trg_text": "during which the director had to do everything all alone,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 212760,
+            "end_time": 217850,
+            "src_text": "要自己去找演员，自己去搞场景，自己去搞技术，自己去筹钱，",
+            "trg_text": "including finding actors, setting up scenes acquiring technology expertise and raising money.",
+            "utterance": [
+                {
+                    "sub_start_time": 212760,
+                    "sub_end_time": 213829,
+                    "sub_src_text": "要自己去找演员，",
+                    "sub_trg_text": "including finding actors,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 213840,
+                    "sub_end_time": 215460,
+                    "sub_src_text": "自己去搞场景，",
+                    "sub_trg_text": "setting up scenes",
+                    "term": [
+                        {
+                            "src": "场景",
+                            "trg": "scene"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 215460,
+                    "sub_end_time": 216780,
+                    "sub_src_text": "自己去搞技术，",
+                    "sub_trg_text": "acquiring technology expertise",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 216780,
+                    "sub_end_time": 217850,
+                    "sub_src_text": "自己去筹钱，",
+                    "sub_trg_text": "and raising money.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 218040,
+            "end_time": 221270,
+            "src_text": "啊，既然是你自己筹的钱，当然这个钱怎么用你说了算。",
+            "trg_text": "Since the money is raised by the director, they certainly have the final say on how to use it.",
+            "utterance": [
+                {
+                    "sub_start_time": 218040,
+                    "sub_end_time": 219660,
+                    "sub_src_text": "啊，既然是你自己筹的钱，",
+                    "sub_trg_text": "Since the money is raised by the director,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 219660,
+                    "sub_end_time": 221270,
+                    "sub_src_text": "当然这个钱怎么用你说了算。",
+                    "sub_trg_text": "they certainly have the final say on how to use it.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 221380,
+            "end_time": 226890,
+            "src_text": "所以这种模式的话是一种独立电影啊，或者是一种比较小的制作，非工业化的一种电影。",
+            "trg_text": "This mode is often adopted in the production of independent films, or low-budge and non-industrial films.",
+            "utterance": [
+                {
+                    "sub_start_time": 221380,
+                    "sub_end_time": 223980,
+                    "sub_src_text": "所以这种模式的话是一种独立电影啊，",
+                    "sub_trg_text": "This mode is often adopted in the production of independent films,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 223980,
+                    "sub_end_time": 226890,
+                    "sub_src_text": "或者是一种比较小的制作，非工业化的一种电影。",
+                    "sub_trg_text": "or low-budge and non-industrial films.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 227200,
+            "end_time": 231840,
+            "src_text": "呃，或者是一些个人的学生作业等等，经常会采用那种模式。",
+            "trg_text": "In student assignments, this mode will usually be applied.",
+            "utterance": [
+                {
+                    "sub_start_time": 227200,
+                    "sub_end_time": 231840,
+                    "sub_src_text": "呃，或者是一些个人的学生作业等等，经常会采用那种模式。",
+                    "sub_trg_text": "In student assignments, this mode will usually be applied.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 231840,
+            "end_time": 238380,
+            "src_text": "但是在真正的这个电影产业中，尤其是现在，在中国电影越来越成熟的这么一个阶段，",
+            "trg_text": "But in the real film industry, especially as the Chinese film industry grows progressively sophisticated nowadays,",
+            "utterance": [
+                {
+                    "sub_start_time": 231840,
+                    "sub_end_time": 234480,
+                    "sub_src_text": "但是在真正的这个电影产业中，",
+                    "sub_trg_text": "But in the real film industry,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 234480,
+                    "sub_end_time": 238380,
+                    "sub_src_text": "尤其是现在，在中国电影越来越成熟的这么一个阶段，",
+                    "sub_trg_text": "especially as the Chinese film industry grows progressively sophisticated nowadays,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 238380,
+            "end_time": 245550,
+            "src_text": "你会发现，越来越多的电影都会按照比较标准的一种工业流程来运营，都是由制片人来负责市场的洞察，",
+            "trg_text": "increasingly more film projects are operated in a standard industrial process. That is to say, the producer takes charge of market insights,",
+            "utterance": [
+                {
+                    "sub_start_time": 238380,
+                    "sub_end_time": 242590,
+                    "sub_src_text": "你会发现，越来越多的电影都会按照比较标准的一种工业流程来运营，",
+                    "sub_trg_text": "increasingly more film projects are operated in a standard industrial process.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 242760,
+                    "sub_end_time": 245550,
+                    "sub_src_text": "都是由制片人来负责市场的洞察，",
+                    "sub_trg_text": "That is to say, the producer takes charge of market insights,",
+                    "term": [
+                        {
+                            "src": "制片人",
+                            "trg": "producer"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 245560,
+            "end_time": 251200,
+            "src_text": "因为他是最了解这个市场是什么样的，所以由他来去选择一个方向，选择一个项目，",
+            "trg_text": "for they know the market best. They determine the direction and decide on the project.",
+            "utterance": [
+                {
+                    "sub_start_time": 245560,
+                    "sub_end_time": 247510,
+                    "sub_src_text": "因为他是最了解这个市场是什么样的，",
+                    "sub_trg_text": "for they know the market best.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 247680,
+                    "sub_end_time": 250240,
+                    "sub_src_text": "所以由他来去选择一个方向，",
+                    "sub_trg_text": "They determine the direction",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 250240,
+                    "sub_end_time": 251200,
+                    "sub_src_text": "选择一个项目，",
+                    "sub_trg_text": "and decide on the project.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 251200,
+            "end_time": 258320,
+            "src_text": "然后由他来去找编剧把这个东西给做出来，然后再去找，找导演做一个技术来去把它创作出来，",
+            "trg_text": "He or she finds a screenwriter to get the script done, then finds a director to visualize the script through technology.",
+            "utterance": [
+                {
+                    "sub_start_time": 251200,
+                    "sub_end_time": 254080,
+                    "sub_src_text": "然后由他来去找编剧把这个东西给做出来，",
+                    "sub_trg_text": "He or she finds a screenwriter to get the script done,",
+                    "term": [
+                        {
+                            "src": "编剧",
+                            "trg": "screenwriter"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 254320,
+                    "sub_end_time": 258320,
+                    "sub_src_text": "然后再去找，找导演做一个技术来去把它创作出来，",
+                    "sub_trg_text": "then finds a director to visualize the script through technology.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 258560,
+            "end_time": 267170,
+            "src_text": "然后再去找制片主任来去进行运营，然后再去找这个宣传和发行来把这个电影卖好，把这个电影的票房给卖出来。",
+            "trg_text": "After that, they find a production manager to operate the film, and get some marketing and distribution personnel to sell it at a good price, that is, the box office.",
+            "utterance": [
+                {
+                    "sub_start_time": 258560,
+                    "sub_end_time": 261050,
+                    "sub_src_text": "然后再去找制片主任来去进行运营，",
+                    "sub_trg_text": "After that, they find a production manager to operate the film,",
+                    "term": [
+                        {
+                            "src": "制片主任",
+                            "trg": "production manager"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 261290,
+                    "sub_end_time": 267170,
+                    "sub_src_text": "然后再去找这个宣传和发行来把这个电影卖好，把这个电影的票房给卖出来。",
+                    "sub_trg_text": "and get some marketing and distribution personnel to sell it at a good price, that is, the box office.",
+                    "term": [
+                        {
+                            "src": "宣传和发行",
+                            "trg": "marketing and distribution"
+                        },
+                        {
+                            "src": "票房",
+                            "trg": "office box"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 267360,
+            "end_time": 272480,
+            "src_text": "所以你会发现这才是这个工业化的电影中常用的一种结构。",
+            "trg_text": "This is the framework of commonly adopted in the industrialized production of a film.",
+            "utterance": [
+                {
+                    "sub_start_time": 267360,
+                    "sub_end_time": 272480,
+                    "sub_src_text": "所以你会发现这才是这个工业化的电影中常用的一种结构。",
+                    "sub_trg_text": "This is the framework of commonly adopted in the industrialized production of a film.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 272480,
+            "end_time": 277190,
+            "src_text": "好的，那么我们来看一下就是这种模式其实和传统的模式有什么优势呢？",
+            "trg_text": "Well then, what advantages does this mode actually have over the traditional mode?",
+            "utterance": [
+                {
+                    "sub_start_time": 272480,
+                    "sub_end_time": 277190,
+                    "sub_src_text": "好的，那么我们来看一下就是这种模式其实和传统的模式有什么优势呢？",
+                    "sub_trg_text": "Well then, what advantages does this mode actually have over the traditional mode?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 277190,
+            "end_time": 279070,
+            "src_text": "首先第一，它非常有利于工业化。",
+            "trg_text": "Firstly, it is highly conducive to industrialization of the film sector.",
+            "utterance": [
+                {
+                    "sub_start_time": 277190,
+                    "sub_end_time": 279070,
+                    "sub_src_text": "首先第一，它非常有利于工业化。",
+                    "sub_trg_text": "Firstly, it is highly conducive to industrialization of the film sector.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 279270,
+            "end_time": 286790,
+            "src_text": "呃，按照如果比较这种独立的或者是比较个人化的这种影，呃作品的话，可能导演一个人他什么都要负责，",
+            "trg_text": "In the production of an independent film or a personal work, the director needs to take charge in everything",
+            "utterance": [
+                {
+                    "sub_start_time": 279270,
+                    "sub_end_time": 284850,
+                    "sub_src_text": "呃，按照如果比较这种独立的或者是比较个人化的这种影，呃作品的话，",
+                    "sub_trg_text": "In the production of an independent film or a personal work,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 284850,
+                    "sub_end_time": 286790,
+                    "sub_src_text": "可能导演一个人他什么都要负责，",
+                    "sub_trg_text": "the director needs to take charge in everything",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 286790,
+            "end_time": 292640,
+            "src_text": "那他不可能美术也做得很好，灯光也做得很好，演员什么都能搞定，剧本都能搞好。",
+            "trg_text": "but it's unlikely that the director can do well evrything including arts, lighting, cast and script.",
+            "utterance": [
+                {
+                    "sub_start_time": 286790,
+                    "sub_end_time": 292640,
+                    "sub_src_text": "那他不可能美术也做得很好，灯光也做得很好，演员什么都能搞定，剧本都能搞好。",
+                    "sub_trg_text": "but it's unlikely that the director can do well evrything including arts, lighting, cast and script.",
+                    "term": [
+                        {
+                            "src": "灯光",
+                            "trg": "lighting"
+                        },
+                        {
+                            "src": "演员",
+                            "trg": "cast"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 292680,
+            "end_time": 297560,
+            "src_text": "其实这对于导演说其实不太可能，所以他更多地靠的是自己，而不是靠的团队。",
+            "trg_text": "It's an unfeasible for the director who relies more on themselves than on a team.",
+            "utterance": [
+                {
+                    "sub_start_time": 292680,
+                    "sub_end_time": 294570,
+                    "sub_src_text": "其实这对于导演说其实不太可能，",
+                    "sub_trg_text": "It's an unfeasible for the director",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 294840,
+                    "sub_end_time": 296550,
+                    "sub_src_text": "所以他更多地靠的是自己，",
+                    "sub_trg_text": "who relies more on themselves",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 296550,
+                    "sub_end_time": 297560,
+                    "sub_src_text": "而不是靠的团队。",
+                    "sub_trg_text": "than on a team.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 297560,
+            "end_time": 305940,
+            "src_text": "而工业化的电影，它的核心是靠团队的配合，比如说越大的剧组，或者是这个规模越大，或者是预算越多的剧组，",
+            "trg_text": "An industrialized film, however, lays its core on teamwork. The larger the crew and the scale is and the better budget the crew has,",
+            "utterance": [
+                {
+                    "sub_start_time": 297560,
+                    "sub_end_time": 300560,
+                    "sub_src_text": "而工业化的电影，它的核心是靠团队的配合，",
+                    "sub_trg_text": "An industrialized film, however, lays its core on teamwork.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 300600,
+                    "sub_end_time": 304440,
+                    "sub_src_text": "比如说越大的剧组，或者是这个规模越大，",
+                    "sub_trg_text": "The larger the crew and the scale is",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 304440,
+                    "sub_end_time": 305940,
+                    "sub_src_text": "或者是预算越多的剧组，",
+                    "sub_trg_text": "and the better budget the crew has,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 305940,
+            "end_time": 309800,
+            "src_text": "你会发现每个岗位的人他的重要性会更大。",
+            "trg_text": "the greater significance each post holds.",
+            "utterance": [
+                {
+                    "sub_start_time": 305940,
+                    "sub_end_time": 309800,
+                    "sub_src_text": "你会发现每个岗位的人他的重要性会更大。",
+                    "sub_trg_text": "the greater significance each post holds.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 309800,
+            "end_time": 315770,
+            "src_text": "这个时候你会发现导演相反没有那么的复杂，他的工作量没有那么多。",
+            "trg_text": "In this case, the role of a director isn't that complex, and their workload is not so heavy.",
+            "utterance": [
+                {
+                    "sub_start_time": 309800,
+                    "sub_end_time": 314550,
+                    "sub_src_text": "这个时候你会发现导演相反没有那么的复杂，",
+                    "sub_trg_text": "In this case, the role of a director isn't that complex,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 314580,
+                    "sub_end_time": 315770,
+                    "sub_src_text": "他的工作量没有那么多。",
+                    "sub_trg_text": "and their workload is not so heavy.",
+                    "term": []
+                }
+            ]
+        }
+    ]
+}

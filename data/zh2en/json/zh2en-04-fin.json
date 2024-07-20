@@ -1,0 +1,715 @@
+{
+    "vid": "zh2en-04-fin",
+    "duration": 321430,
+    "segment": [
+        {
+            "start_time": 760,
+            "end_time": 8890,
+            "src_text": "然后，嗯，说先说一下，嗯，我之前说的这些就是为了让你们了解",
+            "trg_text": "Let me put it first that, what I said before was to help you understand",
+            "utterance": [
+                {
+                    "sub_start_time": 760,
+                    "sub_end_time": 5550,
+                    "sub_src_text": "然后，嗯，说先说一下，",
+                    "sub_trg_text": "Let me put it first that,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 5550,
+                    "sub_end_time": 8890,
+                    "sub_src_text": "嗯，我之前说的这些就是为了让你们了解",
+                    "sub_trg_text": "what I said before was to help you understand",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 8910,
+            "end_time": 21430,
+            "src_text": "就是嗯，它有基本的一些什么什么样的功能，然后嗯，然后这种功能可以对我们现在的systemic risk就是可以解救。",
+            "trg_text": "what basic functions it has, and such functions can rescue current systemic risk.",
+            "utterance": [
+                {
+                    "sub_start_time": 8910,
+                    "sub_end_time": 14120,
+                    "sub_src_text": "就是嗯，它有基本的一些什么什么样的功能，",
+                    "sub_trg_text": "what basic functions it has,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 14390,
+                    "sub_end_time": 21430,
+                    "sub_src_text": "然后嗯，然后这种功能可以对我们现在的systemic risk就是可以解救。",
+                    "sub_trg_text": "and such functions can rescue current systemic risk.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 21760,
+            "end_time": 39960,
+            "src_text": "嗯，说，呃，说的systemic risk就是说是di，undiversifiable risk，因为在金融上来说它有，嗯，我们平时金融管理呀，然后呃，portfolio manage呀，呃可以管理的risk都叫呃，可以是diversifiable的risk。",
+            "trg_text": "The systemic risk mentioned here refers to undiversifiable risk. Because in finance, in our daily financial management and portfolio management, all risks we are able to manage are called diversifiable risks.",
+            "utterance": [
+                {
+                    "sub_start_time": 21760,
+                    "sub_end_time": 27910,
+                    "sub_src_text": "嗯，说，呃，说的systemic risk就是说是di，undiversifiable risk，",
+                    "sub_trg_text": "The systemic risk mentioned here refers to undiversifiable risk.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 27910,
+                    "sub_end_time": 29250,
+                    "sub_src_text": "因为在金融上来说",
+                    "sub_trg_text": "Because in finance,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 29260,
+                    "sub_end_time": 32530,
+                    "sub_src_text": "它有，嗯，我们平时金融管理呀，",
+                    "sub_trg_text": "in our daily financial management",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 32530,
+                    "sub_end_time": 34860,
+                    "sub_src_text": "然后呃，portfolio manage呀，",
+                    "sub_trg_text": "and portfolio management,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 35000,
+                    "sub_end_time": 39960,
+                    "sub_src_text": "呃可以管理的risk都叫呃，可以是diversifiable的risk。",
+                    "sub_trg_text": "all risks we are able to manage are called diversifiable risks.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 39960,
+            "end_time": 50200,
+            "src_text": "然后剩下的叫系统，系统风险，就是我们是没有办法的，然后，就在传统金融市场里面是没有办法的。",
+            "trg_text": "The rest ones are called systemic risks, which we have no way to deal with in the traditional financial market.",
+            "utterance": [
+                {
+                    "sub_start_time": 39960,
+                    "sub_end_time": 43040,
+                    "sub_src_text": "然后剩下的叫系统，系统风险，",
+                    "sub_trg_text": "The rest ones are called systemic risks,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 43040,
+                    "sub_end_time": 50200,
+                    "sub_src_text": "就是我们是没有办法的，然后，就在传统金融市场里面是没有办法的。",
+                    "sub_trg_text": "which we have no way to deal with in the traditional financial market.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 50530,
+            "end_time": 60550,
+            "src_text": "然后嗯，呃，这里说一个，一个例子就是用来用来说明，",
+            "trg_text": "Here is an example to illustrate it,",
+            "utterance": [
+                {
+                    "sub_start_time": 50530,
+                    "sub_end_time": 60550,
+                    "sub_src_text": "然后嗯，呃，这里说一个，一个例子就是用来用来说明，",
+                    "sub_trg_text": "Here is an example to illustrate it,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 60830,
+            "end_time": 71670,
+            "src_text": "嗯，呃，这种系统风险，它除了除了政治，还有一些自然的一些呃就是无可避免的原因之外，",
+            "trg_text": "such kind of systemic risk, in addition to political and some inevitable natural reasons,",
+            "utterance": [
+                {
+                    "sub_start_time": 60830,
+                    "sub_end_time": 63780,
+                    "sub_src_text": "嗯，呃，这种系统风险，",
+                    "sub_trg_text": "such kind of systemic risk,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 63780,
+                    "sub_end_time": 66650,
+                    "sub_src_text": "它除了除了政治，",
+                    "sub_trg_text": "in addition to political",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 67040,
+                    "sub_end_time": 71670,
+                    "sub_src_text": "还有一些自然的一些呃就是无可避免的原因之外，",
+                    "sub_trg_text": "and some inevitable natural reasons,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 71960,
+            "end_time": 79360,
+            "src_text": "它，你为什么会存在这种系统风险？所谓系统风险，它就是整个市场的一种，呃，一种失败，",
+            "trg_text": "why does it exist? The so-called systemic risk is a kind of failure of the entire market.",
+            "utterance": [
+                {
+                    "sub_start_time": 71960,
+                    "sub_end_time": 74590,
+                    "sub_src_text": "它，你为什么会存在这种系统风险？",
+                    "sub_trg_text": "why does it exist?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 74600,
+                    "sub_end_time": 75380,
+                    "sub_src_text": "所谓系统风险，",
+                    "sub_trg_text": "The so-called systemic risk",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 75380,
+                    "sub_end_time": 79360,
+                    "sub_src_text": "它就是整个市场的一种，呃，一种失败，",
+                    "sub_trg_text": "is a kind of failure of the entire market.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 79510,
+            "end_time": 91360,
+            "src_text": "就是嗯，呃，一，然后，但但是除了自然和政治原因之外，其实很大的原因就是人的behaviour。",
+            "trg_text": "But apart from natural and political reasons, in fact, a major reason is human behaviour.",
+            "utterance": [
+                {
+                    "sub_start_time": 79510,
+                    "sub_end_time": 87840,
+                    "sub_src_text": "就是嗯，呃，一，然后，但但是除了自然和政治原因之外，",
+                    "sub_trg_text": "But apart from natural and political reasons,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 87840,
+                    "sub_end_time": 91360,
+                    "sub_src_text": "其实很大的原因就是人的behaviour。",
+                    "sub_trg_text": "in fact, a major reason is human behaviour.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 91770,
+            "end_time": 109229,
+            "src_text": "然后，嗯，啊，比如说呃，在二零零八年这个Bear raid的时候就是，嗯，其实所有都都起源于，呃，一个叫Bear Stern的这个asset management的公司，",
+            "trg_text": "For example, during the Bear raid in 2008, everything resulted from a company called Bear Stern, an asset management company.",
+            "utterance": [
+                {
+                    "sub_start_time": 91770,
+                    "sub_end_time": 96380,
+                    "sub_src_text": "然后，嗯，啊，比如说呃，",
+                    "sub_trg_text": "For example,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 96400,
+                    "sub_end_time": 99670,
+                    "sub_src_text": "在二零零八年这个Bear raid的时候",
+                    "sub_trg_text": "during the Bear raid in 2008,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 99670,
+                    "sub_end_time": 109229,
+                    "sub_src_text": "就是，嗯，其实所有都都起源于，呃，一个叫Bear Stern的这个asset management的公司，",
+                    "sub_trg_text": "everything resulted from a company called Bear Stern, an asset management company.",
+                    "term": [
+                        {
+                            "src": "Bear Stern",
+                            "trg": "Bear Stern"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 109229,
+            "end_time": 118400,
+            "src_text": "然后，嗯，呃，它，呃，有trader，trader manipulate它们它们的呃，它们的股价，",
+            "trg_text": "There were traders manipulating their stock prices.",
+            "utterance": [
+                {
+                    "sub_start_time": 109229,
+                    "sub_end_time": 118400,
+                    "sub_src_text": "然后，嗯，呃，它，呃，有trader，trader manipulate它们它们的呃，它们的股价，",
+                    "sub_trg_text": "There were traders manipulating their stock prices.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 118600,
+            "end_time": 131320,
+            "src_text": "因为这个公司它就嗯赌了很多在，呃，这个叫呃mortgage backed security呃，mortgage security，它就是asset backed security的一种。",
+            "trg_text": "Since the company bet a lot on mortgage backed security which is a kind of asset backed security.",
+            "utterance": [
+                {
+                    "sub_start_time": 118600,
+                    "sub_end_time": 127780,
+                    "sub_src_text": "因为这个公司它就嗯赌了很多在，呃，这个叫呃mortgage backed security呃，",
+                    "sub_trg_text": "Since the company bet a lot on mortgage backed security",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 127780,
+                    "sub_end_time": 131320,
+                    "sub_src_text": "mortgage security，它就是asset backed security的一种。",
+                    "sub_trg_text": "which is a kind of asset backed security.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 131620,
+            "end_time": 138940,
+            "src_text": "嗯，这是一种就是可以很好操控，很好manipulate的一种金融产品，",
+            "trg_text": "It is a kind of financial product that can be well controlled and manipulated.",
+            "utterance": [
+                {
+                    "sub_start_time": 131620,
+                    "sub_end_time": 138940,
+                    "sub_src_text": "嗯，这是一种就是可以很好操控，很好manipulate的一种金融产品，",
+                    "sub_trg_text": "It is a kind of financial product that can be well controlled and manipulated.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 138940,
+            "end_time": 149430,
+            "src_text": "它本身其实不是高风险的，就是现在很多人一提到这种像这种structure的这种finance的东西，都都觉得这种是高高风险的产品，",
+            "trg_text": "It is not actually a high-risk one. Now when it comes to such structured financial products, many people think they are high-risk products,",
+            "utterance": [
+                {
+                    "sub_start_time": 138940,
+                    "sub_end_time": 141090,
+                    "sub_src_text": "它本身其实不是高风险的，",
+                    "sub_trg_text": "It is not actually a high-risk one.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 141410,
+                    "sub_end_time": 146660,
+                    "sub_src_text": "就是现在很多人一提到这种像这种structure的这种finance的东西，",
+                    "sub_trg_text": "Now when it comes to such structured financial products,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 146660,
+                    "sub_end_time": 149430,
+                    "sub_src_text": "都都觉得这种是高高风险的产品，",
+                    "sub_trg_text": "many people think they are high-risk products,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 149680,
+            "end_time": 158020,
+            "src_text": "但其实不是，它的诞生其实就是为了减低风险，就是提高呃，金融产品的credit rate，cre，",
+            "trg_text": "but in fact, they are not. Its emergence is aimed to reduce risks and improve the credit rate of financial products.",
+            "utterance": [
+                {
+                    "sub_start_time": 149680,
+                    "sub_end_time": 150380,
+                    "sub_src_text": "但其实不是，",
+                    "sub_trg_text": "but in fact, they are not.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 150380,
+                    "sub_end_time": 153450,
+                    "sub_src_text": "它的诞生其实就是为了减低风险，",
+                    "sub_trg_text": "Its emergence is aimed to reduce risks",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 153900,
+                    "sub_end_time": 158020,
+                    "sub_src_text": "就是提高呃，金融产品的credit rate，cre，",
+                    "sub_trg_text": "and improve the credit rate of financial products.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 158040,
+            "end_time": 171220,
+            "src_text": "呃，所以，所以说其实，嗯之所以之之所以就是嗯，别人就是大众会对这种金融产品有种高风险的印象，",
+            "trg_text": "So in fact, the reason why the public have an impression of high risks for this kind of financial product,",
+            "utterance": [
+                {
+                    "sub_start_time": 158040,
+                    "sub_end_time": 161890,
+                    "sub_src_text": "呃，所以，所以说其实，",
+                    "sub_trg_text": "So in fact,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 161890,
+                    "sub_end_time": 171220,
+                    "sub_src_text": "嗯之所以之之所以就是嗯，别人就是大众会对这种金融产品有种高风险的印象，",
+                    "sub_trg_text": "the reason why the public have an impression of high risks for this kind of financial product,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 171440,
+            "end_time": 182490,
+            "src_text": "呃，主要都是因为，嗯，就是呃，市场上的一些manipulation，一些非常有效的manipulation，然后在这个这个例子里面呢，",
+            "trg_text": "is mainly because of some effective manipulations in the market. And in this example,",
+            "utterance": [
+                {
+                    "sub_start_time": 171440,
+                    "sub_end_time": 173180,
+                    "sub_src_text": "呃，主要都是因为，",
+                    "sub_trg_text": "is mainly because of",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 173329,
+                    "sub_end_time": 179690,
+                    "sub_src_text": "嗯，就是呃，市场上的一些manipulation，一些非常有效的manipulation，",
+                    "sub_trg_text": "some effective manipulations in the market.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 179850,
+                    "sub_end_time": 182490,
+                    "sub_src_text": "然后在这个这个例子里面呢，",
+                    "sub_trg_text": "And in this example,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 182650,
+            "end_time": 194200,
+            "src_text": "嗯这个首，首先是呃，这个mortgage backed呃asset，它有很高，就是在在零八年那个金融危机之前",
+            "trg_text": "First of all, this mortgage backed asset, before the financial crisis in 2008,",
+            "utterance": [
+                {
+                    "sub_start_time": 182650,
+                    "sub_end_time": 189470,
+                    "sub_src_text": "嗯这个首，首先是呃，这个mortgage backed呃asset，",
+                    "sub_trg_text": "First of all, this mortgage backed asset,",
+                    "term": [
+                        {
+                            "src": "mortgage backed asset",
+                            "trg": "mortgage backed asset"
+                        }
+                    ]
+                },
+                {
+                    "sub_start_time": 189470,
+                    "sub_end_time": 194200,
+                    "sub_src_text": "它有很高，就是在在零八年那个金融危机之前",
+                    "sub_trg_text": "before the financial crisis in 2008,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 194200,
+            "end_time": 205450,
+            "src_text": "它其实一直都有很很高的那个那个，那个credit，那个，那个信用分，就是评信用评级。",
+            "trg_text": "It actually has always maintained a very high credit score, that is, credit rating.",
+            "utterance": [
+                {
+                    "sub_start_time": 194200,
+                    "sub_end_time": 205450,
+                    "sub_src_text": "它其实一直都有很很高的那个那个，那个credit，那个，那个信用分，就是评信用评级。",
+                    "sub_trg_text": "It actually has always maintained a very high credit score, that is, credit rating.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 205910,
+            "end_time": 213100,
+            "src_text": "嗯，因为因为这种，这种类别的金融产品它是叫呃bankruptcy remote，",
+            "trg_text": "Because this kind of financial product is called bankruptcy remote.",
+            "utterance": [
+                {
+                    "sub_start_time": 205910,
+                    "sub_end_time": 213100,
+                    "sub_src_text": "嗯，因为因为这种，这种类别的金融产品它是叫呃bankruptcy remote，",
+                    "sub_trg_text": "Because this kind of financial product is called bankruptcy remote.",
+                    "term": [
+                        {
+                            "src": "bankruptcy remote",
+                            "trg": "bankruptcy remote"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "start_time": 213530,
+            "end_time": 231810,
+            "src_text": "就是呃比如说这个公司，你，你有这个嗯，你呃你发售了这个产品，但是，但是就算你，你公司自己倒闭了，嗯，就是，嗯，就是，是不会影响这个产品的，",
+            "trg_text": "For example, a company launches a product, while even if the company goes bankrupt, it will not affect the product.",
+            "utterance": [
+                {
+                    "sub_start_time": 213530,
+                    "sub_end_time": 222329,
+                    "sub_src_text": "就是呃比如说这个公司，你，你有这个嗯，你呃你发售了这个产品，",
+                    "sub_trg_text": "For example, a company launches a product,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 222329,
+                    "sub_end_time": 227360,
+                    "sub_src_text": "但是，但是就算你，你公司自己倒闭了，",
+                    "sub_trg_text": "while even if the company goes bankrupt,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 227510,
+                    "sub_end_time": 231810,
+                    "sub_src_text": "嗯，就是，嗯，就是，是不会影响这个产品的，",
+                    "sub_trg_text": "it will not affect the product.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 231810,
+            "end_time": 244530,
+            "src_text": "因为因为，呃，只要是这个产品的之前的它的collateral呃的公司，嗯就是还没有倒闭，就是它们的营营业状况还是好的，",
+            "trg_text": "Because, as long as the company of its previous collateral doesn't go bankrupt, which means their business conditions are still good,",
+            "utterance": [
+                {
+                    "sub_start_time": 231810,
+                    "sub_end_time": 233530,
+                    "sub_src_text": "因为因为，",
+                    "sub_trg_text": "Because,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 233690,
+                    "sub_end_time": 241970,
+                    "sub_src_text": "呃，只要是这个产品的之前的它的collateral呃的公司，嗯就是还没有倒闭，",
+                    "sub_trg_text": "as long as the company of its previous collateral doesn't go bankrupt,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 242120,
+                    "sub_end_time": 244530,
+                    "sub_src_text": "就是它们的营营业状况还是好的，",
+                    "sub_trg_text": "which means their business conditions are still good,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 244710,
+            "end_time": 259610,
+            "src_text": "然后嗯这个这个还是，它它还是，就算你的公司倒闭了，你发行了这种这种债券，比如说，嗯，它你你你的债券还是可以正常运行的，就是它的评级也不会受到影响。",
+            "trg_text": "then even if the company goes bankrupt and one issues such bonds, for example, the bond can still be delivered normally, its rating will not be affected.",
+            "utterance": [
+                {
+                    "sub_start_time": 244710,
+                    "sub_end_time": 249610,
+                    "sub_src_text": "然后嗯这个这个还是，它它还是，就算你的公司倒闭了，",
+                    "sub_trg_text": "then even if the company goes bankrupt",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 249610,
+                    "sub_end_time": 251820,
+                    "sub_src_text": "你发行了这种这种债券，",
+                    "sub_trg_text": "and one issues such bonds,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 251870,
+                    "sub_end_time": 252480,
+                    "sub_src_text": "比如说，",
+                    "sub_trg_text": "for example,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 252790,
+                    "sub_end_time": 257170,
+                    "sub_src_text": "嗯，它你你你的债券还是可以正常运行的，",
+                    "sub_trg_text": "the bond can still be delivered normally,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 257170,
+                    "sub_end_time": 259610,
+                    "sub_src_text": "就是它的评级也不会受到影响。",
+                    "sub_trg_text": "its rating will not be affected.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 260870,
+            "end_time": 264120,
+            "src_text": "嗯，然后呃，总的来说就是，",
+            "trg_text": "In general,",
+            "utterance": [
+                {
+                    "sub_start_time": 260870,
+                    "sub_end_time": 264120,
+                    "sub_src_text": "嗯，然后呃，总的来说就是，",
+                    "sub_trg_text": "In general,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 269710,
+            "end_time": 276440,
+            "src_text": "嗯，这个呃，呃，开始的时候，呃，这些trader就发现了这个房市的就是不对劲的地方。",
+            "trg_text": "at the beginning, these traders discovered the abnormal situation in the housing market.",
+            "utterance": [
+                {
+                    "sub_start_time": 269710,
+                    "sub_end_time": 271800,
+                    "sub_src_text": "嗯，这个呃，呃，开始的时候，",
+                    "sub_trg_text": "at the beginning,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 271800,
+                    "sub_end_time": 276440,
+                    "sub_src_text": "呃，这些trader就发现了这个房市的就是不对劲的地方。",
+                    "sub_trg_text": "these traders discovered the abnormal situation in the housing market.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 276730,
+            "end_time": 285400,
+            "src_text": "但是呃，即使是房市不对劲的时候，呃这个嗯，这个mortgage，呃，这个bond它的评分还是很高，",
+            "trg_text": "But, even when the housing market was abnormal, the mortgage or the bond still had a high rating,",
+            "utterance": [
+                {
+                    "sub_start_time": 276730,
+                    "sub_end_time": 277950,
+                    "sub_src_text": "但是呃，",
+                    "sub_trg_text": "But,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 278120,
+                    "sub_end_time": 280270,
+                    "sub_src_text": "即使是房市不对劲的时候，",
+                    "sub_trg_text": "even when the housing market was abnormal,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 280400,
+                    "sub_end_time": 285400,
+                    "sub_src_text": "呃这个嗯，这个mortgage，呃，这个bond它的评分还是很高，",
+                    "sub_trg_text": "the mortgage or the bond still had a high rating,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 285400,
+            "end_time": 293970,
+            "src_text": "所以就没有人，就是大呃大大部分人都没注意到这一点。但是就被有些trader就发现了，然后他们就想manipulate。",
+            "trg_text": "but most people didn't notice it. But some traders discovered it, and then they wanted to manipulate it.",
+            "utterance": [
+                {
+                    "sub_start_time": 285400,
+                    "sub_end_time": 289560,
+                    "sub_src_text": "所以就没有人，就是大呃大大部分人都没注意到这一点。",
+                    "sub_trg_text": "but most people didn't notice it.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 289560,
+                    "sub_end_time": 291960,
+                    "sub_src_text": "但是就被有些trader就发现了，",
+                    "sub_trg_text": "But some traders discovered it,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 291960,
+                    "sub_end_time": 293970,
+                    "sub_src_text": "然后他们就想manipulate。",
+                    "sub_trg_text": "and then they wanted to manipulate it.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 294120,
+            "end_time": 297150,
+            "src_text": "然后后来后来证明他们的manipulate也成功了嘛。",
+            "trg_text": "Later, it was proven that their manipulation was successful.",
+            "utterance": [
+                {
+                    "sub_start_time": 294120,
+                    "sub_end_time": 297150,
+                    "sub_src_text": "然后后来后来证明他们的manipulate也成功了嘛。",
+                    "sub_trg_text": "Later, it was proven that their manipulation was successful.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 297150,
+            "end_time": 314030,
+            "src_text": "但其实嗯，这一系列它只是一种，嗯，一种，每每一个阶段就是它是，嗯每个阶段就是呃，它的decision making都是based on assumption，",
+            "trg_text": "But in fact, for the whole process at each stage, its decision making is based on assumption",
+            "utterance": [
+                {
+                    "sub_start_time": 297150,
+                    "sub_end_time": 314030,
+                    "sub_src_text": "但其实嗯，这一系列它只是一种，嗯，一种，每每一个阶段就是它是，嗯每个阶段就是呃，它的decision making都是based on assumption，",
+                    "sub_trg_text": "But in fact, for the whole process at each stage, its decision making is based on assumption",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 314200,
+            "end_time": 322190,
+            "src_text": "然后这种assumption呢，它就嗯被 manipulate了，然后其实等于说它这就是一种信息的扭曲。",
+            "trg_text": "which was manipulated. Actually, this is a kind of distortion of information.",
+            "utterance": [
+                {
+                    "sub_start_time": 314200,
+                    "sub_end_time": 318370,
+                    "sub_src_text": "然后这种assumption呢，它就嗯被 manipulate了，",
+                    "sub_trg_text": "which was manipulated.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 318640,
+                    "sub_end_time": 322190,
+                    "sub_src_text": "然后其实等于说它这就是一种信息的扭曲。",
+                    "sub_trg_text": "Actually, this is a kind of distortion of information.",
+                    "term": []
+                }
+            ]
+        }
+    ]
+}

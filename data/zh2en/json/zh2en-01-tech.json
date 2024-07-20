@@ -1,0 +1,1191 @@
+{
+    "vid": "zh2en-01-tech",
+    "duration": 322260,
+    "segment": [
+        {
+            "start_time": 280,
+            "end_time": 3400,
+            "src_text": "首先是这样哈，就是，我……Disclaimer先。哈哈哈。",
+            "trg_text": "First of all, I... Disclaimer first.",
+            "utterance": [
+                {
+                    "sub_start_time": 280,
+                    "sub_end_time": 1040,
+                    "sub_src_text": "首先是这样哈，",
+                    "sub_trg_text": "First of all,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 1080,
+                    "sub_end_time": 3400,
+                    "sub_src_text": "就是，我……Disclaimer先。哈哈哈。",
+                    "sub_trg_text": "I... Disclaimer first.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 3400,
+            "end_time": 9040,
+            "src_text": "对，我觉得我做到了，比如说按一个分数来评的话，我可能做到了七十分。嗯。",
+            "trg_text": "Yes, I think I've achieved, for example, if it's evaluated by a score, I might have scored 70 points.",
+            "utterance": [
+                {
+                    "sub_start_time": 3400,
+                    "sub_end_time": 5280,
+                    "sub_src_text": "对，我觉得我做到了，",
+                    "sub_trg_text": "Yes, I think I've achieved,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 5280,
+                    "sub_end_time": 7500,
+                    "sub_src_text": "比如说按一个分数来评的话，",
+                    "sub_trg_text": "for example, if it's evaluated by a score,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 7500,
+                    "sub_end_time": 9040,
+                    "sub_src_text": "我可能做到了七十分。嗯。",
+                    "sub_trg_text": "I might have scored 70 points.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 9120,
+            "end_time": 13030,
+            "src_text": "但是我不知道，呃。人能做到多少分？",
+            "trg_text": "But I don't know... How many points can a person score?",
+            "utterance": [
+                {
+                    "sub_start_time": 9120,
+                    "sub_end_time": 11290,
+                    "sub_src_text": "但是我不知道，呃。",
+                    "sub_trg_text": "But I don't know...",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 11520,
+                    "sub_end_time": 13030,
+                    "sub_src_text": "人能做到多少分？",
+                    "sub_trg_text": "How many points can a person score?",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 13030,
+            "end_time": 17690,
+            "src_text": "对对，那那八十分肯定有更加好的做法，",
+            "trg_text": "Yes. Those who achieve 80 points must have better ways,",
+            "utterance": [
+                {
+                    "sub_start_time": 13030,
+                    "sub_end_time": 17690,
+                    "sub_src_text": "对对，那那八十分肯定有更加好的做法，",
+                    "sub_trg_text": "Yes. Those who achieve 80 points must have better ways,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 17720,
+            "end_time": 21400,
+            "src_text": "但是我只能说我分享一些自己的呃learning。心得体会。",
+            "trg_text": "so I can just share something about my own learning. Insights and experience.",
+            "utterance": [
+                {
+                    "sub_start_time": 17720,
+                    "sub_end_time": 20720,
+                    "sub_src_text": "但是我只能说我分享一些自己的呃learning。",
+                    "sub_trg_text": "so I can just share something about my own learning.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 20720,
+                    "sub_end_time": 21400,
+                    "sub_src_text": "心得体会。",
+                    "sub_trg_text": "Insights and experience.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 21530,
+            "end_time": 28760,
+            "src_text": "啊对对对，我我犯过很多错误，然后啊，这个成长学习了很多，所以只是简单跟大家分享一下。",
+            "trg_text": "Yes. I've made many mistakes before, from which I learned a lot. Therefore, I'll just share it briefly with you.",
+            "utterance": [
+                {
+                    "sub_start_time": 21530,
+                    "sub_end_time": 23480,
+                    "sub_src_text": "啊对对对，我我犯过很多错误，",
+                    "sub_trg_text": "Yes. I've made many mistakes before,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 23530,
+                    "sub_end_time": 26590,
+                    "sub_src_text": "然后啊，这个成长学习了很多，",
+                    "sub_trg_text": "from which I learned a lot.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 26590,
+                    "sub_end_time": 28760,
+                    "sub_src_text": "所以只是简单跟大家分享一下。",
+                    "sub_trg_text": "Therefore, I'll just share it briefly with you.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 28900,
+            "end_time": 33570,
+            "src_text": "就还，还还是，就是我可能还是分子的那部分，所以是有这个survival bias的。",
+            "trg_text": "I may be among the rare successful exceptions, so it's inevitable for me to have survival bias.",
+            "utterance": [
+                {
+                    "sub_start_time": 28900,
+                    "sub_end_time": 31890,
+                    "sub_src_text": "就还，还还是，就是我可能还是分子的那部分，",
+                    "sub_trg_text": "I may be among the rare successful exceptions,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 31900,
+                    "sub_end_time": 33570,
+                    "sub_src_text": "所以是有这个survival bias的。",
+                    "sub_trg_text": "so it's inevitable for me to have survival bias.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 33820,
+            "end_time": 39720,
+            "src_text": "嗯，我觉得广义上的管理我们可以嗯就是呃去说很多方面，",
+            "trg_text": "As I understand it, in a broad sense, management covers many aspects.",
+            "utterance": [
+                {
+                    "sub_start_time": 33820,
+                    "sub_end_time": 39720,
+                    "sub_src_text": "嗯，我觉得广义上的管理我们可以嗯就是呃去说很多方面，",
+                    "sub_trg_text": "As I understand it, in a broad sense, management covers many aspects.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 39850,
+            "end_time": 43090,
+            "src_text": "呃，然后团队的管理是广义管理的一部分。",
+            "trg_text": "Team management is a part of management in a broader sense.",
+            "utterance": [
+                {
+                    "sub_start_time": 39850,
+                    "sub_end_time": 43090,
+                    "sub_src_text": "呃，然后团队的管理是广义管理的一部分。",
+                    "sub_trg_text": "Team management is a part of management in a broader sense.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 43090,
+            "end_time": 48260,
+            "src_text": "但是呢，确实提到团队的管理，又不得不提那个广义上的管理，因为这些是相关的。",
+            "trg_text": "But indeed, when it comes to team management, we have to mention management at large, because they are related.",
+            "utterance": [
+                {
+                    "sub_start_time": 43090,
+                    "sub_end_time": 45450,
+                    "sub_src_text": "但是呢，确实提到团队的管理，",
+                    "sub_trg_text": "But indeed, when it comes to team management,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 45450,
+                    "sub_end_time": 47280,
+                    "sub_src_text": "又不得不提那个广义上的管理，",
+                    "sub_trg_text": "we have to mention management at large,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 47280,
+                    "sub_end_time": 48260,
+                    "sub_src_text": "因为这些是相关的。",
+                    "sub_trg_text": "because they are related.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 48450,
+            "end_time": 51910,
+            "src_text": "那我觉得广义上的管理它可能有呃第一个是战略上的管理，",
+            "trg_text": "I think generalized management is first about strategic management.",
+            "utterance": [
+                {
+                    "sub_start_time": 48450,
+                    "sub_end_time": 51910,
+                    "sub_src_text": "那我觉得广义上的管理它可能有呃第一个是战略上的管理，",
+                    "sub_trg_text": "I think generalized management is first about strategic management.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 51910,
+            "end_time": 56620,
+            "src_text": "呃，就我们作为整个呃呃呃部门来说，整个大的团队来说，",
+            "trg_text": "It means, for us as an entire department or a team,",
+            "utterance": [
+                {
+                    "sub_start_time": 51910,
+                    "sub_end_time": 56620,
+                    "sub_src_text": "呃，就我们作为整个呃呃呃部门来说，整个大的团队来说，",
+                    "sub_trg_text": "It means, for us as an entire department or a team,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 56620,
+            "end_time": 62150,
+            "src_text": "我们哪些事情在什么时候是需要做的，哪些事情在短期是呃不做的，",
+            "trg_text": "which things need to be done at what time, which tasks are not to be done in the short term,",
+            "utterance": [
+                {
+                    "sub_start_time": 56620,
+                    "sub_end_time": 59860,
+                    "sub_src_text": "我们哪些事情在什么时候是需要做的，",
+                    "sub_trg_text": "which things need to be done at what time,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 59860,
+                    "sub_end_time": 62150,
+                    "sub_src_text": "哪些事情在短期是呃不做的，",
+                    "sub_trg_text": "which tasks are not to be done in the short term,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 62150,
+            "end_time": 65880,
+            "src_text": "那要做的那些在什么时候要做到什么样的结果，那这些战略上是要定的。",
+            "trg_text": "and what kind of results should be achieved for those to be done and when? All these need to be determined strategically.",
+            "utterance": [
+                {
+                    "sub_start_time": 62150,
+                    "sub_end_time": 64440,
+                    "sub_src_text": "那要做的那些在什么时候要做到什么样的结果，",
+                    "sub_trg_text": "and what kind of results should be achieved for those to be done and when?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 64590,
+                    "sub_end_time": 65880,
+                    "sub_src_text": "那这些战略上是要定的。",
+                    "sub_trg_text": "All these need to be determined strategically.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 66110,
+            "end_time": 71680,
+            "src_text": "那更多的时候我们决定的是哪些事情，我们明知道很重要，",
+            "trg_text": "More often, we make decisions on matters that we know are very important",
+            "utterance": [
+                {
+                    "sub_start_time": 66110,
+                    "sub_end_time": 68320,
+                    "sub_src_text": "那更多的时候",
+                    "sub_trg_text": "More often,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 68320,
+                    "sub_end_time": 71680,
+                    "sub_src_text": "我们决定的是哪些事情，我们明知道很重要，",
+                    "sub_trg_text": "we make decisions on matters that we know are very important",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 71710,
+            "end_time": 74270,
+            "src_text": "但没有那么紧急，所以我们先不做，",
+            "trg_text": "but not very urgent, so we don't do them first.",
+            "utterance": [
+                {
+                    "sub_start_time": 71710,
+                    "sub_end_time": 72910,
+                    "sub_src_text": "但没有那么紧急，",
+                    "sub_trg_text": "but not very urgent,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 72910,
+                    "sub_end_time": 74270,
+                    "sub_src_text": "所以我们先不做，",
+                    "sub_trg_text": "so we don't do them first.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 74270,
+            "end_time": 79039,
+            "src_text": "所以做好一个哪些事情不做的一个战略是很重要的，",
+            "trg_text": "Thus the strategic decision about what not to do is very important.",
+            "utterance": [
+                {
+                    "sub_start_time": 74270,
+                    "sub_end_time": 79039,
+                    "sub_src_text": "所以做好一个哪些事情不做的一个战略是很重要的，",
+                    "sub_trg_text": "Thus the strategic decision about what not to do is very important.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 79150,
+            "end_time": 81150,
+            "src_text": "我觉得这是第一点。第二点是。",
+            "trg_text": "This is my first idea. And secondly...",
+            "utterance": [
+                {
+                    "sub_start_time": 79150,
+                    "sub_end_time": 79880,
+                    "sub_src_text": "我觉得这是第一点。",
+                    "sub_trg_text": "This is my first idea.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 80280,
+                    "sub_end_time": 81150,
+                    "sub_src_text": "第二点是。",
+                    "sub_trg_text": "And secondly...",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 81510,
+            "end_time": 90820,
+            "src_text": "我听过一句话叫 pri，pri，啊就是p，prioritization，prioritization is only real when it hurts。",
+            "trg_text": "I've heard a saying, that is, prioritization is only real when it hurts.",
+            "utterance": [
+                {
+                    "sub_start_time": 81510,
+                    "sub_end_time": 90820,
+                    "sub_src_text": "我听过一句话叫 pri，pri，啊就是p，prioritization，prioritization is only real when it hurts。",
+                    "sub_trg_text": "I've heard a saying, that is, prioritization is only real when it hurts.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 90820,
+            "end_time": 102590,
+            "src_text": "啊啊，是是是，是。然后呃，第二个呢，我是觉得，嗯，很多同呃团队会去强调一些，比如说使命、愿景、价值观啊，还有一些文化啊等等，",
+            "trg_text": "Yes. Then, secondly, I think, many teams are prone to emphasize their mission, vision, values, and culture, etc.,",
+            "utterance": [
+                {
+                    "sub_start_time": 90820,
+                    "sub_end_time": 93000,
+                    "sub_src_text": "啊啊，是是是，是。",
+                    "sub_trg_text": "Yes.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 93259,
+                    "sub_end_time": 94990,
+                    "sub_src_text": "然后呃，第二个呢，",
+                    "sub_trg_text": "Then, secondly,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 94990,
+                    "sub_end_time": 95900,
+                    "sub_src_text": "我是觉得，",
+                    "sub_trg_text": "I think,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 95900,
+                    "sub_end_time": 102590,
+                    "sub_src_text": "嗯，很多同呃团队会去强调一些，比如说使命、愿景、价值观啊，还有一些文化啊等等，",
+                    "sub_trg_text": "many teams are prone to emphasize their mission, vision, values, and culture, etc.,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 102590,
+            "end_time": 106840,
+            "src_text": "然后并且把它生成了很多就是呃一些语句来描述这个团队的文化。",
+            "trg_text": "and transform them into many statements to describe the culture of their team.",
+            "utterance": [
+                {
+                    "sub_start_time": 102590,
+                    "sub_end_time": 106840,
+                    "sub_src_text": "然后并且把它生成了很多就是呃一些语句来描述这个团队的文化。",
+                    "sub_trg_text": "and transform them into many statements to describe the culture of their team.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 107050,
+            "end_time": 114120,
+            "src_text": "我想说，呃，有这些是好的，但是这些文化呃不去用血泪捍卫，",
+            "trg_text": "In my opinion, it's good to have these, but if these cultures are not defended with blood and tears",
+            "utterance": [
+                {
+                    "sub_start_time": 107050,
+                    "sub_end_time": 107720,
+                    "sub_src_text": "我想说，",
+                    "sub_trg_text": "In my opinion,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 107720,
+                    "sub_end_time": 108910,
+                    "sub_src_text": "呃，有这些是好的，",
+                    "sub_trg_text": "it's good to have these,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 109120,
+                    "sub_end_time": 114120,
+                    "sub_src_text": "但是这些文化呃不去用血泪捍卫，",
+                    "sub_trg_text": "but if these cultures are not defended with blood and tears",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 114250,
+            "end_time": 119789,
+            "src_text": "不去在各种各样的case下进行呃这个挑战和讨论的话，",
+            "trg_text": "and not challenged and discussed through various cases,",
+            "utterance": [
+                {
+                    "sub_start_time": 114250,
+                    "sub_end_time": 119789,
+                    "sub_src_text": "不去在各种各样的case下进行呃这个挑战和讨论的话，",
+                    "sub_trg_text": "and not challenged and discussed through various cases,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 119960,
+            "end_time": 124740,
+            "src_text": "那喊出这些口号本身是没有意义的，啊。空洞的口号。对对对对对。",
+            "trg_text": "then disclaiming these slogans is meaningless in itself. They will be empty slogans. Right.",
+            "utterance": [
+                {
+                    "sub_start_time": 119960,
+                    "sub_end_time": 123100,
+                    "sub_src_text": "那喊出这些口号本身是没有意义的，啊。",
+                    "sub_trg_text": "then disclaiming these slogans is meaningless in itself.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 123100,
+                    "sub_end_time": 123840,
+                    "sub_src_text": "空洞的口号。",
+                    "sub_trg_text": "They will be empty slogans.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 123840,
+                    "sub_end_time": 124740,
+                    "sub_src_text": "对对对对对。",
+                    "sub_trg_text": "Right.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 125010,
+            "end_time": 138900,
+            "src_text": "然后第三呢，我想说，嗯就是整个呃团队的内部的管理很多时候是没有呃横向的团队的协同那么难做的，",
+            "trg_text": "Then thirdly, I want to say that the internal management of a team is often not as difficult as the lateral collaboration among teams,",
+            "utterance": [
+                {
+                    "sub_start_time": 125010,
+                    "sub_end_time": 125620,
+                    "sub_src_text": "然后第三呢，",
+                    "sub_trg_text": "Then thirdly,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 125620,
+                    "sub_end_time": 126060,
+                    "sub_src_text": "我想说，",
+                    "sub_trg_text": "I want to say that",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 126410,
+                    "sub_end_time": 138900,
+                    "sub_src_text": "嗯就是整个呃团队的内部的管理很多时候是没有呃横向的团队的协同那么难做的，",
+                    "sub_trg_text": "the internal management of a team is often not as difficult as the lateral collaboration among teams,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 139090,
+            "end_time": 148980,
+            "src_text": "甚至它没有说，呃，自上到下的呃比如说呃战略啊，或者是OKR的呃传递，或者是上下的对齐那么复杂的。",
+            "trg_text": "and it's even not as complex as the top-down strategies, the transmission of OKRs, or the alignment from top to bottom. or the alignment from top to bottom.",
+            "utterance": [
+                {
+                    "sub_start_time": 139090,
+                    "sub_end_time": 145120,
+                    "sub_src_text": "甚至它没有说，呃，自上到下的呃比如说呃战略啊，",
+                    "sub_trg_text": "and it's even not as complex as the top-down strategies,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 145120,
+                    "sub_end_time": 146940,
+                    "sub_src_text": "或者是OKR的呃传递，",
+                    "sub_trg_text": "the transmission of OKRs, or the alignment from top to bottom.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 146940,
+                    "sub_end_time": 148980,
+                    "sub_src_text": "或者是上下的对齐那么复杂的。",
+                    "sub_trg_text": "or the alignment from top to bottom.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 149210,
+            "end_time": 153060,
+            "src_text": "所以很多时候呃，管理者会觉得，哎呀，团队内部能管，",
+            "trg_text": "So very often when managers think the team can be managed internally,",
+            "utterance": [
+                {
+                    "sub_start_time": 149210,
+                    "sub_end_time": 150410,
+                    "sub_src_text": "所以很多时候呃，",
+                    "sub_trg_text": "So very often",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 150410,
+                    "sub_end_time": 151400,
+                    "sub_src_text": "管理者会觉得，",
+                    "sub_trg_text": "when managers think",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 151400,
+                    "sub_end_time": 153060,
+                    "sub_src_text": "哎呀，团队内部能管，",
+                    "sub_trg_text": "the team can be managed internally,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 153090,
+            "end_time": 157380,
+            "src_text": "那可能他忽略了横向和对上，呃或者是战略的管理。",
+            "trg_text": "then maybe they ignore the lateral and upward, or strategic management.",
+            "utterance": [
+                {
+                    "sub_start_time": 153090,
+                    "sub_end_time": 155610,
+                    "sub_src_text": "那可能他忽略了横向和对上，",
+                    "sub_trg_text": "then maybe they ignore the lateral and upward,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 155770,
+                    "sub_end_time": 157380,
+                    "sub_src_text": "呃或者是战略的管理。",
+                    "sub_trg_text": "or strategic management.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 157610,
+            "end_time": 161140,
+            "src_text": "我觉得那个其实也同样重要，甚至有的时候它会更复杂，",
+            "trg_text": "I think that is also significant, and sometimes it can be even more complicated.",
+            "utterance": [
+                {
+                    "sub_start_time": 157610,
+                    "sub_end_time": 159100,
+                    "sub_src_text": "我觉得那个其实也同样重要，",
+                    "sub_trg_text": "I think that is also significant,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 159100,
+                    "sub_end_time": 161140,
+                    "sub_src_text": "甚至有的时候它会更复杂，",
+                    "sub_trg_text": "and sometimes it can be even more complicated.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 161140,
+            "end_time": 169790,
+            "src_text": "因为呃我们沟通的那些人，他不属于，呃，我们可以直接掌控的人。Influence without authority。对，对对对。",
+            "trg_text": "Because the people we communicate with are not those who fall outside our sphere of influence. Influence without authority. That's right.",
+            "utterance": [
+                {
+                    "sub_start_time": 161140,
+                    "sub_end_time": 163810,
+                    "sub_src_text": "因为呃我们沟通的那些人，",
+                    "sub_trg_text": "Because the people we communicate with",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 163810,
+                    "sub_end_time": 166900,
+                    "sub_src_text": "他不属于，呃，我们可以直接掌控的人。",
+                    "sub_trg_text": "are not those who fall outside our sphere of influence.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 167050,
+                    "sub_end_time": 168740,
+                    "sub_src_text": "Influence without authority。",
+                    "sub_trg_text": "Influence without authority.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 168850,
+                    "sub_end_time": 169790,
+                    "sub_src_text": "对，对对对。",
+                    "sub_trg_text": "That's right.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 169790,
+            "end_time": 175530,
+            "src_text": "所以他是更需要技巧，更需要呃这个心力的。哦。有的时候。好的。OK，",
+            "trg_text": "Hence it entails more tactics and efforts. Sometimes... Okay.",
+            "utterance": [
+                {
+                    "sub_start_time": 169790,
+                    "sub_end_time": 171730,
+                    "sub_src_text": "所以他是更需要技巧，",
+                    "sub_trg_text": "Hence it entails more tactics",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 171800,
+                    "sub_end_time": 174450,
+                    "sub_src_text": "更需要呃这个心力的。哦。",
+                    "sub_trg_text": "and efforts.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 174450,
+                    "sub_end_time": 174850,
+                    "sub_src_text": "有的时候。",
+                    "sub_trg_text": "Sometimes...",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 175040,
+                    "sub_end_time": 175530,
+                    "sub_src_text": "好的。OK，",
+                    "sub_trg_text": "Okay.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 175680,
+            "end_time": 182290,
+            "src_text": "那么嗯，今天我们可能就呃，我想简单分享一下团队的内部管理的情况。",
+            "trg_text": "Today I'd like to briefly share the case of internal management of a team.",
+            "utterance": [
+                {
+                    "sub_start_time": 175680,
+                    "sub_end_time": 182290,
+                    "sub_src_text": "那么嗯，今天我们可能就呃，我想简单分享一下团队的内部管理的情况。",
+                    "sub_trg_text": "Today I'd like to briefly share the case of internal management of a team.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 182320,
+            "end_time": 190150,
+            "src_text": "哦，就是刚刚三个都不说是吗？啊，对对对对对。啊行，我们以后再说，没有问题。是是是，嗯，然后。哈哈哈哈好来吧哈哈。",
+            "trg_text": "So we are not to talk about the three respects mentioned just now, right? Yes. OK. Let's talk about it later. That's all right. Yes. OK, go ahead.",
+            "utterance": [
+                {
+                    "sub_start_time": 182320,
+                    "sub_end_time": 183990,
+                    "sub_src_text": "哦，就是刚刚三个都不说是吗？",
+                    "sub_trg_text": "So we are not to talk about the three respects mentioned just now, right?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 184080,
+                    "sub_end_time": 184910,
+                    "sub_src_text": "啊，对对对对对。",
+                    "sub_trg_text": "Yes. OK.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 184910,
+                    "sub_end_time": 185910,
+                    "sub_src_text": "啊行，我们以后再说，",
+                    "sub_trg_text": "Let's talk about it later.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 185960,
+                    "sub_end_time": 186470,
+                    "sub_src_text": "没有问题。",
+                    "sub_trg_text": "That's all right.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 186640,
+                    "sub_end_time": 187070,
+                    "sub_src_text": "是是是，",
+                    "sub_trg_text": "Yes.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 187280,
+                    "sub_end_time": 190150,
+                    "sub_src_text": "嗯，然后。哈哈哈哈好来吧哈哈。",
+                    "sub_trg_text": "OK, go ahead.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 190240,
+            "end_time": 197630,
+            "src_text": "是，然后呃，我觉得做呃团队的内部管理的时候，呃我我我我自己犯过一些错",
+            "trg_text": "I think when managing the internal team, I myself have made some mistakes,",
+            "utterance": [
+                {
+                    "sub_start_time": 190240,
+                    "sub_end_time": 195030,
+                    "sub_src_text": "是，然后呃，我觉得做呃团队的内部管理的时候，",
+                    "sub_trg_text": "I think when managing the internal team,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 195160,
+                    "sub_end_time": 197630,
+                    "sub_src_text": "呃我我我我自己犯过一些错",
+                    "sub_trg_text": "I myself have made some mistakes,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 197680,
+            "end_time": 206050,
+            "src_text": "就是呃，比如说太呃太，嗯，应该怎么说？太严格，太不近人情。",
+            "trg_text": "for example... How should I put it? Too strict and unfeeling.",
+            "utterance": [
+                {
+                    "sub_start_time": 197680,
+                    "sub_end_time": 202850,
+                    "sub_src_text": "就是呃，比如说太呃太，嗯，",
+                    "sub_trg_text": "for example...",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 202960,
+                    "sub_end_time": 203570,
+                    "sub_src_text": "应该怎么说？",
+                    "sub_trg_text": "How should I put it?",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 203760,
+                    "sub_end_time": 204920,
+                    "sub_src_text": "太严格，",
+                    "sub_trg_text": "Too strict",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 204920,
+                    "sub_end_time": 206050,
+                    "sub_src_text": "太不近人情。",
+                    "sub_trg_text": "and unfeeling.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 206240,
+            "end_time": 216100,
+            "src_text": "嗯，啊，然后呢另外一个极端叫做太呃这个case by case的讨论太近人情，或者是太，呃soft等等等等。嗯。",
+            "trg_text": "The other extreme is too approachable while discussing case by case, or it can be said as too soft etc..",
+            "utterance": [
+                {
+                    "sub_start_time": 206240,
+                    "sub_end_time": 214090,
+                    "sub_src_text": "嗯，啊，然后呢另外一个极端叫做太呃这个case by case的讨论太近人情，",
+                    "sub_trg_text": "The other extreme is too approachable while discussing case by case,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 214090,
+                    "sub_end_time": 216100,
+                    "sub_src_text": "或者是太，呃soft等等等等。嗯。",
+                    "sub_trg_text": "or it can be said as too soft etc..",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 216280,
+            "end_time": 223910,
+            "src_text": "我觉得在一个团队管理者的一个呃表现出来的，我们可以称之为叫做人设吧。",
+            "trg_text": "I think what a team manager demonstrates can be regarded as public persona,",
+            "utterance": [
+                {
+                    "sub_start_time": 216280,
+                    "sub_end_time": 221390,
+                    "sub_src_text": "我觉得在一个团队管理者的一个呃表现出来的，",
+                    "sub_trg_text": "I think what a team manager demonstrates",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 221400,
+                    "sub_end_time": 223910,
+                    "sub_src_text": "我们可以称之为叫做人设吧。",
+                    "sub_trg_text": "can be regarded as public persona,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 223920,
+            "end_time": 227890,
+            "src_text": "嗯。这个人设它是需要有一个特定的人设的。嗯。",
+            "trg_text": "which should be specific.",
+            "utterance": [
+                {
+                    "sub_start_time": 223920,
+                    "sub_end_time": 227890,
+                    "sub_src_text": "嗯。这个人设它是需要有一个特定的人设的。嗯。",
+                    "sub_trg_text": "which should be specific.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 227890,
+            "end_time": 234770,
+            "src_text": "而在这个特定的人设下，呃，我相信他的，呃所有的呃行为表现，",
+            "trg_text": "With this specific public persona, I believe all his performance",
+            "utterance": [
+                {
+                    "sub_start_time": 227890,
+                    "sub_end_time": 230050,
+                    "sub_src_text": "而在这个特定的人设下，",
+                    "sub_trg_text": "With this specific public persona,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 230050,
+                    "sub_end_time": 234770,
+                    "sub_src_text": "呃，我相信他的，呃所有的呃行为表现，",
+                    "sub_trg_text": "I believe all his performance",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 234770,
+            "end_time": 241000,
+            "src_text": "呃他是要依据一个呃跟那个人设对应的规则体系。明白。",
+            "trg_text": "should be in compliance with a rule system corresponding to that persona. I see.",
+            "utterance": [
+                {
+                    "sub_start_time": 234770,
+                    "sub_end_time": 239950,
+                    "sub_src_text": "呃他是要依据一个呃跟那个人设对应的规则体系。",
+                    "sub_trg_text": "should be in compliance with a rule system corresponding to that persona.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 240540,
+                    "sub_end_time": 241000,
+                    "sub_src_text": "明白。",
+                    "sub_trg_text": "I see.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 241340,
+            "end_time": 252860,
+            "src_text": "OK。那。就是你可能更比起你的soft和harsh来说，你更重要的是你这个人设对应的principle和一个consistence的行为。对。让你变得 predictable。对，对对对。",
+            "trg_text": "OK. That is, compared to your being soft or harsh, what appears more important is the consistency of your behaviors with your principles. Right. It makes you predictable. Yes.",
+            "utterance": [
+                {
+                    "sub_start_time": 241340,
+                    "sub_end_time": 245470,
+                    "sub_src_text": "OK。那。就是你可能更比起你的soft和harsh来说，",
+                    "sub_trg_text": "OK. That is, compared to your being soft or harsh,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 245500,
+                    "sub_end_time": 249540,
+                    "sub_src_text": "你更重要的是你这个人设对应的principle和一个consistence的行为。",
+                    "sub_trg_text": "what appears more important is the consistency of your behaviors with your principles.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 249540,
+                    "sub_end_time": 249710,
+                    "sub_src_text": "对。",
+                    "sub_trg_text": "Right.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 249900,
+                    "sub_end_time": 251500,
+                    "sub_src_text": "让你变得 predictable。",
+                    "sub_trg_text": "It makes you predictable.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 251500,
+                    "sub_end_time": 252860,
+                    "sub_src_text": "对，对对对。",
+                    "sub_trg_text": "Yes.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 252860,
+            "end_time": 259980,
+            "src_text": "呃，每个人都希望自己的呃这个上级或者上级的上级是一个呃讲道理的、有人情味的，",
+            "trg_text": "Everyone hopes that their superiors or higher-ups are reasonable and humane",
+            "utterance": [
+                {
+                    "sub_start_time": 252860,
+                    "sub_end_time": 259980,
+                    "sub_src_text": "呃，每个人都希望自己的呃这个上级或者上级的上级是一个呃讲道理的、有人情味的，",
+                    "sub_trg_text": "Everyone hopes that their superiors or higher-ups are reasonable and humane",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 259980,
+            "end_time": 264640,
+            "src_text": "然后嗯，不是说呃今天一个样明天一个样的人。嗯。",
+            "trg_text": "rather than shifting unpredictably from one day to the next.",
+            "utterance": [
+                {
+                    "sub_start_time": 259980,
+                    "sub_end_time": 264640,
+                    "sub_src_text": "然后嗯，不是说呃今天一个样明天一个样的人。嗯。",
+                    "sub_trg_text": "rather than shifting unpredictably from one day to the next.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 264640,
+            "end_time": 270970,
+            "src_text": "所以，呃，我们很多时候是要需要克制自己、训练自己，成为一个呃那样的人。",
+            "trg_text": "So, for most of the time, we need to restrain ourselves and train ourselves so as to become a person like that.",
+            "utterance": [
+                {
+                    "sub_start_time": 264640,
+                    "sub_end_time": 269040,
+                    "sub_src_text": "所以，呃，我们很多时候是要需要克制自己、训练自己，",
+                    "sub_trg_text": "So, for most of the time, we need to restrain ourselves and train ourselves",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 269040,
+                    "sub_end_time": 270970,
+                    "sub_src_text": "成为一个呃那样的人。",
+                    "sub_trg_text": "so as to become a person like that.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 271040,
+            "end_time": 273680,
+            "src_text": "嗯。而成为那样的一个人又分成两部分。",
+            "trg_text": "And becoming such a person includes two parts.",
+            "utterance": [
+                {
+                    "sub_start_time": 271040,
+                    "sub_end_time": 273680,
+                    "sub_src_text": "嗯。而成为那样的一个人又分成两部分。",
+                    "sub_trg_text": "And becoming such a person includes two parts.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 273680,
+            "end_time": 280620,
+            "src_text": "好。第一个叫做形成，生成一定的规则。嗯。并且不断地调优这个规则。",
+            "trg_text": "The first one is to form certain rules and continuously optimizing them.",
+            "utterance": [
+                {
+                    "sub_start_time": 273680,
+                    "sub_end_time": 278190,
+                    "sub_src_text": "好。第一个叫做形成，生成一定的规则。",
+                    "sub_trg_text": "The first one is to form certain rules",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 278190,
+                    "sub_end_time": 280620,
+                    "sub_src_text": "嗯。并且不断地调优这个规则。",
+                    "sub_trg_text": "and continuously optimizing them.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 280750,
+            "end_time": 293290,
+            "src_text": "嗯。这个规则的优化目标应该是你自己又舒服，且团队也舒服，且你能让自己和团队一起呃在这个规则下最大化团队的综合输出能力。",
+            "trg_text": "The target of optimizing this rule should be that both you and the team feel comfortable and moreover, you can make yourself and the team maximize the comprehensive output capacity under this rule.",
+            "utterance": [
+                {
+                    "sub_start_time": 280750,
+                    "sub_end_time": 286900,
+                    "sub_src_text": "嗯。这个规则的优化目标应该是你自己又舒服，且团队也舒服，",
+                    "sub_trg_text": "The target of optimizing this rule should be that both you and the team feel comfortable",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 286950,
+                    "sub_end_time": 293290,
+                    "sub_src_text": "且你能让自己和团队一起呃在这个规则下最大化团队的综合输出能力。",
+                    "sub_trg_text": "and moreover, you can make yourself and the team maximize the comprehensive output capacity under this rule.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 293440,
+            "end_time": 299250,
+            "src_text": "嗯。OK。所以那个规则需要制定，并且需要啊这个这个这个去优化。调优，啊。对。",
+            "trg_text": "So that rule needs to be formulated and optimized,",
+            "utterance": [
+                {
+                    "sub_start_time": 293440,
+                    "sub_end_time": 295920,
+                    "sub_src_text": "嗯。OK。所以那个规则需要制定，",
+                    "sub_trg_text": "So that rule needs to be formulated",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 295920,
+                    "sub_end_time": 299250,
+                    "sub_src_text": "并且需要啊这个这个这个去优化。调优，啊。对。",
+                    "sub_trg_text": "and optimized,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 299360,
+            "end_time": 307850,
+            "src_text": "那么包括这个团队里面的一些赏罚分明的原则，或者是一些哪怕使命、愿景、价值观的一些口号、一些东西，它可能都属于这个规则的一部分。",
+            "trg_text": "including the principle of distinct rewards and punishments in this team, or even the slogans of the mission, vision, and values, which may all belong to this rule.",
+            "utterance": [
+                {
+                    "sub_start_time": 299360,
+                    "sub_end_time": 302840,
+                    "sub_src_text": "那么包括这个团队里面的一些赏罚分明的原则，",
+                    "sub_trg_text": "including the principle of distinct rewards and punishments in this team,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 302840,
+                    "sub_end_time": 306240,
+                    "sub_src_text": "或者是一些哪怕使命、愿景、价值观的一些口号、一些东西，",
+                    "sub_trg_text": "or even the slogans of the mission, vision, and values,",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 306240,
+                    "sub_end_time": 307850,
+                    "sub_src_text": "它可能都属于这个规则的一部分。",
+                    "sub_trg_text": "which may all belong to this rule.",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 307850,
+            "end_time": 314090,
+            "src_text": "嗯。包括你自己的一些，哪怕细到一些会议开会的这个日常逻辑，",
+            "trg_text": "It can range from the minute details of your daily logical reasoning displayed in meetings,",
+            "utterance": [
+                {
+                    "sub_start_time": 307850,
+                    "sub_end_time": 314090,
+                    "sub_src_text": "嗯。包括你自己的一些，哪怕细到一些会议开会的这个日常逻辑，",
+                    "sub_trg_text": "It can range from the minute details of your daily logical reasoning displayed in meetings,",
+                    "term": []
+                }
+            ]
+        },
+        {
+            "start_time": 314390,
+            "end_time": 322540,
+            "src_text": "那大到一些，呃对于不确定事情的这个或者是需要决议事情的讨论原则啊等等等等，都都都得在这个规则里面。嗯。",
+            "trg_text": "to the grander principles guiding your discussions on ambiguous issues or matters that require resolution. They are all involved in this rule.",
+            "utterance": [
+                {
+                    "sub_start_time": 314390,
+                    "sub_end_time": 320770,
+                    "sub_src_text": "那大到一些，呃对于不确定事情的这个或者是需要决议事情的讨论原则啊等等等等，",
+                    "sub_trg_text": "to the grander principles guiding your discussions on ambiguous issues or matters that require resolution.",
+                    "term": []
+                },
+                {
+                    "sub_start_time": 320840,
+                    "sub_end_time": 322540,
+                    "sub_src_text": "都都都得在这个规则里面。嗯。",
+                    "sub_trg_text": "They are all involved in this rule.",
+                    "term": []
+                }
+            ]
+        }
+    ]
+}

@@ -4,7 +4,7 @@ RealSI: Open Benchmark for Simultaneous Interpretation in Real-world Scenarios
 
 ![RealSI](resource/ST.jpeg)
 
-For details of the dataset, please refer to the [Technical Report](https://www.arxiv.org) of Cross Language Agent-Simultaneous Interpretation, `CLASI`.
+For details of the dataset, please refer to the [Technical Report](https://byteresearchcla.github.io/clasi/technical_report.pdf) of Cross Language Agent-Simultaneous Interpretation, `CLASI`.
 
 ## Download
 

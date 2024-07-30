@@ -87,4 +87,15 @@ We show the data structure by taking `en2zh-01-tech` as example.
 
 This dataset is released under the Creative Commons Attribution 4.0 International License. Please refer to [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) for more details.
 
+## Citation
+Please cite us as
+```
+@article{Cheng2024TowardsAH,
+  title={Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent},
+  author={Cheng, Shanbo and Huang, Zhichao and Ko, Tom and Li, Hang, and Peng, Ningxin and Xu, Lu, and Zhang, Qini},
+  year={2024},
+  url={https://byteresearchcla.github.io/clasi/technical_report.pdf}
+}
+```
+
 

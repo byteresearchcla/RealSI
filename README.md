@@ -1,5 +1,10 @@
 # RealSI
 
+[![License](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Paper](https://img.shields.io/badge/arXiv-2407.21646-red.svg)](https://arxiv.org/abs/2407.21646)
+[![Website](https://img.shields.io/badge/Website-CLASI-gr.svg)](https://byteresearchcla.github.io/clasi/)
+
+
 RealSI: Open Benchmark for Simultaneous Interpretation in Real-world Scenarios
 
 ![RealSI](resource/ST.jpeg)

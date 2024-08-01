@@ -4,7 +4,7 @@ RealSI: Open Benchmark for Simultaneous Interpretation in Real-world Scenarios
 
 ![RealSI](resource/ST.jpeg)
 
-For details of the dataset, please refer to the [Technical Report](https://byteresearchcla.github.io/clasi/technical_report.pdf) of Cross Language Agent-Simultaneous Interpretation, `CLASI`.
+For details of the dataset, please refer to the [Technical Report](https://arxiv.org/abs/2407.21646) of Cross Language Agent-Simultaneous Interpretation, `CLASI`.
 
 ## Download
 
@@ -94,7 +94,7 @@ Please cite us as
   title={Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent},
   author={Cheng, Shanbo and Huang, Zhichao and Ko, Tom and Li, Hang, and Peng, Ningxin and Xu, Lu, and Zhang, Qini},
   year={2024},
-  url={https://byteresearchcla.github.io/clasi/technical_report.pdf}
+  url={https://arxiv.org/abs/2407.21646}
 }
 ```
 

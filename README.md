@@ -95,11 +95,12 @@ This dataset is released under the Creative Commons Attribution 4.0 Internationa
 ## Citation
 Please cite us as
 ```
-@article{Cheng2024TowardsAH,
+@article{cheng2024towards,
   title={Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent},
-  author={Cheng, Shanbo and Huang, Zhichao and Ko, Tom and Li, Hang, and Peng, Ningxin and Xu, Lu, and Zhang, Qini},
-  year={2024},
-  url={https://arxiv.org/abs/2407.21646}
+  author={Cheng, Shanbo and Huang, Zhichao and Ko, Tom and Li, Hang and Peng, Ningxin and Xu, Lu and Zhang, Qini},
+  journal={arXiv preprint arXiv:2407.21646},
+  url={https://arxiv.org/abs/2407.21646},
+  year={2024}
 }
 ```
 

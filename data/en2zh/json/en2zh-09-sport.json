@@ -5,8 +5,8 @@
         {
             "start_time": 130,
             "end_time": 3690,
-            "src_text": "Who's gonna come second to England?That's the that's the real question here.",
-            "trg_text": "谁会排在英格兰后面？ 这才是真正的问题。",
+            "src_text": "Who's gonna come second to England? That's the that's the real question here.",
+            "trg_text": "谁会排在英格兰后面？这才是真正的问题。",
             "utterance": [
                 {
                     "sub_start_time": 130,
@@ -57,8 +57,8 @@
         {
             "start_time": 6740,
             "end_time": 11610,
-            "src_text": "You can pick up teams that we haven't talked about,most of them being big teams that maybe not being as good recently.",
-            "trg_text": "你可以选一些我们没提到过的球队， 大多数都是大球队，只是最近表现不太好。",
+            "src_text": "You can pick up teams that we haven't talked about, most of them being big teams that maybe not being as good recently.",
+            "trg_text": "你可以选一些我们没提到过的球队，大多数都是大球队，只是最近表现不太好。",
             "utterance": [
                 {
                     "sub_start_time": 6740,
@@ -124,8 +124,8 @@
         {
             "start_time": 17180,
             "end_time": 20070,
-            "src_text": "But they have just beaten Portugal,who we've had as one of the favorites.",
-            "trg_text": "他们刚刚击败了葡萄牙， 葡萄牙可是夺冠热门球队之一。",
+            "src_text": "But they have just beaten Portugal, who we've had as one of the favorites.",
+            "trg_text": "他们刚刚击败了葡萄牙，葡萄牙可是夺冠热门球队之一。",
             "utterance": [
                 {
                     "sub_start_time": 17180,
@@ -176,8 +176,8 @@
         {
             "start_time": 27000,
             "end_time": 34150,
-            "src_text": "but they've got um Spalletti is the coach who's recently won Serie A with Napoli,so a very good coach there as well.",
-            "trg_text": "但有了斯帕莱蒂做教练，他最近才带领那不勒斯赢了意甲， 所以是一位非常不错的教练。",
+            "src_text": "but they've got um Spalletti is the coach who's recently won Serie A with Napoli, so a very good coach there as well.",
+            "trg_text": "但有了斯帕莱蒂做教练，他最近才带领那不勒斯赢了意甲，所以是一位非常不错的教练。",
             "utterance": [
                 {
                     "sub_start_time": 27000,
@@ -198,8 +198,8 @@
         {
             "start_time": 34480,
             "end_time": 39960,
-            "src_text": "Um, other teams I guess Netherlands are for me,um, again a gr- great squad,",
-            "trg_text": "其他球队的话，我觉得荷兰这支队伍 也不错，",
+            "src_text": "Um, other teams I guess Netherlands are for me, um, again a gr- great squad,",
+            "trg_text": "其他球队的话，我觉得荷兰这支队伍也不错，",
             "utterance": [
                 {
                     "sub_start_time": 34480,
@@ -235,8 +235,8 @@
         {
             "start_time": 42730,
             "end_time": 47240,
-            "src_text": "um and has been questions rise,but that his management of previous tournaments...",
-            "trg_text": "总是出现各种问题， 但他之前执教的杯赛……",
+            "src_text": "um and has been questions rise, but that his management of previous tournaments...",
+            "trg_text": "总是出现各种问题，但他之前执教的杯赛……",
             "utterance": [
                 {
                     "sub_start_time": 42730,
@@ -272,8 +272,8 @@
         {
             "start_time": 53040,
             "end_time": 58550,
-            "src_text": "Um, I think Belgium are interestingbecause we've just gone through, like, ten years of Belgium having a golden generation of players",
-            "trg_text": "比利时会有看头， 因为我们刚经历了10年左右的比利时球员黄金时代，",
+            "src_text": "Um, I think Belgium are interesting because we've just gone through, like, ten years of Belgium having a golden generation of players",
+            "trg_text": "比利时会有看头，因为我们刚经历了10年左右的比利时球员黄金时代，",
             "utterance": [
                 {
                     "sub_start_time": 53040,
@@ -309,8 +309,8 @@
         {
             "start_time": 63000,
             "end_time": 65900,
-            "src_text": "Everyone was like that.And they never they never did it.",
-            "trg_text": "大家都这么觉得。 但是他们从来没赢过。",
+            "src_text": "Everyone was like that. And they never they never did it.",
+            "trg_text": "大家都这么觉得。但是他们从来没赢过。",
             "utterance": [
                 {
                     "sub_start_time": 63000,
@@ -331,8 +331,8 @@
         {
             "start_time": 66000,
             "end_time": 72680,
-            "src_text": "Um, now they got rid of most of that group of golden generation,but they got some of the key players in that,",
-            "trg_text": "现在他们失去了黄金一代的大部分球员， 但还留着一些核心球员。",
+            "src_text": "Um, now they got rid of most of that group of golden generation, but they got some of the key players in that,",
+            "trg_text": "现在他们失去了黄金一代的大部分球员，但还留着一些核心球员。",
             "utterance": [
                 {
                     "sub_start_time": 66000,
@@ -353,8 +353,8 @@
         {
             "start_time": 72680,
             "end_time": 77890,
-            "src_text": "so Lukaku still plays at front.Kevin De Bruyne is still there in midfield,Jan Vertonghen is still in defense,believe it or not.",
-            "trg_text": "卢卡库还在打前场， 凯文·德布劳内还在打中场， 扬·维尔通亨还在打防守， 不管你信不信。",
+            "src_text": "so Lukaku still plays at front. Kevin De Bruyne is still there in midfield, Jan Vertonghen is still in defense, believe it or not.",
+            "trg_text": "卢卡库还在打前场，凯文·德布劳内还在打中场，扬·维尔通亨还在打防守，不管你信不信。",
             "utterance": [
                 {
                     "sub_start_time": 72680,
@@ -389,8 +389,8 @@
         {
             "start_time": 78150,
             "end_time": 80860,
-            "src_text": "I'm not sure how much game time he'll getor how old he even is.",
-            "trg_text": "不知道他能在比赛中打多长时间， 也不知道他多大岁数了。",
+            "src_text": "I'm not sure how much game time he'll get or how old he even is.",
+            "trg_text": "不知道他能在比赛中打多长时间，也不知道他多大岁数了。",
             "utterance": [
                 {
                     "sub_start_time": 78150,
@@ -456,8 +456,8 @@
         {
             "start_time": 86500,
             "end_time": 89090,
-            "src_text": "yeah. That's actually true of a lot of players.It's actually true.",
-            "trg_text": "是呀，其实大多数球员都是这样。 确实是这样。",
+            "src_text": "yeah. That's actually true of a lot of players. It's actually true.",
+            "trg_text": "是呀，其实大多数球员都是这样。确实是这样。",
             "utterance": [
                 {
                     "sub_start_time": 86500,
@@ -478,8 +478,8 @@
         {
             "start_time": 89090,
             "end_time": 90789,
-            "src_text": "It's not really that surprising but...It's not.",
-            "trg_text": "这没啥好惊讶的。 确实。",
+            "src_text": "It's not really that surprising but... It's not.",
+            "trg_text": "这没啥好惊讶的。确实。",
             "utterance": [
                 {
                     "sub_start_time": 89090,
@@ -545,8 +545,8 @@
         {
             "start_time": 102420,
             "end_time": 107000,
-            "src_text": "And then they got some really fun attacking players as well.So Jérémy Doku, Johan Bakayoko,",
-            "trg_text": "同时比利时也有很不错的进攻型球员。 像杰雷米·多库，约翰·巴卡约科，",
+            "src_text": "And then they got some really fun attacking players as well. So Jérémy Doku, Johan Bakayoko,",
+            "trg_text": "同时比利时也有很不错的进攻型球员。像杰雷米·多库，约翰·巴卡约科，",
             "utterance": [
                 {
                     "sub_start_time": 102420,
@@ -612,8 +612,8 @@
         {
             "start_time": 118509,
             "end_time": 123310,
-            "src_text": "So I think what's gonna happen is people will think,oh, this isn't the golden generation anymore;this isn't a great team,",
-            "trg_text": "我觉得大家会认为 这支球队已经不是黄金一代了， 不是一支伟大的球队。",
+            "src_text": "So I think what's gonna happen is people will think, oh, this isn't the golden generation anymore; this isn't a great team,",
+            "trg_text": "我觉得大家会认为这支球队已经不是黄金一代了，不是一支伟大的球队。",
             "utterance": [
                 {
                     "sub_start_time": 118509,
@@ -656,8 +656,8 @@
         {
             "start_time": 127630,
             "end_time": 131920,
-            "src_text": "They've still got some great players to be able to benefit from thatand people will be pleasantly surprised by them.",
-            "trg_text": "还会有球员将从中获益， 球迷也会为他们感到惊讶和欣喜。",
+            "src_text": "They've still got some great players to be able to benefit from that and people will be pleasantly surprised by them.",
+            "trg_text": "还会有球员将从中获益，球迷也会为他们感到惊讶和欣喜。",
             "utterance": [
                 {
                     "sub_start_time": 127630,
@@ -753,8 +753,8 @@
         {
             "start_time": 143470,
             "end_time": 148670,
-            "src_text": "They don't have the forwards to finish off the chances.Sure. But strong midfield and Granit Xhaka, yeah, that can help you.",
-            "trg_text": "他们没有可以兑现这些机会的前锋。 的确。但是有强劲的中场格拉尼特·扎卡可以帮他们。",
+            "src_text": "They don't have the forwards to finish off the chances. Sure. But strong midfield and Granit Xhaka, yeah, that can help you.",
+            "trg_text": "他们没有可以兑现这些机会的前锋。的确。但是有强劲的中场格拉尼特·扎卡可以帮他们。",
             "utterance": [
                 {
                     "sub_start_time": 143470,
@@ -790,8 +790,8 @@
         {
             "start_time": 150790,
             "end_time": 157060,
-            "src_text": "I also think um Ukraine will be better than, um,I certainly thought before I started looking into research for this video.",
-            "trg_text": "我还觉得乌克兰的表现会更好， 比我做这个视频开始查资料时想的要好，",
+            "src_text": "I also think um Ukraine will be better than, um, I certainly thought before I started looking into research for this video.",
+            "trg_text": "我还觉得乌克兰的表现会更好，比我做这个视频开始查资料时想的要好，",
             "utterance": [
                 {
                     "sub_start_time": 150790,
@@ -812,8 +812,8 @@
         {
             "start_time": 157090,
             "end_time": 162460,
-            "src_text": "Uh-huh. In that they have fast wingers.Well it, well Mudryk is very fast.",
-            "trg_text": "因为他们的边锋很快。 穆德雷克就非常快。",
+            "src_text": "Uh-huh. In that they have fast wingers. Well it, well Mudryk is very fast.",
+            "trg_text": "因为他们的边锋很快。穆德雷克就非常快。",
             "utterance": [
                 {
                     "sub_start_time": 157090,
@@ -849,8 +849,8 @@
         {
             "start_time": 165890,
             "end_time": 171740,
-            "src_text": "They also had the league's top scorer up top,uh, and they have sort of a half decent rest of the team,",
-            "trg_text": "乌克兰还有联赛射手榜上的最佳射手坐阵前场。 球队其他队员也算是相当不错的，",
+            "src_text": "They also had the league's top scorer up top, uh, and they have sort of a half decent rest of the team,",
+            "trg_text": "乌克兰还有联赛射手榜上的最佳射手坐阵前场。球队其他队员也算是相当不错的，",
             "utterance": [
                 {
                     "sub_start_time": 165890,
@@ -901,8 +901,8 @@
         {
             "start_time": 180510,
             "end_time": 182390,
-            "src_text": "And Zinchenko, of course.Zinchenko, of course.",
-            "trg_text": "还有津琴科。 津琴科，当然。",
+            "src_text": "And Zinchenko, of course. Zinchenko, of course.",
+            "trg_text": "还有津琴科。津琴科，当然。",
             "utterance": [
                 {
                     "sub_start_time": 180510,
@@ -923,8 +923,8 @@
         {
             "start_time": 182390,
             "end_time": 186590,
-            "src_text": "Well, and the things like outside of football will probably be relevant,and bringing a team together",
-            "trg_text": "还有球场外的因素也会产生影响， 让球队团结起来。",
+            "src_text": "Well, and the things like outside of football will probably be relevant, and bringing a team together",
+            "trg_text": "还有球场外的因素也会产生影响，让球队团结起来。",
             "utterance": [
                 {
                     "sub_start_time": 182390,
@@ -960,8 +960,8 @@
         {
             "start_time": 189390,
             "end_time": 192930,
-            "src_text": "They're basically ambassadors for everything they're doingcause obviously there's a war.",
-            "trg_text": "他们基本上所做的每件事都相当于是国家大使在做， 因为他们国家处于战争中。",
+            "src_text": "They're basically ambassadors for everything they're doing cause obviously there's a war.",
+            "trg_text": "他们基本上所做的每件事都相当于是国家大使在做，因为他们国家处于战争中。",
             "utterance": [
                 {
                     "sub_start_time": 189390,
@@ -997,8 +997,8 @@
         {
             "start_time": 196360,
             "end_time": 199880,
-            "src_text": "whether it adds pressure to themor whether it helps galvanize them and come together.",
-            "trg_text": "是会给他们施加压力， 还是激励他们团结起来。",
+            "src_text": "whether it adds pressure to them or whether it helps galvanize them and come together.",
+            "trg_text": "是会给他们施加压力，还是激励他们团结起来。",
             "utterance": [
                 {
                     "sub_start_time": 196360,
@@ -1019,8 +1019,8 @@
         {
             "start_time": 199880,
             "end_time": 201990,
-            "src_text": "You might see that,but just in football in terms",
-            "trg_text": "如果你注意观察， 但仅就足球而言，",
+            "src_text": "You might see that, but just in football in terms",
+            "trg_text": "如果你注意观察，但仅就足球而言，",
             "utterance": [
                 {
                     "sub_start_time": 199880,
@@ -1041,8 +1041,8 @@
         {
             "start_time": 201990,
             "end_time": 204860,
-            "src_text": "I think if all the teams of look through,they're all right as you...",
-            "trg_text": "会发现所有球队 都挺不错的。",
+            "src_text": "I think if all the teams of look through, they're all right as you...",
+            "trg_text": "会发现所有球队都挺不错的。",
             "utterance": [
                 {
                     "sub_start_time": 201990,

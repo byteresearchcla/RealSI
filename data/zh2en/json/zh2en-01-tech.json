@@ -159,7 +159,12 @@
                     "sub_end_time": 33570,
                     "sub_src_text": "所以是有这个survival bias的。",
                     "sub_trg_text": "so it's inevitable for me to have survival bias.",
-                    "term": []
+                    "term": [
+                        {
+                            "src": "survival bias",
+                            "trg": "survival bias"
+                        }
+                    ]
                 }
             ]
         },
@@ -563,7 +568,12 @@
                     "sub_end_time": 146940,
                     "sub_src_text": "或者是OKR的呃传递，",
                     "sub_trg_text": "the transmission of OKRs, or the alignment from top to bottom.",
-                    "term": []
+                    "term": [
+                        {
+                            "src": "OKR",
+                            "trg": "OKRs"
+                        }
+                    ]
                 },
                 {
                     "sub_start_time": 146940,
@@ -882,7 +892,12 @@
                     "sub_end_time": 223910,
                     "sub_src_text": "我们可以称之为叫做人设吧。",
                     "sub_trg_text": "can be regarded as public persona,",
-                    "term": []
+                    "term": [
+                        {
+                            "src": "人设",
+                            "trg": "public persona"
+                        }
+                    ]
                 }
             ]
         },
@@ -912,7 +927,12 @@
                     "sub_end_time": 230050,
                     "sub_src_text": "而在这个特定的人设下，",
                     "sub_trg_text": "With this specific public persona,",
-                    "term": []
+                    "term": [
+                        {
+                            "src": "人设",
+                            "trg": "public persona"
+                        }
+                    ]
                 },
                 {
                     "sub_start_time": 230050,
@@ -934,7 +954,12 @@
                     "sub_end_time": 239950,
                     "sub_src_text": "呃他是要依据一个呃跟那个人设对应的规则体系。",
                     "sub_trg_text": "should be in compliance with a rule system corresponding to that persona.",
-                    "term": []
+                    "term": [
+                        {
+                            "src": "人设",
+                            "trg": "persona"
+                        }
+                    ]
                 },
                 {
                     "sub_start_time": 240540,

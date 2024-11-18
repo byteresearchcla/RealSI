@@ -5,8 +5,8 @@
         {
             "start_time": 0,
             "end_time": 5790,
-            "src_text": "Round-robin um um load balancing scheme,so I'm not sure if that's getting it what you're asking?",
-            "trg_text": "轮询负载均衡方案。 不知道这是不是你想要的答案。",
+            "src_text": "Round-robin um um load balancing scheme, so I'm not sure if that's getting it what you're asking?",
+            "trg_text": "轮询负载均衡方案。不知道这是不是你想要的答案。",
             "utterance": [
                 {
                     "sub_start_time": 0,
@@ -71,8 +71,8 @@
         {
             "start_time": 12310,
             "end_time": 17840,
-            "src_text": "Mark mentioned looking at different metrics as a way to load balance across different servers,which was a clever approach.",
-            "trg_text": "马克谈到了用不同的指标对不同服务器进行负载均衡， 这个方法很巧妙。",
+            "src_text": "Mark mentioned looking at different metrics as a way to load balance across different servers, which was a clever approach.",
+            "trg_text": "马克谈到了用不同的指标对不同服务器进行负载均衡，这个方法很巧妙。",
             "utterance": [
                 {
                     "sub_start_time": 12310,
@@ -110,8 +110,8 @@
         {
             "start_time": 18250,
             "end_time": 23030,
-            "src_text": "Mark was very open about the fact that load balancing isn't an area he's an expert onand this is okay.",
-            "trg_text": "马克坦诚地说他并不擅长负载均衡， 但没关系。",
+            "src_text": "Mark was very open about the fact that load balancing isn't an area he's an expert on and this is okay.",
+            "trg_text": "马克坦诚地说他并不擅长负载均衡，但没关系。",
             "utterance": [
                 {
                     "sub_start_time": 18250,
@@ -156,8 +156,8 @@
         {
             "start_time": 27720,
             "end_time": 33000,
-            "src_text": "Okay, cool. Um, yeah, all right,are you are you are you done with your design,",
-            "trg_text": "好的。 你的设计部分介绍完了吗？",
+            "src_text": "Okay, cool. Um, yeah, all right, are you are you are you done with your design,",
+            "trg_text": "好的。你的设计部分介绍完了吗？",
             "utterance": [
                 {
                     "sub_start_time": 27720,
@@ -193,8 +193,8 @@
         {
             "start_time": 36910,
             "end_time": 46040,
-            "src_text": "Yeah, let me think about that and gimme gimme just a moment like II mean it again it you know I've way oversimplified this but um, um...",
-            "trg_text": "我想想。 我把问题太过简单化了，但是……",
+            "src_text": "Yeah, let me think about that and gimme gimme just a moment like I I mean it again it you know I've way oversimplified this but um, um...",
+            "trg_text": "我想想。我把问题太过简单化了，但是……",
             "utterance": [
                 {
                     "sub_start_time": 36910,
@@ -230,8 +230,8 @@
         {
             "start_time": 55190,
             "end_time": 62750,
-            "src_text": "I mean Spotify is a global appand so, it's it's possible so uh replication,",
-            "trg_text": "Spotify 是个全球性软件， 有可能进行复制。",
+            "src_text": "I mean Spotify is a global app and so, it's it's possible so uh replication,",
+            "trg_text": "Spotify 是个全球性软件，有可能进行复制。",
             "utterance": [
                 {
                     "sub_start_time": 55190,
@@ -272,8 +272,8 @@
         {
             "start_time": 65970,
             "end_time": 71830,
-            "src_text": "to say hey, maybe three, three x replication and replication right,why do we do this?",
-            "trg_text": "比如三重复制。 为什么这样做呢？",
+            "src_text": "to say hey, maybe three, three x replication and replication right, why do we do this?",
+            "trg_text": "比如三重复制。为什么这样做呢？",
             "utterance": [
                 {
                     "sub_start_time": 65970,
@@ -319,8 +319,8 @@
         {
             "start_time": 77910,
             "end_time": 86580,
-            "src_text": "so if, so you know if I if I were to you know,I mean like, do this right to indicate three replicas but that's that's a little, naive,",
-            "trg_text": "但是如果我要是 做了这个，来显示它有三个副本，那有点小儿科了，",
+            "src_text": "so if, so you know if I if I were to you know, I mean like, do this right to indicate three replicas but that's that's a little, naive,",
+            "trg_text": "但是如果我要是做了这个，来显示它有三个副本，那有点小儿科了，",
             "utterance": [
                 {
                     "sub_start_time": 77910,
@@ -410,8 +410,8 @@
         {
             "start_time": 106810,
             "end_time": 113910,
-            "src_text": "and so from a global perspective,you might have music that is more local",
-            "trg_text": "从全球视野来看， 你就会有更加本地化的音乐，",
+            "src_text": "and so from a global perspective, you might have music that is more local",
+            "trg_text": "从全球视野来看，你就会有更加本地化的音乐，",
             "utterance": [
                 {
                     "sub_start_time": 106810,
@@ -432,8 +432,8 @@
         {
             "start_time": 113910,
             "end_time": 119979,
-            "src_text": "like, um maybe European punk rock is,you know, more, listened to more in Europe,",
-            "trg_text": "比如欧洲朋克音乐 在欧洲的听众可能更多，",
+            "src_text": "like, um maybe European punk rock is, you know, more, listened to more in Europe,",
+            "trg_text": "比如欧洲朋克音乐在欧洲的听众可能更多，",
             "utterance": [
                 {
                     "sub_start_time": 113910,
@@ -459,8 +459,8 @@
         {
             "start_time": 120200,
             "end_time": 129240,
-            "src_text": "uh and maybe maybe BTS uh is,you know because it's Korean pop is maybe it's more popular actually in Korea, um or in Asia,",
-            "trg_text": "防弹少年团可能， 因为是韩国流行乐，所以可能在韩国更受欢迎，或者说在亚洲更受欢迎。",
+            "src_text": "uh and maybe maybe BTS uh is, you know because it's Korean pop is maybe it's more popular actually in Korea, um or in Asia,",
+            "trg_text": "防弹少年团可能，因为是韩国流行乐，所以可能在韩国更受欢迎，或者说在亚洲更受欢迎。",
             "utterance": [
                 {
                     "sub_start_time": 120200,
@@ -486,8 +486,8 @@
         {
             "start_time": 129440,
             "end_time": 140850,
-            "src_text": "and so you might want to have the replicas of those songs,uh and and maybe even the metadata, be more locally, uh, represented more more locally",
-            "trg_text": "所以你可能希望这些歌的副本， 甚至是元数据，更多地存储在本地，",
+            "src_text": "and so you might want to have the replicas of those songs, uh and and maybe even the metadata, be more locally, uh, represented more more locally",
+            "trg_text": "所以你可能希望这些歌的副本，甚至是元数据，更多地存储在本地，",
             "utterance": [
                 {
                     "sub_start_time": 129440,
@@ -518,8 +518,8 @@
         {
             "start_time": 140850,
             "end_time": 149760,
-            "src_text": "so that um, you can get to it faster,you don't have to cross an ocean to get to the to the data,um and uh, you know to reach it.",
-            "trg_text": "以便更快访问。 这样就不用大费周折 去获取数据。",
+            "src_text": "so that um, you can get to it faster, you don't have to cross an ocean to get to the to the data, um and uh, you know to reach it.",
+            "trg_text": "以便更快访问。这样就不用大费周折去获取数据。",
             "utterance": [
                 {
                     "sub_start_time": 140850,
@@ -567,8 +567,8 @@
         {
             "start_time": 155850,
             "end_time": 166710,
-            "src_text": "that might be a, um, a refinement I thinkthat I would might make to this design to make it just a little bit more um, uh, performant effective uh etc etc.",
-            "trg_text": "在我看来这可能是一种改进， 让这个设计更加高效能一点，等等。",
+            "src_text": "that might be a, um, a refinement I think that I would might make to this design to make it just a little bit more um, uh, performant effective uh etc etc.",
+            "trg_text": "在我看来这可能是一种改进，让这个设计更加高效能一点，等等。",
             "utterance": [
                 {
                     "sub_start_time": 155850,
@@ -594,8 +594,8 @@
         {
             "start_time": 166710,
             "end_time": 173440,
-            "src_text": "So, yeah, does that does that make sense?Yeah, yeah, I think that thing is just interesting point to add.",
-            "trg_text": "这样有意义吗？ 有的，我觉得添加的这个点很有意思。",
+            "src_text": "So, yeah, does that does that make sense? Yeah, yeah, I think that thing is just interesting point to add.",
+            "trg_text": "这样有意义吗？有的，我觉得添加的这个点很有意思。",
             "utterance": [
                 {
                     "sub_start_time": 166710,
@@ -616,8 +616,8 @@
         {
             "start_time": 174040,
             "end_time": 180800,
-            "src_text": "It's a good idea to wrap up your answer by referring back to the requirements laid out at the beginning of the interview,and confirming that your design meets them.",
-            "trg_text": "通过对照面试开头提出的要求来总结回答是个不错的做法， 也可以确保你的设计符合要求。",
+            "src_text": "It's a good idea to wrap up your answer by referring back to the requirements laid out at the beginning of the interview, and confirming that your design meets them.",
+            "trg_text": "通过对照面试开头提出的要求来总结回答是个不错的做法，也可以确保你的设计符合要求。",
             "utterance": [
                 {
                     "sub_start_time": 174040,
@@ -638,8 +638,8 @@
         {
             "start_time": 181430,
             "end_time": 188040,
-            "src_text": "If you have time,it's always nice to think big and take a quick look at the problem from a different dimensionthat could make it more complex.",
-            "trg_text": "如果时间允许， 可以大胆设想，并从另一个维度快速审视问题， 这样可以让它更复合。",
+            "src_text": "If you have time, it's always nice to think big and take a quick look at the problem from a different dimension that could make it more complex.",
+            "trg_text": "如果时间允许，可以大胆设想，并从另一个维度快速审视问题，这样可以让它更复合。",
             "utterance": [
                 {
                     "sub_start_time": 181430,
@@ -667,8 +667,8 @@
         {
             "start_time": 188570,
             "end_time": 194520,
-            "src_text": "Mark did this with his geo-location idea.He didn't go into detail,but another interviewer might have explored this further",
-            "trg_text": "马克提出了关于地理位置的想法。 他没有具体阐述， 但另一位可能深入探索了，",
+            "src_text": "Mark did this with his geo-location idea. He didn't go into detail, but another interviewer might have explored this further",
+            "trg_text": "马克提出了关于地理位置的想法。他没有具体阐述，但另一位可能深入探索了，",
             "utterance": [
                 {
                     "sub_start_time": 188570,
@@ -701,8 +701,8 @@
         {
             "start_time": 194730,
             "end_time": 200240,
-            "src_text": "and it could have opened up a whole new aspect to the design.Overall, an excellent answer from Mark.",
-            "trg_text": "而且可能为这个设计打开了全新的视角。 总之，马克的回答很精彩。",
+            "src_text": "and it could have opened up a whole new aspect to the design. Overall, an excellent answer from Mark.",
+            "trg_text": "而且可能为这个设计打开了全新的视角。总之，马克的回答很精彩。",
             "utterance": [
                 {
                     "sub_start_time": 194730,
@@ -728,8 +728,8 @@
         {
             "start_time": 200640,
             "end_time": 205000,
-            "src_text": "Yeah, great job Mark,um, I think that was a a really good approach.",
-            "trg_text": "马克，做得好。 我觉得这个方法非常好。",
+            "src_text": "Yeah, great job Mark, um, I think that was a a really good approach.",
+            "trg_text": "马克，做得好。我觉得这个方法非常好。",
             "utterance": [
                 {
                     "sub_start_time": 200640,

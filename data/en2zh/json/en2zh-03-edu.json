@@ -5,8 +5,8 @@
         {
             "start_time": 70,
             "end_time": 4860,
-            "src_text": "Listen, uh elementary, uh high school, Pre-K, higher education,whatever you choose.",
-            "trg_text": "小学、中学、学前教育、高等教育， 无论选择哪个，",
+            "src_text": "Listen, uh elementary, uh high school, Pre-K, higher education, whatever you choose.",
+            "trg_text": "小学、中学、学前教育、高等教育，无论选择哪个，",
             "utterance": [
                 {
                     "sub_start_time": 70,
@@ -27,8 +27,8 @@
         {
             "start_time": 4860,
             "end_time": 8570,
-            "src_text": "Post-K, detention,uh lemme lemme ask you this, Secretary,",
-            "trg_text": "还包括学龄后教育和留校察看。 我想问问您，部长，",
+            "src_text": "Post-K, detention, uh lemme lemme ask you this, Secretary,",
+            "trg_text": "还包括学龄后教育和留校察看。我想问问您，部长，",
             "utterance": [
                 {
                     "sub_start_time": 4860,
@@ -49,8 +49,8 @@
         {
             "start_time": 8590,
             "end_time": 18720,
-            "src_text": "we have desperately tried to fix an education systemthat basically was designed for literacy for the masses",
-            "trg_text": "我们正在极力修复教育体系， 这个体系基本上是为了教育普及而设计的，",
+            "src_text": "we have desperately tried to fix an education system that basically was designed for literacy for the masses",
+            "trg_text": "我们正在极力修复教育体系，这个体系基本上是为了教育普及而设计的，",
             "utterance": [
                 {
                     "sub_start_time": 8590,
@@ -86,8 +86,8 @@
         {
             "start_time": 23880,
             "end_time": 36840,
-            "src_text": "Uh, but it seems as though it's a bit stagnantand and hasn't been able to be as agile as maybe uh society now would would need it to be.",
-            "trg_text": "但似乎还是有点儿滞后， 可能还不够灵活，无法达到社会的要求。",
+            "src_text": "Uh, but it seems as though it's a bit stagnant and and hasn't been able to be as agile as maybe uh society now would would need it to be.",
+            "trg_text": "但似乎还是有点儿滞后，可能还不够灵活，无法达到社会的要求。",
             "utterance": [
                 {
                     "sub_start_time": 23880,
@@ -108,8 +108,8 @@
         {
             "start_time": 37020,
             "end_time": 42760,
-            "src_text": "What would your diagnosis befor what you would change about it?",
-            "trg_text": "您觉得问题出在哪儿？ 您会做哪些调整？",
+            "src_text": "What would your diagnosis be for what you would change about it?",
+            "trg_text": "您觉得问题出在哪儿？您会做哪些调整？",
             "utterance": [
                 {
                     "sub_start_time": 37020,
@@ -130,8 +130,8 @@
         {
             "start_time": 42760,
             "end_time": 46840,
-            "src_text": "Where do you where do you see it workingand and where do you see it wanting?",
-            "trg_text": "您觉得它哪些地方行得通， 哪些地方不足？",
+            "src_text": "Where do you where do you see it working and and where do you see it wanting?",
+            "trg_text": "您觉得它哪些地方行得通，哪些地方不足？",
             "utterance": [
                 {
                     "sub_start_time": 42760,
@@ -152,8 +152,8 @@
         {
             "start_time": 47640,
             "end_time": 51160,
-            "src_text": "Sure, sure, you look, I'm happy to be here,love this topic right?",
-            "trg_text": "当然，看，我很乐意来这儿， 挺喜欢这个话题的，对吧？",
+            "src_text": "Sure, sure, you look, I'm happy to be here, love this topic right?",
+            "trg_text": "当然，看，我很乐意来这儿，挺喜欢这个话题的，对吧？",
             "utterance": [
                 {
                     "sub_start_time": 47640,
@@ -174,8 +174,8 @@
         {
             "start_time": 51500,
             "end_time": 57940,
-            "src_text": "Um, I I think in general, look,education has to evolve.Uh-huh. Or become irrelevant in in our country",
-            "trg_text": "我觉得总体来说， 教育要不断发展， 否则就会在我国变得无关紧要，",
+            "src_text": "Um, I I think in general, look, education has to evolve. Uh-huh. Or become irrelevant in in our country",
+            "trg_text": "我觉得总体来说，教育要不断发展，否则就会在我国变得无关紧要，",
             "utterance": [
                 {
                     "sub_start_time": 51500,
@@ -203,8 +203,8 @@
         {
             "start_time": 57940,
             "end_time": 63720,
-            "src_text": "and we're not evolving at the pace that we need to evolve.Right.To compete internationally,",
-            "trg_text": "可我国教育的发展速度尚未达到所需水平。 确实。 要在国际上有竞争力，",
+            "src_text": "and we're not evolving at the pace that we need to evolve. Right. To compete internationally,",
+            "trg_text": "可我国教育的发展速度尚未达到所需水平。确实。要在国际上有竞争力，",
             "utterance": [
                 {
                     "sub_start_time": 57940,
@@ -232,8 +232,8 @@
         {
             "start_time": 64019,
             "end_time": 68670,
-            "src_text": "to make sure that our students have access and opportunity,all students not just some.",
-            "trg_text": "要确保我们的学生都有机会上学， 是所有学生，而非部分。",
+            "src_text": "to make sure that our students have access and opportunity, all students not just some.",
+            "trg_text": "要确保我们的学生都有机会上学，是所有学生，而非部分。",
             "utterance": [
                 {
                     "sub_start_time": 64019,
@@ -254,8 +254,8 @@
         {
             "start_time": 69340,
             "end_time": 78310,
-            "src_text": "Um, so you know, it does work in in many in many waysI mean we have, uh, some of the best higher education institutions in the world.",
-            "trg_text": "所以，这个教育体系在很多方面确实是行得通的。 我的意思是我们有全球最好的高等教育机构。",
+            "src_text": "Um, so you know, it does work in in many in many ways I mean we have, uh, some of the best higher education institutions in the world.",
+            "trg_text": "所以，这个教育体系在很多方面确实是行得通的。我的意思是我们有全球最好的高等教育机构。",
             "utterance": [
                 {
                     "sub_start_time": 69340,
@@ -276,8 +276,8 @@
         {
             "start_time": 78620,
             "end_time": 83090,
-            "src_text": "Um, the challenge is it's not really openand they're not pathways for all students.",
-            "trg_text": "但问题在于，这些院校并不是完全开放的， 不是所有学生都可以企及。",
+            "src_text": "Um, the challenge is it's not really open and they're not pathways for all students.",
+            "trg_text": "但问题在于，这些院校并不是完全开放的，不是所有学生都可以企及。",
             "utterance": [
                 {
                     "sub_start_time": 78620,
@@ -298,8 +298,8 @@
         {
             "start_time": 83420,
             "end_time": 86270,
-            "src_text": "So what we need to do ismake sure that we're providing better pathways.",
-            "trg_text": "所以我们要做的是 确保能提供更好的途径。",
+            "src_text": "So what we need to do is make sure that we're providing better pathways.",
+            "trg_text": "所以我们要做的是确保能提供更好的途径。",
             "utterance": [
                 {
                     "sub_start_time": 83420,
@@ -320,8 +320,8 @@
         {
             "start_time": 86500,
             "end_time": 95610,
-            "src_text": "And I'm gonna expand that a little bit,not only higher education,exactly there's a mentality in this countryof four-years or bust four-year colleges or bust. Uh-huh.",
-            "trg_text": "我再稍微展开说一说。 不只是高等教育， 实际上在咱们国家有一种观念， 就是非上四年制大学不可。",
+            "src_text": "And I'm gonna expand that a little bit, not only higher education, exactly there's a mentality in this country of four-years or bust four-year colleges or bust. Uh-huh.",
+            "trg_text": "我再稍微展开说一说。不只是高等教育，实际上在咱们国家有一种观念，就是非上四年制大学不可。",
             "utterance": [
                 {
                     "sub_start_time": 86500,
@@ -356,8 +356,8 @@
         {
             "start_time": 95610,
             "end_time": 102470,
-            "src_text": "There are so many opportunities now in our two-year schools,and even in our K-twelve system or Pre-K-twelve system,",
-            "trg_text": "可现在我们的两年制学校有很多机会， 甚至在 K-12 教育或 PreK-12 教育体系中，",
+            "src_text": "There are so many opportunities now in our two-year schools, and even in our K-twelve system or Pre-K-twelve system,",
+            "trg_text": "可现在我们的两年制学校有很多机会，甚至在 K-12 教育或 PreK-12 教育体系中，",
             "utterance": [
                 {
                     "sub_start_time": 95610,
@@ -378,8 +378,8 @@
         {
             "start_time": 102810,
             "end_time": 108330,
-            "src_text": "uh getting credentials or micro credentialsand joining the workforceand high skill high paying jobs.",
-            "trg_text": "都有很多机会能获取证书或微证书， 然后进入劳动力市场， 获得高技能高薪酬的工作。",
+            "src_text": "uh getting credentials or micro credentials and joining the workforce and high skill high paying jobs.",
+            "trg_text": "都有很多机会能获取证书或微证书，然后进入劳动力市场，获得高技能高薪酬的工作。",
             "utterance": [
                 {
                     "sub_start_time": 102810,
@@ -407,8 +407,8 @@
         {
             "start_time": 109009,
             "end_time": 115289,
-            "src_text": "So when I say we need to evolve,I think our Pre-K-twelve system needs to evolve,our higher education system needs to evolve,",
-            "trg_text": "所以我所谓的我们需要发展， 是我认为我们的 PreK-12 教育体系有待改进， 高等教育体系也有待完善，",
+            "src_text": "So when I say we need to evolve, I think our Pre-K-twelve system needs to evolve, our higher education system needs to evolve,",
+            "trg_text": "所以我所谓的我们需要发展，是我认为我们的 PreK-12 教育体系有待改进，高等教育体系也有待完善，",
             "utterance": [
                 {
                     "sub_start_time": 109009,
@@ -436,8 +436,8 @@
         {
             "start_time": 115530,
             "end_time": 120340,
-            "src_text": "to be more connected to the opportunities that exist in this country and beyonduh for all of our students.",
-            "trg_text": "要与国内外的机遇更紧密地接轨， 为所有学生提供机会。",
+            "src_text": "to be more connected to the opportunities that exist in this country and beyond uh for all of our students.",
+            "trg_text": "要与国内外的机遇更紧密地接轨，为所有学生提供机会。",
             "utterance": [
                 {
                     "sub_start_time": 115530,
@@ -458,8 +458,8 @@
         {
             "start_time": 120430,
             "end_time": 131270,
-            "src_text": "I li- I like the idea of micro credentials.I I think I think I think mini credentials,micro credentials, whatever, whatever, tiny credentialsyou could have and you could even make tiny diplomas for everybody,you get some like little stamps.",
-            "trg_text": "我喜欢“微证书”这个概念。 我觉得不论是“迷你证书”， “微证书”还是“小证书”，无论什么， 我们甚至可以为每个人制作一份小型文凭， 在上面印上微型印章。",
+            "src_text": "I li- I like the idea of micro credentials. I I think I think I think mini credentials, micro credentials, whatever, whatever, tiny credentials you could have and you could even make tiny diplomas for everybody, you get some like little stamps.",
+            "trg_text": "我喜欢“微证书”这个概念。我觉得不论是“迷你证书”，“微证书”还是“小证书”，无论什么，我们甚至可以为每个人制作一份小型文凭，在上面印上微型印章。",
             "utterance": [
                 {
                     "sub_start_time": 120430,
@@ -516,8 +516,8 @@
         {
             "start_time": 134440,
             "end_time": 140780,
-            "src_text": "So let me tell you so,my my kids are, uh a senior in high schooland a and a junior in high school,",
-            "trg_text": "我跟您说， 我的两个小孩，一个在读高中高年级， 另一个在读高中低年级，",
+            "src_text": "So let me tell you so, my my kids are, uh a senior in high school and a and a junior in high school,",
+            "trg_text": "我跟您说，我的两个小孩，一个在读高中高年级，另一个在读高中低年级，",
             "utterance": [
                 {
                     "sub_start_time": 134440,
@@ -545,8 +545,8 @@
         {
             "start_time": 140780,
             "end_time": 145510,
-            "src_text": "and and they're very fortunate to go to a a really nice schooland a really nice placeand all those different things.",
-            "trg_text": "他们很幸运能去很好的学校， 很好的地方， 体验不同的事物。",
+            "src_text": "and and they're very fortunate to go to a a really nice school and a really nice place and all those different things.",
+            "trg_text": "他们很幸运能去很好的学校，很好的地方，体验不同的事物。",
             "utterance": [
                 {
                     "sub_start_time": 140780,
@@ -574,8 +574,8 @@
         {
             "start_time": 146210,
             "end_time": 150970,
-            "src_text": "Uh, and my mother was a teacherfor I think a hundred and eighty-six years.",
-            "trg_text": "我母亲是一名教师， 在我看来她教了足有 186 年书。",
+            "src_text": "Uh, and my mother was a teacher for I think a hundred and eighty-six years.",
+            "trg_text": "我母亲是一名教师，在我看来她教了足有 186 年书。",
             "utterance": [
                 {
                     "sub_start_time": 146210,
@@ -611,8 +611,8 @@
         {
             "start_time": 159130,
             "end_time": 171190,
-            "src_text": "What's interesting to me about education is the teachers, I think, feel disassociated from it in that they're, the ideasin that they're, the ideas they're teaching to kind of standardized testing",
-            "trg_text": "于我而言，教育有意思的地方在于教师，我觉得教师跟教育脱节了， 因为他们是为了应对标准化考试而教学，",
+            "src_text": "What's interesting to me about education is the teachers, I think, feel disassociated from it in that they're, the ideas in that they're, the ideas they're teaching to kind of standardized testing",
+            "trg_text": "于我而言，教育有意思的地方在于教师，我觉得教师跟教育脱节了，因为他们是为了应对标准化考试而教学，",
             "utterance": [
                 {
                     "sub_start_time": 159130,
@@ -633,8 +633,8 @@
         {
             "start_time": 171190,
             "end_time": 183100,
-            "src_text": "that so much of of what they have to do is based on a testing regimentthat's attempting to uh assess students on certain standardizations,",
-            "trg_text": "很多时候不得不遵循考试制度， 这种考试制度会以一些特定标准评估学生，",
+            "src_text": "that so much of of what they have to do is based on a testing regiment that's attempting to uh assess students on certain standardizations,",
+            "trg_text": "很多时候不得不遵循考试制度，这种考试制度会以一些特定标准评估学生，",
             "utterance": [
                 {
                     "sub_start_time": 171190,
@@ -655,8 +655,8 @@
         {
             "start_time": 183100,
             "end_time": 187140,
-            "src_text": "but I think, as you know,that doesn't work for all students in all communities.",
-            "trg_text": "但我觉得，您也知道， 这并不适用于所有社群中的所有学生。",
+            "src_text": "but I think, as you know, that doesn't work for all students in all communities.",
+            "trg_text": "但我觉得，您也知道，这并不适用于所有社群中的所有学生。",
             "utterance": [
                 {
                     "sub_start_time": 183100,
@@ -677,8 +677,8 @@
         {
             "start_time": 187220,
             "end_time": 199210,
-            "src_text": "What I've noticed about their enthusiasm for learningis the more relevant subjects have to the actual world that they live in,",
-            "trg_text": "我注意到他们的学习热情在于， 学习与他们所在的现实世界更相关的科目，",
+            "src_text": "What I've noticed about their enthusiasm for learning is the more relevant subjects have to the actual world that they live in,",
+            "trg_text": "我注意到他们的学习热情在于，学习与他们所在的现实世界更相关的科目，",
             "utterance": [
                 {
                     "sub_start_time": 187220,
@@ -714,8 +714,8 @@
         {
             "start_time": 204380,
             "end_time": 216970,
-            "src_text": "Because so much of their time has to be spenton boiling things down to this standardized box that everybody is placed in.",
-            "trg_text": "因为他们得花太多时间 将所有学生置于这个标准化的框框里。",
+            "src_text": "Because so much of their time has to be spent on boiling things down to this standardized box that everybody is placed in.",
+            "trg_text": "因为他们得花太多时间将所有学生置于这个标准化的框框里。",
             "utterance": [
                 {
                     "sub_start_time": 204380,
@@ -736,8 +736,8 @@
         {
             "start_time": 217650,
             "end_time": 232390,
-            "src_text": "You know, we've had a fascination. Uh-huh. In this country with standardized assessments,and unfortunately in many places we lost our wayand we lost students in the process.",
-            "trg_text": "您知道，咱们国家一直对标准化评估很痴迷， 但不幸的是，很多情况下我们不仅迷失了方向， 而且还在此过程中失去了学生。",
+            "src_text": "You know, we've had a fascination. Uh-huh. In this country with standardized assessments, and unfortunately in many places we lost our way and we lost students in the process.",
+            "trg_text": "您知道，咱们国家一直对标准化评估很痴迷，但不幸的是，很多情况下我们不仅迷失了方向，而且还在此过程中失去了学生。",
             "utterance": [
                 {
                     "sub_start_time": 217650,
@@ -765,8 +765,8 @@
         {
             "start_time": 233210,
             "end_time": 244180,
-            "src_text": "We're overly enamored with uh misusing those dataand labeling schoolsand putting scarlet letters on districts that are working twice as hard to meet the needs of students.",
-            "trg_text": "我们太痴迷于滥用那些数据， 给学校贴标签， 给那些加倍努力满足学生需求的地区贴上耻辱的标签。",
+            "src_text": "We're overly enamored with uh misusing those data and labeling schools and putting scarlet letters on districts that are working twice as hard to meet the needs of students.",
+            "trg_text": "我们太痴迷于滥用那些数据，给学校贴标签，给那些加倍努力满足学生需求的地区贴上耻辱的标签。",
             "utterance": [
                 {
                     "sub_start_time": 233210,
@@ -794,8 +794,8 @@
         {
             "start_time": 244640,
             "end_time": 253480,
-            "src_text": "John, when I was a school principal,I had this young girl from Dominican Republic coming to the school,right, uh, where I was serving.",
-            "trg_text": "约翰，我做校长时， 有个来自多米尼加共和国的小女孩来我们学校， 就在我任职的那个学校。",
+            "src_text": "John, when I was a school principal, I had this young girl from Dominican Republic coming to the school, right, uh, where I was serving.",
+            "trg_text": "约翰，我做校长时，有个来自多米尼加共和国的小女孩来我们学校，就在我任职的那个学校。",
             "utterance": [
                 {
                     "sub_start_time": 244640,
@@ -823,8 +823,8 @@
         {
             "start_time": 254120,
             "end_time": 259490,
-            "src_text": "She was about nine years old.Uh, she was learning English,very little English. Uh-huh.",
-            "trg_text": "她当时大概九岁。 她在学英语， 因为她几乎不懂英文。",
+            "src_text": "She was about nine years old. Uh, she was learning English, very little English. Uh-huh.",
+            "trg_text": "她当时大概九岁。她在学英语，因为她几乎不懂英文。",
             "utterance": [
                 {
                     "sub_start_time": 254120,
@@ -852,8 +852,8 @@
         {
             "start_time": 259490,
             "end_time": 267570,
-            "src_text": "Um, she had exceptionality,so she had an IEP,uh, and I understand your mother was a special education.She was. Teacher.",
-            "trg_text": "她情况有点特殊， 因此参与了个别化教育计划（IEP）， 我知道你母亲也是从事特殊教育的。 是的，她是一名教师。",
+            "src_text": "Um, she had exceptionality, so she had an IEP, uh, and I understand your mother was a special education. She was a teacher.",
+            "trg_text": "她情况有点特殊，因此参与了个别化教育计划（IEP），我知道你母亲也是从事特殊教育的。她是一名教师。",
             "utterance": [
                 {
                     "sub_start_time": 259490,
@@ -879,8 +879,8 @@
                 {
                     "sub_start_time": 266530,
                     "sub_end_time": 267570,
-                    "sub_src_text": "She was. Teacher.",
-                    "sub_trg_text": "是的，她是一名教师。",
+                    "sub_src_text": "She was a teacher.",
+                    "sub_trg_text": "她是一名教师。",
                     "term": []
                 }
             ]
@@ -888,8 +888,8 @@
         {
             "start_time": 267600,
             "end_time": 271640,
-            "src_text": "So you know, it might have been a student that your mom might have supported.Right.",
-            "trg_text": "所以你也知道，你母亲可能会支持这样的学生。 对的。",
+            "src_text": "So you know, it might have been a student that your mom might have supported. Right.",
+            "trg_text": "所以你也知道，你母亲可能会支持这样的学生。对的。",
             "utterance": [
                 {
                     "sub_start_time": 267600,
@@ -910,8 +910,8 @@
         {
             "start_time": 271640,
             "end_time": 279850,
-            "src_text": "So the day of the assessment,I remember this young girl sobbing.I had to go visit hercause I was one of the few in the school that spoke Spanish. Uh-huh.",
-            "trg_text": "评估考试那天， 我记得这个小女孩在哭。 我得去看看她， 因为我算学校里为数不多会说西班牙语中的一个。",
+            "src_text": "So the day of the assessment, I remember this young girl sobbing. I had to go visit her cause I was one of the few in the school that spoke Spanish. Uh-huh.",
+            "trg_text": "评估考试那天，我记得这个小女孩在哭。我得去看看她，因为我算学校里为数不多会说西班牙语中的一个。",
             "utterance": [
                 {
                     "sub_start_time": 271640,
@@ -946,8 +946,8 @@
         {
             "start_time": 279850,
             "end_time": 290170,
-            "src_text": "She was sobbingin fear that this test in a foreign language has been put in front of herand those data were gonna be used to determine in many ways what she's capable of.",
-            "trg_text": "她在抽泣， 因为害怕眼前的这场用外语进行的考试， 而那些数据会在多方面用来判定她的能力。",
+            "src_text": "She was sobbing in fear that this test in a foreign language has been put in front of her and those data were gonna be used to determine in many ways what she's capable of.",
+            "trg_text": "她在抽泣，因为害怕眼前的这场用外语进行的考试，而那些数据会在多方面用来判定她的能力。",
             "utterance": [
                 {
                     "sub_start_time": 279850,
@@ -975,8 +975,8 @@
         {
             "start_time": 291360,
             "end_time": 298670,
-            "src_text": "We've done that too much in this country.And what the school is capable of I mean, probably the the funding of the school was reliant on this.",
-            "trg_text": "我们国家这种事儿做得太多了。 学校的资金可能都依赖这个学校的能力。",
+            "src_text": "We've done that too much in this country. And what the school is capable of I mean, probably the the funding of the school was reliant on this.",
+            "trg_text": "我们国家这种事儿做得太多了。学校的资金可能都依赖这个学校的能力。",
             "utterance": [
                 {
                     "sub_start_time": 291360,
@@ -997,8 +997,8 @@
         {
             "start_time": 298670,
             "end_time": 299830,
-            "src_text": "I'll take this step further.Yep.",
-            "trg_text": "我再进一步谈一谈。 好的。",
+            "src_text": "I'll take this step further. Yep.",
+            "trg_text": "我再进一步谈一谈。好的。",
             "utterance": [
                 {
                     "sub_start_time": 298670,

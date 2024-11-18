@@ -20,8 +20,8 @@
         {
             "start_time": 7230,
             "end_time": 10860,
-            "src_text": "So most of the timewhen we are talking about health care care system,",
-            "trg_text": "大多数时候， 我们在谈论医疗保健系统时，",
+            "src_text": "So most of the time when we are talking about health care care system,",
+            "trg_text": "大多数时候，我们在谈论医疗保健系统时，",
             "utterance": [
                 {
                     "sub_start_time": 7230,
@@ -42,8 +42,8 @@
         {
             "start_time": 10860,
             "end_time": 17960,
-            "src_text": "we are talking about improve, um, the um, efficiency,the accessibility, um, of good doctors.",
-            "trg_text": "其实谈的是提高医生的诊疗效率， 让更多人接触到优质医生资源。",
+            "src_text": "we are talking about improve, um, the um, efficiency, the accessibility, um, of good doctors.",
+            "trg_text": "其实谈的是提高医生的诊疗效率，让更多人接触到优质医生资源。",
             "utterance": [
                 {
                     "sub_start_time": 10860,
@@ -64,8 +64,8 @@
         {
             "start_time": 18310,
             "end_time": 35540,
-            "src_text": "So what we are trying to do now is we are trying to digitize,using a different type of uh devicesas well as say molecule molecular -cular profilesuh to profile the the the so called health status of uh human",
-            "trg_text": "我们目前正在尝试往数字化方向发展， 利用不同类型的设备 以及分子图谱之类的手段 描绘所谓的人体健康状况，",
+            "src_text": "So what we are trying to do now is we are trying to digitize, using a different type of uh devices as well as say molecule molecular -cular profiles uh to profile the the the so called health status of uh human",
+            "trg_text": "我们目前正在尝试往数字化方向发展，利用不同类型的设备以及分子图谱之类的手段描绘所谓的人体健康状况，",
             "utterance": [
                 {
                     "sub_start_time": 18310,
@@ -100,8 +100,8 @@
         {
             "start_time": 35550,
             "end_time": 43650,
-            "src_text": "so that we can actually track um,how, uh, people's, uh, how people's uh health status are changing over time,",
-            "trg_text": "这样我们就能真正追踪 人们的健康状况随时间的变化。",
+            "src_text": "so that we can actually track um, how, uh, people's, uh, how people's uh health status are changing over time,",
+            "trg_text": "这样我们就能真正追踪人们的健康状况随时间的变化。",
             "utterance": [
                 {
                     "sub_start_time": 35550,
@@ -122,8 +122,8 @@
         {
             "start_time": 43960,
             "end_time": 54610,
-            "src_text": "um so that we can actually, um, pre- precaution on people aboutwhether you're going to have a uh the medical event.",
-            "trg_text": "这样一来，我们就能预警人们 是否需要看医生。",
+            "src_text": "um so that we can actually, um, pre- precaution on people about whether you're going to have a uh the medical event.",
+            "trg_text": "这样一来，我们就能预警人们是否需要看医生。",
             "utterance": [
                 {
                     "sub_start_time": 43960,
@@ -144,8 +144,8 @@
         {
             "start_time": 54960,
             "end_time": 75920,
-            "src_text": "So so the the the idea of, I think uh one, one of the direction for a future um health care systemis trying to preserve people in a status of being healthyrather than, um, how we can deal with, um, the medical issues when people really get some uh severe symptom.",
-            "trg_text": "所以我认为未来医疗保健系统的一大努力方向是， 让人们保持健康状态， 而不是等人们真正出现严重症状了，再去想怎么处理这些医疗问题。",
+            "src_text": "So so the the the idea of, I think uh one, one of the direction for a future um health care system is trying to preserve people in a status of being healthy rather than, um, how we can deal with, um, the medical issues when people really get some uh severe symptom.",
+            "trg_text": "所以我认为未来医疗保健系统的一大努力方向是，让人们保持健康状态，而不是等人们真正出现严重症状了，再去想怎么处理这些医疗问题。",
             "utterance": [
                 {
                     "sub_start_time": 54960,
@@ -173,8 +173,8 @@
         {
             "start_time": 76470,
             "end_time": 86840,
-            "src_text": "So let let me lemme put the COVID nineteen for example,so now we we know that there are a lot of people are infected,and they have um positive antibody tests,",
-            "trg_text": "拿新冠肺炎疫情举个例子。 大家都知道很多人被感染了， 他们的抗体检测呈阳性，",
+            "src_text": "So let let me lemme put the COVID nineteen for example, so now we we know that there are a lot of people are infected, and they have um positive antibody tests,",
+            "trg_text": "拿新冠肺炎疫情举个例子。大家都知道很多人被感染了，他们的抗体检测呈阳性，",
             "utterance": [
                 {
                     "sub_start_time": 76470,
@@ -202,8 +202,8 @@
         {
             "start_time": 87120,
             "end_time": 96860,
-            "src_text": "um so that so that actually we can see thatCOVID nineteen give um gave, gave us a very, very wide range of symptoms,",
-            "trg_text": "我们能看到 新冠肺炎引起了非常多的症状，",
+            "src_text": "um so that so that actually we can see that COVID nineteen give um gave, gave us a very, very wide range of symptoms,",
+            "trg_text": "我们能看到新冠肺炎引起了非常多的症状，",
             "utterance": [
                 {
                     "sub_start_time": 87120,
@@ -224,8 +224,8 @@
         {
             "start_time": 96860,
             "end_time": 100910,
-            "src_text": "some are really lethaland some are really like mild.",
-            "trg_text": "有些是致命的， 有些是轻微的。",
+            "src_text": "some are really lethal and some are really like mild.",
+            "trg_text": "有些是致命的，有些是轻微的。",
             "utterance": [
                 {
                     "sub_start_time": 96860,
@@ -246,8 +246,8 @@
         {
             "start_time": 101259,
             "end_time": 108830,
-            "src_text": "Um, so the the key, the key for the future um like a governanceis not about uh whether we should knock down",
-            "trg_text": "所以未来治理的关键 不在于我们是应该遏制疫情",
+            "src_text": "Um, so the the key, the key for the future um like a governance is not about uh whether we should knock down",
+            "trg_text": "所以未来治理的关键不在于我们是应该遏制疫情",
             "utterance": [
                 {
                     "sub_start_time": 101259,
@@ -268,8 +268,8 @@
         {
             "start_time": 108960,
             "end_time": 115350,
-            "src_text": "or whether we should just live as it is,like a the the the population, uh, immunity.",
-            "trg_text": "还是顺其自然， 实现群体免疫，",
+            "src_text": "or whether we should just live as it is, like a the the the population, uh, immunity.",
+            "trg_text": "还是顺其自然，实现群体免疫，",
             "utterance": [
                 {
                     "sub_start_time": 108960,
@@ -290,8 +290,8 @@
         {
             "start_time": 115490,
             "end_time": 128330,
-            "src_text": "Um, so so it's it's all about can we actual identify people, um, who are sus- susceptible to the COVID nineteenwhen they get affected by SARS-CoV-two.",
-            "trg_text": "而在于真正识别出易感染新冠肺炎的人群， 特别是在他们感染严重急性呼吸综合征冠状病毒2（SARS-CoV-2）时。",
+            "src_text": "Um, so so it's it's all about can we actual identify people, um, who are sus- susceptible to the COVID nineteen when they get affected by SARS-CoV-two.",
+            "trg_text": "而在于真正识别出易感染新冠肺炎的人群，特别是在他们感染严重急性呼吸综合征冠状病毒2（SARS-CoV-2）时。",
             "utterance": [
                 {
                     "sub_start_time": 115490,
@@ -327,8 +327,8 @@
         {
             "start_time": 135000,
             "end_time": 144579,
-            "src_text": "Um and if we are not prepared for that,um we can always what what we can do is there's there there's outbreakand we are dealing with that.",
-            "trg_text": "如果我们没有为此做好准备， 就只能等待疫情爆发之后， 再去应对。",
+            "src_text": "Um and if we are not prepared for that, um we can always what what we can do is there's there there's outbreak and we are dealing with that.",
+            "trg_text": "如果我们没有为此做好准备，就只能等待疫情爆发之后，再去应对。",
             "utterance": [
                 {
                     "sub_start_time": 135000,
@@ -371,8 +371,8 @@
         {
             "start_time": 152200,
             "end_time": 163560,
-            "src_text": "And we we do see some, um, w- weird data from here and there,and we just we just actively to, um to to get to get to get get to them.",
-            "trg_text": "我们确实从各个地方看到了一些异常数据， 也在积极地获取这些数据。",
+            "src_text": "And we we do see some, um, w- weird data from here and there, and we just we just actively to, um to to get to get to get get to them.",
+            "trg_text": "我们确实从各个地方看到了一些异常数据，也在积极地获取这些数据。",
             "utterance": [
                 {
                     "sub_start_time": 152200,
@@ -393,8 +393,8 @@
         {
             "start_time": 163880,
             "end_time": 171450,
-            "src_text": "So so I, so what we are trying to do,we're we're collaborating with a lot of the community um um healthcare um center",
-            "trg_text": "所以，我们正在努力做的， 就是和很多社区医疗保健中心合作。",
+            "src_text": "So so I, so what we are trying to do, we're we're collaborating with a lot of the community um um healthcare um center",
+            "trg_text": "所以，我们正在努力做的，就是和很多社区医疗保健中心合作。",
             "utterance": [
                 {
                     "sub_start_time": 163880,
@@ -415,8 +415,8 @@
         {
             "start_time": 171600,
             "end_time": 182110,
-            "src_text": "is um we don't, we don't want to people to go for the clinics,we want the clinics go for the people who need um clinics.",
-            "trg_text": "我们不希望让人们去诊所， 而希望诊所上门去为那些有诊疗需求的人服务。",
+            "src_text": "is um we don't, we don't want to people to go for the clinics, we want the clinics go for the people who need um clinics.",
+            "trg_text": "我们不希望让人们去诊所，而希望诊所上门去为那些有诊疗需求的人服务。",
             "utterance": [
                 {
                     "sub_start_time": 171600,
@@ -437,8 +437,8 @@
         {
             "start_time": 182280,
             "end_time": 193040,
-            "src_text": "So so in in that way,we are trying to improve the the the the efficiency of the of the real,you know, the uh the intelligence of the of doctors,",
-            "trg_text": "这样一来， 我们能切实提高效率， 提升医生的智慧。",
+            "src_text": "So so in in that way, we are trying to improve the the the the efficiency of the of the real, you know, the uh the intelligence of the of doctors,",
+            "trg_text": "这样一来，我们能切实提高效率，提升医生的智慧。",
             "utterance": [
                 {
                     "sub_start_time": 182280,
@@ -466,8 +466,8 @@
         {
             "start_time": 193190,
             "end_time": 203800,
-            "src_text": "and we next we just let the the digital um healthcare to do most of the thingsbased on based on the the uh what we call the multi-dimensional profile",
-            "trg_text": "接下来让数字医疗保健来承担大部分工作， 而该操作是以我们所说的多维图谱为基础的。",
+            "src_text": "and we next we just let the the digital um healthcare to do most of the things based on based on the the uh what we call the multi-dimensional profile",
+            "trg_text": "接下来让数字医疗保健来承担大部分工作，而该操作是以我们所说的多维图谱为基础的。",
             "utterance": [
                 {
                     "sub_start_time": 193190,
@@ -488,8 +488,8 @@
         {
             "start_time": 204120,
             "end_time": 213660,
-            "src_text": "that is not just about physics and those about chemistry,um, um POCT type of thingsas as well as all the other and genetics um they send out.",
-            "trg_text": "不仅涉及物理化学方面， 还有即时检验（POCT）这类事物， 以及其他传递出的与遗传学相关的内容。",
+            "src_text": "that is not just about physics and those about chemistry, um, um POCT type of things as as well as all the other and genetics um they send out.",
+            "trg_text": "不仅涉及物理化学方面，还有即时检验（POCT）这类事物，以及其他传递出的与遗传学相关的内容。",
             "utterance": [
                 {
                     "sub_start_time": 204120,

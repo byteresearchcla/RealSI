@@ -97,7 +97,7 @@
             "start_time": 31140,
             "end_time": 38320,
             "src_text": "所以，呃，我们的感受呢，呃，以及更进一步的高阶的感受，包括我们对艺术作品的感受，",
-            "trg_text": "So, our senses, as well as the higher-order feelings, including our feelings towards artworks, actually have a",
+            "trg_text": "So, our senses, as well as the higher-order feelings, including our feelings towards artworks,",
             "utterance": [
                 {
                     "sub_start_time": 31140,
@@ -110,7 +110,7 @@
                     "sub_start_time": 36500,
                     "sub_end_time": 38320,
                     "sub_src_text": "包括我们对艺术作品的感受，",
-                    "sub_trg_text": "including our feelings towards artworks, actually have a",
+                    "sub_trg_text": "including our feelings towards artworks,",
                     "term": []
                 }
             ]
@@ -119,13 +119,13 @@
             "start_time": 38600,
             "end_time": 47230,
             "src_text": "它其实有一个非常根源性的，这个在生理学上的发端，其实就是对于躯体内部状态的一种一种感受。",
-            "trg_text": "deep-rooted physiological origin. It is actually a kind of sense towards the internal state of the body.",
+            "trg_text": "actually have a deep-rooted physiological origin. It is actually a kind of sense towards the internal state of the body.",
             "utterance": [
                 {
                     "sub_start_time": 38600,
                     "sub_end_time": 43360,
                     "sub_src_text": "它其实有一个非常根源性的，这个在生理学上的发端，",
-                    "sub_trg_text": "deep-rooted physiological origin.",
+                    "sub_trg_text": "actually have a deep-rooted physiological origin.",
                     "term": []
                 },
                 {

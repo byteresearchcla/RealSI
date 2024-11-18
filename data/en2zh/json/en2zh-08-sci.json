@@ -5,8 +5,8 @@
         {
             "start_time": 200,
             "end_time": 9970,
-            "src_text": "That when you look at the cells, look at their morphology,they are strongly similar to, um, the cells you find in sponges.",
-            "trg_text": "你看这些细胞，看它们的形态， 很像海绵体内的细胞。",
+            "src_text": "That when you look at the cells, look at their morphology, they are strongly similar to, um, the cells you find in sponges.",
+            "trg_text": "你看这些细胞，看它们的形态，很像海绵体内的细胞。",
             "utterance": [
                 {
                     "sub_start_time": 200,
@@ -27,8 +27,8 @@
         {
             "start_time": 11120,
             "end_time": 22260,
-            "src_text": "So sponges also have these collar cells in the matrix,that they use to uh generate currents that flow through the tubules inside of the sponge.",
-            "trg_text": "海绵的基质中也有这些领细胞 海绵通过领细胞产生水流，水流流过海绵体内的细管。",
+            "src_text": "So sponges also have these collar cells in the matrix, that they use to uh generate currents that flow through the tubules inside of the sponge.",
+            "trg_text": "海绵的基质中也有这些领细胞海绵通过领细胞产生水流，水流流过海绵体内的细管。",
             "utterance": [
                 {
                     "sub_start_time": 11120,
@@ -64,8 +64,8 @@
         {
             "start_time": 33130,
             "end_time": 42010,
-            "src_text": "um became kind of efficient blob,for sucking in water and running it past lots and lots of flagellate",
-            "trg_text": "然后形成一种有效的团块， 用于吸水并让水流过大量鞭毛虫，",
+            "src_text": "um became kind of efficient blob, for sucking in water and running it past lots and lots of flagellate",
+            "trg_text": "然后形成一种有效的团块，用于吸水并让水流过大量鞭毛虫，",
             "utterance": [
                 {
                     "sub_start_time": 33130,
@@ -86,8 +86,8 @@
         {
             "start_time": 42250,
             "end_time": 47420,
-            "src_text": "so that you can extract all the nutrients from the water.So, that's what a sponge is.",
-            "trg_text": "从而汲取水中所有营养。 海绵就是这样。",
+            "src_text": "so that you can extract all the nutrients from the water. So, that's what a sponge is.",
+            "trg_text": "从而汲取水中所有营养。海绵就是这样。",
             "utterance": [
                 {
                     "sub_start_time": 42250,
@@ -108,8 +108,8 @@
         {
             "start_time": 47420,
             "end_time": 53240,
-            "src_text": "And sponges are animals.Uh, so the idea was they are that they're, that they're related somehow.",
-            "trg_text": "而且海绵是一种动物。 因此我想说的是它们之间有某种关联。",
+            "src_text": "And sponges are animals. Uh, so the idea was they are that they're, that they're related somehow.",
+            "trg_text": "而且海绵是一种动物。因此我想说的是它们之间有某种关联。",
             "utterance": [
                 {
                     "sub_start_time": 47420,
@@ -130,8 +130,8 @@
         {
             "start_time": 54530,
             "end_time": 61830,
-            "src_text": "The recent thing, though I shouldn't say recent anymorecause I'm old and everything I thought was new's now old.",
-            "trg_text": "最近有个发现，我不该再说最近了， 因为我已经老了，所有我认为新的事物现在都已经过时了。",
+            "src_text": "The recent thing, though I shouldn't say recent anymore cause I'm old and everything I thought was new's now old.",
+            "trg_text": "最近有个发现，我不该再说最近了，因为我已经老了，所有我认为新的事物现在都已经过时了。",
             "utterance": [
                 {
                     "sub_start_time": 54530,
@@ -152,8 +152,8 @@
         {
             "start_time": 62200,
             "end_time": 74180,
-            "src_text": "But, uh, relatively recent,is the discovery that, um, they have these interesting cooperative behaviors.",
-            "trg_text": "但是比较近期的时候， 人们发现这种动物会做出一些有趣的合作行为。",
+            "src_text": "But, uh, relatively recent, is the discovery that, um, they have these interesting cooperative behaviors.",
+            "trg_text": "但是比较近期的时候，人们发现这种动物会做出一些有趣的合作行为。",
             "utterance": [
                 {
                     "sub_start_time": 62200,
@@ -174,8 +174,8 @@
         {
             "start_time": 75170,
             "end_time": 88080,
-            "src_text": "So sometimes you go out looking for quantity of flagellatesand you find they are not, all solitary cells,swirling about in the ocean or freshwater all over the place.",
-            "trg_text": "有时候你去找很多鞭毛虫， 就会发现它们并不是孤立的细胞， 在海洋中或淡水中转来转去。",
+            "src_text": "So sometimes you go out looking for quantity of flagellates and you find they are not, all solitary cells, swirling about in the ocean or freshwater all over the place.",
+            "trg_text": "有时候你去找很多鞭毛虫，就会发现它们并不是孤立的细胞，在海洋中或淡水中转来转去。",
             "utterance": [
                 {
                     "sub_start_time": 75170,
@@ -203,8 +203,8 @@
         {
             "start_time": 88450,
             "end_time": 97970,
-            "src_text": "Uh, what they sometimes do is they link up and they form groups.They can form a kind of raft of quite quite flagellates all linked together.",
-            "trg_text": "它们有时候会联接起来，形成组群。 它们会形成一种由鞭毛虫组成的像木筏一样的东西，全都联接在一起。",
+            "src_text": "Uh, what they sometimes do is they link up and they form groups. They can form a kind of raft of quite quite flagellates all linked together.",
+            "trg_text": "它们有时候会联接起来，形成组群。它们会形成一种由鞭毛虫组成的像木筏一样的东西，全都联接在一起。",
             "utterance": [
                 {
                     "sub_start_time": 88450,
@@ -225,8 +225,8 @@
         {
             "start_time": 98410,
             "end_time": 108970,
-            "src_text": "And what they can do then is more efficiently filter bacteria out of the water.They can also move in water column.",
-            "trg_text": "然后它们就可以更有效地将细菌从水中过滤出去。 它们也可以在水体中移动。",
+            "src_text": "And what they can do then is more efficiently filter bacteria out of the water. They can also move in water column.",
+            "trg_text": "然后它们就可以更有效地将细菌从水中过滤出去。它们也可以在水体中移动。",
             "utterance": [
                 {
                     "sub_start_time": 98410,
@@ -247,8 +247,8 @@
         {
             "start_time": 109180,
             "end_time": 114130,
-            "src_text": "So one of the things they found is,sometimes what they'll do is they'll they'll separate.",
-            "trg_text": "人们发现， 这些细胞有时候会分开。",
+            "src_text": "So one of the things they found is, sometimes what they'll do is they'll they'll separate.",
+            "trg_text": "人们发现，这些细胞有时候会分开。",
             "utterance": [
                 {
                     "sub_start_time": 109180,
@@ -284,8 +284,8 @@
         {
             "start_time": 119740,
             "end_time": 126850,
-            "src_text": "And then they will clump togetherand orient themselves so they can move in the water column more efficiently.",
-            "trg_text": "接着，它们会簇拥在一起， 调整方向，这样就能在水体中更高效地移动。",
+            "src_text": "And then they will clump together and orient themselves so they can move in the water column more efficiently.",
+            "trg_text": "接着，它们会簇拥在一起，调整方向，这样就能在水体中更高效地移动。",
             "utterance": [
                 {
                     "sub_start_time": 119740,
@@ -321,8 +321,8 @@
         {
             "start_time": 134920,
             "end_time": 145870,
-            "src_text": "So, uh yeah question they get sticky.Yes, they get sticky.They adhere to one another and form the structure.Okay, so that's, that's cool right there.",
-            "trg_text": "有人提问，它们会变黏。 是的，它们会变黏。 它们紧贴在彼此身上，形成这种结构。 好，这部分差不多了。",
+            "src_text": "So, uh yeah question they get sticky. Yes, they get sticky. They adhere to one another and form the structure. Okay, so that's, that's cool right there.",
+            "trg_text": "有人提问，它们会变黏。是的，它们会变黏。它们紧贴在彼此身上，形成这种结构。好，这部分差不多了。",
             "utterance": [
                 {
                     "sub_start_time": 134920,
@@ -357,8 +357,8 @@
         {
             "start_time": 145870,
             "end_time": 156780,
-            "src_text": "So it says, you got these organisms that look very grace for those you find in sponges,and then you find that they are not, they are not solitary in an obvious way.",
-            "trg_text": "这些生物也能在海绵中找到， 同时你会发现它们很显然并不是孤立的。",
+            "src_text": "So it says, you got these organisms that look very grace for those you find in sponges, and then you find that they are not, they are not solitary in an obvious way.",
+            "trg_text": "这些生物也能在海绵中找到，同时你会发现它们很显然并不是孤立的。",
             "utterance": [
                 {
                     "sub_start_time": 145870,
@@ -379,8 +379,8 @@
         {
             "start_time": 156780,
             "end_time": 165480,
-            "src_text": "They can cooperate and form simple tissues that can do interesting things,like more efficient feeding or more efficient locomotion.",
-            "trg_text": "它们会合作，会形成简单的组织，能够做有趣的事情， 比如更高效地进食和运动。",
+            "src_text": "They can cooperate and form simple tissues that can do interesting things, like more efficient feeding or more efficient locomotion.",
+            "trg_text": "它们会合作，会形成简单的组织，能够做有趣的事情，比如更高效地进食和运动。",
             "utterance": [
                 {
                     "sub_start_time": 156780,
@@ -401,8 +401,8 @@
         {
             "start_time": 166050,
             "end_time": 176370,
-            "src_text": "Um, what's discovered in this research articleis, uh, they found, uh. They went down to Curacao.",
-            "trg_text": "这份研究论文发现…… 科学家去了库拉索岛。",
+            "src_text": "Um, what's discovered in this research article is, uh, they found, uh. They went down to Curacao.",
+            "trg_text": "这份研究论文发现……科学家去了库拉索岛。",
             "utterance": [
                 {
                     "sub_start_time": 166050,
@@ -423,8 +423,8 @@
         {
             "start_time": 178260,
             "end_time": 186720,
-            "src_text": "Why can't I be working on research?That let's go down to the Caribbean, the tropical Caribbean and collect animals.",
-            "trg_text": "为什么我不能从事这种研究工作呢？ 这样就可以下到热带加勒比海去收集动物。",
+            "src_text": "Why can't I be working on research? That let's go down to the Caribbean, the tropical Caribbean and collect animals.",
+            "trg_text": "为什么我不能从事这种研究工作呢？这样就可以下到热带加勒比海去收集动物。",
             "utterance": [
                 {
                     "sub_start_time": 178260,
@@ -460,8 +460,8 @@
         {
             "start_time": 191400,
             "end_time": 204150,
-            "src_text": "Anyway. What they found is, uh, they they went around tide pools on this islandand they found, were these really interesting coopertive flagellates that formed these cup shaped structures?",
-            "trg_text": "不管了。他们去了岛上的潮池， 发现这些非常有趣且懂得合作的鞭毛虫组成了杯状结构。",
+            "src_text": "Anyway. What they found is, uh, they they went around tide pools on this island and they found, were these really interesting coopertive flagellates that formed these cup shaped structures?",
+            "trg_text": "不管了。他们去了岛上的潮池，发现这些非常有趣且懂得合作的鞭毛虫组成了杯状结构。",
             "utterance": [
                 {
                     "sub_start_time": 191400,
@@ -482,8 +482,8 @@
         {
             "start_time": 204890,
             "end_time": 210040,
-            "src_text": "So let me screen show this here.Yeah, there's a paper.Wish I could show you the movie.",
-            "trg_text": "我通过屏幕给你们看看。 就是这篇论文。 要是可以给你们看影像就好了。",
+            "src_text": "So let me screen show this here. Yeah, there's a paper. Wish I could show you the movie.",
+            "trg_text": "我通过屏幕给你们看看。就是这篇论文。要是可以给你们看影像就好了。",
             "utterance": [
                 {
                     "sub_start_time": 204890,
@@ -511,8 +511,8 @@
         {
             "start_time": 210930,
             "end_time": 214520,
-            "src_text": "I'll figure that out eventually.Anyway, so what do you see here?",
-            "trg_text": "我会想出办法的。 不管了，你们看到了什么？",
+            "src_text": "I'll figure that out eventually. Anyway, so what do you see here?",
+            "trg_text": "我会想出办法的。不管了，你们看到了什么？",
             "utterance": [
                 {
                     "sub_start_time": 210930,
@@ -533,8 +533,8 @@
         {
             "start_time": 214520,
             "end_time": 219329,
-            "src_text": "Well, there's there's what you see in the in the microscope.There's a nice movie of these.",
-            "trg_text": "你们看到的是显微镜的画面。 有一张漂亮的图像。",
+            "src_text": "Well, there's there's what you see in the in the microscope. There's a nice movie of these.",
+            "trg_text": "你们看到的是显微镜的画面。有一张漂亮的图像。",
             "utterance": [
                 {
                     "sub_start_time": 214520,
@@ -555,8 +555,8 @@
         {
             "start_time": 219610,
             "end_time": 227280,
-            "src_text": "And uh, what they do is they form these kinds of cup shaped structureswhere all the flagellate are pointed inwards.",
-            "trg_text": "它们组成这些杯状结构， 所有鞭毛虫的方向都朝内。",
+            "src_text": "And uh, what they do is they form these kinds of cup shaped structures where all the flagellate are pointed inwards.",
+            "trg_text": "它们组成这些杯状结构，所有鞭毛虫的方向都朝内。",
             "utterance": [
                 {
                     "sub_start_time": 219610,
@@ -577,8 +577,8 @@
         {
             "start_time": 228990,
             "end_time": 239130,
-            "src_text": "And that's a good feeding strategy.So they're much more efficient at filtering out food particles from the water in that configuration right there.",
-            "trg_text": "这个进食策略很棒。 这样它们就能通过这个结构，更高效地将食物颗粒从水中过滤出来。",
+            "src_text": "And that's a good feeding strategy. So they're much more efficient at filtering out food particles from the water in that configuration right there.",
+            "trg_text": "这个进食策略很棒。这样它们就能通过这个结构，更高效地将食物颗粒从水中过滤出来。",
             "utterance": [
                 {
                     "sub_start_time": 228990,
@@ -599,8 +599,8 @@
         {
             "start_time": 240570,
             "end_time": 249650,
-            "src_text": "But then what they can do is this.They can in- invert themselves.And all of the flagellate are pointing outwards.",
-            "trg_text": "但是它们能做的是这个。 它们可以翻身。 这样所有鞭毛虫就都朝外了。",
+            "src_text": "But then what they can do is this. They can in- invert themselves. And all of the flagellate are pointing outwards.",
+            "trg_text": "但是它们能做的是这个。它们可以翻身。这样所有鞭毛虫就都朝外了。",
             "utterance": [
                 {
                     "sub_start_time": 240570,
@@ -628,8 +628,8 @@
         {
             "start_time": 249650,
             "end_time": 255090,
-            "src_text": "You see all these right there?And when they do that,they're better at swimming.",
-            "trg_text": "你们看到了吗？ 这时候， 它们的游动效率会提升，",
+            "src_text": "You see all these right there? And when they do that, they're better at swimming.",
+            "trg_text": "你们看到了吗？这时候，它们的游动效率会提升，",
             "utterance": [
                 {
                     "sub_start_time": 249650,
@@ -657,8 +657,8 @@
         {
             "start_time": 255670,
             "end_time": 265160,
-            "src_text": "But much less efficient at feeding.So here you got this animal that responds to its environment,",
-            "trg_text": "但进食效率会降低很多。 所以这种动物可以随自身环境改变而改变，",
+            "src_text": "But much less efficient at feeding. So here you got this animal that responds to its environment,",
+            "trg_text": "但进食效率会降低很多。所以这种动物可以随自身环境改变而改变，",
             "utterance": [
                 {
                     "sub_start_time": 255670,
@@ -679,8 +679,8 @@
         {
             "start_time": 265570,
             "end_time": 273650,
-            "src_text": "and can be either in a feeding specialist modeor a locomotive specialist mode for getting away from things, for instance.",
-            "trg_text": "可以切换为进食专一模式 或运动专一模式，以便逃离其他生物等。",
+            "src_text": "and can be either in a feeding specialist mode or a locomotive specialist mode for getting away from things, for instance.",
+            "trg_text": "可以切换为进食专一模式或运动专一模式，以便逃离其他生物等。",
             "utterance": [
                 {
                     "sub_start_time": 265570,
@@ -701,8 +701,8 @@
         {
             "start_time": 275130,
             "end_time": 284110,
-            "src_text": "That's pretty cool right there.But then they figured out what the trigger is.And it's light, they are light sensitive.",
-            "trg_text": "这部分就到这里了。 科学家发现了触发因素， 就是光照，它们对光照敏感。",
+            "src_text": "That's pretty cool right there. But then they figured out what the trigger is. And it's light, they are light sensitive.",
+            "trg_text": "这部分就到这里了。科学家发现了触发因素，就是光照，它们对光照敏感。",
             "utterance": [
                 {
                     "sub_start_time": 275130,
@@ -730,8 +730,8 @@
         {
             "start_time": 285320,
             "end_time": 294990,
-            "src_text": "So when you change the light level,they will respond that by changing, inverting,just switching into one of the other modes.",
-            "trg_text": "如果你改变光照强度， 它们就会做出反应，会改变、翻身， 切换到其他模式。",
+            "src_text": "So when you change the light level, they will respond that by changing, inverting, just switching into one of the other modes.",
+            "trg_text": "如果你改变光照强度，它们就会做出反应，会改变、翻身，切换到其他模式。",
             "utterance": [
                 {
                     "sub_start_time": 285320,
@@ -774,8 +774,8 @@
         {
             "start_time": 302240,
             "end_time": 311000,
-            "src_text": "And here they've got a light immediate reflex,and they've got multiple modes of organization for multiple behaviors.",
-            "trg_text": "却能对光照立刻做出反应， 而且针对多种行为有多种组织模式。",
+            "src_text": "And here they've got a light immediate reflex, and they've got multiple modes of organization for multiple behaviors.",
+            "trg_text": "却能对光照立刻做出反应，而且针对多种行为有多种组织模式。",
             "utterance": [
                 {
                     "sub_start_time": 302240,

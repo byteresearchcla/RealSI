@@ -5,8 +5,8 @@
         {
             "start_time": 60,
             "end_time": 8450,
-            "src_text": "Now, Daniel, we were just discussing thatyou've had some really interesting criminal cases on the spectrum,including some capital murder cases,",
-            "trg_text": "丹尼尔，我们刚刚在讨论， 你曾经处理过一些非常有趣的刑事案件， 包括一级谋杀案，",
+            "src_text": "Now, Daniel, we were just discussing that you've had some really interesting criminal cases on the spectrum, including some capital murder cases,",
+            "trg_text": "丹尼尔，我们刚刚在讨论，你曾经处理过一些非常有趣的刑事案件，包括一级谋杀案，",
             "utterance": [
                 {
                     "sub_start_time": 60,
@@ -34,8 +34,8 @@
         {
             "start_time": 8820,
             "end_time": 19980,
-            "src_text": "and I think our viewers would really love to hear a little bit aboutwhat it's like being an attorney representing someone charged with capital murder.How how did that case come up for you?",
-            "trg_text": "我们的观众应该很想听听， 为犯一级谋杀罪的人做辩护律师是什么样的感受。 你是怎么遇到那个案子的？",
+            "src_text": "and I think our viewers would really love to hear a little bit about what it's like being an attorney representing someone charged with capital murder. How how did that case come up for you?",
+            "trg_text": "我们的观众应该很想听听，为犯一级谋杀罪的人做辩护律师是什么样的感受。你是怎么遇到那个案子的？",
             "utterance": [
                 {
                     "sub_start_time": 8820,
@@ -63,8 +63,8 @@
         {
             "start_time": 20070,
             "end_time": 31130,
-            "src_text": "Well, I I I've had a quite a few capital murder cases,whether it's at the trial court levelor I'm representing them through the initial prosecution following an indictment,",
-            "trg_text": "我处理过不少一级谋杀案件， 不管是在初审法庭阶段， 还是在起诉书下达后进行最初的诉讼辩护，",
+            "src_text": "Well, I I I've had a quite a few capital murder cases, whether it's at the trial court level or I'm representing them through the initial prosecution following an indictment,",
+            "trg_text": "我处理过不少一级谋杀案件，不管是在初审法庭阶段，还是在起诉书下达后进行最初的诉讼辩护，",
             "utterance": [
                 {
                     "sub_start_time": 20070,
@@ -92,8 +92,8 @@
         {
             "start_time": 31520,
             "end_time": 36220,
-            "src_text": "but I also have quite a few that are appealswhere it's after a person's been convicted.",
-            "trg_text": "不过我也有不少是上诉案件， 就是在当事人被定罪之后。",
+            "src_text": "but I also have quite a few that are appeals where it's after a person's been convicted.",
+            "trg_text": "不过我也有不少是上诉案件，就是在当事人被定罪之后。",
             "utterance": [
                 {
                     "sub_start_time": 31520,
@@ -114,8 +114,8 @@
         {
             "start_time": 36220,
             "end_time": 45830,
-            "src_text": "But so the, so there's a different approach to that and there's a different way you develop those cases,but um, I can tell you from the standpoint of doing a criminal case,",
-            "trg_text": "所以处理这些案子的方式是不一样的， 但是我可以从处理刑事案件的角度和大家谈谈，",
+            "src_text": "But so the, so there's a different approach to that and there's a different way you develop those cases, but um, I can tell you from the standpoint of doing a criminal case,",
+            "trg_text": "所以处理这些案子的方式是不一样的，但是我可以从处理刑事案件的角度和大家谈谈，",
             "utterance": [
                 {
                     "sub_start_time": 36220,
@@ -136,8 +136,8 @@
         {
             "start_time": 45880,
             "end_time": 53260,
-            "src_text": "a a capital murder case is totally different from any other type of casebecause of course the stakes could not be higher, Reggie.Right. And. Right.",
-            "trg_text": "一级谋杀案跟其他类型的案子完全不同。 因为风险肯定再高不过了，雷吉。 对的。",
+            "src_text": "a a capital murder case is totally different from any other type of case because of course the stakes could not be higher, Reggie. Right. And. Right.",
+            "trg_text": "一级谋杀案跟其他类型的案子完全不同。因为风险肯定再高不过了，雷吉。对的。",
             "utterance": [
                 {
                     "sub_start_time": 45880,
@@ -165,8 +165,8 @@
         {
             "start_time": 53260,
             "end_time": 62520,
-            "src_text": "Essentially, you have to think even where a case is completely unwinnable in your mind,you have to think of creating a record.",
-            "trg_text": "从本质上来说，就算你觉得这个案子完全没有胜算，你也得考虑 要创造记录。",
+            "src_text": "Essentially, you have to think even where a case is completely unwinnable in your mind, you have to think of creating a record.",
+            "trg_text": "从本质上来说，就算你觉得这个案子完全没有胜算，你也得考虑要创造记录。",
             "utterance": [
                 {
                     "sub_start_time": 53260,
@@ -187,8 +187,8 @@
         {
             "start_time": 62550,
             "end_time": 71360,
-            "src_text": "And this means that you have to file every motion under the sun,you have to hire every expert witness under the sun,you cannot leave any stones unturned",
-            "trg_text": "这就意味着你得提交所有能想到的申请。 你得聘请所有能想到的专家证人。 你不能放过任何蛛丝马迹，",
+            "src_text": "And this means that you have to file every motion under the sun, you have to hire every expert witness under the sun, you cannot leave any stones unturned",
+            "trg_text": "这就意味着你得提交所有能想到的申请。你得聘请所有能想到的专家证人。你不能放过任何蛛丝马迹，",
             "utterance": [
                 {
                     "sub_start_time": 62550,
@@ -216,8 +216,8 @@
         {
             "start_time": 71590,
             "end_time": 81920,
-            "src_text": "because again not only are the stakes so highbut one hundred percent of capital murder cases where a person is convicted end up in the appellate courts.Right.",
-            "trg_text": "因为风险太高了， 而且当事人被判定犯有一级谋杀罪的案件百分百都会提交到上诉法院。 对的。",
+            "src_text": "because again not only are the stakes so high but one hundred percent of capital murder cases where a person is convicted end up in the appellate courts. Right.",
+            "trg_text": "因为风险太高了，而且当事人被判定犯有一级谋杀罪的案件百分百都会提交到上诉法院。对的。",
             "utterance": [
                 {
                     "sub_start_time": 71590,
@@ -245,8 +245,8 @@
         {
             "start_time": 81920,
             "end_time": 93270,
-            "src_text": "You know, you don't, you don't find very often thatsomeone will appeal a DUI or a misdemeanor case.So having a spotless record is not as important.Right, right.",
-            "trg_text": "你会发现很少 有人会对酒驾或者轻罪案件提起上诉。 所以拥有完美无瑕的记录就没那么重要了。 对的。",
+            "src_text": "You know, you don't, you don't find very often that someone will appeal a DUI or a misdemeanor case. So having a spotless record is not as important. Right, right.",
+            "trg_text": "你会发现很少有人会对酒驾或者轻罪案件提起上诉。所以拥有完美无瑕的记录就没那么重要了。对的。",
             "utterance": [
                 {
                     "sub_start_time": 81920,
@@ -281,8 +281,8 @@
         {
             "start_time": 93270,
             "end_time": 102870,
-            "src_text": "Now, when you are, you know, taking a capital murder case,are these ever assigned to people, reach out to you?Uh, to represent them?How does that usually work in your practice?",
-            "trg_text": "那么，在你接手一级谋杀案时， 这些案子是有人指派给你、推荐给你的， 还是有人找你为他们辩护？ 在你日常工作中通常是怎样接案子的？",
+            "src_text": "Now, when you are, you know, taking a capital murder case, are these ever assigned to people, reach out to you? Uh, to represent them? How does that usually work in your practice?",
+            "trg_text": "那么，在你接手一级谋杀案时，这些案子是有人指派给你、推荐给你的，还是有人找你为他们辩护？在你日常工作中通常是怎样接案子的？",
             "utterance": [
                 {
                     "sub_start_time": 93270,
@@ -317,8 +317,8 @@
         {
             "start_time": 103340,
             "end_time": 113380,
-            "src_text": "Well, there are some attorneys that are,uh, there's obviously public defenders,and where they and when there's a conflict, out of the public defender's office,which for those people out there they may not know,",
-            "trg_text": "有些律师…… 显然有公设辩护人， 当公设辩护人办公室发生利益冲突时， 对于那些不太了解的人……",
+            "src_text": "Well, there are some attorneys that are, uh, there's obviously public defenders, and where they and when there's a conflict, out of the public defender's office, which for those people out there they may not know,",
+            "trg_text": "有些律师……显然有公设辩护人，当公设辩护人办公室发生利益冲突时，对于那些不太了解的人……",
             "utterance": [
                 {
                     "sub_start_time": 103340,
@@ -353,8 +353,8 @@
         {
             "start_time": 113380,
             "end_time": 129729,
-            "src_text": "for example, uh as attorneys an- and you know this, Reggie,if there's a conflict of interest,I can't represent a defendantwhere a witness in that case testifying against my defend, uh my clien-, my perspective client,was one of my previous clients.",
-            "trg_text": "比如雷吉，你也是律师，你也知道， 如果存在利益冲突， 我就不能为被告辩护， 如果证人在那个案子里指证我的当事人、我的潜在客户， 而这个证人是我之前的客户。",
+            "src_text": "for example, uh as attorneys an- and you know this, Reggie, if there's a conflict of interest, I can't represent a defendant where a witness in that case testifying against my defend, uh my clien-, my perspective client, was one of my previous clients.",
+            "trg_text": "比如雷吉，你也是律师，你也知道，如果存在利益冲突，我就不能为被告辩护，如果证人在那个案子里指证我的当事人、我的潜在客户，而这个证人是我之前的客户。",
             "utterance": [
                 {
                     "sub_start_time": 113380,
@@ -396,8 +396,8 @@
         {
             "start_time": 129759,
             "end_time": 138329,
-            "src_text": "Right.Because I I as an attorneyI'm, I'm armed with, perhaps secret information or damaging information,if you will,and I can use it against them",
-            "trg_text": "对的。 因为我作为一名律师， 可能掌握着秘密信息或不利信息， 如果你乐意的话， 我可以用这些信息来对付他们。",
+            "src_text": "Right. Because I I as an attorney I'm, I'm armed with, perhaps secret information or damaging information, if you will, and I can use it against them",
+            "trg_text": "对的。因为我作为一名律师，可能掌握着秘密信息或不利信息，如果你乐意的话，我可以用这些信息来对付他们。",
             "utterance": [
                 {
                     "sub_start_time": 129759,
@@ -439,8 +439,8 @@
         {
             "start_time": 138329,
             "end_time": 150090,
-            "src_text": "so you can never have a conflict of interestfor that reason they assign private attorneys such as myself,um, some cases out of that normally would be public defender casesif they are indigent.Right.",
-            "trg_text": "所以绝对不能有利益冲突， 因为他们会指派像我这样的私人律师。 有些案子通常本来应该是公设辩护人负责的， 如果当事人贫困的话。 对的。",
+            "src_text": "so you can never have a conflict of interest for that reason they assign private attorneys such as myself, um, some cases out of that normally would be public defender cases if they are indigent. Right.",
+            "trg_text": "所以绝对不能有利益冲突，因为他们会指派像我这样的私人律师。有些案子通常本来应该是公设辩护人负责的，如果当事人贫困的话。对的。",
             "utterance": [
                 {
                     "sub_start_time": 138329,
@@ -482,8 +482,8 @@
         {
             "start_time": 150090,
             "end_time": 158880,
-            "src_text": "I'm I'm not one of those attorneys.I am a one hundred percent private attorney.I I have my own firm,and people would have to hire me.Right.",
-            "trg_text": "我不是那种律师。 我是百分百的私人律师。 我有自己的律所， 人们得雇佣我。 对的。",
+            "src_text": "I'm I'm not one of those attorneys. I am a one hundred percent private attorney. I I have my own firm, and people would have to hire me. Right.",
+            "trg_text": "我不是那种律师。我是百分百的私人律师。我有自己的律所，人们得雇佣我。对的。",
             "utterance": [
                 {
                     "sub_start_time": 150090,
@@ -525,8 +525,8 @@
         {
             "start_time": 158880,
             "end_time": 169680,
-            "src_text": "And. The price wou- would depend on the circumstances, numerous circumstances, uh.But so they would, they would call me,they would hear about me.I, I I get a lot of clients through word of mouth.",
-            "trg_text": "律师费取决于各种具体情况。 他们会打电话给我， 他们可能听说过我。 我有很多客户都是通过别人口头介绍过来的。",
+            "src_text": "And. The price wou- would depend on the circumstances, numerous circumstances, uh. But so they would, they would call me, they would hear about me. I, I I get a lot of clients through word of mouth.",
+            "trg_text": "律师费取决于各种具体情况。他们会打电话给我，他们可能听说过我。我有很多客户都是通过别人口头介绍过来的。",
             "utterance": [
                 {
                     "sub_start_time": 158880,
@@ -561,8 +561,8 @@
         {
             "start_time": 169860,
             "end_time": 181980,
-            "src_text": "Uh-huh. I'd like to say,and I'd like to believe that I zealously, zealously represent my clientsand I get the resultsthat has them reaching out to other peopleand putting my name out there.Absolutely",
-            "trg_text": "我想说， 我相信我能积极热情地为我的客户辩护， 并取得的满意的结果， 让他们推荐其他客户给我， 把我的名声传播出去。 那是肯定的。",
+            "src_text": "Uh-huh. I'd like to say, and I'd like to believe that I zealously, zealously represent my clients and I get the results that has them reaching out to other people and putting my name out there. Absolutely",
+            "trg_text": "我想说，我相信我能积极热情地为我的客户辩护，并取得的满意的结果，让他们推荐其他客户给我，把我的名声传播出去。那是肯定的。",
             "utterance": [
                 {
                     "sub_start_time": 169860,
@@ -611,8 +611,8 @@
         {
             "start_time": 181990,
             "end_time": 192890,
-            "src_text": "and, and you know, criminal law is so interesting.I I told you before, you know, we began the interview.I believe that criminal attorneys,especially on the defense sideare protectors of the constitution.",
-            "trg_text": "你也知道，刑法太有意思了。 我之前跟你说过，在我们采访之前我就和你说过。 我认为刑事律师， 尤其是辩方律师 是宪法的保护者。",
+            "src_text": "and, and you know, criminal law is so interesting. I I told you before, you know, we began the interview. I believe that criminal attorneys, especially on the defense side are protectors of the constitution.",
+            "trg_text": "你也知道，刑法太有意思了。我之前跟你说过，在我们采访之前我就和你说过。我认为刑事律师，尤其是辩方律师是宪法的保护者。",
             "utterance": [
                 {
                     "sub_start_time": 181990,
@@ -654,8 +654,8 @@
         {
             "start_time": 193120,
             "end_time": 202890,
-            "src_text": "And that is because, you know, you are really defending someone's, I mean, literal rights or freedomand you know, their freedom is about to be taken away potentially, given the charges.",
-            "trg_text": "因为你真的是在为当事人的法定权利或自由辩护， 而由于那些指控，他们的自由有可能会被剥夺。",
+            "src_text": "And that is because, you know, you are really defending someone's, I mean, literal rights or freedom and you know, their freedom is about to be taken away potentially, given the charges.",
+            "trg_text": "因为你真的是在为当事人的法定权利或自由辩护，而由于那些指控，他们的自由有可能会被剥夺。",
             "utterance": [
                 {
                     "sub_start_time": 193120,
@@ -676,8 +676,8 @@
         {
             "start_time": 203310,
             "end_time": 212870,
-            "src_text": "Um, but, you know, on the balance, on the flip side,I know that some of these charges are, are egregious.Probably some of the facts and evidence are also heinous.Exactly.",
-            "trg_text": "但另一方面， 我知道有些指控非常严重。 可能有些事实和证据也令人发指。 确实。",
+            "src_text": "Um, but, you know, on the balance, on the flip side, I know that some of these charges are, are egregious. Probably some of the facts and evidence are also heinous. Exactly.",
+            "trg_text": "但另一方面，我知道有些指控非常严重。可能有些事实和证据也令人发指。确实。",
             "utterance": [
                 {
                     "sub_start_time": 203310,
@@ -727,8 +727,8 @@
         {
             "start_time": 216930,
             "end_time": 233790,
-            "src_text": "That's a fair question.And I, I too firmly believe that every person is entitled to a defense.And the way that we have to compartmentalize this, in my opinion, is,you can't think of it on a case-by-case basis.Either we all have rights or not have rights.Right.",
-            "trg_text": "这个问题问得好。 我也坚信每个人都有权获得辩护。 在我看来，我们划分这个问题的方式是， 你不能只考虑个案。 要么我们都有权利，要么都没有权利。 对的。",
+            "src_text": "That's a fair question. And I, I too firmly believe that every person is entitled to a defense. And the way that we have to compartmentalize this, in my opinion, is, you can't think of it on a case-by-case basis. Either we all have rights or not have rights. Right.",
+            "trg_text": "这个问题问得好。我也坚信每个人都有权获得辩护。在我看来，我们划分这个问题的方式是，你不能只考虑个案。要么我们都有权利，要么都没有权利。对的。",
             "utterance": [
                 {
                     "sub_start_time": 216930,
@@ -777,8 +777,8 @@
         {
             "start_time": 234079,
             "end_time": 254590,
-            "src_text": "So what I mean by that is,this is that when I represent somebody who has egregious facts against them,I think, well, this isn't just for this client.This is, so that the next person who truly is innocenthas the liberties and has the, the the the the shield of the constitution,if you will. And their rights being actively litigated.",
-            "trg_text": "所以我的意思是， 当我为一个被控有严重罪行的人辩护时， 我会想，这不仅仅是为了这个客户。 这是为了之后真正无辜的人 能有宪法的保障和自由， 为了他们的权利能够得到积极的维护。",
+            "src_text": "So what I mean by that is, this is that when I represent somebody who has egregious facts against them, I think, well, this isn't just for this client. This is, so that the next person who truly is innocent has the liberties and has the, the the the the shield of the constitution, if you will. And their rights being actively litigated.",
+            "trg_text": "所以我的意思是，当我为一个被控有严重罪行的人辩护时，我会想，这不仅仅是为了这个客户。这是为了之后真正无辜的人能有宪法的保障和自由，为了他们的权利能够得到积极的维护。",
             "utterance": [
                 {
                     "sub_start_time": 234079,
@@ -827,8 +827,8 @@
         {
             "start_time": 254590,
             "end_time": 263310,
-            "src_text": "It's not just theo-, in other words,our laws are not just theoretical when I get involved,it's practically applying them to a case.Right.",
-            "trg_text": "换句话说， 当我介入时，我们的法律就不只停留在理论层面了， 还需要在实际中把法律应用到具体案件中。 对的。",
+            "src_text": "It's not just theo-, in other words, our laws are not just theoretical when I get involved, it's practically applying them to a case. Right.",
+            "trg_text": "换句话说，当我介入时，我们的法律就不只停留在理论层面了，还需要在实际中把法律应用到具体案件中。对的。",
             "utterance": [
                 {
                     "sub_start_time": 254590,
@@ -863,8 +863,8 @@
         {
             "start_time": 263310,
             "end_time": 270660,
-            "src_text": "And, like you said,to protecting, you know, making sure evidence is in therefor viewers who may not knowif you don't bring something up a lot of times,",
-            "trg_text": "而且，就像你说的， 为了确保证据的存在， 观众可能不了解具体情况， 如果有些东西没有经常提出来，",
+            "src_text": "And, like you said, to protecting, you know, making sure evidence is in there for viewers who may not know if you don't bring something up a lot of times,",
+            "trg_text": "而且，就像你说的，为了确保证据的存在，观众可能不了解具体情况，如果有些东西没有经常提出来，",
             "utterance": [
                 {
                     "sub_start_time": 263310,
@@ -899,8 +899,8 @@
         {
             "start_time": 270660,
             "end_time": 285130,
-            "src_text": "and you know, the lower uh portions of the court,you know, you don't preserve those objections lateror preserve that evidence to be brought up later,because appeals courts really look at the lower courts recordand so it is so interesting.",
-            "trg_text": "下级法院…… 你没有保留那些反对意见， 没有保留那些之后要提出来的证据， 因为上诉法院真的会看下级法院的记录， 所以这太有意思了。",
+            "src_text": "and you know, the lower uh portions of the court, you know, you don't preserve those objections later or preserve that evidence to be brought up later, because appeals courts really look at the lower courts record and so it is so interesting.",
+            "trg_text": "下级法院……你没有保留那些反对意见，没有保留那些之后要提出来的证据，因为上诉法院真的会看下级法院的记录，所以这太有意思了。",
             "utterance": [
                 {
                     "sub_start_time": 270660,
@@ -942,8 +942,8 @@
         {
             "start_time": 285130,
             "end_time": 293520,
-            "src_text": "I mean, we there are so many even crime documentaries out therethat talk about how it's like,well they didn't bring it up in the lower court,so we can't hear it here.",
-            "trg_text": "我们有那么多犯罪纪录片都在讲 这是什么样的情况， 但它们没有在下级法院提到这种情况， 所以我们在这儿就听不到。",
+            "src_text": "I mean, we there are so many even crime documentaries out there that talk about how it's like, well they didn't bring it up in the lower court, so we can't hear it here.",
+            "trg_text": "我们有那么多犯罪纪录片都在讲这是什么样的情况，但它们没有在下级法院提到这种情况，所以我们在这儿就听不到。",
             "utterance": [
                 {
                     "sub_start_time": 285130,

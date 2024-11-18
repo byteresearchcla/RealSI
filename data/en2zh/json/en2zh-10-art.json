@@ -20,8 +20,8 @@
         {
             "start_time": 8410,
             "end_time": 25040,
-            "src_text": "It wasn't a painting by Rubens, uh, painting, painting by Rubens exists,but it wasn't the paintingit was a seven, seven different, twenty-five foot wide tapestrieswoven from Rubens'design with gold and silver thread,which cost much much more than paintings of the same size.",
-            "trg_text": "不是送鲁本斯的画。是有鲁本斯的画， 但这并不是画， 是七幅宽25英尺的挂毯， 由鲁本斯设计，并用金线银线钩织而成， 比同样大小的画要昂贵得多。",
+            "src_text": "It wasn't a painting by Rubens, uh, painting, painting by Rubens exists, but it wasn't the painting it was a seven, seven different, twenty-five foot wide tapestries woven from Rubens'design with gold and silver thread, which cost much much more than paintings of the same size.",
+            "trg_text": "不是送鲁本斯的画。是有鲁本斯的画，但这并不是画，是七幅宽25英尺的挂毯，由鲁本斯设计，并用金线银线钩织而成，比同样大小的画要昂贵得多。",
             "utterance": [
                 {
                     "sub_start_time": 8410,
@@ -63,8 +63,8 @@
         {
             "start_time": 25720,
             "end_time": 36540,
-            "src_text": "The idea was magnificent,not just of the story.Some of that actually still that magnificent is still a preserved in the stair hall of the Philadelphia Museumwhere you can see these tapestries now.",
-            "trg_text": "这个构想很精彩， 远不止有故事性。 这一宏伟作品有一部分至今仍保存在费城博物馆的楼梯大厅里， 现在还可以看到这些挂毯。",
+            "src_text": "The idea was magnificent, not just of the story. Some of that actually still that magnificent is still a preserved in the stair hall of the Philadelphia Museum where you can see these tapestries now.",
+            "trg_text": "这个构想很精彩，远不止有故事性。这一宏伟作品有一部分至今仍保存在费城博物馆的楼梯大厅里，现在还可以看到这些挂毯。",
             "utterance": [
                 {
                     "sub_start_time": 25720,
@@ -114,8 +114,8 @@
         {
             "start_time": 46920,
             "end_time": 63140,
-            "src_text": "Uh I'm...afraid I'm gonna have very little say about sculpture,including relief sculpture,which is, after all, a pictorial art, uh,and which was regarded as the least equal to painting,uh and more challenging for the artist,and like tapestry uh much more expensive.",
-            "trg_text": "我可能不会讲太多雕塑， 包括浮雕， 它毕竟是图像艺术， 至少被认为最不如绘画， 对于美术家来说更具挑战性， 而且和挂毯一样贵很多。",
+            "src_text": "Uh I'm...afraid I'm gonna have very little say about sculpture, including relief sculpture, which is, after all, a pictorial art, uh, and which was regarded as the least equal to painting, uh and more challenging for the artist, and like tapestry uh much more expensive.",
+            "trg_text": "我可能不会讲太多雕塑，包括浮雕，它毕竟是图像艺术，至少被认为最不如绘画，对于美术家来说更具挑战性，而且和挂毯一样贵很多。",
             "utterance": [
                 {
                     "sub_start_time": 46920,
@@ -164,8 +164,8 @@
         {
             "start_time": 64670,
             "end_time": 74980,
-            "src_text": "To get back to painting,um more than a century before Alberti defined, defined \"historia\"and Masaccio re- realized his ideas,",
-            "trg_text": "回到绘画， 一百多年前阿尔贝蒂定义了“历史画”， 马萨乔将他的理念付诸实践。",
+            "src_text": "To get back to painting, um more than a century before Alberti defined, defined \"historia\" and Masaccio re- realized his ideas,",
+            "trg_text": "回到绘画，一百多年前阿尔贝蒂定义了“历史画”，马萨乔将他的理念付诸实践。",
             "utterance": [
                 {
                     "sub_start_time": 64670,
@@ -193,8 +193,8 @@
         {
             "start_time": 75480,
             "end_time": 88590,
-            "src_text": "a great masterpiece of monumental narrative painting had been made here in Paduauh in the chapel built for Enrico Scrovegni,uh a banker uh and money lender.",
-            "trg_text": "于是，一件伟大的里程碑式的叙事绘画作品在帕多瓦这里诞生了， 诞生在一个为恩里科·斯克罗韦尼建造的小教堂里。 这人是个银行家和放债人。",
+            "src_text": "a great masterpiece of monumental narrative painting had been made here in Padua uh in the chapel built for Enrico Scrovegni, uh a banker uh and money lender.",
+            "trg_text": "于是，一件伟大的里程碑式的叙事绘画作品在帕多瓦这里诞生了，诞生在一个为恩里科·斯克罗韦尼建造的小教堂里。这人是个银行家和放债人。",
             "utterance": [
                 {
                     "sub_start_time": 75480,
@@ -222,8 +222,8 @@
         {
             "start_time": 89500,
             "end_time": 103700,
-            "src_text": "Uh here he is giving a chapel to the Virgin Mary.And on the wall are life-sized frescos o- of episodes uh from the life of Christ.And these are a tremendous leap for narrative painting.",
-            "trg_text": "他想将小教堂奉献给圣母玛利亚。 墙上真人大小的壁画是耶稣的生活片段。 它们是叙事绘画的一大飞跃。",
+            "src_text": "Uh here he is giving a chapel to the Virgin Mary. And on the wall are life-sized frescos o- of episodes uh from the life of Christ. And these are a tremendous leap for narrative painting.",
+            "trg_text": "他想将小教堂奉献给圣母玛利亚。墙上真人大小的壁画是耶稣的生活片段。它们是叙事绘画的一大飞跃。",
             "utterance": [
                 {
                     "sub_start_time": 89500,
@@ -251,8 +251,8 @@
         {
             "start_time": 104560,
             "end_time": 119380,
-            "src_text": "Giotto showed how you could give a flat surface the illusion of space,and paint humans who look like they have actual volume and weight,and even suggest that they have living, breathing and vitality and individual personalities.",
-            "trg_text": "乔托展示了如何让平面呈现空间错觉， 如何将人画得看起来有真实体型和重量， 让人感觉他们正活着、在呼吸，有活力和个性。",
+            "src_text": "Giotto showed how you could give a flat surface the illusion of space, and paint humans who look like they have actual volume and weight, and even suggest that they have living, breathing and vitality and individual personalities.",
+            "trg_text": "乔托展示了如何让平面呈现空间错觉，如何将人画得看起来有真实体型和重量，让人感觉他们正活着、在呼吸，有活力和个性。",
             "utterance": [
                 {
                     "sub_start_time": 104560,
@@ -280,8 +280,8 @@
         {
             "start_time": 120620,
             "end_time": 129240,
-            "src_text": "Look, for, for example, how Joseph and Mary uh hand over their...Oops, come back, come back to me, back.",
-            "trg_text": "举个例子，看约瑟夫和玛丽如何将他们的…… 哦哦，回去，回去。",
+            "src_text": "Look, for, for example, how Joseph and Mary uh hand over their... Oops, come back, come back to me, back.",
+            "trg_text": "举个例子，看约瑟夫和玛丽如何将他们的……哦哦，回去，回去。",
             "utterance": [
                 {
                     "sub_start_time": 120620,
@@ -302,8 +302,8 @@
         {
             "start_time": 129729,
             "end_time": 141550,
-            "src_text": "Um how uh how the the parents um hand over their baby uh to the high priest in the temple,and the story is from the Gospel of Saint Luke.",
-            "trg_text": "看这对父母是如何将他们的婴儿交给圣殿里的大祭司的， 这个故事取自《圣路加福音》。",
+            "src_text": "Um how uh how the the parents um hand over their baby uh to the high priest in the temple, and the story is from the Gospel of Saint Luke.",
+            "trg_text": "看这对父母是如何将他们的婴儿交给圣殿里的大祭司的，这个故事取自《圣路加福音》。",
             "utterance": [
                 {
                     "sub_start_time": 129729,
@@ -324,8 +324,8 @@
         {
             "start_time": 141550,
             "end_time": 148740,
-            "src_text": "Mary is doing her sacred duty under the Jewish law,completing her ritual purification forty days after child's birth.",
-            "trg_text": "玛丽正在履行犹太法律规定的神圣职责， 给她出生40天的孩子进行净化仪式。",
+            "src_text": "Mary is doing her sacred duty under the Jewish law, completing her ritual purification forty days after child's birth.",
+            "trg_text": "玛丽正在履行犹太法律规定的神圣职责，给她出生40天的孩子进行净化仪式。",
             "utterance": [
                 {
                     "sub_start_time": 141550,
@@ -346,8 +346,8 @@
         {
             "start_time": 149240,
             "end_time": 158820,
-            "src_text": "The old man Simeon, here shown as the high priest,had been promised that he wouldn't die before seeing his Savior.I hear he's just said his famous prayer,",
-            "trg_text": "老人西面在这里是大祭司， 他允诺这个孩子见到他的救世主之前不会死。 我听到他说了他那著名的祈祷词：",
+            "src_text": "The old man Simeon, here shown as the high priest, had been promised that he wouldn't die before seeing his Savior. I hear he's just said his famous prayer,",
+            "trg_text": "老人西面在这里是大祭司，他允诺这个孩子见到他的救世主之前不会死。我听到他说了他那著名的祈祷词：",
             "utterance": [
                 {
                     "sub_start_time": 149240,
@@ -375,8 +375,8 @@
         {
             "start_time": 159000,
             "end_time": 164350,
-            "src_text": "\"Now let thy servant depart in peace,for mine eyes have seen thy salvation.",
-            "trg_text": "“主啊，如今可以照你的话，放你的仆人平安去了。 因为我的眼睛已经看见你的救赎。”",
+            "src_text": "\"Now let thy servant depart in peace, for mine eyes have seen thy salvation.",
+            "trg_text": "“主啊，如今可以照你的话，放你的仆人平安去了。因为我的眼睛已经看见你的救赎。”",
             "utterance": [
                 {
                     "sub_start_time": 159000,
@@ -397,8 +397,8 @@
         {
             "start_time": 165230,
             "end_time": 182640,
-            "src_text": "And he's telling Mary that a sword will pierce her soul.The child looks at the hairy stranger just as any baby would and tries to get away.He's reaching for his mother just as she she reaches impulsively for him.",
-            "trg_text": "他告诉玛丽一把剑会穿透她的灵魂。 这个孩子看着这个须发茂密的陌生人，然后像所有其他小孩一样试图躲开他。 小孩想要找妈妈，而他妈妈也激动地伸出手去抱小孩。",
+            "src_text": "And he's telling Mary that a sword will pierce her soul. The child looks at the hairy stranger just as any baby would and tries to get away. He's reaching for his mother just as she she reaches impulsively for him.",
+            "trg_text": "他告诉玛丽一把剑会穿透她的灵魂。这个孩子看着这个须发茂密的陌生人，然后像所有其他小孩一样试图躲开他。小孩想要找妈妈，而他妈妈也激动地伸出手去抱小孩。",
             "utterance": [
                 {
                     "sub_start_time": 165230,
@@ -426,8 +426,8 @@
         {
             "start_time": 183420,
             "end_time": 189310,
-            "src_text": "We're not just seeing the emotional bond of babies and mothers.We're just seeing the old law and the new.",
-            "trg_text": "我们看到的不只是母子间的情感纽带。 我们还看到了旧法与新法。",
+            "src_text": "We're not just seeing the emotional bond of babies and mothers. We're just seeing the old law and the new.",
+            "trg_text": "我们看到的不只是母子间的情感纽带。我们还看到了旧法与新法。",
             "utterance": [
                 {
                     "sub_start_time": 183420,
@@ -463,8 +463,8 @@
         {
             "start_time": 199440,
             "end_time": 214870,
-            "src_text": "That fresco is twelve feet high.Uh here's Giotto again,um, the same subjectum on on the right, on a tiny panel um about the size of an iPad um concentrated um on Christ's attempt to escape,",
-            "trg_text": "这幅壁画有12英尺高。 还是乔托的作品， 同样的主题， 在右边一个小小的板上，大小和 iPad 差不多，聚焦在基督试图逃跑的画面。",
+            "src_text": "That fresco is twelve feet high. Uh here's Giotto again, um, the same subject um on on the right, on a tiny panel um about the size of an iPad um concentrated um on Christ's attempt to escape,",
+            "trg_text": "这幅壁画有12英尺高。还是乔托的作品，同样的主题，在右边一个小小的板上，大小和 iPad 差不多，聚焦在基督试图逃跑的画面。",
             "utterance": [
                 {
                     "sub_start_time": 199440,
@@ -499,8 +499,8 @@
         {
             "start_time": 215300,
             "end_time": 228900,
-            "src_text": "um. This ti- this time, uh uh uh this time he gives Simeon the back of his hand um,and, not incidentally, spreads his arms in a kind of ins- in- innocent spontaneous um reminder of the crucifixion in the future.",
-            "trg_text": "这次他的手背对西面， 他的手臂不自觉地展开，仿佛预示着今后会受难。",
+            "src_text": "um. This ti- this time, uh uh uh this time he gives Simeon the back of his hand um, and, not incidentally, spreads his arms in a kind of ins- in- innocent spontaneous um reminder of the crucifixion in the future.",
+            "trg_text": "这次他的手背对西面，他的手臂不自觉地展开，仿佛预示着今后会受难。",
             "utterance": [
                 {
                     "sub_start_time": 215300,
@@ -536,8 +536,8 @@
         {
             "start_time": 241850,
             "end_time": 257000,
-            "src_text": "There there are figures here of persuasive gravity, variety.There's a tone of high seriousness.There are le- legible poses and expressions,and there's a high purpose to illustrate the crux of an important...",
-            "trg_text": "画面上的人物的庄严肃穆、仪态万千，栩栩如生。 氛围非常严肃， 姿态和表情都清晰可辨， 立意高远，想要呈现一个重要的……",
+            "src_text": "There there are figures here of persuasive gravity, variety. There's a tone of high seriousness. There are le- legible poses and expressions, and there's a high purpose to illustrate the crux of an important...",
+            "trg_text": "画面上的人物的庄严肃穆、仪态万千，栩栩如生。氛围非常严肃，姿态和表情都清晰可辨，立意高远，想要呈现一个重要的……",
             "utterance": [
                 {
                     "sub_start_time": 241850,

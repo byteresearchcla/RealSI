@@ -16,6 +16,7 @@ def download_audio(url, output_path, start_time, end_time):
             'preferredcodec': 'mp3',
             'preferredquality': '192',
         }],
+        'nocheckcertificate': True,
         'postprocessor_args': [
             '-ss', str(start_time),
             '-to', str(end_time)
